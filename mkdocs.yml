@@ -1,0 +1,87 @@
+site_name: Geospatial Notes
+site_url: https://louisroyb.github.io/geospatial-notes/
+repo_url: https://github.com/louisroyb/geospatial-notes
+repo_name: louisroyb/geospatial-notes
+edit_uri: edit/main/notes/
+
+docs_dir: notes
+
+theme:
+  name: material
+  palette:
+    - scheme: default
+      primary: teal
+      accent: cyan
+      toggle:
+        icon: material/brightness-7
+        name: Switch to dark mode
+    - scheme: slate
+      primary: teal
+      accent: cyan
+      toggle:
+        icon: material/brightness-4
+        name: Switch to light mode
+  features:
+    - navigation.tabs
+    - navigation.tabs.sticky
+    - navigation.expand
+    - navigation.indexes
+    - navigation.top
+    - navigation.instant
+    - navigation.tracking
+    - search.suggest
+    - search.highlight
+    - search.share
+    - content.code.copy
+    - content.action.edit
+    - toc.follow
+
+hooks:
+  - hooks.py
+
+markdown_extensions:
+  - tables
+  - attr_list
+  - md_in_html
+  - admonition
+  - toc:
+      permalink: true
+  - pymdownx.highlight:
+      anchor_linenums: true
+  - pymdownx.superfences
+
+plugins:
+  - search
+  - roamlinks
+
+nav:
+  - Home:
+    - index.md
+  - Themes:
+    - Agriculture: Agriculture.md
+    - Cartography: Cartography.md
+    - Climate Change: Climate_Change.md
+    - Forestry: Forestry.md
+    - Land Cover: Land_Cover.md
+    - Remote Sensing: Remote_Sensing.md
+    - Urban Planning: Urban_Planning.md
+    - Vegetation Phenology: Vegetation_Phenology.md
+  - Technology:
+    - Agentic Coding: Agentic_Coding.md
+    - Data: Data.md
+    - Deep Learning: Deep_Learning.md
+    - Embeddings: Embeddings.md
+    - Foundation Models: Foundation_Models.md
+    - Geospatial Platforms: Geospatial_Platforms.md
+    - Google Earth Engine: Google_Earth_Engine.md
+    - Machine Learning: Machine_Learning.md
+    - Python: Python.md
+    - Vision Language Models: Vision_Language_Models.md
+  - Cross-cutting:
+    - Benchmark Datasets: Benchmark_Datasets.md
+    - Community Resources: Community_Resources.md
+    - Learning Resources: Learning_Resources.md
+  - By Source:
+    - Code Repositories: Code_Repositories.md
+    - LinkedIn: LinkedIn.md
+  - Changelog: log.md
