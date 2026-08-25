@@ -9,9 +9,9 @@
 
 The three most recent additions, each from a different topic page.
 
-- [Open data in GeoLibre — Chrome extension](https://www.linkedin.com/posts/giswqs_geolibre-gis-geospatial-ugcPost-7495471245816430593-HN3T/) — Scans the page you are viewing for GeoParquet, PMTiles, COG and friends, and opens several at once in GeoLibre. On [[Geospatial_Platforms]].
-- [Use cases for the IoU Calculator QGIS Plugin](https://www.linkedin.com/posts/reut-keller_gis-qgis-remotesensing-ugcPost-7497220741818540033-139y/) — Mapping model-evaluation metrics instead of tabulating them, and why two datasets agreeing is not the same as either being right. On [[Machine_Learning]].
-- [Mid-season parcel-based crop type mapping](https://www.linkedin.com/posts/hazhir-bahrami-ab7723104_github-tenor-inrscropmappingproject-share-7497636823557550080-JnDZ/) — Transformers on Sentinel-1/2 mapping Quebec crops mid-season, transferring to an unseen year at ~92% with no new training data. On [[Agriculture]].
+- [S2GAIA: seasonally aware Sentinel-2 LULC dataset for Greece](https://www.linkedin.com/posts/anastasios-temenos-9849a9208_remotesensing-earthobservation-geoai-share-7495512241295867905-4KIl/) — 34,030 patches, four seasons a year, 22 classes, built as training data for Greece's national microsatellite programme. On [[Land_Cover]].
+- [Earth Embeddings as Products](https://www.linkedin.com/posts/isaaccorley_igarss2026-ieeegrss-remotesensing-share-7493330381442535424-pzzo/) — A taxonomy for the fragmented Earth-embedding ecosystem, plus a TorchGeo API that treats embeddings as ordinary geospatial datasets. On [[Embeddings]].
+- [Satellite Co-location Search Toolkit](https://zenodo.org/records/21982047) — A single-file browser app that finds acquisitions co-located in space and near-coincident in time across nine missions. On [[Remote_Sensing]].
 
 ## Topics
 

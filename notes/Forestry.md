@@ -1,9 +1,14 @@
 # Forestry
 
 **Summary**: Notes on forest mapping, deforestation and degradation monitoring, and commodity-driven forest loss.
-**Last updated**: 2026-08-24
+**Last updated**: 2026-08-25
 
 ---
+
+- [NDVI Tree Crown Detection](https://www.linkedin.com/posts/amir-sharifi-313a0160_remotesensing-python-computervision-share-7490188575767154688-zCgy/): LinkedIn post by Amir Sharifi open-sourcing *"a small desktop tool I used couple of years ago for labeling part of my research"* that builds tree crown masks from RGB-NIR imagery. The pipeline is deliberately classical, not learned: load a 4-band (RGB + NIR) TIFF, compute NDVI to find vegetation, clean the mask with morphological operations, then separate touching crowns with a distance transform and watershed segmentation, preview the boundaries, and export a binary PNG mask for use in deep learning datasets. The GUI exposes the NDVI threshold and segmentation parameters, organises processed images, and lets you flag hard cases for manual labelling. He is explicit about scope: *"This isn't intended to replace manual annotation. Instead, it generates a reasonable initial mask that can reduce the amount of time researchers spend labeling tree crowns from scratch."* Repository: [amirsharifi97/NDVI-Tree-Crown-Detection](https://github.com/amirsharifi97/NDVI-Tree-Crown-Detection) — Python, no license declared, last pushed August 2024. *Keywords: tree crown segmentation, NDVI threshold, watershed, pre-annotation, mask generation, RGB-NIR*
+  - Pre-annotation rather than detection: it sits upstream of the learned tree crown detectors on this page, such as SelvaBox, by cheapening the labels they need. The same watershed-after-threshold recipe appears in the scikit-image thresholding note on [[Python]].
+  - No license is declared on the repository, so it is default copyright — see the licensing watch on [[Code_Repositories]].
+  - Related: [[Data]], [[Deep_Learning]], [[Python]], [[Code_Repositories]], [[LinkedIn]]
 
 - [SelvaBox: A high-resolution dataset for tropical tree crown detection](https://arxiv.org/abs/2507.00170): SelvaBox: A high-resolution dataset for tropical tree crown detection. Baudchon, Ouaknine, Weiss, Teng, Walla, Caron-Guay, Pal & Laliberté, arXiv 2507.00170, submitted 30 June 2025 (v2 February 2026). More than 83,000 manually labeled tree crowns in drone imagery at 3–10 cm per pixel across three countries, an order of magnitude larger than earlier tropical forest datasets, aimed at individual tree crown detection that generalises across tropical forest types. *Keywords: tree crown detection, drone imagery, tropical forest, instance annotation, 83000 crowns, benchmark*
   - Related: [[Benchmark_Datasets]], [[Deep_Learning]], [[Data]]

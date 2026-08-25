@@ -5,10 +5,14 @@
 
 ---
 
-**Metadata checked**: 2026-08-24, and 2026-08-25 for CropMapping_Project and GeoLibre, via the GitHub API. Stars and dates go stale — re-check before relying on them.
+**Metadata checked**: 2026-08-24, with the 2026-08-25 additions checked that day, via the GitHub API. Stars and dates go stale — re-check before relying on them.
 
 | Repository                                                                                    | What it is                               | Filed under           | Language | License       | ★   | Last push  |
 | --------------------------------------------------------------------------------------------- | ---------------------------------------- | --------------------- | -------- | ------------- | --- | ---------- |
+| [aws-samples/sample-geospatial-kiro-power-pack](https://github.com/aws-samples/sample-geospatial-kiro-power-pack) | Geospatial pack for the Kiro agentic IDE | [[Agentic_Coding]] | Python | MIT-0 | 15 | 2026-07-10 |
+| [AmirmasoudCS/Crop-Yield-Prediction](https://github.com/AmirmasoudCS/Crop-Yield-Prediction) | Per-crop vs global regression study | [[Agriculture]] | Jupyter | MIT | 1 | 2026-08-25 |
+| [eugeniapapathe/S2GAIA](https://github.com/eugeniapapathe/S2GAIA) | S2GAIA dataset code | [[Land_Cover]] | Python | none declared | 0 | 2026-08-12 |
+| [amirsharifi97/NDVI-Tree-Crown-Detection](https://github.com/amirsharifi97/NDVI-Tree-Crown-Detection) | NDVI + watershed crown mask tool | [[Forestry]] | Python | none declared | 5 | 2024-08-31 |
 | [stac-utils/pystac](https://github.com/stac-utils/pystac) | STAC Python library | [[Python]] | Python | custom | 455 | 2026-08-24 |
 | [buckai-observatory/geoai-datacubes](https://github.com/buckai-observatory/geoai-datacubes) | AI-ready data cube pipelines | [[Data]] | Python | MIT | 22 | 2026-08-23 |
 | [opengeos/GeoLibre](https://github.com/opengeos/GeoLibre) | Cloud-native browser GIS + Chrome extension | [[Geospatial_Platforms]] | TypeScript | MIT | 6,711 | 2026-08-25 |
@@ -65,7 +69,7 @@ These are dataset or paper releases rather than living projects; a stale push da
 
 ## Licensing watch
 
-Six of the twenty-one cannot be safely reused as-is: HieraRS, VHRV, proj-vit and S5 declare no license at all (default copyright, all rights reserved), while UAVScenes and OlmoEarth ship non-standard ones. PySTAC reports as unrecognised by the GitHub API but documents itself as Apache-2.0, so check its LICENSE file rather than assuming. Everything else carries clear permissive terms: Apache-2.0 (agribound, annotation, planetlabs/notebooks), MIT (forest-data-partnership, OpenEarthMap-SAR, HarvestStat-Africa, SentinelLabel, ssl4eo-l, ML-For-Beginners, awesome-spectral-indices, geoai-datacubes) or CC0-1.0 (Awesome-Geospatial).
+Eight of the twenty-five cannot be safely reused as-is: HieraRS, VHRV, proj-vit, S5, S2GAIA and NDVI-Tree-Crown-Detection declare no license at all (default copyright, all rights reserved), while UAVScenes and OlmoEarth ship non-standard ones. PySTAC reports as unrecognised by the GitHub API but documents itself as Apache-2.0, so check its LICENSE file rather than assuming. Everything else carries clear permissive terms: Apache-2.0 (agribound, annotation, planetlabs/notebooks), MIT (forest-data-partnership, OpenEarthMap-SAR, HarvestStat-Africa, SentinelLabel, ssl4eo-l, ML-For-Beginners, awesome-spectral-indices, geoai-datacubes) or CC0-1.0 (Awesome-Geospatial).
 
 ## Projects referenced without a GitHub link
 

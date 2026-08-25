@@ -1,11 +1,13 @@
 # Benchmark Datasets
 
 **Summary**: Hub page for labeled datasets and benchmarks collected across the knowledge base, grouped by what they are built to test.
-**Last updated**: 2026-08-24
+**Last updated**: 2026-08-25
 
 ---
 
 Datasets are filed on their subject pages; this page gathers the pointers.
+
+- **S2GAIA** — 34,030 seasonally structured Sentinel-2 patches over Greece, 2017–2024, 22 LULC classes, 92.1 GB on Zenodo under CC-BY-4.0. Tests seasonal, national-scale land cover mapping. On [[Land_Cover]].
 
 **Pretraining corpora (unlabeled or weakly labeled)**
 - TerraMesh — 9M+ globally distributed samples, seven co-registered modalities at 10 m, trained TerraMind-B. See [[Remote_Sensing]].
