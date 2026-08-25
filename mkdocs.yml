@@ -6,6 +6,12 @@ edit_uri: edit/main/notes/
 
 docs_dir: notes
 
+# log.md is the vault's internal changelog. It stays in the repo but is kept off
+# the site entirely — excluding it (rather than just dropping it from nav) also
+# keeps it out of the search index and off /log/.
+exclude_docs: |
+  log.md
+
 theme:
   name: material
   palette:
@@ -84,4 +90,3 @@ nav:
   - By Source:
     - Code Repositories: Code_Repositories.md
     - LinkedIn: LinkedIn.md
-  - Changelog: log.md

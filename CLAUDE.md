@@ -50,6 +50,7 @@ This vault is published as a MkDocs site on GitHub Pages at
 
 * Update the "Latest Finds" section in `notes/index.md` with the 3 most recently added notes, each from a different topic page.
 * If you created a new topic page, add it to the `nav:` list in `mkdocs.yml`, under the section that matches where it sits in `notes/index.md` (Themes, Technology, Cross-cutting, or By Source).
+* Keep updating `notes/log.md` as normal, but do **not** add it to the `nav:` list — it is deliberately excluded from the site via `exclude_docs` in `mkdocs.yml`. It stays in the repo, just not on the website.
 * Commit and push the changes to GitHub (`git add`, `git commit`, `git push`) so the site's GitHub Actions workflow rebuilds and redeploys automatically. `processed/` stays gitignored and is never pushed.
 
 ## List of Topics
