@@ -9,9 +9,9 @@
 
 The three most recent additions, each from a different topic page.
 
+- [PostGIS spatial joins in DuckDB](https://www.geomermaids.com/cookbook/duckdb-spatial/) — Translating PostGIS join patterns to DuckDB's spatial extension, and the indexing and inlining tricks that decide whether a big clip finishes in seconds or dies at 32 GB. On [[SQL]].
 - [Equal Earth map](https://equal-earth.com/index.html) — Tom Patterson's equal-area world projection and the public-domain map series built on it. On [[Cartography]].
 - [skills.sh](https://www.skills.sh/) — Vercel's open directory of reusable agent skills, installable with a single `npx` command. On [[Agentic_Coding]].
-- [Detecting Objects From Text Prompts with RasterFlow and Segment Anything 3](https://wherobots.com/blog/sam3-earth-observation-rasterflow/) — Wherobots ran SAM 3 over NAIP imagery at county scale, detecting objects from text prompts with no training. On [[Foundation_Models]].
 
 ## Topics
 
@@ -37,6 +37,7 @@ The three most recent additions, each from a different topic page.
 - [[Google_Earth_Engine]] — The Earth Engine platform, its data catalog, hosted models, and tutorials.
 - [[Machine_Learning]] — ML methods applied to geospatial and urban problems.
 - [[Python]] — Python packages and libraries for geospatial and scientific work.
+- [[SQL]] — SQL for spatial work: query engines, spatial joins, indexing and their tradeoffs.
 - [[Vision_Language_Models]] — Captioning and visual question answering over Earth observation imagery.
 
 ### Cross-cutting Pages

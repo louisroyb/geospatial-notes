@@ -73,7 +73,8 @@ These are code projects noted elsewhere in the base whose notes point at documen
 - **GeoAI QGIS plugin** - [opengeos/geoai](https://github.com/opengeos/geoai). Note on [[Deep_Learning]].
 - **eo-learn** - [sentinel-hub/eo-learn](https://github.com/sentinel-hub/eo-learn). Note on [[Python]].
 - **GeoLibre** - from the opengeos community. Note on [[Geospatial_Platforms]].
+- **DuckDB** and its spatial extension - [duckdb/duckdb](https://github.com/duckdb/duckdb), MIT, ~40.6k stars, and [duckdb/duckdb-spatial](https://github.com/duckdb/duckdb-spatial), MIT, ~702 stars. The note points at a cookbook article rather than either repo, and cites DuckDB issue #20113. Note on [[SQL]].
 
 ## Related topics
 
-[[LinkedIn]] · [[Benchmark_Datasets]] · [[Foundation_Models]] · [[Community_Resources]] · [[Agriculture]] · [[Land_Cover]] · [[Remote_Sensing]] · [[Forestry]] · [[Python]] · [[Data]]
+[[LinkedIn]] · [[Benchmark_Datasets]] · [[Foundation_Models]] · [[Community_Resources]] · [[Agriculture]] · [[Land_Cover]] · [[Remote_Sensing]] · [[Forestry]] · [[Python]] · [[Data]] · [[SQL]]

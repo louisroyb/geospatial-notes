@@ -1,7 +1,7 @@
 # Python
 
 **Summary**: Notes on Python packages and libraries, especially for geospatial and scientific work.
-**Last updated**: 2026-08-24
+**Last updated**: 2026-08-25
 
 ---
 
@@ -22,5 +22,7 @@ The `agribound` package for agricultural field boundary delineation (Python 3.10
 Two courses here teach programming for spatial work: the Spatial Thoughts Python Foundation course and the MIT OpenCourseWare R and GIS course (R rather than Python, but the same audience); both on [[Learning_Resources]]. Pipeline tooling — STAC, Xarray, Zarr, xbatcher — is covered in the cloud pipeline note on [[Data]].
 
 ## Related topics
+
+Querying the same spatial data in SQL rather than Python — DuckDB spatial joins, indexing and their tradeoffs against PostGIS — is on [[SQL]].
 
 [[Code_Repositories]] · [[Learning_Resources]] · [[Agriculture]] · [[Remote_Sensing]] · [[Urban_Planning]] · [[Deep_Learning]] · [[Learning_Resources]]

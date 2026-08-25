@@ -1,7 +1,7 @@
 # Data
 
 **Summary**: Notes on datasets, data portals, data formats, labeling tools, pipelines, and storage and distribution practices.
-**Last updated**: 2026-08-24
+**Last updated**: 2026-08-25
 
 ---
 
@@ -31,7 +31,7 @@
 
 ## Cross-cutting notes
 
-Cloud-native geospatial formats — GeoParquet, COG, GeoZarr — and STAC metadata standards come up in the Earth embedding interoperability discussion in [[Remote_Sensing]]. The Groundsource flood event dataset in [[Climate_Change]] is an example of a large open dataset distributed as a single Parquet file. Access terms vary widely across products: the TanDEM-X FNF50 map in [[Forestry]] is restricted to scientific use, while the Forest Data Partnership catalog is open through [[Google_Earth_Engine]] and the Copernicus Land Monitoring Service publishes its phenology suite openly, see [[Vegetation_Phenology]].
+Cloud-native geospatial formats — GeoParquet, COG, GeoZarr — and STAC metadata standards come up in the Earth embedding interoperability discussion in [[Remote_Sensing]]. How GeoParquet's row-group statistics actually pay off at query time — inlining literal bbox constants so they can prune — is covered in the DuckDB spatial join note on [[SQL]]. The Groundsource flood event dataset in [[Climate_Change]] is an example of a large open dataset distributed as a single Parquet file. Access terms vary widely across products: the TanDEM-X FNF50 map in [[Forestry]] is restricted to scientific use, while the Forest Data Partnership catalog is open through [[Google_Earth_Engine]] and the Copernicus Land Monitoring Service publishes its phenology suite openly, see [[Vegetation_Phenology]].
 
 Labeled training data is its own bottleneck: the Lacuna Fund funds equitable labeled agricultural datasets for low- and middle-income contexts, and the M3DRS multi-modal dataset was released unlabeled for self-supervised pretraining — see [[Agriculture]] and [[Remote_Sensing]].
 

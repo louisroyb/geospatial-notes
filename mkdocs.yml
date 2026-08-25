@@ -82,6 +82,7 @@ nav:
     - Google Earth Engine: Google_Earth_Engine.md
     - Machine Learning: Machine_Learning.md
     - Python: Python.md
+    - SQL: SQL.md
     - Vision Language Models: Vision_Language_Models.md
   - Cross-cutting:
     - Benchmark Datasets: Benchmark_Datasets.md
