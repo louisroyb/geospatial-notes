@@ -9,9 +9,9 @@
 
 The three most recent additions, each from a different topic page.
 
-- [PostGIS spatial joins in DuckDB](https://www.geomermaids.com/cookbook/duckdb-spatial/) — Translating PostGIS join patterns to DuckDB's spatial extension, and the indexing and inlining tricks that decide whether a big clip finishes in seconds or dies at 32 GB. On [[SQL]].
-- [Equal Earth map](https://equal-earth.com/index.html) — Tom Patterson's equal-area world projection and the public-domain map series built on it. On [[Cartography]].
-- [skills.sh](https://www.skills.sh/) — Vercel's open directory of reusable agent skills, installable with a single `npx` command. On [[Agentic_Coding]].
+- [Open data in GeoLibre — Chrome extension](https://www.linkedin.com/posts/giswqs_geolibre-gis-geospatial-ugcPost-7495471245816430593-HN3T/) — Scans the page you are viewing for GeoParquet, PMTiles, COG and friends, and opens several at once in GeoLibre. On [[Geospatial_Platforms]].
+- [Use cases for the IoU Calculator QGIS Plugin](https://www.linkedin.com/posts/reut-keller_gis-qgis-remotesensing-ugcPost-7497220741818540033-139y/) — Mapping model-evaluation metrics instead of tabulating them, and why two datasets agreeing is not the same as either being right. On [[Machine_Learning]].
+- [Mid-season parcel-based crop type mapping](https://www.linkedin.com/posts/hazhir-bahrami-ab7723104_github-tenor-inrscropmappingproject-share-7497636823557550080-JnDZ/) — Transformers on Sentinel-1/2 mapping Quebec crops mid-season, transferring to an unseen year at ~92% with no new training data. On [[Agriculture]].
 
 ## Topics
 

@@ -1,7 +1,7 @@
 # Foundation Models
 
 **Summary**: Notes on large pretrained models for Earth observation and agriculture — general-purpose backbones, domain-specific alternatives, and the self-supervised training behind them.
-**Last updated**: 2026-08-24
+**Last updated**: 2026-08-25
 
 ---
 
@@ -17,7 +17,7 @@
 
 ## Where the argument sits
 
-A running theme across these notes is whether general-purpose geospatial backbones are enough, or whether domains need their own.
+A running theme across these notes is whether general-purpose geospatial backbones are enough, or whether domains need their own. A concrete data point: on Quebec crop mapping, AlphaEarth embeddings with plain Random Forest and XGBoost matched purpose-trained deep learning on Sentinel time series — but AlphaEarth is an annual product, so matching on accuracy still does not make it usable for the in-season decisions that motivated the work. See [[Agriculture]].
 
 - **The case for specialisation** — Nedungadi et al. argue agriculture is under-served by general models and propose a dedicated CropFM; see [[Agriculture]].
 - **Domain-specific models** — AgriFM (Video Swin backbone, 25M+ samples across MODIS / Landsat / Sentinel-2) and Time2Agri (seasonality-driven self-supervised pretext tasks) are both on [[Agriculture]], and both report beating general remote sensing foundation models.

@@ -22,4 +22,6 @@
 
 ## Related topics
 
+Whether Google and Microsoft building footprints actually agree with each other, measured per-polygon with IoU rather than assumed, is on [[Machine_Learning]].
+
 [[Climate_Change]] · [[LinkedIn]] · [[Remote_Sensing]] · [[Land_Cover]] · [[Data]] · [[Benchmark_Datasets]] · [[Python]] · [[Learning_Resources]]

@@ -1,9 +1,13 @@
 # Geospatial Platforms
 
 **Summary**: Notes on hosted platforms for accessing and analysing Earth observation data without local infrastructure.
-**Last updated**: 2026-08-24
+**Last updated**: 2026-08-25
 
 ---
+
+- [Open data in GeoLibre — Chrome extension](https://www.linkedin.com/posts/giswqs_geolibre-gis-geospatial-ugcPost-7495471245816430593-HN3T/): LinkedIn post by Qiusheng Wu announcing the extension is live on the Chrome Web Store. *"It scans the webpage you are viewing, finds supported geospatial datasets, and lets you choose multiple files to open together in GeoLibre."* Workflow is: click the GeoLibre icon, filter results by vector or raster, select datasets, open them on one map. Recognises GeoJSON and spatial JSON, GeoParquet and Parquet, PMTiles, GeoTIFF and Cloud-Optimized GeoTIFF, ZIP archives containing GeoJSON, JSON-LD download metadata, and existing GeoLibre data links. It has dedicated support for Source Cooperative — see [[Data]] — and the useful detail there is that *"even when a large repository page only renders the files currently visible on screen, the extension reads the embedded inventory so you can browse all supported datasets in that directory"*, so lazy-loaded listings do not hide data from it. Install: [Chrome Web Store](https://chromewebstore.google.com/detail/open-data-in-geolibre/joinecgbfoldanidcoakpjgkbaceaooj). Source: [opengeos/GeoLibre](https://github.com/opengeos/GeoLibre). *Keywords: GeoLibre, Chrome extension, Source Cooperative, GeoParquet, PMTiles, dataset discovery*
+  - This is the browser-side counterpart to the GeoLibre note below — discovery rather than the GIS itself.
+  - Related: [[Data]], [[Code_Repositories]], [[LinkedIn]]
 
 - [GeoLibre](https://geolibre.app/getting-started/): Geo Libre from the Goat. An open-source geospatial information system from the opengeos community for visualising, exploring and analysing geospatial data, processing client-side so data stays private. Runs as a lightweight cloud-native GIS in the browser, on desktop, mobile and inside Jupyter, reading vector (GeoJSON, Shapefile), raster (GeoTIFF, COG) and services (WMS, ArcGIS, vector tiles). Features layer styling, a spatial SQL and Python console, processing tools, AI segmentation, story maps and plugins, and works offline. Install paths cover browser, desktop for Windows/macOS/Linux, pip/conda, an R package, mobile apps and self-hosting via Docker with optional Clerk or Auth0 auth. Web app: [web.geolibre.app](https://web.geolibre.app/). *Keywords: GeoLibre, opengeos, client-side GIS, cloud-native, offline, self-hosting*
   - Related: [[Python]], [[Data]]

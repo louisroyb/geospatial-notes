@@ -5,12 +5,13 @@
 
 ---
 
-**Metadata checked**: 2026-08-24 via the GitHub API. Stars and dates go stale — re-check before relying on them.
+**Metadata checked**: 2026-08-24, and 2026-08-25 for CropMapping_Project and GeoLibre, via the GitHub API. Stars and dates go stale — re-check before relying on them.
 
 | Repository                                                                                    | What it is                               | Filed under           | Language | License       | ★   | Last push  |
 | --------------------------------------------------------------------------------------------- | ---------------------------------------- | --------------------- | -------- | ------------- | --- | ---------- |
 | [stac-utils/pystac](https://github.com/stac-utils/pystac) | STAC Python library | [[Python]] | Python | custom | 455 | 2026-08-24 |
 | [buckai-observatory/geoai-datacubes](https://github.com/buckai-observatory/geoai-datacubes) | AI-ready data cube pipelines | [[Data]] | Python | MIT | 22 | 2026-08-23 |
+| [opengeos/GeoLibre](https://github.com/opengeos/GeoLibre) | Cloud-native browser GIS + Chrome extension | [[Geospatial_Platforms]] | TypeScript | MIT | 6,711 | 2026-08-25 |
 | [awesome-spectral-indices/awesome-spectral-indices](https://github.com/awesome-spectral-indices/awesome-spectral-indices) | Machine-readable spectral index catalogue | [[Remote_Sensing]] | Python | MIT | 1,170 | 2026-08-21 |
 | [sacridini/Awesome-Geospatial](https://github.com/sacridini/Awesome-Geospatial) | Curated geospatial tools list | [[Community_Resources]] | - | CC0-1.0 | 5,270 | 2026-08-20 |
 | [microsoft/ML-For-Beginners](https://github.com/microsoft/ML-For-Beginners) | 26-lesson classic ML curriculum | [[Learning_Resources]] | Jupyter | MIT | 89,749 | 2026-08-20 |
@@ -18,6 +19,7 @@
 | [planetlabs/notebooks](https://github.com/planetlabs/notebooks) | Planet API notebooks | [[Data]] | Jupyter | Apache-2.0 | 678 | 2026-06-18 |
 | [allenai/olmoearth_pretrain](https://github.com/allenai/olmoearth_pretrain)                   | Earth system foundation model family     | [[Foundation_Models]] | Python   | custom        | 299 | 2026-08-24 |
 | [HarvestStat/HarvestStat-Africa](https://github.com/HarvestStat/HarvestStat-Africa)           | Harmonized subnational crop statistics   | [[Agriculture]]       | Jupyter  | MIT           | 34  | 2026-08-02 |
+| [TENOR-INRS/CropMapping_Project](https://github.com/TENOR-INRS/CropMapping_Project) | Mid-season crop type mapping code + data | [[Agriculture]] | — | MIT | 1 | 2026-06-05 |
 | [msalehsaudi/SentinelLabel](https://github.com/msalehsaudi/SentinelLabel) | Sentinel-2 annotation tool | [[Data]] | HTML | MIT | 53 | 2026-03-28 |
 | [torchgeo/ssl4eo-l](https://github.com/torchgeo/ssl4eo-l) | SSL4EO-L dataset reproduction code | [[Foundation_Models]] | Python | MIT | 1 | 2026-01-13 |
 | [montimaj/agribound](https://github.com/montimaj/agribound)                                   | Field boundary delineation toolkit       | [[Agriculture]]       | Python   | Apache-2.0    | 83  | 2026-07-13 |
@@ -63,7 +65,7 @@ These are dataset or paper releases rather than living projects; a stale push da
 
 ## Licensing watch
 
-Six of the nineteen cannot be safely reused as-is: HieraRS, VHRV, proj-vit and S5 declare no license at all (default copyright, all rights reserved), while UAVScenes and OlmoEarth ship non-standard ones. PySTAC reports as unrecognised by the GitHub API but documents itself as Apache-2.0, so check its LICENSE file rather than assuming. Everything else carries clear permissive terms: Apache-2.0 (agribound, annotation, planetlabs/notebooks), MIT (forest-data-partnership, OpenEarthMap-SAR, HarvestStat-Africa, SentinelLabel, ssl4eo-l, ML-For-Beginners, awesome-spectral-indices, geoai-datacubes) or CC0-1.0 (Awesome-Geospatial).
+Six of the twenty-one cannot be safely reused as-is: HieraRS, VHRV, proj-vit and S5 declare no license at all (default copyright, all rights reserved), while UAVScenes and OlmoEarth ship non-standard ones. PySTAC reports as unrecognised by the GitHub API but documents itself as Apache-2.0, so check its LICENSE file rather than assuming. Everything else carries clear permissive terms: Apache-2.0 (agribound, annotation, planetlabs/notebooks), MIT (forest-data-partnership, OpenEarthMap-SAR, HarvestStat-Africa, SentinelLabel, ssl4eo-l, ML-For-Beginners, awesome-spectral-indices, geoai-datacubes) or CC0-1.0 (Awesome-Geospatial).
 
 ## Projects referenced without a GitHub link
 
@@ -72,7 +74,6 @@ These are code projects noted elsewhere in the base whose notes point at documen
 - **TorchGeo** - [microsoft/torchgeo](https://github.com/microsoft/torchgeo), MIT, ~4.2k stars. Note on [[Deep_Learning]].
 - **GeoAI QGIS plugin** - [opengeos/geoai](https://github.com/opengeos/geoai). Note on [[Deep_Learning]].
 - **eo-learn** - [sentinel-hub/eo-learn](https://github.com/sentinel-hub/eo-learn). Note on [[Python]].
-- **GeoLibre** - from the opengeos community. Note on [[Geospatial_Platforms]].
 - **DuckDB** and its spatial extension - [duckdb/duckdb](https://github.com/duckdb/duckdb), MIT, ~40.6k stars, and [duckdb/duckdb-spatial](https://github.com/duckdb/duckdb-spatial), MIT, ~702 stars. The note points at a cookbook article rather than either repo, and cites DuckDB issue #20113. Note on [[SQL]].
 
 ## Related topics
