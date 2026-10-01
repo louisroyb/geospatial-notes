@@ -1,9 +1,14 @@
 # Forestry
 
 **Summary**: Notes on forest mapping, deforestation and degradation monitoring, and commodity-driven forest loss.
-**Last updated**: 2026-08-25
+**Last updated**: 2026-10-02
 
 ---
+
+- [WAC — World AgroCommodities](https://github.com/masolele/WAC): *WAC — World AgroCommodities: Earth Observation for Deforestation-Free Supply Chains.* Code, models and utilities from the World AgroCommodities project, which supports the EU Deforestation Regulation (EUDR) with satellite data. The project aims to map commodity parcels and crop types over demonstration sites, detect deforestation and land conversion after the EUDR's December 2020 cut-off, and give EU Member States open, reproducible methods built on openEO and the Copernicus Data Space Ecosystem (CDSE). It also validates the algorithms and supports national uptake. The repository is a Python package (`world_agrocommodities`, managed with `uv`) with optional notebook dependencies. *Keywords: EUDR, deforestation-free supply chains, commodity mapping, openEO, CDSE, land conversion*
+  - Pairs with Google's Forest Data Partnership commodity models further down this page: both aim at EUDR compliance, but WAC runs on the European openEO/CDSE stack rather than Earth Engine.
+  - No license is declared on the repository; see the licensing watch on [[Code_Repositories]].
+  - Related: [[Agriculture]], [[Remote_Sensing]], [[Code_Repositories]]
 
 - [NDVI Tree Crown Detection](https://www.linkedin.com/posts/amir-sharifi-313a0160_remotesensing-python-computervision-share-7490188575767154688-zCgy/): LinkedIn post by Amir Sharifi open-sourcing *"a small desktop tool I used couple of years ago for labeling part of my research"* that builds tree crown masks from RGB-NIR imagery. The pipeline is deliberately classical, not learned: load a 4-band (RGB + NIR) TIFF, compute NDVI to find vegetation, clean the mask with morphological operations, then separate touching crowns with a distance transform and watershed segmentation, preview the boundaries, and export a binary PNG mask for use in deep learning datasets. The GUI exposes the NDVI threshold and segmentation parameters, organises processed images, and lets you flag hard cases for manual labelling. He is explicit about scope: *"This isn't intended to replace manual annotation. Instead, it generates a reasonable initial mask that can reduce the amount of time researchers spend labeling tree crowns from scratch."* Repository: [amirsharifi97/NDVI-Tree-Crown-Detection](https://github.com/amirsharifi97/NDVI-Tree-Crown-Detection) — Python, no license declared, last pushed August 2024. *Keywords: tree crown segmentation, NDVI threshold, watershed, pre-annotation, mask generation, RGB-NIR*
   - Pre-annotation rather than detection: it sits upstream of the learned tree crown detectors on this page, such as SelvaBox, by cheapening the labels they need. The same watershed-after-threshold recipe appears in the scikit-image thresholding note on [[Python]].

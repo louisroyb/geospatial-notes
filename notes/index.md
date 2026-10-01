@@ -9,9 +9,9 @@
 
 The three most recent additions, each from a different topic page.
 
-- [Calculating full-year energy savings with only 6 months of data](https://www.reimagine-energy.ai/p/calculating-full-year-energy-savings) — Benedetto Grillone uses a LightGBM baseline to project the annual savings of a building retrofit from half a year of data, and explains when seasonality breaks the method. On [[Climate_Change]].
-- [Data Science for Construction, Architecture and Engineering](https://www.youtube.com/playlist?list=PLbdvNIqD31Gimy8PhMTWW7oOdgdP74Ycn) — Clayton Miller's NUS course on Python, Pandas and intro ML for the built environment, moved from edX to YouTube as five playlists. On [[Learning_Resources]].
-- [S2GAIA: seasonally aware Sentinel-2 LULC dataset for Greece](https://www.linkedin.com/posts/anastasios-temenos-9849a9208_remotesensing-earthobservation-geoai-share-7495512241295867905-4KIl/) — 34,030 patches, four seasons a year, 22 classes, built as training data for Greece's national microsatellite programme. On [[Land_Cover]].
+- [ESA Climate Change Initiative Toolbox](https://climate.esa.int/en/data/toolbox/) — A Python package that opens about 500 validated satellite climate records, from sea ice to soil moisture, as xarray and geopandas objects. On [[Climate_Change]].
+- [WAC — World AgroCommodities](https://github.com/masolele/WAC) — openEO/CDSE code for mapping commodity parcels and detecting post-2020 deforestation, for EUDR compliance. On [[Forestry]].
+- [Earth Index](https://app.earthindex.ai/project-view/28b88ac3-8965-4d06-b076-94a64f6408b1/fc253432-ca72-452a-9e29-9e9164bc4357/#15.85/-0.197194/30.501993) — Earth Genome's similarity search over 3.5 billion Sentinel-2 embeddings: mark a few examples and it finds similar places anywhere. On [[Embeddings]].
 
 ## Topics
 

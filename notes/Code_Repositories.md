@@ -1,14 +1,15 @@
 # Code Repositories
 
 **Summary**: Tracking page for every GitHub repository referenced in these notes, with activity and licensing at a glance.
-**Last updated**: 2026-08-25
+**Last updated**: 2026-10-02
 
 ---
 
-**Metadata checked**: 2026-08-24, with the 2026-08-25 additions checked that day, via the GitHub API. Stars and dates go stale — re-check before relying on them.
+**Metadata checked**: 2026-08-24, with later additions checked on the day they were added (most recently 2026-10-02), via the GitHub API. Stars and dates go stale — re-check before relying on them.
 
 | Repository                                                                                    | What it is                               | Filed under           | Language | License       | ★   | Last push  |
 | --------------------------------------------------------------------------------------------- | ---------------------------------------- | --------------------- | -------- | ------------- | --- | ---------- |
+| [masolele/WAC](https://github.com/masolele/WAC) | EUDR commodity + deforestation mapping | [[Forestry]] | Jupyter | none declared | 2 | 2026-08-19 |
 | [aws-samples/sample-geospatial-kiro-power-pack](https://github.com/aws-samples/sample-geospatial-kiro-power-pack) | Geospatial pack for the Kiro agentic IDE | [[Agentic_Coding]] | Python | MIT-0 | 15 | 2026-07-10 |
 | [AmirmasoudCS/Crop-Yield-Prediction](https://github.com/AmirmasoudCS/Crop-Yield-Prediction) | Per-crop vs global regression study | [[Agriculture]] | Jupyter | MIT | 1 | 2026-08-25 |
 | [eugeniapapathe/S2GAIA](https://github.com/eugeniapapathe/S2GAIA) | S2GAIA dataset code | [[Land_Cover]] | Python | none declared | 0 | 2026-08-12 |
@@ -37,6 +38,7 @@
 
 ## Actively maintained
 
+- **[masolele/WAC](https://github.com/masolele/WAC)** — World AgroCommodities: EO for deforestation-free supply chains under the EUDR, built on openEO and CDSE. 9 open issues and pushed in August 2026, but only 2 stars, no repository description and no license file, so it is project code rather than a released product. Note on [[Forestry]].
 - **[microsoft/ML-For-Beginners](https://github.com/microsoft/ML-For-Beginners)** - MIT, ~90k stars, the most starred repository tracked here. Note on [[Learning_Resources]].
 - **[sacridini/Awesome-Geospatial](https://github.com/sacridini/Awesome-Geospatial)** - CC0-1.0, 5,270 stars, 50+ categories of geospatial tooling. Note on [[Community_Resources]].
 - **[awesome-spectral-indices/awesome-spectral-indices](https://github.com/awesome-spectral-indices/awesome-spectral-indices)** - MIT, 1,170 stars, spectral index formulas as machine-readable JSON/CSV with bindings in four languages. Note on [[Remote_Sensing]].
@@ -69,7 +71,7 @@ These are dataset or paper releases rather than living projects; a stale push da
 
 ## Licensing watch
 
-Eight of the twenty-five cannot be safely reused as-is: HieraRS, VHRV, proj-vit, S5, S2GAIA and NDVI-Tree-Crown-Detection declare no license at all (default copyright, all rights reserved), while UAVScenes and OlmoEarth ship non-standard ones. PySTAC reports as unrecognised by the GitHub API but documents itself as Apache-2.0, so check its LICENSE file rather than assuming. Everything else carries clear permissive terms: Apache-2.0 (agribound, annotation, planetlabs/notebooks), MIT (forest-data-partnership, OpenEarthMap-SAR, HarvestStat-Africa, SentinelLabel, ssl4eo-l, ML-For-Beginners, awesome-spectral-indices, geoai-datacubes) or CC0-1.0 (Awesome-Geospatial).
+Nine of the twenty-six cannot be safely reused as-is: HieraRS, VHRV, proj-vit, S5, S2GAIA, NDVI-Tree-Crown-Detection and WAC declare no license at all (default copyright, all rights reserved), while UAVScenes and OlmoEarth ship non-standard ones. PySTAC reports as unrecognised by the GitHub API but documents itself as Apache-2.0, so check its LICENSE file rather than assuming. Everything else carries clear permissive terms: Apache-2.0 (agribound, annotation, planetlabs/notebooks), MIT (forest-data-partnership, OpenEarthMap-SAR, HarvestStat-Africa, SentinelLabel, ssl4eo-l, ML-For-Beginners, awesome-spectral-indices, geoai-datacubes) or CC0-1.0 (Awesome-Geospatial).
 
 ## Projects referenced without a GitHub link
 
@@ -79,6 +81,7 @@ These are code projects noted elsewhere in the base whose notes point at documen
 - **GeoAI QGIS plugin** - [opengeos/geoai](https://github.com/opengeos/geoai). Note on [[Deep_Learning]].
 - **eo-learn** - [sentinel-hub/eo-learn](https://github.com/sentinel-hub/eo-learn). Note on [[Python]].
 - **DuckDB** and its spatial extension - [duckdb/duckdb](https://github.com/duckdb/duckdb), MIT, ~40.6k stars, and [duckdb/duckdb-spatial](https://github.com/duckdb/duckdb-spatial), MIT, ~702 stars. The note points at a cookbook article rather than either repo, and cites DuckDB issue #20113. Note on [[SQL]].
+- **ESA CCI Toolbox** - [esa-cci/esa-climate-toolbox](https://github.com/esa-cci/esa-climate-toolbox), MIT, 43 stars, pushed 2026-09-21. The LinkedIn post's link points at the ESA toolbox page rather than the repo. Note on [[Climate_Change]].
 
 ## Related topics
 

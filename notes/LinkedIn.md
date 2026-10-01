@@ -5,10 +5,12 @@
 
 ---
 
-LinkedIn links rot and usually demand a login, so each entry records the author, what the item argued, and where the full note lives. Where a post was clipped, the raw text is kept in `processed/`.
+Posts shared as links from the mobile app arrive with `utm_*` and `rcm` tracking parameters, which are stripped when filing. LinkedIn links rot and usually demand a login, so each entry records the author, what the item argued, and where the full note lives. Where a post was clipped, the raw text is kept in `processed/`.
 
 | Item | Author | Kind | Filed under |
 |---|---|---|---|
+| [ESA Climate Change Initiative Toolbox](https://www.linkedin.com/posts/decades-of-satellite-climate-data-a-share-7492598826059509762-nFaK) | ESA Earth Observation Data Users | Feed post, shared link | [[Climate_Change]] |
+| [Leeds online CPD courses in data](https://www.linkedin.com/posts/were-delighted-to-launch-our-new-online-share-7492496400371453952-BfXg) | Leeds Institute for Data Analytics (LIDA) | Feed post, shared link | [[Learning_Resources]] |
 | [Data Science for Construction, Architecture and Engineering — now on YouTube](https://www.youtube.com/playlist?list=PLbdvNIqD31Gimy8PhMTWW7oOdgdP74Ycn) | Not in the clipping (course by Clayton Miller, NUS BUDS Lab) | Feed post, clipped | [[Learning_Resources]] |
 | [Stop using LST to quantify urban heat hazard](https://www.linkedin.com/feed/update/urn:li:activity:7478690057026207745/) | Tirthankar "TC" Chakraborty | Feed post, clipped | [[Urban_Planning]] |
 | [S2GAIA: seasonally aware Sentinel-2 LULC dataset for Greece](https://www.linkedin.com/posts/anastasios-temenos-9849a9208_remotesensing-earthobservation-geoai-share-7495512241295867905-4KIl/) | Anastasios Temenos | Feed post, clipped | [[Land_Cover]] |
@@ -22,6 +24,8 @@ LinkedIn links rot and usually demand a login, so each entry records the author,
 
 ## Posts
 
+- **[ESA Climate Change Initiative Toolbox](https://www.linkedin.com/posts/decades-of-satellite-climate-data-a-share-7492598826059509762-nFaK)** — ESA's EO data-users account announcing the `esa-climate-toolbox` Python package: about 500 validated satellite climate records across the Essential Climate Variables, opened as xarray and geopandas objects, with operators for resampling, coregistration and time-series extraction. Note on [[Climate_Change]].
+- **[Leeds online CPD courses in data](https://www.linkedin.com/posts/were-delighted-to-launch-our-new-online-share-7492496400371453952-BfXg)** — LIDA launching online 15-credit CPD modules for working professionals, starting with *Getting Started with Data* and *Data Management & Governance*. Note on [[Learning_Resources]].
 - **[Data Science for Construction, Architecture and Engineering — now on YouTube](https://www.youtube.com/playlist?list=PLbdvNIqD31Gimy8PhMTWW7oOdgdP74Ycn)** — An announcement that the NUS course, on edX from 2020 to 2024, is now fully on YouTube after NUS stopped using edX. It links five section playlists: Python, Pandas, data cleaning, data visualisation and intro ML. The clipping did not include the post URL or the poster's name, so the link here goes to the Section 1 playlist. The course itself is Clayton Miller's (NUS BUDS Lab), but the clipping alone does not confirm who posted it. Note on [[Learning_Resources]].
 - **[Stop using LST to quantify urban heat hazard](https://www.linkedin.com/feed/update/urn:li:activity:7478690057026207745/)** — Chakraborty's argument that satellite land surface temperature is not air temperature, that headline "55°C in Madrid" maps anchor people into overestimating heat hazard, and that LST also overstates how much trees cool the air. The reply thread is substantive: Justine Kojo pushes for data declaration and stated limitations rather than abandoning LST in data-scarce regions, and Chakraborty answers on weather station siting and on why city-scale agreement does not follow from cross-city aggregates. Five supporting papers are cited in the replies, all verified against Crossref and arXiv — see the full note on [[Urban_Planning]]. The complete clipping is preserved at `processed/Post_LinkedIn_2026-08-24.md`.
 
@@ -41,4 +45,4 @@ Items whose note URL carries LinkedIn campaign tracking, meaning they were picke
 
 ## Related topics
 
-[[Agriculture]] · [[Land_Cover]] · [[Embeddings]] · [[Forestry]] · [[Agentic_Coding]] · [[Geospatial_Platforms]] · [[Machine_Learning]] · [[Urban_Planning]] · [[Foundation_Models]] · [[Community_Resources]] · [[Code_Repositories]] · [[Learning_Resources]]
+[[Agriculture]] · [[Land_Cover]] · [[Embeddings]] · [[Forestry]] · [[Agentic_Coding]] · [[Geospatial_Platforms]] · [[Machine_Learning]] · [[Urban_Planning]] · [[Foundation_Models]] · [[Community_Resources]] · [[Code_Repositories]] · [[Learning_Resources]] · [[Climate_Change]]

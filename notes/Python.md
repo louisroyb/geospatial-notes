@@ -23,6 +23,8 @@ Two courses here teach programming for spatial work: the Spatial Thoughts Python
 
 The NUS Data Science for Construction, Architecture and Engineering course covers Python and Pandas from scratch using building data. It is now on YouTube and filed on [[Learning_Resources]].
 
+The ESA CCI Toolbox (`esa-climate-toolbox`) opens about 500 satellite climate data records as xarray and geopandas objects. It is on [[Climate_Change]].
+
 ## Related topics
 
 Querying the same spatial data in SQL rather than Python — DuckDB spatial joins, indexing and their tradeoffs against PostGIS — is on [[SQL]].
