@@ -36,6 +36,8 @@
 
 Earth observation embedding products (Clay, Major TOM, Presto, Tessera, AlphaEarth and others) are discussed in [[Remote_Sensing]], where fragmentation across formats and the pixel-vs-patch cost tradeoff are the main open problems. Embedding-based clustering is one of the field delineation methods used by the `agribound` package noted in [[Agriculture]]. Google's AlphaEarth Foundations embeddings — 64 bands per pixel per year — are available in Earth Engine and introduced by the tutorial series filed under [[Remote_Sensing]]; see [[Google_Earth_Engine]].
 
+Visualising an embedding model's output (OlmoEarth v1.2 embeddings in FiftyOne with UMAP and a linked map) is on [[Foundation_Models]].
+
 ## Related topics
 
 [[Remote_Sensing]] · [[Foundation_Models]] · [[Google_Earth_Engine]] · [[Agriculture]] · [[Deep_Learning]] · [[Data]] · [[Geospatial_Platforms]] · [[Learning_Resources]] · [[Code_Repositories]] · [[SQL]] · [[Agentic_Coding]] · [[LinkedIn]]

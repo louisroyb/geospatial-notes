@@ -9,6 +9,8 @@
 
 | Repository                                                                                    | What it is                               | Filed under           | Language | License       | ★   | Last push  |
 | --------------------------------------------------------------------------------------------- | ---------------------------------------- | --------------------- | -------- | ------------- | --- | ---------- |
+| [mfrntic/eudr-api-client](https://github.com/mfrntic/eudr-api-client) | Node.js client for the EUDR TRACES API | [[Forestry]] | JavaScript | AGPL-3.0 (no LICENSE file) | 24 | 2026-09-07 |
+| [zhu-xlab/LandSegmenter](https://github.com/zhu-xlab/LandSegmenter) | Promptable LULC foundation model + LAS | [[Land_Cover]] | Jupyter | none declared | 45 | 2026-07-13 |
 | [google-research/tabfm](https://github.com/google-research/tabfm) | Zero-shot tabular foundation model | [[Foundation_Models]] | Python | Apache-2.0 | 2,700 | 2026-09-18 |
 | [geojupyter/jupyter-tiler](https://github.com/geojupyter/jupyter-tiler) | Dynamic tiles for xarray in Jupyter | [[Python]] | Python | BSD-3-Clause | 8 | 2026-10-01 |
 | [MadsLorentzen/ai-job-search](https://github.com/MadsLorentzen/ai-job-search) | Claude Code job application pipeline | [[Agentic_Coding]] | Python | MIT | 44,696 | 2026-10-01 |
@@ -56,6 +58,7 @@
 
 ## Actively maintained
 
+- **[mfrntic/eudr-api-client](https://github.com/mfrntic/eudr-api-client)** — npm package v2.1.1, kept in step with the EU's switch to the V3 API. Declared AGPL-3.0 in its README and `package.json` but has no LICENSE file, so the GitHub API shows it as unrecognised. Note on [[Forestry]].
 - **[google-research/tabfm](https://github.com/google-research/tabfm)** — Apache-2.0, 2,700 stars, Google Research's tabular foundation model, also in BigQuery. Note on [[Foundation_Models]].
 - **[MadsLorentzen/ai-job-search](https://github.com/MadsLorentzen/ai-job-search)** — MIT, ~44.7k stars after going viral; a Claude Code agent pipeline for job applications. Note on [[Agentic_Coding]].
 - **[geojupyter/jupyter-tiler](https://github.com/geojupyter/jupyter-tiler)** — BSD-3-Clause, alpha, shipped through JupyterGIS. Note on [[Python]].
@@ -82,6 +85,7 @@
 
 ## Released and quiet
 
+- **[zhu-xlab/LandSegmenter](https://github.com/zhu-xlab/LandSegmenter)** — official code and the LAS dataset for the ISPRS J. 2026 paper. No license file. Note on [[Land_Cover]].
 - **[dgominski/treematch](https://github.com/dgominski/treematch)** — ECCV 2026 code for TinyTrees/TreeMatch. No license file. Note on [[Forestry]].
 - **[FPSica/BeyondBackscatter](https://github.com/FPSica/BeyondBackscatter)** — MIT, paper code plus a Colab notebook and Hugging Face weights. Note on [[Remote_Sensing]].
 - **[MiltoMiltiadou/PlotToSat](https://github.com/MiltoMiltiadou/PlotToSat)** — GPL-3.0, the only copyleft repo tracked here, so derivatives must stay GPL. Note on [[Google_Earth_Engine]].
@@ -104,7 +108,7 @@ These are dataset or paper releases rather than living projects; a stale push da
 
 ## Licensing watch
 
-Fourteen of the forty-four cannot be safely reused as-is. HieraRS, VHRV, proj-vit, S5, S2GAIA, NDVI-Tree-Crown-Detection, WAC, treematch, GLaSP, user26 and LLM-Agents-Papers declare no license at all (default copyright, all rights reserved). UAVScenes, OlmoEarth and GenAI_Agents ship non-standard ones. PlotToSat is GPL-3.0, which is usable but copyleft, and Trazo uses CC-BY-4.0, a content license, for its code. PySTAC reports as unrecognised by the GitHub API but documents itself as Apache-2.0, so check its LICENSE file rather than assuming. Everything else carries clear permissive terms: Apache-2.0 (agribound, annotation, planetlabs/notebooks), MIT (forest-data-partnership, OpenEarthMap-SAR, HarvestStat-Africa, SentinelLabel, ssl4eo-l, ML-For-Beginners, awesome-spectral-indices, geoai-datacubes) or CC0-1.0 (Awesome-Geospatial). The four added on 2026-10-02 (geolibre-rust, pygeofetch, isprs26-embeddings-tutorial under MIT; stac-browser under ISC) are all permissive.
+Fifteen of the forty-six cannot be safely reused as-is. HieraRS, VHRV, proj-vit, S5, S2GAIA, NDVI-Tree-Crown-Detection, WAC, treematch, GLaSP, user26, LLM-Agents-Papers and LandSegmenter declare no license at all (default copyright, all rights reserved). UAVScenes, OlmoEarth and GenAI_Agents ship non-standard ones. PlotToSat (GPL-3.0) and eudr-api-client (AGPL-3.0, declared only in its README and `package.json`) are usable but copyleft. AGPL also covers code you only run as a network service. and Trazo uses CC-BY-4.0, a content license, for its code. PySTAC reports as unrecognised by the GitHub API but documents itself as Apache-2.0, so check its LICENSE file rather than assuming. Everything else carries clear permissive terms: Apache-2.0 (agribound, annotation, planetlabs/notebooks), MIT (forest-data-partnership, OpenEarthMap-SAR, HarvestStat-Africa, SentinelLabel, ssl4eo-l, ML-For-Beginners, awesome-spectral-indices, geoai-datacubes) or CC0-1.0 (Awesome-Geospatial). The four added on 2026-10-02 (geolibre-rust, pygeofetch, isprs26-embeddings-tutorial under MIT; stac-browser under ISC) are all permissive.
 
 ## Projects referenced without a GitHub link
 
@@ -114,6 +118,7 @@ These are code projects noted elsewhere in the base whose notes point at documen
 - **GeoAI QGIS plugin** - [opengeos/geoai](https://github.com/opengeos/geoai). Note on [[Deep_Learning]].
 - **eo-learn** - [sentinel-hub/eo-learn](https://github.com/sentinel-hub/eo-learn). Note on [[Python]].
 - **DuckDB** and its spatial extension - [duckdb/duckdb](https://github.com/duckdb/duckdb), MIT, ~40.6k stars, and [duckdb/duckdb-spatial](https://github.com/duckdb/duckdb-spatial), MIT, ~702 stars. The note points at a cookbook article rather than either repo, and cites DuckDB issue #20113. Note on [[SQL]].
+- **FiftyOne notebooks** - [jimmyguerrero/fiftyone-notebooks](https://github.com/jimmyguerrero/fiftyone-notebooks), no license, 3 stars. The OlmoEarth v1.2 demo notebook is linked from the Voxel51 blog post, not from the note. Note on [[Foundation_Models]].
 - **obstore** and **rustac** - [developmentseed/obstore](https://github.com/developmentseed/obstore), MIT, 821 stars, and [stac-utils/rustac](https://github.com/stac-utils/rustac), Apache-2.0, 146 stars, both pushed 2026-09-29. Named in a YouTube talk rather than linked. Note on [[Python]].
 - **HydroPML** - the [HydroPML organisation](https://github.com/HydroPML), with 7 repos and no licenses; FloodCast is the most starred at 52. The note points at the project website. Note on [[Climate_Change]].
 - **ESA CCI Toolbox** - [esa-cci/esa-climate-toolbox](https://github.com/esa-cci/esa-climate-toolbox), MIT, 43 stars, pushed 2026-09-21. The LinkedIn post's link points at the ESA toolbox page rather than the repo. Note on [[Climate_Change]].

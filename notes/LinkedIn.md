@@ -5,10 +5,12 @@
 
 ---
 
-Posts shared as links from the mobile app arrive with `utm_*` and `rcm` tracking parameters, which are stripped when filing. LinkedIn links rot and usually demand a login, so each entry records the author, what the item argued, and where the full note lives. Where a post was clipped, the raw text is kept in `processed/`.
+Posts shared as links from the mobile app arrive with `utm_*` and `rcm` tracking parameters, which are stripped when filing. `lnkd.in/p/…` share links are resolved to the post URL first. LinkedIn links rot and usually demand a login, so each entry records the author, what the item argued, and where the full note lives. Where a post was clipped, the raw text is kept in `processed/`.
 
 | Item | Author | Kind | Filed under |
 |---|---|---|---|
+| [LandSegmenter: a flexible foundation model for LULC](https://www.linkedin.com/posts/xiaoxiang-zhu-90b473228_foundationmodel-landsegmenter-las-ugcPost-7472191893670395904-RsE7) | Xiao Xiang Zhu | Feed post, shared link | [[Land_Cover]] |
+| [Visualizing 768D vectors with OlmoEarth v1.2](https://www.linkedin.com/posts/jiguerrero_computervision-ai-artificialintelligence-share-7478114181938851841-Uxl3) | Jimmy Guerrero | Feed post, shared link | [[Foundation_Models]] |
 | [Earth Engine forestry tutorials](https://www.linkedin.com/posts/amirhosseinahrari_gee-with-amirhossein-ahrari-share-7484863617641926656-NX-S) | Amirhossein Ahrari | Feed post, shared link | [[Forestry]] |
 | [Announcing jupyter-tiler](https://www.linkedin.com/posts/mattfisher8_announcing-jupyter-tiler-share-7474852181972631552-vleV) | Matt Fisher | Feed post, shared link | [[Python]] |
 | [EUDR GeoCheck Lite](https://www.linkedin.com/posts/cesar-i-alvarez-0847253a_eudr-duediligence-deforestationfree-ugcPost-7483552415951220736-7MNk) | Cesar I. Alvarez | Feed post, shared link | [[Forestry]] |
@@ -62,6 +64,8 @@ Posts shared as links from the mobile app arrive with `utm_*` and `rcm` tracking
 
 ## Posts
 
+- **[LandSegmenter: a flexible foundation model for LULC](https://www.linkedin.com/posts/xiaoxiang-zhu-90b473228_foundationmodel-landsegmenter-las-ugcPost-7472191893670395904-RsE7)** — Zhu presenting Chenying Liu's LandSegmenter and the LAS dataset: a language-promptable, zero-shot LULC segmenter trained on global weak labels. Note on [[Land_Cover]].
+- **[Visualizing 768D vectors with OlmoEarth v1.2](https://www.linkedin.com/posts/jiguerrero_computervision-ai-artificialintelligence-share-7478114181938851841-Uxl3)** — Guerrero on OlmoEarth v1.2's 3× cheaper training and on exploring its embeddings in FiftyOne with UMAP and a linked map. Note on [[Foundation_Models]].
 - **[Earth Engine forestry tutorials](https://www.linkedin.com/posts/amirhosseinahrari_gee-with-amirhossein-ahrari-share-7484863617641926656-NX-S)** — Amirhossein Ahrari: Ahrari's list of free YouTube tutorials on wildfire severity, Hansen forest loss, biomass and canopy height in Earth Engine. Note on [[Forestry]].
 - **[Announcing jupyter-tiler](https://www.linkedin.com/posts/mattfisher8_announcing-jupyter-tiler-share-7474852181972631552-vleV)** — Matt Fisher: GeoJupyter's dynamic tile server that puts xarray DataArrays straight onto a slippy map in Jupyter. Note on [[Python]].
 - **[EUDR GeoCheck Lite](https://www.linkedin.com/posts/cesar-i-alvarez-0847253a_eudr-duediligence-deforestationfree-ugcPost-7483552415951220736-7MNk)** — Cesar I. Alvarez: A free web tool for screening supplier parcels against forest baselines for EUDR due diligence. Note on [[Forestry]].

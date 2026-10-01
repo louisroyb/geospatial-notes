@@ -9,9 +9,9 @@
 
 The three most recent additions, each from a different topic page.
 
-- [Counting individual trees from satellite imagery — TreeMatch and TinyTrees](https://arxiv.org/abs/2606.24786) — An ECCV 2026 dataset of 216M trees and a model that counts them across biomes, trained with noisy supervision. On [[Forestry]].
-- [TerraBit](https://isaac.earth/terrabit) — The whole planet's Clay embeddings binarized from 183 GB to 7 GB and searched entirely in the browser with DuckDB-WASM. On [[Embeddings]].
-- [Trazo — field boundaries for South America](https://wri.github.io/trazo/landing/) — Open field-boundary models across 17 ecoregions, extending Fields of the World. On [[Agriculture]].
+- [LandSegmenter](https://doi.org/10.1016/j.isprsjprs.2026.04.056) — A land-cover foundation model trained on ~150k global weak-label samples that segments any taxonomy you describe in words, zero-shot. On [[Land_Cover]].
+- [OlmoEarth v1.2 meets FiftyOne](https://voxel51.com/blog/olmoearth-fiftyone-satellite-embeddings) — 3× cheaper training at the same accuracy, plus a notebook that lets you see the embeddings cluster on a linked map. On [[Foundation_Models]].
+- [eudr-api-client](https://github.com/mfrntic/eudr-api-client) — A Node.js library for filing EUDR due-diligence statements with the EU's TRACES system (V3 API). On [[Forestry]].
 
 ## Topics
 

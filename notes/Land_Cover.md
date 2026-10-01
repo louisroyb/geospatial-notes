@@ -5,6 +5,11 @@
 
 ---
 
+- [LandSegmenter: Towards a flexible foundation model for Land Use and Land Cover mapping](https://doi.org/10.1016/j.isprsjprs.2026.04.056): LinkedIn post by Xiao Xiang Zhu (TUM), 15 June 2026: *"How can we build a #FoundationModel when high-quality annotations are scarce, but noisy labels are available at global scale?"* The paper is by Chenying Liu, Wei Huang and Xiao Xiang Zhu, *ISPRS Journal of Photogrammetry and Remote Sensing* 238 (August 2026). They first built **LAS (LAnd Segment)**, about 150k globally distributed sample locations with RGB, Planet, Sentinel-2 and Landsat imagery, combining precise annotations with large-scale weak labels. LandSegmenter is trained on LAS. It handles several sensor modalities, takes *language prompts* for the classes you want, and segments zero-shot on unseen datasets and taxonomies. It reports state-of-the-art zero-shot LULC results across six benchmarks. Code and dataset: [zhu-xlab/LandSegmenter](https://github.com/zhu-xlab/LandSegmenter), no license declared. Funded by the Munich Center for Machine Learning. *Keywords: LandSegmenter, LAS dataset, zero-shot segmentation, weak supervision, language prompts, LULC*
+  - Source: [LinkedIn post](https://www.linkedin.com/posts/xiaoxiang-zhu-90b473228_foundationmodel-landsegmenter-las-ugcPost-7472191893670395904-RsE7); see [[LinkedIn]]. The note arrived as an `lnkd.in/p/` share link; both inner `lnkd.in` links (the DOI and the repo) were resolved, and the citation was checked against Crossref.
+  - Prompting the classes in text lets one model serve the different taxonomies compared on this page, such as HieraRS's hierarchy or S2GAIA's 22 classes. The language-prompt side links to [[Vision_Language_Models]].
+  - Related: [[Foundation_Models]], [[Vision_Language_Models]], [[Benchmark_Datasets]], [[Code_Repositories]]
+
 - [S1S2_AI4LCC — Sentinel-1 + Sentinel-2 in Zarr](https://huggingface.co/datasets/wtr001/S1S2_AI4LCC): LinkedIn post by Tahjudil Witra, 8 July 2026: *"This is not a new dataset, but a convenient combination of the two previously shared datasets into a single Zarr file."* It pairs co-located Sentinel-1 (VV, VH) and Sentinel-2 imagery from 2020 (via Planetary Computer) with land cover labels from the AI4LCC benchmark. There are 12 UTM tiles over Northern Africa, labels simplified from 14 classes to 5, one `.zarr` folder per tile, 13.9 GB, CC-BY-4.0. Built for multimodal segmentation; the patch size and sample count are not stated. *Keywords: Sentinel-1, Sentinel-2, Zarr, multimodal segmentation, AI4LCC, Hugging Face*
   - Source: [LinkedIn post](https://www.linkedin.com/posts/tahjudil-witra_remotesensing-earthobservation-deeplearning-share-7480531947115483136-QSke); see [[LinkedIn]].
   - Related: [[Benchmark_Datasets]], [[Deep_Learning]], [[Data]]
@@ -24,4 +29,4 @@
 
 ## Related topics
 
-[[Remote_Sensing]] · [[Agriculture]] · [[Forestry]] · [[Foundation_Models]] · [[Benchmark_Datasets]] · [[Code_Repositories]] · [[Deep_Learning]]
+[[Remote_Sensing]] · [[Agriculture]] · [[Forestry]] · [[Foundation_Models]] · [[Benchmark_Datasets]] · [[Code_Repositories]] · [[Deep_Learning]] · [[Vision_Language_Models]]
