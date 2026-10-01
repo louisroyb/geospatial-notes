@@ -1,12 +1,13 @@
 # Community Resources
 
 **Summary**: People, labs, newsletters, and curated lists worth following in the geospatial and GeoAI community.
-**Last updated**: 2026-08-24
+**Last updated**: 2026-10-02
 
 ---
 
 - [GeoSpatial ML](https://geospatialml.com/): GeoSpatial ML Weekly dispatches on geospatial machine learning — remote sensing, earth observation, and everything in between Isaac Corley & Caleb Robinson. A weekly newsletter run by Isaac Corley and Caleb Robinson covering geospatial machine learning, remote sensing and Earth observation. *Keywords: newsletter, geospatial machine learning, weekly, Isaac Corley, Caleb Robinson, earth observation*
-  - Related: [[Machine_Learning]], [[Remote_Sensing]]
+  - Both authors have written free books, Corley's *First Principles of Geospatial Computer Vision* (hosted on this site) and Robinson's *Geospatial Machine Learning*. Both are on [[Learning_Resources]].
+  - Related: [[Machine_Learning]], [[Remote_Sensing]], [[Learning_Resources]]
 
 - [Isaac Corley](https://isaac.earth/): Isaac Corley Director of AI/ML Research Taylor Geospatial. Personal site of a GeoAI researcher working on "computer vision and foundation models for earth observation—from research through production", with a PhD in Electrical Engineering from UTSA and past roles at Microsoft Research, BlackSky and Wherobots. Lists open-source work including TorchGeo, Segmentation Models PyTorch and Fields of the World, 15+ recent papers at CVPR, ICLR and NeurIPS, plus talks and podcast appearances. *Keywords: Isaac Corley, Taylor Geospatial, GeoAI, foundation models, TorchGeo, Fields of the World*
   - Related: [[Foundation_Models]], [[Agriculture]], [[Deep_Learning]]

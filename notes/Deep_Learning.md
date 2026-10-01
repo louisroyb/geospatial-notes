@@ -1,7 +1,7 @@
 # Deep Learning
 
 **Summary**: Notes on neural network architectures and models, particularly for imagery and geospatial tasks.
-**Last updated**: 2026-08-25
+**Last updated**: 2026-10-02
 
 ---
 
@@ -12,6 +12,8 @@
   - Related: [[Foundation_Models]], [[Vision_Language_Models]], [[Land_Cover]]
 
 Segmentation and detection models for field boundary delineation — YOLO, Mask R-CNN, FTW, DINOv3, Prithvi — are covered by the `agribound` package in [[Agriculture]]. Vision Transformer architectures underpin the Earth observation embedding products discussed in [[Remote_Sensing]] and [[Embeddings]]. The Forest Data Partnership ships TensorFlow commodity probability models, hosted for Earth Engine — see [[Forestry]].
+
+Three free books cover deep learning on satellite imagery: Qiusheng Wu's *GeoAI with Python*, Caleb Robinson's *Geospatial Machine Learning*, and Isaac Corley's *First Principles of Geospatial Computer Vision*. All three are on [[Learning_Resources]].
 
 ## Related topics
 

@@ -1,7 +1,7 @@
 # Index
 
 **Summary**: Table of contents for all topic pages in this knowledge base.
-**Last updated**: 2026-08-25
+**Last updated**: 2026-10-02
 
 ---
 
@@ -9,9 +9,9 @@
 
 The three most recent additions, each from a different topic page.
 
-- [S2GAIA: seasonally aware Sentinel-2 LULC dataset for Greece](https://www.linkedin.com/posts/anastasios-temenos-9849a9208_remotesensing-earthobservation-geoai-share-7495512241295867905-4KIl/) — 34,030 patches, four seasons a year, 22 classes, built as training data for Greece's national microsatellite programme. On [[Land_Cover]].
+- [First Principles of Geospatial Computer Vision](https://geospatialml.com/book/) — Isaac Corley's free book on everything that happens to satellite imagery before a model sees it, from pixel formation to building datasets. On [[Learning_Resources]].
 - [Earth Embeddings as Products](https://www.linkedin.com/posts/isaaccorley_igarss2026-ieeegrss-remotesensing-share-7493330381442535424-pzzo/) — A taxonomy for the fragmented Earth-embedding ecosystem, plus a TorchGeo API that treats embeddings as ordinary geospatial datasets. On [[Embeddings]].
-- [Satellite Co-location Search Toolkit](https://zenodo.org/records/21982047) — A single-file browser app that finds acquisitions co-located in space and near-coincident in time across nine missions. On [[Remote_Sensing]].
+- [S2GAIA: seasonally aware Sentinel-2 LULC dataset for Greece](https://www.linkedin.com/posts/anastasios-temenos-9849a9208_remotesensing-earthobservation-geoai-share-7495512241295867905-4KIl/) — 34,030 patches, four seasons a year, 22 classes, built as training data for Greece's national microsatellite programme. On [[Land_Cover]].
 
 ## Topics
 
@@ -44,7 +44,7 @@ The three most recent additions, each from a different topic page.
 
 - [[Benchmark_Datasets]] — Index of labeled datasets and benchmarks, grouped by what they test.
 - [[Community_Resources]] — People, labs, newsletters, and curated lists worth following.
-- [[Learning_Resources]] — Courses, tutorials, and EO training material.
+- [[Learning_Resources]] — Courses, tutorials, free textbooks, and EO training material.
 
 ### By Source
 

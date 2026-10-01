@@ -1,7 +1,7 @@
 # Climate Change
 
 **Summary**: Notes on climate hazards, extreme events, and the datasets that record them.
-**Last updated**: 2026-08-24
+**Last updated**: 2026-10-02
 
 ---
 
@@ -18,6 +18,8 @@
   - Related: [[Data]]
 
 On extreme heat: a widely shared critique of using satellite land surface temperature as a proxy for heat hazard, with five supporting papers, is filed under [[Urban_Planning]].
+
+Nina Benoit's paid cohort course on AI's own carbon and water footprint, and on using AI for ESG and GHG reporting, is on [[Learning_Resources]].
 
 ## Related topics
 

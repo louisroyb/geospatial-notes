@@ -1,7 +1,7 @@
 # Google Earth Engine
 
 **Summary**: Notes on the Google Earth Engine platform — its data catalog, hosted models, and tutorials.
-**Last updated**: 2026-08-24
+**Last updated**: 2026-10-02
 
 ---
 
@@ -14,6 +14,8 @@
 Earth Engine turns up across most of the geospatial notes here. The Satellite Embedding (AlphaEarth) tutorial series and the LandTrendr port — both the [LT-GEE guide](https://emapr.github.io/LT-GEE/introduction.html) and the Kennedy et al. 2018 paper — are filed under [[Remote_Sensing]]. The Forest Data Partnership publishes its commodity probability and forest persistence datasets through the Earth Engine catalog, with TensorFlow models hosted externally and called from Earth Engine; see [[Forestry]]. The `agribound` package in [[Agriculture]] pulls its imagery through Earth Engine as well.
 
 Two FAO tools wrap Earth Engine for people who do not want to write code — SEPAL and Earth Map — both on [[Geospatial_Platforms]]. The Satellite Embedding Deep Dive workshop is worked entirely in the Earth Engine editor; see [[Learning_Resources]].
+
+The open-access EEFA textbook, *Cloud-Based Remote Sensing with Google Earth Engine* (Cardille et al., Springer 2024), covers Earth Engine from JavaScript basics through to applications. It is on [[Learning_Resources]].
 
 ## Related topics
 
