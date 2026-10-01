@@ -12,6 +12,7 @@
   - [Section 4 - Data Visualization](https://www.youtube.com/playlist?list=PLbdvNIqD31GjcIy0TeO4YlcCPlE0nQIqo) — 18 videos
   - [Section 5 - Intro to ML](https://www.youtube.com/playlist?list=PLbdvNIqD31Gh9HWKcmb9S-LG_wlsuHhk4) — 15 videos
   - *Keywords: data science, buildings, construction, Python, Pandas, NUS BUDS Lab*
+  - The same lab built the Building Data Genome Project 2. A LightGBM energy-savings tutorial that uses it is on [[Climate_Change]].
   - Source: a LinkedIn post; see [[LinkedIn]]. All five `lnkd.in` shortlinks were resolved to the playlist URLs above.
   - Related: [[Python]], [[Machine_Learning]], [[Urban_Planning]], [[Data]]
 

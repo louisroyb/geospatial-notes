@@ -9,8 +9,8 @@
 
 The three most recent additions, each from a different topic page.
 
+- [Calculating full-year energy savings with only 6 months of data](https://www.reimagine-energy.ai/p/calculating-full-year-energy-savings) — Benedetto Grillone uses a LightGBM baseline to project the annual savings of a building retrofit from half a year of data, and explains when seasonality breaks the method. On [[Climate_Change]].
 - [Data Science for Construction, Architecture and Engineering](https://www.youtube.com/playlist?list=PLbdvNIqD31Gimy8PhMTWW7oOdgdP74Ycn) — Clayton Miller's NUS course on Python, Pandas and intro ML for the built environment, moved from edX to YouTube as five playlists. On [[Learning_Resources]].
-- [CarbonSIG: CaRMa carbon management platform](https://www.youtube.com/watch?v=ni9eN16-BiM) — A one-minute pitch for software that models processes and supply chains to track carbon flows. On [[Climate_Change]].
 - [S2GAIA: seasonally aware Sentinel-2 LULC dataset for Greece](https://www.linkedin.com/posts/anastasios-temenos-9849a9208_remotesensing-earthobservation-geoai-share-7495512241295867905-4KIl/) — 34,030 patches, four seasons a year, 22 classes, built as training data for Greece's national microsatellite programme. On [[Land_Cover]].
 
 ## Topics
