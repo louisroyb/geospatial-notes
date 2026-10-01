@@ -9,8 +9,8 @@
 
 The three most recent additions, each from a different topic page.
 
-- [First Principles of Geospatial Computer Vision](https://geospatialml.com/book/) — Isaac Corley's free book on everything that happens to satellite imagery before a model sees it, from pixel formation to building datasets. On [[Learning_Resources]].
-- [Earth Embeddings as Products](https://www.linkedin.com/posts/isaaccorley_igarss2026-ieeegrss-remotesensing-share-7493330381442535424-pzzo/) — A taxonomy for the fragmented Earth-embedding ecosystem, plus a TorchGeo API that treats embeddings as ordinary geospatial datasets. On [[Embeddings]].
+- [Data Science for Construction, Architecture and Engineering](https://www.youtube.com/playlist?list=PLbdvNIqD31Gimy8PhMTWW7oOdgdP74Ycn) — Clayton Miller's NUS course on Python, Pandas and intro ML for the built environment, moved from edX to YouTube as five playlists. On [[Learning_Resources]].
+- [CarbonSIG: CaRMa carbon management platform](https://www.youtube.com/watch?v=ni9eN16-BiM) — A one-minute pitch for software that models processes and supply chains to track carbon flows. On [[Climate_Change]].
 - [S2GAIA: seasonally aware Sentinel-2 LULC dataset for Greece](https://www.linkedin.com/posts/anastasios-temenos-9849a9208_remotesensing-earthobservation-geoai-share-7495512241295867905-4KIl/) — 34,030 patches, four seasons a year, 22 classes, built as training data for Greece's national microsatellite programme. On [[Land_Cover]].
 
 ## Topics

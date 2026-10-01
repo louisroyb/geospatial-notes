@@ -1,7 +1,7 @@
 # Python
 
 **Summary**: Notes on Python packages and libraries, especially for geospatial and scientific work.
-**Last updated**: 2026-08-25
+**Last updated**: 2026-10-02
 
 ---
 
@@ -20,6 +20,8 @@
 The `agribound` package for agricultural field boundary delineation (Python 3.10+, built on GDAL, Rasterio, GeoPandas and PyTorch) is noted in [[Agriculture]]. Related geospatial tooling — GDAL, Rasterio, TorchGeo — also appears in [[Remote_Sensing]]. The UCLA Urban Data Science course on [[Urban_Planning]] teaches Python and SQL for scraping and analysing city data, with public Jupyter notebooks.
 
 Two courses here teach programming for spatial work: the Spatial Thoughts Python Foundation course and the MIT OpenCourseWare R and GIS course (R rather than Python, but the same audience); both on [[Learning_Resources]]. Pipeline tooling — STAC, Xarray, Zarr, xbatcher — is covered in the cloud pipeline note on [[Data]].
+
+The NUS Data Science for Construction, Architecture and Engineering course covers Python and Pandas from scratch using building data. It is now on YouTube and filed on [[Learning_Resources]].
 
 ## Related topics
 

@@ -1,7 +1,7 @@
 # LinkedIn
 
 **Summary**: Tracking page for everything in these notes that came from LinkedIn — posts, and articles found through the feed.
-**Last updated**: 2026-08-25
+**Last updated**: 2026-10-02
 
 ---
 
@@ -9,6 +9,7 @@ LinkedIn links rot and usually demand a login, so each entry records the author,
 
 | Item | Author | Kind | Filed under |
 |---|---|---|---|
+| [Data Science for Construction, Architecture and Engineering — now on YouTube](https://www.youtube.com/playlist?list=PLbdvNIqD31Gimy8PhMTWW7oOdgdP74Ycn) | Not in the clipping (course by Clayton Miller, NUS BUDS Lab) | Feed post, clipped | [[Learning_Resources]] |
 | [Stop using LST to quantify urban heat hazard](https://www.linkedin.com/feed/update/urn:li:activity:7478690057026207745/) | Tirthankar "TC" Chakraborty | Feed post, clipped | [[Urban_Planning]] |
 | [S2GAIA: seasonally aware Sentinel-2 LULC dataset for Greece](https://www.linkedin.com/posts/anastasios-temenos-9849a9208_remotesensing-earthobservation-geoai-share-7495512241295867905-4KIl/) | Anastasios Temenos | Feed post, clipped | [[Land_Cover]] |
 | [Earth Embeddings as Products (IGARSS 2026)](https://www.linkedin.com/posts/isaaccorley_igarss2026-ieeegrss-remotesensing-share-7493330381442535424-pzzo/) | Isaac Corley | Feed post, clipped | [[Embeddings]] |
@@ -21,6 +22,7 @@ LinkedIn links rot and usually demand a login, so each entry records the author,
 
 ## Posts
 
+- **[Data Science for Construction, Architecture and Engineering — now on YouTube](https://www.youtube.com/playlist?list=PLbdvNIqD31Gimy8PhMTWW7oOdgdP74Ycn)** — An announcement that the NUS course, on edX from 2020 to 2024, is now fully on YouTube after NUS stopped using edX. It links five section playlists: Python, Pandas, data cleaning, data visualisation and intro ML. The clipping did not include the post URL or the poster's name, so the link here goes to the Section 1 playlist. The course itself is Clayton Miller's (NUS BUDS Lab), but the clipping alone does not confirm who posted it. Note on [[Learning_Resources]].
 - **[Stop using LST to quantify urban heat hazard](https://www.linkedin.com/feed/update/urn:li:activity:7478690057026207745/)** — Chakraborty's argument that satellite land surface temperature is not air temperature, that headline "55°C in Madrid" maps anchor people into overestimating heat hazard, and that LST also overstates how much trees cool the air. The reply thread is substantive: Justine Kojo pushes for data declaration and stated limitations rather than abandoning LST in data-scarce regions, and Chakraborty answers on weather station siting and on why city-scale agreement does not follow from cross-city aggregates. Five supporting papers are cited in the replies, all verified against Crossref and arXiv — see the full note on [[Urban_Planning]]. The complete clipping is preserved at `processed/Post_LinkedIn_2026-08-24.md`.
 
 - **[S2GAIA: seasonally aware Sentinel-2 LULC dataset for Greece](https://www.linkedin.com/posts/anastasios-temenos-9849a9208_remotesensing-earthobservation-geoai-share-7495512241295867905-4KIl/)** — Temenos announcing the dataset and its paper: 34,030 patches, four seasons a year over 2017–2024, 22 classes, positioned as training data for the Greek National Microsatellite Programme. Note on [[Land_Cover]].
@@ -39,4 +41,4 @@ Items whose note URL carries LinkedIn campaign tracking, meaning they were picke
 
 ## Related topics
 
-[[Agriculture]] · [[Land_Cover]] · [[Embeddings]] · [[Forestry]] · [[Agentic_Coding]] · [[Geospatial_Platforms]] · [[Machine_Learning]] · [[Urban_Planning]] · [[Foundation_Models]] · [[Community_Resources]] · [[Code_Repositories]]
+[[Agriculture]] · [[Land_Cover]] · [[Embeddings]] · [[Forestry]] · [[Agentic_Coding]] · [[Geospatial_Platforms]] · [[Machine_Learning]] · [[Urban_Planning]] · [[Foundation_Models]] · [[Community_Resources]] · [[Code_Repositories]] · [[Learning_Resources]]

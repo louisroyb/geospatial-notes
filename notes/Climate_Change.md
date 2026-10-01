@@ -5,6 +5,9 @@
 
 ---
 
+- [CarbonSIG: Carbon Resources Management platform - CaRMa](https://www.youtube.com/watch?v=ni9eN16-BiM): A one-minute product video from the CarbonSIG YouTube channel, posted 18 September 2024. CaRMa, the Carbon Resources Management platform, is described as *"a comprehensive solution allowing to record, model, and manage any process, environment, or supply chain, with a focus on carbon"*. It produces carbon-flow reports aimed at managers, sales teams and executives. The video is a vendor pitch, not a technical walkthrough. *Keywords: carbon accounting, carbon management, supply chain emissions, CaRMa, CarbonSIG, software platform*
+  - Related: [[Data]]
+
 - [Multisource Remote Sensing data for glacial lakes in the Himalayas](https://zenodo.org/records/16986936): Multisource Remote Sensing data for training and evluating deep learning models in Himalayas. Produced by Saurabh Kaushik, University of Wisconsin-Madison, version 0.1 published 28 August 2025. Ten multispectral and ancillary bands — Sentinel-2 optical, Sentinel-1 SAR coherence, Landsat 8 thermal, plus slope and elevation — paired with annotated lake boundary labels across the Himalaya, for training and validating deep learning models that detect glacial lakes across varied topography and climate zones. CC BY 4.0 and Apache 2.0. *Keywords: glacial lakes, Himalaya, GLOF hazard, multisource, Sentinel-1 coherence, deep learning labels*
   - Related: [[Benchmark_Datasets]], [[Remote_Sensing]]
 
@@ -19,7 +22,7 @@
 
 On extreme heat: a widely shared critique of using satellite land surface temperature as a proxy for heat hazard, with five supporting papers, is filed under [[Urban_Planning]].
 
-Nina Benoit's paid cohort course on AI's own carbon and water footprint, and on using AI for ESG and GHG reporting, is on [[Learning_Resources]].
+Two paid climate courses are on [[Learning_Resources]]: Skill Up for Earth's Oxford Certificate in Climate Solutions & Strategies, and Nina Benoit's course on AI's own carbon and water footprint and on using AI for ESG and GHG reporting.
 
 ## Related topics
 

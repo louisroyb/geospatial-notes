@@ -1,7 +1,7 @@
 # Urban Planning
 
 **Summary**: Notes on cities — urban data, urban heat, transport and housing analysis, and the methods planners use on them.
-**Last updated**: 2026-08-24
+**Last updated**: 2026-10-02
 
 ---
 
@@ -19,6 +19,8 @@
 
 - [Urban Data Science](https://urbandatascience.its.ucla.edu/): Urban Data Science Course. A hands-on course from UCLA's Luskin School of Public Affairs on scraping, processing, and managing urban data with open-source tools, mainly Python and SQL. Ten modules cover APIs, web scraping, data wrangling, spatial relations, classification, clustering, text parsing, natural language processing, and big data, drawing examples from transit, housing, and equity planning, and it also treats the limits of data science and the biases "big data" can carry. Materials are public as Jupyter notebooks for the video lectures and in-class exercises. *Keywords: urban data, UCLA Luskin, python, jupyter notebooks, transit housing equity, data bias*
   - Related: [[Python]], [[Data]], [[Learning_Resources]], [[Machine_Learning]]
+
+Clayton Miller's NUS course on data science for the built environment (Python, Pandas, data cleaning, visualisation and intro ML) is on [[Learning_Resources]].
 
 ## Related topics
 

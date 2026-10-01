@@ -5,6 +5,19 @@
 
 ---
 
+- [Data Science for Construction, Architecture and Engineering](https://www.youtube.com/playlist?list=PLbdvNIqD31Gimy8PhMTWW7oOdgdP74Ycn): *Data Science for Construction, Architecture, and Engineering course is finally fully posted on YouTube! 👏👏👏👏 --- This content was formerly hosted on edX from 2020-2024 and was recently removed due to NUS disengaging with the platform.* Clayton Miller and the BUDS Lab at the National University of Singapore built this course, which teaches data science for designing, constructing and operating buildings. It uses Python, Pandas and scikit-learn in Colab notebooks. According to NUS and edX, more than 15,000 people from over 140 countries took it on edX. It is now on YouTube as five playlists from the "BUDS Lab Team Member" channel, 86 videos in all:
+  - [Section 1 - Python](https://www.youtube.com/playlist?list=PLbdvNIqD31Gimy8PhMTWW7oOdgdP74Ycn) — 14 videos
+  - [Section 2 - Pandas](https://www.youtube.com/playlist?list=PLbdvNIqD31GjFsSBfJMb1ydKQQybBXNle) — 20 videos
+  - [Section 3 - Data Cleaning](https://www.youtube.com/playlist?list=PLbdvNIqD31Gg8FVRnrWa1JdrL9I7rXSmL) — 19 videos
+  - [Section 4 - Data Visualization](https://www.youtube.com/playlist?list=PLbdvNIqD31GjcIy0TeO4YlcCPlE0nQIqo) — 18 videos
+  - [Section 5 - Intro to ML](https://www.youtube.com/playlist?list=PLbdvNIqD31Gh9HWKcmb9S-LG_wlsuHhk4) — 15 videos
+  - *Keywords: data science, buildings, construction, Python, Pandas, NUS BUDS Lab*
+  - Source: a LinkedIn post; see [[LinkedIn]]. All five `lnkd.in` shortlinks were resolved to the playlist URLs above.
+  - Related: [[Python]], [[Machine_Learning]], [[Urban_Planning]], [[Data]]
+
+- [Skill Up for Earth](https://skillup.earth/): CCAI members can use CCAI20 for 20% off; scholarships are also available. Skill Up for Earth is a climate-education nonprofit. It runs the Oxford Certificate in Climate Solutions & Strategies, a 14-week online cohort programme covering climate science, finance, policy and implementation, taught through live studio sessions, short readings, assignments and peer work. Faculty include co-executive director Dr. Kamal Kapadia and Oxford professor Michael Obersteiner. The standard fee is $2,000. Half the seats are reserved for partial or full scholarships, funded through the Kevin Chou Scholarship Fund. As of this note, the next cohort starts on 15 March 2027 and applications close on 22 February 2027. *Keywords: climate solutions, Oxford certificate, climate education, scholarships, cohort course, Climate Change AI discount*
+  - Related: [[Climate_Change]]
+
 - [Understanding AI's Footprint & Using It for your Sustainability Work](https://maven.com/ninabenoit/understanding-ai-s-footprint-using-it-for-your-sustainability-work/preview/d00f8b): A paid Maven cohort course taught by Nina Benoit, Sustainability Director at Brightest and an adviser to GreenPT. It runs as six live sessions over three weeks (5–25 October 2026, about 2 hours a week), capped at 30 people, for €900 with lifetime access to recordings. The first half covers AI's own water and carbon footprint and how to cut it through better prompting and lower-impact alternatives. The second half covers using AI for sustainability work: ESG reporting, GHG accounting and climate monitoring, ending in a team mini-bootcamp project. The link goes to a free lesson preview. Unlike the other entries on this page, it costs money. *Keywords: AI footprint, sustainability, carbon and water impact, ESG reporting, GHG accounting, Maven cohort course*
   - Related: [[Climate_Change]], [[Machine_Learning]]
 
@@ -74,4 +87,4 @@ Some courses sit on their subject page because the subject, not the teaching, is
 
 ## Related topics
 
-[[Remote_Sensing]] · [[Foundation_Models]] · [[Community_Resources]] · [[Urban_Planning]] · [[Agriculture]] · [[Google_Earth_Engine]] · [[Python]] · [[Machine_Learning]] · [[Data]] · [[Deep_Learning]] · [[Climate_Change]]
+[[Remote_Sensing]] · [[Foundation_Models]] · [[Community_Resources]] · [[Urban_Planning]] · [[Agriculture]] · [[Google_Earth_Engine]] · [[Python]] · [[Machine_Learning]] · [[Data]] · [[Deep_Learning]] · [[Climate_Change]] · [[LinkedIn]]
