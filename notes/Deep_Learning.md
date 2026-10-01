@@ -15,6 +15,8 @@ Segmentation and detection models for field boundary delineation — YOLO, Mask 
 
 Three free books cover deep learning on satellite imagery: Qiusheng Wu's *GeoAI with Python*, Caleb Robinson's *Geospatial Machine Learning*, and Isaac Corley's *First Principles of Geospatial Computer Vision*. All three are on [[Learning_Resources]].
 
+From this batch, other pages hold the deep learning applications: tree counting with optimal-transport losses (TreeMatch) and U-Net stand delineation on [[Forestry]], InSAR coherence from GRD with a ResUNet on [[Remote_Sensing]], and Trazo field boundaries on [[Agriculture]]. A semester of reinforcement learning lectures is on [[Learning_Resources]].
+
 ## Related topics
 
 A head-to-head of Transformers, LSTM–Transformer hybrids, 1D CNNs and LSTMs against Random Forest and XGBoost on Sentinel time series, including how they transfer to an unseen season, is on [[Agriculture]].

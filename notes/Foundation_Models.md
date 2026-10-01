@@ -1,9 +1,13 @@
 # Foundation Models
 
 **Summary**: Notes on large pretrained models for Earth observation and agriculture — general-purpose backbones, domain-specific alternatives, and the self-supervised training behind them.
-**Last updated**: 2026-08-25
+**Last updated**: 2026-10-02
 
 ---
+
+- [Introducing TabFM: A zero-shot foundation model for tabular data](https://research.google/blog/introducing-tabfm-a-zero-shot-foundation-model-for-tabular-data/): Google Research blog post by Weihao Kong and Abhimanyu Das, 30 June 2026. TabFM classifies and regresses on unseen tables by in-context learning, in a single forward pass: *"By framing tabular prediction as an ICL problem, TabFM eliminates the need for manual model training, hyperparameter tuning, and complex feature engineering."* The architecture uses alternating row and column attention, then row compression, then an in-context Transformer. It was trained only on hundreds of millions of synthetic datasets drawn from structural causal models, and evaluated on TabArena (38 classification and 13 regression datasets). It is available on [Hugging Face](https://huggingface.co/google/tabfm-1.0.0-pytorch) and in BigQuery. Code: [google-research/tabfm](https://github.com/google-research/tabfm), Apache-2.0. *Keywords: TabFM, tabular foundation model, in-context learning, zero-shot, synthetic data, BigQuery*
+  - Not geospatial in itself, but most EO pipelines end in a table of per-plot or per-pixel features (see PlotToSat on [[Google_Earth_Engine]]), and TabFM is a possible zero-shot alternative to Random Forest or XGBoost on such tables. The original link carried `utm_source=linkedin`, which was stripped; see [[LinkedIn]].
+  - Related: [[Machine_Learning]], [[Code_Repositories]]
 
 - [ssl4eo-l — `sample_conus.py`](https://github.com/torchgeo/ssl4eo-l/blob/main/sample_conus.py#L105,L122): *Basically generate 1 random box at a time and check if it overlaps with any existing boxes until you hit your target*. The sampling routine used to lay out non-overlapping tiles when building the SSL4EO-L pretraining dataset — rejection sampling rather than a grid, which is why coverage looks scattered rather than regular. SSL4EO-L is the Landsat counterpart to SSL4EO-S12, providing "datasets and foundation models for Landsat imagery"; the repo holds the configs and scripts to reproduce the dataset and the paper's experiments, split out of TorchGeo into its own project. Paper: Stewart, Lehmann, Corley, Wang et al., NeurIPS 2023, *Advances in Neural Information Processing Systems* 36:59787–59807. *Keywords: SSL4EO-L, rejection sampling, tile layout, Landsat pretraining, TorchGeo, NeurIPS 2023*
   - Related: [[Code_Repositories]], [[Benchmark_Datasets]], [[Learning_Resources]]

@@ -9,9 +9,9 @@
 
 The three most recent additions, each from a different topic page.
 
-- [Foundation models and earth embeddings](https://spatialists.ch/posts/2026/07/15-foundation-models-and-earth-embeddings/) — Konstantin Klemmer's ISPRS 2026 tutorial: free slides and two GPU-free Colab notebooks on using and building Earth embeddings (SatCLIP, AlphaEarth, MOSAIKS). On [[Embeddings]].
-- [Comparing deforestation data for South American soy](https://landcarbonlab.org/insights/data-comparison-deforestation-soy-south-america/) — Tree Cover Loss, MapBiomas and PRODES give different answers because each defines "forest" differently. On [[Forestry]].
-- [geolibre-rust v1.0](https://opengeos.org/geolibre-rust) — 936 Rust geoprocessing tools compiled to WebAssembly that run entirely in the browser. On [[Geospatial_Platforms]].
+- [Counting individual trees from satellite imagery — TreeMatch and TinyTrees](https://arxiv.org/abs/2606.24786) — An ECCV 2026 dataset of 216M trees and a model that counts them across biomes, trained with noisy supervision. On [[Forestry]].
+- [TerraBit](https://isaac.earth/terrabit) — The whole planet's Clay embeddings binarized from 183 GB to 7 GB and searched entirely in the browser with DuckDB-WASM. On [[Embeddings]].
+- [Trazo — field boundaries for South America](https://wri.github.io/trazo/landing/) — Open field-boundary models across 17 ecoregions, extending Fields of the World. On [[Agriculture]].
 
 ## Topics
 
@@ -43,6 +43,7 @@ The three most recent additions, each from a different topic page.
 ### Cross-cutting Pages
 
 - [[Benchmark_Datasets]] — Index of labeled datasets and benchmarks, grouped by what they test.
+- [[Careers_and_Research]] — Job portals, vacancies and professional training, plus free material on research methods and thesis writing.
 - [[Community_Resources]] — People, labs, newsletters, and curated lists worth following.
 - [[Learning_Resources]] — Courses, tutorials, free textbooks, and EO training material.
 

@@ -16,6 +16,8 @@ Microsoft's 26-lesson classic ML curriculum and the free Earth Lab courses are o
 
 Gradient boosting (LightGBM) used as a counterfactual baseline, to estimate a building's full-year energy savings from six months of post-retrofit data, is on [[Climate_Change]].
 
+Physics-aware ML for hydrology (HydroPML) is on [[Climate_Change]]. Google's zero-shot tabular foundation model TabFM, a possible stand-in for Random Forest on feature tables, is on [[Foundation_Models]].
+
 ## Related topics
 
 [[Deep_Learning]] · [[Foundation_Models]] · [[Community_Resources]] · [[Embeddings]] · [[Remote_Sensing]] · [[Urban_Planning]] · [[Agriculture]] · [[Forestry]] · [[Learning_Resources]]

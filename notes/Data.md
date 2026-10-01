@@ -42,6 +42,8 @@ Labeled training data is its own bottleneck: the Lacuna Fund funds equitable lab
 
 Labeled benchmarks are indexed separately on [[Benchmark_Datasets]], which groups them by what they test — pretraining corpora, segmentation, object extraction, multimodal and time series.
 
+Two more pieces of the cloud-native data stack: obstore and rustac (Rust-backed Python for object stores and STAC) and jupyter-tiler (dynamic tiles from xarray) are on [[Python]]. Notes from CNG London on Source Cooperative's growth are on [[Community_Resources]].
+
 ## Related topics
 
 [[Benchmark_Datasets]] · [[Geospatial_Platforms]] · [[Code_Repositories]] · [[Python]] · [[Cartography]] · [[Remote_Sensing]] · [[Agriculture]] · [[Climate_Change]] · [[Forestry]] · [[Vegetation_Phenology]] · [[Urban_Planning]] · [[Embeddings]]

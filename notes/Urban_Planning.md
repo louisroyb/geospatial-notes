@@ -5,6 +5,10 @@
 
 ---
 
+- [641 buildings detected in less than 1 minute — AI Segmentation QGIS plugin](https://plugins.qgis.org/plugins/AI_Segmentation/): LinkedIn post by Lilien Auger, co-founder of TerraLab (Paris), 16 July 2026, launching the automatic mode of TerraLab's *AI Segmentation* QGIS plugin. Detection needs no clicks, covers up to 5 km² per run, and *"runs in the cloud"*, so no local models are installed. The demo extracted 600+ buildings on the outskirts of Paris. Install it from the QGIS Plugin Manager by searching "AI Segmentation". According to TerraLab's [docs](https://terra-lab.ai/docs/ai-segmentation), it also extracts trees and vegetation as polygons, supports QGIS 3.22–4, and is free to start. *Keywords: building extraction, QGIS plugin, TerraLab, cloud inference, segmentation, Paris*
+  - Source: [LinkedIn post](https://www.linkedin.com/posts/lilien-auger_641-buildings-detected-in-less-than-1-minute-ugcPost-7483547339945791488-V8qW); see [[LinkedIn]]. The post put its how-to guide in the comments, which need a login; the plugin and docs links come from web search.
+  - Related: [[Deep_Learning]], [[Machine_Learning]]
+
 - [GlobalBuildingAtlas: An Open Global and Complete Dataset of Building Polygons, Heights and LoD1 3D Models](https://arxiv.org/abs/2506.04106): GlobalBuildingAtlas: An Open Global and Complete Dataset of Building Polygons, Heights and LoD1 3D Models. Zhu, Chen, Zhang, Shi & Wang, arXiv 2506.04106, submitted 4 June 2025. More than 2.75 billion buildings worldwide with polygon boundaries, heights and LoD1 3D models, produced by machine learning pipelines that extract footprints and elevation from PlanetScope imagery, then fused with existing open building datasets under a quality-based strategy. Heights come at 3×3 m against the 90 m of previous global products, with 1.5–8.9 m RMSE depending on continent. *Keywords: building footprints, building height, LoD1 3D, global coverage, PlanetScope, 2.75 billion buildings*
   - Related: [[Data]], [[Remote_Sensing]], [[Benchmark_Datasets]]
 

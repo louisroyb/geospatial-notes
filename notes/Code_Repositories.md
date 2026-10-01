@@ -9,12 +9,26 @@
 
 | Repository                                                                                    | What it is                               | Filed under           | Language | License       | ★   | Last push  |
 | --------------------------------------------------------------------------------------------- | ---------------------------------------- | --------------------- | -------- | ------------- | --- | ---------- |
+| [google-research/tabfm](https://github.com/google-research/tabfm) | Zero-shot tabular foundation model | [[Foundation_Models]] | Python | Apache-2.0 | 2,700 | 2026-09-18 |
+| [geojupyter/jupyter-tiler](https://github.com/geojupyter/jupyter-tiler) | Dynamic tiles for xarray in Jupyter | [[Python]] | Python | BSD-3-Clause | 8 | 2026-10-01 |
+| [MadsLorentzen/ai-job-search](https://github.com/MadsLorentzen/ai-job-search) | Claude Code job application pipeline | [[Agentic_Coding]] | Python | MIT | 44,696 | 2026-10-01 |
+| [NirDiamant/GenAI_Agents](https://github.com/NirDiamant/GenAI_Agents) | 50+ agent tutorials | [[Agentic_Coding]] | Jupyter | custom | 24,438 | 2026-10-01 |
+| [microsoft/ai-agents-for-beginners](https://github.com/microsoft/ai-agents-for-beginners) | 18-lesson agents course | [[Agentic_Coding]] | Jupyter | MIT | 76,302 | 2026-09-19 |
+| [dair-ai/Prompt-Engineering-Guide](https://github.com/dair-ai/Prompt-Engineering-Guide) | Prompt and context engineering guide | [[Agentic_Coding]] | MDX | MIT | 78,768 | 2026-03-11 |
+| [AGI-Edgerunners/LLM-Agents-Papers](https://github.com/AGI-Edgerunners/LLM-Agents-Papers) | LLM agent paper list | [[Agentic_Coding]] | Python | none declared | 2,349 | 2025-07-12 |
+| [wri/trazo](https://github.com/wri/trazo) | South American field boundary models | [[Agriculture]] | Jupyter | CC-BY-4.0 | 6 | 2026-09-02 |
+| [dgominski/treematch](https://github.com/dgominski/treematch) | Tree counting from satellite imagery | [[Forestry]] | Python | none declared | 17 | 2026-07-29 |
+| [borioda/GLaSP](https://github.com/borioda/GLaSP) | GNSS receiver signal processing lab | [[Learning_Resources]] | Jupyter | none declared | 32 | 2026-07-14 |
+| [geocompx/user26](https://github.com/geocompx/user26) | Geocomputation with R tutorial | [[Learning_Resources]] | R | none declared | 25 | 2026-07-07 |
+| [FPSica/BeyondBackscatter](https://github.com/FPSica/BeyondBackscatter) | InSAR coherence from GRD | [[Remote_Sensing]] | Python | MIT | 10 | 2026-07-06 |
+| [MiltoMiltiadou/PlotToSat](https://github.com/MiltoMiltiadou/PlotToSat) | S1/S2 time series at field plots (GEE) | [[Google_Earth_Engine]] | Jupyter | GPL-3.0 | 51 | 2026-06-22 |
+| [isaaccorley/terrabit](https://github.com/isaaccorley/terrabit) | Browser search over binarized Clay embeddings | [[Embeddings]] | TypeScript | Apache-2.0 | 79 | 2026-04-09 |
 | [opengeos/geolibre-rust](https://github.com/opengeos/geolibre-rust) | 936 WASM geoprocessing tools for GeoLibre | [[Geospatial_Platforms]] | Rust | MIT | 284 | 2026-09-25 |
 | [radiantearth/stac-browser](https://github.com/radiantearth/stac-browser) | Web UI for STAC catalogs and APIs | [[Data]] | JavaScript | ISC | 423 | 2026-09-29 |
 | [EOCoreINT/pygeofetch](https://github.com/EOCoreINT/pygeofetch) | Multi-provider satellite data fetcher | [[Python]] | Python | MIT | 35 | 2026-09-29 |
 | [konstantinklemmer/isprs26-embeddings-tutorial](https://github.com/konstantinklemmer/isprs26-embeddings-tutorial) | ISPRS 2026 Earth embeddings tutorial | [[Embeddings]] | Jupyter | MIT | 96 | 2026-07-07 |
 | [masolele/WAC](https://github.com/masolele/WAC) | EUDR commodity + deforestation mapping | [[Forestry]] | Jupyter | none declared | 2 | 2026-08-19 |
-| [aws-samples/sample-geospatial-kiro-power-pack](https://github.com/aws-samples/sample-geospatial-kiro-power-pack) | Geospatial pack for the Kiro agentic IDE | [[Agentic_Coding]] | Python | MIT-0 | 15 | 2026-07-10 |
+| [aws-samples/sample-geospatial-kiro-power-pack](https://github.com/aws-samples/sample-geospatial-kiro-power-pack) | Geospatial pack for the Kiro agentic IDE | [[Agentic_Coding]] | Python | MIT-0 | 19 | 2026-09-24 |
 | [AmirmasoudCS/Crop-Yield-Prediction](https://github.com/AmirmasoudCS/Crop-Yield-Prediction) | Per-crop vs global regression study | [[Agriculture]] | Jupyter | MIT | 1 | 2026-08-25 |
 | [eugeniapapathe/S2GAIA](https://github.com/eugeniapapathe/S2GAIA) | S2GAIA dataset code | [[Land_Cover]] | Python | none declared | 0 | 2026-08-12 |
 | [amirsharifi97/NDVI-Tree-Crown-Detection](https://github.com/amirsharifi97/NDVI-Tree-Crown-Detection) | NDVI + watershed crown mask tool | [[Forestry]] | Python | none declared | 5 | 2024-08-31 |
@@ -33,7 +47,7 @@
 | [torchgeo/ssl4eo-l](https://github.com/torchgeo/ssl4eo-l) | SSL4EO-L dataset reproduction code | [[Foundation_Models]] | Python | MIT | 1 | 2026-01-13 |
 | [montimaj/agribound](https://github.com/montimaj/agribound)                                   | Field boundary delineation toolkit       | [[Agriculture]]       | Python   | Apache-2.0    | 83  | 2026-07-13 |
 | [AI-Tianlong/HieraRS](https://github.com/AI-Tianlong/HieraRS)                                 | Hierarchical LCLU segmentation           | [[Land_Cover]]        | —        | none declared | 16  | 2026-07-09 |
-| [google/forest-data-partnership](https://github.com/google/forest-data-partnership)           | Commodity probability models             | [[Forestry]]          | Jupyter  | MIT           | 55  | 2026-05-01 |
+| [google/forest-data-partnership](https://github.com/google/forest-data-partnership)           | Commodity probability models             | [[Forestry]]          | Jupyter  | MIT           | 55  | 2026-09-08 |
 | [MiliLab/S5](https://github.com/MiliLab/S5)                                                   | Semi-supervised segmentation (AAAI 2026) | [[Land_Cover]]        | Python   | none declared | 41  | 2025-12-04 |
 | [sijieaaa/UAVScenes](https://github.com/sijieaaa/UAVScenes)                                   | UAV image + LiDAR benchmark              | [[Remote_Sensing]]    | Python   | custom        | 206 | 2025-11-17 |
 | [buyukkanber/vhrv](https://github.com/buyukkanber/vhrv)                                       | Vessel detection benchmark               | [[Remote_Sensing]]    | —        | none declared | 6   | 2025-09-24 |
@@ -42,6 +56,11 @@
 
 ## Actively maintained
 
+- **[google-research/tabfm](https://github.com/google-research/tabfm)** — Apache-2.0, 2,700 stars, Google Research's tabular foundation model, also in BigQuery. Note on [[Foundation_Models]].
+- **[MadsLorentzen/ai-job-search](https://github.com/MadsLorentzen/ai-job-search)** — MIT, ~44.7k stars after going viral; a Claude Code agent pipeline for job applications. Note on [[Agentic_Coding]].
+- **[geojupyter/jupyter-tiler](https://github.com/geojupyter/jupyter-tiler)** — BSD-3-Clause, alpha, shipped through JupyterGIS. Note on [[Python]].
+- **[wri/trazo](https://github.com/wri/trazo)** — CC-BY-4.0 (a content license, used here for code), WRI / Land & Carbon Lab field boundary models for South America. Note on [[Agriculture]].
+- **The three big agent-learning repos** from Sundaresan's list — [microsoft/ai-agents-for-beginners](https://github.com/microsoft/ai-agents-for-beginners) (MIT), [dair-ai/Prompt-Engineering-Guide](https://github.com/dair-ai/Prompt-Engineering-Guide) (MIT) and [NirDiamant/GenAI_Agents](https://github.com/NirDiamant/GenAI_Agents) (GitHub reports a non-standard license). Each has tens of thousands of stars. Note on [[Agentic_Coding]].
 - **[radiantearth/stac-browser](https://github.com/radiantearth/stac-browser)** — ISC, 423 stars, the reference web UI for STAC, in development since 2018. v5 is a breaking release; it had 89 open issues when checked. Note on [[Data]].
 - **[opengeos/geolibre-rust](https://github.com/opengeos/geolibre-rust)** — MIT, 284 stars three months after creation. WhiteboxTools' next-generation tools plus GeoLibre's own, compiled to WebAssembly. Note on [[Geospatial_Platforms]].
 - **[EOCoreINT/pygeofetch](https://github.com/EOCoreINT/pygeofetch)** — MIT, 35 stars, created May 2026 and pushed this week. Still young, so expect API churn. Note on [[Python]].
@@ -63,6 +82,12 @@
 
 ## Released and quiet
 
+- **[dgominski/treematch](https://github.com/dgominski/treematch)** — ECCV 2026 code for TinyTrees/TreeMatch. No license file. Note on [[Forestry]].
+- **[FPSica/BeyondBackscatter](https://github.com/FPSica/BeyondBackscatter)** — MIT, paper code plus a Colab notebook and Hugging Face weights. Note on [[Remote_Sensing]].
+- **[MiltoMiltiadou/PlotToSat](https://github.com/MiltoMiltiadou/PlotToSat)** — GPL-3.0, the only copyleft repo tracked here, so derivatives must stay GPL. Note on [[Google_Earth_Engine]].
+- **[isaaccorley/terrabit](https://github.com/isaaccorley/terrabit)** — Apache-2.0, browser-only embedding search. Note on [[Embeddings]].
+- **[borioda/GLaSP](https://github.com/borioda/GLaSP)** and **[geocompx/user26](https://github.com/geocompx/user26)** — teaching material, both without a license file. Notes on [[Learning_Resources]].
+- **[AGI-Edgerunners/LLM-Agents-Papers](https://github.com/AGI-Edgerunners/LLM-Agents-Papers)** — paper list, last pushed July 2025, no license. Note on [[Agentic_Coding]].
 - **[konstantinklemmer/isprs26-embeddings-tutorial](https://github.com/konstantinklemmer/isprs26-embeddings-tutorial)** — MIT, 96 stars. Conference tutorial material, finished before ISPRS 2026 and not expected to change. Note on [[Embeddings]].
 These are dataset or paper releases rather than living projects; a stale push date is expected, not a warning sign.
 
@@ -79,7 +104,7 @@ These are dataset or paper releases rather than living projects; a stale push da
 
 ## Licensing watch
 
-Nine of the thirty cannot be safely reused as-is: HieraRS, VHRV, proj-vit, S5, S2GAIA, NDVI-Tree-Crown-Detection and WAC declare no license at all (default copyright, all rights reserved), while UAVScenes and OlmoEarth ship non-standard ones. PySTAC reports as unrecognised by the GitHub API but documents itself as Apache-2.0, so check its LICENSE file rather than assuming. Everything else carries clear permissive terms: Apache-2.0 (agribound, annotation, planetlabs/notebooks), MIT (forest-data-partnership, OpenEarthMap-SAR, HarvestStat-Africa, SentinelLabel, ssl4eo-l, ML-For-Beginners, awesome-spectral-indices, geoai-datacubes) or CC0-1.0 (Awesome-Geospatial). The four added on 2026-10-02 (geolibre-rust, pygeofetch, isprs26-embeddings-tutorial under MIT; stac-browser under ISC) are all permissive.
+Fourteen of the forty-four cannot be safely reused as-is. HieraRS, VHRV, proj-vit, S5, S2GAIA, NDVI-Tree-Crown-Detection, WAC, treematch, GLaSP, user26 and LLM-Agents-Papers declare no license at all (default copyright, all rights reserved). UAVScenes, OlmoEarth and GenAI_Agents ship non-standard ones. PlotToSat is GPL-3.0, which is usable but copyleft, and Trazo uses CC-BY-4.0, a content license, for its code. PySTAC reports as unrecognised by the GitHub API but documents itself as Apache-2.0, so check its LICENSE file rather than assuming. Everything else carries clear permissive terms: Apache-2.0 (agribound, annotation, planetlabs/notebooks), MIT (forest-data-partnership, OpenEarthMap-SAR, HarvestStat-Africa, SentinelLabel, ssl4eo-l, ML-For-Beginners, awesome-spectral-indices, geoai-datacubes) or CC0-1.0 (Awesome-Geospatial). The four added on 2026-10-02 (geolibre-rust, pygeofetch, isprs26-embeddings-tutorial under MIT; stac-browser under ISC) are all permissive.
 
 ## Projects referenced without a GitHub link
 
@@ -89,8 +114,10 @@ These are code projects noted elsewhere in the base whose notes point at documen
 - **GeoAI QGIS plugin** - [opengeos/geoai](https://github.com/opengeos/geoai). Note on [[Deep_Learning]].
 - **eo-learn** - [sentinel-hub/eo-learn](https://github.com/sentinel-hub/eo-learn). Note on [[Python]].
 - **DuckDB** and its spatial extension - [duckdb/duckdb](https://github.com/duckdb/duckdb), MIT, ~40.6k stars, and [duckdb/duckdb-spatial](https://github.com/duckdb/duckdb-spatial), MIT, ~702 stars. The note points at a cookbook article rather than either repo, and cites DuckDB issue #20113. Note on [[SQL]].
+- **obstore** and **rustac** - [developmentseed/obstore](https://github.com/developmentseed/obstore), MIT, 821 stars, and [stac-utils/rustac](https://github.com/stac-utils/rustac), Apache-2.0, 146 stars, both pushed 2026-09-29. Named in a YouTube talk rather than linked. Note on [[Python]].
+- **HydroPML** - the [HydroPML organisation](https://github.com/HydroPML), with 7 repos and no licenses; FloodCast is the most starred at 52. The note points at the project website. Note on [[Climate_Change]].
 - **ESA CCI Toolbox** - [esa-cci/esa-climate-toolbox](https://github.com/esa-cci/esa-climate-toolbox), MIT, 43 stars, pushed 2026-09-21. The LinkedIn post's link points at the ESA toolbox page rather than the repo. Note on [[Climate_Change]].
 
 ## Related topics
 
-[[LinkedIn]] · [[Benchmark_Datasets]] · [[Foundation_Models]] · [[Community_Resources]] · [[Agriculture]] · [[Land_Cover]] · [[Remote_Sensing]] · [[Forestry]] · [[Python]] · [[Data]] · [[SQL]] · [[Embeddings]] · [[Geospatial_Platforms]]
+[[LinkedIn]] · [[Benchmark_Datasets]] · [[Foundation_Models]] · [[Community_Resources]] · [[Agriculture]] · [[Land_Cover]] · [[Remote_Sensing]] · [[Forestry]] · [[Python]] · [[Data]] · [[SQL]] · [[Embeddings]] · [[Geospatial_Platforms]] · [[Agentic_Coding]] · [[Google_Earth_Engine]] · [[Climate_Change]]

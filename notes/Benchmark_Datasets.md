@@ -1,7 +1,7 @@
 # Benchmark Datasets
 
 **Summary**: Hub page for labeled datasets and benchmarks collected across the knowledge base, grouped by what they are built to test.
-**Last updated**: 2026-08-25
+**Last updated**: 2026-10-02
 
 ---
 
@@ -21,10 +21,13 @@ Datasets are filed on their subject pages; this page gathers the pointers.
 
 **Segmentation and land cover**
 - OpenEarthMap-SAR — 1.5M segments, eight classes, all-weather SAR; 2025 IEEE GRSS Data Fusion Contest Track 1. See [[Land_Cover]].
+- S1S2_AI4LCC — co-located Sentinel-1/2 with 5-class AI4LCC land cover labels over Northern Africa, 13.9 GB in Zarr. See [[Land_Cover]].
 - HieraRS / MM-5B — hierarchical multi-granularity LCLU labels. See [[Land_Cover]].
 - RS4P-1M — 1M-image curated pretraining corpus behind S5. See [[Land_Cover]].
 
 **Object and boundary extraction**
+- TinyTrees — 216M individual trees over 25,890 km² of China, Rwanda and France from 3 sensors, for counting rather than crown delineation; ECCV 2026. See [[Forestry]].
+- Trazo — 40,000+ crop field boundaries across 17 South American ecoregions, extending Fields of the World. See [[Agriculture]].
 - SelvaBox — 83,000+ manually labeled tropical tree crowns in 3–10 cm drone imagery. See [[Forestry]].
 - Fields of the World — 1.6M labeled parcels across 24 countries, plus a 3.17B-polygon global product. See [[Agriculture]].
 - GTPBD — 200,000+ terraced parcels with boundaries, masks and labels. See [[Agriculture]].
@@ -34,6 +37,7 @@ Datasets are filed on their subject pages; this page gathers the pointers.
 **Multimodal and time series**
 - UAVScenes — ~120,000 labeled image and LiDAR pairs with 6-DoF poses. See [[Remote_Sensing]].
 - MONITRS — 10,000+ FEMA disaster events pairing temporal imagery with news annotations. See [[Climate_Change]].
+- HydroPML — datasets and baselines for physics-aware ML in rainfall-runoff, flood and landslide forecasting. See [[Climate_Change]].
 - Groundsource — 2.6M flood events mined from news across 150+ countries. See [[Climate_Change]].
 - FloodPlanet — 366 manual flood labels on PlanetScope with aligned Sentinel-1/2 and Landsat-8. See [[Climate_Change]].
 - Himalayan glacial lakes — 10 bands plus lake boundary labels for glacial lake detection. See [[Climate_Change]].

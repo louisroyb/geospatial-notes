@@ -5,6 +5,14 @@
 
 ---
 
+- [CNG London 2026 — notes from Anil Madhavapeddy](https://anil.recoil.org/notes/cng-london-2026): LinkedIn post by Anil Madhavapeddy (Cambridge), 26 June 2026, on the Cloud-Native Geospatial Forum's London meetup during Climate Action Week: *"50 geospatial geeks from across industry and academia and policy descending on the Jellicoe where ARIA is also based."* His blog note (24 June) calls it the first CNG Forum event outside the US. Highlights:
+  - Source Cooperative now hosts about 6 PB, at roughly $20/TB/month behind Cloudflare R2 caching, and he hopes TESSERA will be published there.
+  - Earth Genome benchmarked TESSERA against AlphaEarth and OlmoEarth on benthic habitats.
+  - Barrios Visibles reported census undercounts in Argentina's informal settlements.
+  - *Keywords: Cloud-Native Geospatial Forum, CNG London, TESSERA, Source Cooperative, Earth Genome, community event*
+  - Source: [LinkedIn post](https://www.linkedin.com/posts/anilmadhavapeddy_a-scorching-cng-london-during-climate-action-share-7476182931414188032-us_S); see [[LinkedIn]]. The figures above are from Madhavapeddy's note and were not checked against a second source.
+  - Related: [[Embeddings]], [[Data]]
+
 - [GeoSpatial ML](https://geospatialml.com/): GeoSpatial ML Weekly dispatches on geospatial machine learning — remote sensing, earth observation, and everything in between Isaac Corley & Caleb Robinson. A weekly newsletter run by Isaac Corley and Caleb Robinson covering geospatial machine learning, remote sensing and Earth observation. *Keywords: newsletter, geospatial machine learning, weekly, Isaac Corley, Caleb Robinson, earth observation*
   - Both authors have written free books, Corley's *First Principles of Geospatial Computer Vision* (hosted on this site) and Robinson's *Geospatial Machine Learning*. Both are on [[Learning_Resources]].
   - Related: [[Machine_Learning]], [[Remote_Sensing]], [[Learning_Resources]]
@@ -20,4 +28,4 @@
 
 ## Related topics
 
-[[Code_Repositories]] · [[Learning_Resources]] · [[Machine_Learning]] · [[Agriculture]] · [[Foundation_Models]]
+[[Code_Repositories]] · [[Learning_Resources]] · [[Machine_Learning]] · [[Agriculture]] · [[Foundation_Models]] · [[Embeddings]] · [[LinkedIn]]

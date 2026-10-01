@@ -5,6 +5,9 @@
 
 ---
 
+- [Nimbo — Earth map and live satellite view](https://nimbo.earth/): Kermap's (France) platform built on Sentinel data. It offers monthly cloud-free global basemaps at 10 m, an HD option at 2.5 m, crop analytics (Crop ID, Soil Cover) and global 3D terrain, and claims 300 TB of Sentinel data processed a month and 320+ layers from 2019 onwards. Pricing: a free non-commercial "Discovery" tier with watermarked layers and 4,000 geocredits a month; Pro from €20/month; Pro HD from €45/month. Commercial use, downloads, terrain and radar are Enterprise-only. Viewer at [maps.nimbo.earth](https://maps.nimbo.earth), [docs](https://docs.nimbo.earth/). *Keywords: Nimbo, Kermap, cloud-free basemaps, Sentinel-2 mosaics, crop analytics, freemium*
+  - Related: [[Remote_Sensing]], [[Agriculture]]
+
 - [geolibre-rust v1.0](https://opengeos.org/geolibre-rust): LinkedIn post by Qiusheng Wu, 23 July 2026, releasing a pure-Rust geospatial toolkit compiled to WebAssembly: 936 tools that run in the browser with no server, Python install or local setup. 732 tools come from whitebox-wasm (the next-generation WhiteboxTools) and 204 were written for GeoLibre. Pick a tool, get an auto-generated parameter form, and run it on your own data. *"This is part of the broader GeoLibre effort to build a fast, open, and dependency-light geospatial stack that works anywhere the web does."* The tools can be used from GeoLibre, Python, Jupyter and JavaScript. Code at [opengeos/geolibre-rust](https://github.com/opengeos/geolibre-rust), MIT. *Keywords: GeoLibre, Rust, WebAssembly, WhiteboxTools, browser GIS, geoprocessing*
   - Source: [LinkedIn post](https://www.linkedin.com/posts/giswqs_opensource-geospatial-rust-share-7486097969965056000-2F7N); see [[LinkedIn]]. Both `lnkd.in` links (GitHub and live demo) were resolved.
   - The processing engine behind the GeoLibre browser GIS noted below.

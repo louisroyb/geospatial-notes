@@ -75,3 +75,33 @@
   - All 11 `lnkd.in` shortlinks across the four LinkedIn posts were resolved. `utm_*` and `rcm` parameters were stripped from all four post URLs, and `utm_medium=social` from the two Land & Carbon Lab links. Post dates were decoded from the activity IDs (22–23 July 2026).
   - Small inconsistencies, both noted: the Spatialists post describes four application types (from the slides), while the repository has two notebooks; and the PDAL tutorial page gives "July 10" with no year.
   - The WRI working paper's DOI (10.46830/wriwp.25.00003) was read from the WRI page; it was not separately checked against Crossref.
+- 2026-10-02 — *raw/New_Notes.md* (sixth batch) — Processed 49 URLs, mostly LinkedIn posts shared from the Android app. Fetching was split across five research subagents; all notes were written centrally. The batch produced 39 new notes, 3 merges into existing notes, 4 links folded into other notes as duplicates or sub-links, and 3 links left unfiled.
+  - **New page:** `Careers_and_Research.md` (cross-cutting; added to `index.md` and to the Cross-cutting section of the `mkdocs.yml` nav). It holds the thesis-repository list, 18 free PhD research courses, the World Bank Group careers portal and a closed UN OCHA training. It links to the UZH PhD vacancy on `Forestry` and the ai-job-search pipeline on `Agentic_Coding`. There was no home for career and research-skills material, and four notes needed one.
+  - **Filed:**
+    - `Forestry` (5): TreeMatch/TinyTrees (ECCV 2026), SmartForest4.0 stand segmentation, Ahrari's Earth Engine forestry tutorials, Google's AlphaEarth pan-tropical commodity maps, EUDR GeoCheck Lite.
+    - `Learning_Resources` (10): ECMWF data assimilation course, WUR/WIMEK GeoAI PhD course, CCAI summer school, Geocomputation with R, GLaSP GNSS lab, Esri MOOCs, RL lectures, climate course lists, FAO course lists, Data for Development courses, Kaggle Learn.
+    - `Remote_Sensing` (3): Beyond Backscatter, OmniCloudMask/Cloud Score+, Gamma Earth super-resolution.
+    - `Embeddings` (3): TerraBit, LGND Studio, Esri's geodemographic embeddings intro.
+    - `Agentic_Coding` (2): ai-job-search, Sundaresan's 50 LLM resources.
+    - `Python` (2): jupyter-tiler, Gadomski's Rust talk.
+    - `Cartography` (2): Ricker's student portfolios, Claude Design for QGIS legends.
+    - `Climate_Change` (2): ICAT IPCC Inventory Software course, HydroPML.
+    - One each: `Agriculture` (Trazo), `Urban_Planning` (TerraLab AI Segmentation), `Land_Cover` (S1S2_AI4LCC), `Geospatial_Platforms` (Nimbo), `Google_Earth_Engine` (PlotToSat), `Foundation_Models` (TabFM), `Community_Resources` (CNG London).
+    - Indexed TinyTrees, Trazo, S1S2_AI4LCC and HydroPML on `Benchmark_Datasets`.
+  - **Merged, not duplicated:**
+    - Taylor Teske's Kiro Power Pack announcement went into the existing Kiro note on `Agentic_Coding` as a second source. The repo row was refreshed to 19 stars, pushed 2026-09-24.
+    - Konstantin Klemmer's own ISPRS tutorial post went into the existing Spatialists note on `Embeddings`, adding the full organiser list and LGND's Research Tier.
+    - Robinson John's and Mariam Hamzeh's overlapping free-climate-course lists became one note, as did Ceaser Draza's and Humanitarian Jobs Hub's FAO course posts.
+    - Data for Development's DFD100 post and its KoboToolbox + QGIS course page became one note.
+  - **Not filed (3):** the three LinkedIn *group* posts (`urn:li:groupPost:12865503-7480213487630237696`, `12698393-7472247047547596800` and `12698393-7478133747721261057`; dated 7 Jul, 15 Jun and 1 Jul 2026 from their IDs). Group posts sit behind a login wall: curl returned an empty app shell, WebFetch returned 404, the reader proxy is blocked, and search found nothing. Raised with the user and left in `processed/` for re-filing once their text is pasted.
+  - **Repositories:** 14 added to the `Code_Repositories.md` table, now 44. Licensing watch: 14 of 44 cannot be safely reused as-is. treematch, GLaSP, geocompx/user26 and LLM-Agents-Papers declare no license, and GenAI_Agents reports a non-standard one. PlotToSat is the first copyleft (GPL-3.0) repo tracked, and Trazo uses CC-BY-4.0, a content license, for its code. obstore, rustac and the HydroPML organisation went under "Projects referenced without a GitHub link". google/forest-data-partnership's last-push date was refreshed (2026-09-08).
+  - **LinkedIn:** recorded 34 posts on `LinkedIn.md`, and Google's TabFM blog (which carried `utm_source=linkedin`) under "Found through the feed". `utm_*` and `rcm` tracking was stripped from every URL, and all `lnkd.in`, bit.ly and tinyurl links were resolved. One `lnkd.in` link in the Ahrari post resolved to nothing. Post dates were decoded from activity IDs.
+  - **Fetch caveats recorded on the notes:**
+    - For the Fisher and Ricker posts, LinkedIn served an *unrelated* post at the slug URL. The real posts were read from their `feed/update` and `embed` URLs.
+    - Esri's blog returned 403 throughout, so that note is built from search snippets with no quotes.
+    - The WUR course page is JavaScript-only, so fees and deadlines come from search snippets.
+    - Medium returned 403 for the Google commodity-maps post, which was read through a reader proxy.
+    - The World Bank portal is a JavaScript app with no readable content.
+  - **Time-sensitive:** the ECMWF course application deadline is 11 October 2026. The CCAI summer school, the WUR course (ends today), the OCHA training and the Esri UC session tied to the Kiro pack are all past, and their notes say so.
+  - **Housekeeping:** two subagents had saved scratch downloads (`esri.html`, `wb.html`) into the repo root. They were deleted before commit and never pushed.
+  - Refreshed "Latest Finds": TreeMatch (Forestry), TerraBit (Embeddings), Trazo (Agriculture). Moved the source to `processed/New_Notes_2026-10-02_f.md` and emptied `raw/New_Notes.md`.
