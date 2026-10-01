@@ -90,6 +90,8 @@ Some courses sit on their subject page because the subject, not the teaching, is
 - **Cities and urban data** — the UCLA Luskin [Urban Data Science](https://urbandatascience.its.ucla.edu/) course, with public Jupyter notebooks, is on [[Urban_Planning]].
 - **GIS platforms** — the Africa GeoPortal learning center bundles Esri e-learning with free tool access; see [[Data]].
 
+The ISPRS 2026 Earth embeddings tutorial (Konstantin Klemmer; slides plus two Colab notebooks) is on [[Embeddings]], next to the research it teaches.
+
 ## Related topics
 
 [[Remote_Sensing]] · [[Foundation_Models]] · [[Community_Resources]] · [[Urban_Planning]] · [[Agriculture]] · [[Google_Earth_Engine]] · [[Python]] · [[Machine_Learning]] · [[Data]] · [[Deep_Learning]] · [[Climate_Change]] · [[LinkedIn]]

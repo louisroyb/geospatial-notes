@@ -22,6 +22,8 @@
 
 Clayton Miller's NUS course on data science for the built environment (Python, Pandas, data cleaning, visualisation and intro ML) is on [[Learning_Resources]].
 
+AV-QGIS, a QGIS module for Swiss cadastral surveying funded by 60 firms, is on [[Cartography]].
+
 ## Related topics
 
 Whether Google and Microsoft building footprints actually agree with each other, measured per-polygon with IoU rather than assumed, is on [[Machine_Learning]].

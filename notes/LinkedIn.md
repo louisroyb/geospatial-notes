@@ -9,6 +9,10 @@ Posts shared as links from the mobile app arrive with `utm_*` and `rcm` tracking
 
 | Item | Author | Kind | Filed under |
 |---|---|---|---|
+| [geolibre-rust v1.0](https://www.linkedin.com/posts/giswqs_opensource-geospatial-rust-share-7486097969965056000-2F7N) | Qiusheng Wu | Feed post, shared link | [[Geospatial_Platforms]] |
+| [STAC Browser v5.0.0-rc.2](https://www.linkedin.com/posts/matthias-mohr-565748178_we-just-released-stac-browser-v500-rc2-ugcPost-7486091938614448128-RBgH) | Matthias Mohr | Feed post, shared link | [[Data]] |
+| [Comparing deforestation data for South American soy](https://www.linkedin.com/posts/deforestation-soy-supplychains-share-7486066279666089984-qmoq) | Land & Carbon Lab | Feed post, shared link | [[Forestry]] |
+| [PyGeoFetch](https://www.linkedin.com/posts/samuel-appiah-kubi-b52633333_pygeofetch-earthobservation-remotesensing-ugcPost-7485712214419464192-4Mqz) | Samuel Appiah Kubi | Feed post, shared link | [[Python]] |
 | [ESA Climate Change Initiative Toolbox](https://www.linkedin.com/posts/decades-of-satellite-climate-data-a-share-7492598826059509762-nFaK) | ESA Earth Observation Data Users | Feed post, shared link | [[Climate_Change]] |
 | [Leeds online CPD courses in data](https://www.linkedin.com/posts/were-delighted-to-launch-our-new-online-share-7492496400371453952-BfXg) | Leeds Institute for Data Analytics (LIDA) | Feed post, shared link | [[Learning_Resources]] |
 | [Data Science for Construction, Architecture and Engineering — now on YouTube](https://www.youtube.com/playlist?list=PLbdvNIqD31Gimy8PhMTWW7oOdgdP74Ycn) | Not in the clipping (course by Clayton Miller, NUS BUDS Lab) | Feed post, clipped | [[Learning_Resources]] |
@@ -24,6 +28,10 @@ Posts shared as links from the mobile app arrive with `utm_*` and `rcm` tracking
 
 ## Posts
 
+- **[geolibre-rust v1.0](https://www.linkedin.com/posts/giswqs_opensource-geospatial-rust-share-7486097969965056000-2F7N)** — Wu releasing 936 Rust/WebAssembly geoprocessing tools (732 from whitebox-wasm, 204 new) that run entirely in the browser. Note on [[Geospatial_Platforms]].
+- **[STAC Browser v5.0.0-rc.2](https://www.linkedin.com/posts/matthias-mohr-565748178_we-just-released-stac-browser-v500-rc2-ugcPost-7486091938614448128-RBgH)** — Mohr asking people to test the v5 release candidate before a breaking major release. The main visible change is a fixed, coloured header. Note on [[Data]].
+- **[Comparing deforestation data for South American soy](https://www.linkedin.com/posts/deforestation-soy-supplychains-share-7486066279666089984-qmoq)** — Land & Carbon Lab on why Tree Cover Loss, MapBiomas and PRODES disagree: each defines forest differently. Soy accounts for only 3–12% of forest loss. Links a WRI working paper. Note on [[Forestry]].
+- **[PyGeoFetch](https://www.linkedin.com/posts/samuel-appiah-kubi-b52633333_pygeofetch-earthobservation-remotesensing-ugcPost-7485712214419464192-4Mqz)** — Appiah Kubi introducing a single Python/CLI interface to 20+ satellite data providers, with preprocessing, spectral indices and a pure-Python InSAR pipeline, built with Global South institutions in mind. Note on [[Python]].
 - **[ESA Climate Change Initiative Toolbox](https://www.linkedin.com/posts/decades-of-satellite-climate-data-a-share-7492598826059509762-nFaK)** — ESA's EO data-users account announcing the `esa-climate-toolbox` Python package: about 500 validated satellite climate records across the Essential Climate Variables, opened as xarray and geopandas objects, with operators for resampling, coregistration and time-series extraction. Note on [[Climate_Change]].
 - **[Leeds online CPD courses in data](https://www.linkedin.com/posts/were-delighted-to-launch-our-new-online-share-7492496400371453952-BfXg)** — LIDA launching online 15-credit CPD modules for working professionals, starting with *Getting Started with Data* and *Data Management & Governance*. Note on [[Learning_Resources]].
 - **[Data Science for Construction, Architecture and Engineering — now on YouTube](https://www.youtube.com/playlist?list=PLbdvNIqD31Gimy8PhMTWW7oOdgdP74Ycn)** — An announcement that the NUS course, on edX from 2020 to 2024, is now fully on YouTube after NUS stopped using edX. It links five section playlists: Python, Pandas, data cleaning, data visualisation and intro ML. The clipping did not include the post URL or the poster's name, so the link here goes to the Section 1 playlist. The course itself is Clayton Miller's (NUS BUDS Lab), but the clipping alone does not confirm who posted it. Note on [[Learning_Resources]].
@@ -45,4 +53,4 @@ Items whose note URL carries LinkedIn campaign tracking, meaning they were picke
 
 ## Related topics
 
-[[Agriculture]] · [[Land_Cover]] · [[Embeddings]] · [[Forestry]] · [[Agentic_Coding]] · [[Geospatial_Platforms]] · [[Machine_Learning]] · [[Urban_Planning]] · [[Foundation_Models]] · [[Community_Resources]] · [[Code_Repositories]] · [[Learning_Resources]] · [[Climate_Change]]
+[[Agriculture]] · [[Land_Cover]] · [[Embeddings]] · [[Forestry]] · [[Agentic_Coding]] · [[Geospatial_Platforms]] · [[Machine_Learning]] · [[Urban_Planning]] · [[Foundation_Models]] · [[Community_Resources]] · [[Code_Repositories]] · [[Learning_Resources]] · [[Climate_Change]] · [[Data]] · [[Python]]

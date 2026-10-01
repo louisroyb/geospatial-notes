@@ -9,9 +9,9 @@
 
 The three most recent additions, each from a different topic page.
 
-- [ESA Climate Change Initiative Toolbox](https://climate.esa.int/en/data/toolbox/) — A Python package that opens about 500 validated satellite climate records, from sea ice to soil moisture, as xarray and geopandas objects. On [[Climate_Change]].
-- [WAC — World AgroCommodities](https://github.com/masolele/WAC) — openEO/CDSE code for mapping commodity parcels and detecting post-2020 deforestation, for EUDR compliance. On [[Forestry]].
-- [Earth Index](https://app.earthindex.ai/project-view/28b88ac3-8965-4d06-b076-94a64f6408b1/fc253432-ca72-452a-9e29-9e9164bc4357/#15.85/-0.197194/30.501993) — Earth Genome's similarity search over 3.5 billion Sentinel-2 embeddings: mark a few examples and it finds similar places anywhere. On [[Embeddings]].
+- [Foundation models and earth embeddings](https://spatialists.ch/posts/2026/07/15-foundation-models-and-earth-embeddings/) — Konstantin Klemmer's ISPRS 2026 tutorial: free slides and two GPU-free Colab notebooks on using and building Earth embeddings (SatCLIP, AlphaEarth, MOSAIKS). On [[Embeddings]].
+- [Comparing deforestation data for South American soy](https://landcarbonlab.org/insights/data-comparison-deforestation-soy-south-america/) — Tree Cover Loss, MapBiomas and PRODES give different answers because each defines "forest" differently. On [[Forestry]].
+- [geolibre-rust v1.0](https://opengeos.org/geolibre-rust) — 936 Rust geoprocessing tools compiled to WebAssembly that run entirely in the browser. On [[Geospatial_Platforms]].
 
 ## Topics
 

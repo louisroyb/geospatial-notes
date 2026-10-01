@@ -1,7 +1,7 @@
 # Remote Sensing
 
 **Summary**: Notes on Earth observation imagery, satellite data products, time series change detection, and the formats and models used to work with them. Courses and training material live on [[Learning_Resources]].
-**Last updated**: 2026-08-25
+**Last updated**: 2026-10-02
 
 ---
 
@@ -35,6 +35,8 @@
 
 - [The Technical Debt of Earth Embedding Products](https://cloudnativegeo.org/blog/2026/02/the-technical-debt-of-earth-embedding-products/): Article comparing different earth embeddings. Compares nine Earth observation embedding products (Clay, Major TOM, Earth Index, Copernicus-Embed, Presto, Tessera, AlphaEarth and others) and argues that each ships as a "snowflake" with incompatible formats, tile schemes, and metadata, pushing a large integration burden onto downstream users. Also weighs the cost tradeoff between pixel and patch embeddings, and proposes cloud-native formats, standardized metadata, and open benchmarks as fixes. *Keywords: earth embeddings, GeoParquet, STAC, cloud-native geospatial, vision transformers, interoperability*
   - Related: [[Embeddings]], [[Data]]
+
+Canopy height from decades of stereo satellite imagery (a UZH PhD project), and a comparison of three deforestation datasets that disagree because they define forest differently, are on [[Forestry]]. LiDAR point-cloud processing with PDAL is on [[Python]].
 
 ## Related topics
 

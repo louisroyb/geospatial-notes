@@ -9,6 +9,10 @@
 
 | Repository                                                                                    | What it is                               | Filed under           | Language | License       | ★   | Last push  |
 | --------------------------------------------------------------------------------------------- | ---------------------------------------- | --------------------- | -------- | ------------- | --- | ---------- |
+| [opengeos/geolibre-rust](https://github.com/opengeos/geolibre-rust) | 936 WASM geoprocessing tools for GeoLibre | [[Geospatial_Platforms]] | Rust | MIT | 284 | 2026-09-25 |
+| [radiantearth/stac-browser](https://github.com/radiantearth/stac-browser) | Web UI for STAC catalogs and APIs | [[Data]] | JavaScript | ISC | 423 | 2026-09-29 |
+| [EOCoreINT/pygeofetch](https://github.com/EOCoreINT/pygeofetch) | Multi-provider satellite data fetcher | [[Python]] | Python | MIT | 35 | 2026-09-29 |
+| [konstantinklemmer/isprs26-embeddings-tutorial](https://github.com/konstantinklemmer/isprs26-embeddings-tutorial) | ISPRS 2026 Earth embeddings tutorial | [[Embeddings]] | Jupyter | MIT | 96 | 2026-07-07 |
 | [masolele/WAC](https://github.com/masolele/WAC) | EUDR commodity + deforestation mapping | [[Forestry]] | Jupyter | none declared | 2 | 2026-08-19 |
 | [aws-samples/sample-geospatial-kiro-power-pack](https://github.com/aws-samples/sample-geospatial-kiro-power-pack) | Geospatial pack for the Kiro agentic IDE | [[Agentic_Coding]] | Python | MIT-0 | 15 | 2026-07-10 |
 | [AmirmasoudCS/Crop-Yield-Prediction](https://github.com/AmirmasoudCS/Crop-Yield-Prediction) | Per-crop vs global regression study | [[Agriculture]] | Jupyter | MIT | 1 | 2026-08-25 |
@@ -38,6 +42,9 @@
 
 ## Actively maintained
 
+- **[radiantearth/stac-browser](https://github.com/radiantearth/stac-browser)** — ISC, 423 stars, the reference web UI for STAC, in development since 2018. v5 is a breaking release; it had 89 open issues when checked. Note on [[Data]].
+- **[opengeos/geolibre-rust](https://github.com/opengeos/geolibre-rust)** — MIT, 284 stars three months after creation. WhiteboxTools' next-generation tools plus GeoLibre's own, compiled to WebAssembly. Note on [[Geospatial_Platforms]].
+- **[EOCoreINT/pygeofetch](https://github.com/EOCoreINT/pygeofetch)** — MIT, 35 stars, created May 2026 and pushed this week. Still young, so expect API churn. Note on [[Python]].
 - **[masolele/WAC](https://github.com/masolele/WAC)** — World AgroCommodities: EO for deforestation-free supply chains under the EUDR, built on openEO and CDSE. 9 open issues and pushed in August 2026, but only 2 stars, no repository description and no license file, so it is project code rather than a released product. Note on [[Forestry]].
 - **[microsoft/ML-For-Beginners](https://github.com/microsoft/ML-For-Beginners)** - MIT, ~90k stars, the most starred repository tracked here. Note on [[Learning_Resources]].
 - **[sacridini/Awesome-Geospatial](https://github.com/sacridini/Awesome-Geospatial)** - CC0-1.0, 5,270 stars, 50+ categories of geospatial tooling. Note on [[Community_Resources]].
@@ -56,6 +63,7 @@
 
 ## Released and quiet
 
+- **[konstantinklemmer/isprs26-embeddings-tutorial](https://github.com/konstantinklemmer/isprs26-embeddings-tutorial)** — MIT, 96 stars. Conference tutorial material, finished before ISPRS 2026 and not expected to change. Note on [[Embeddings]].
 These are dataset or paper releases rather than living projects; a stale push date is expected, not a warning sign.
 
 - **[MiliLab/S5](https://github.com/MiliLab/S5)** — official code for the AAAI 2026 Oral paper on scalable semi-supervised segmentation. No license file. Note on [[Land_Cover]].
@@ -71,7 +79,7 @@ These are dataset or paper releases rather than living projects; a stale push da
 
 ## Licensing watch
 
-Nine of the twenty-six cannot be safely reused as-is: HieraRS, VHRV, proj-vit, S5, S2GAIA, NDVI-Tree-Crown-Detection and WAC declare no license at all (default copyright, all rights reserved), while UAVScenes and OlmoEarth ship non-standard ones. PySTAC reports as unrecognised by the GitHub API but documents itself as Apache-2.0, so check its LICENSE file rather than assuming. Everything else carries clear permissive terms: Apache-2.0 (agribound, annotation, planetlabs/notebooks), MIT (forest-data-partnership, OpenEarthMap-SAR, HarvestStat-Africa, SentinelLabel, ssl4eo-l, ML-For-Beginners, awesome-spectral-indices, geoai-datacubes) or CC0-1.0 (Awesome-Geospatial).
+Nine of the thirty cannot be safely reused as-is: HieraRS, VHRV, proj-vit, S5, S2GAIA, NDVI-Tree-Crown-Detection and WAC declare no license at all (default copyright, all rights reserved), while UAVScenes and OlmoEarth ship non-standard ones. PySTAC reports as unrecognised by the GitHub API but documents itself as Apache-2.0, so check its LICENSE file rather than assuming. Everything else carries clear permissive terms: Apache-2.0 (agribound, annotation, planetlabs/notebooks), MIT (forest-data-partnership, OpenEarthMap-SAR, HarvestStat-Africa, SentinelLabel, ssl4eo-l, ML-For-Beginners, awesome-spectral-indices, geoai-datacubes) or CC0-1.0 (Awesome-Geospatial). The four added on 2026-10-02 (geolibre-rust, pygeofetch, isprs26-embeddings-tutorial under MIT; stac-browser under ISC) are all permissive.
 
 ## Projects referenced without a GitHub link
 
@@ -85,4 +93,4 @@ These are code projects noted elsewhere in the base whose notes point at documen
 
 ## Related topics
 
-[[LinkedIn]] · [[Benchmark_Datasets]] · [[Foundation_Models]] · [[Community_Resources]] · [[Agriculture]] · [[Land_Cover]] · [[Remote_Sensing]] · [[Forestry]] · [[Python]] · [[Data]] · [[SQL]]
+[[LinkedIn]] · [[Benchmark_Datasets]] · [[Foundation_Models]] · [[Community_Resources]] · [[Agriculture]] · [[Land_Cover]] · [[Remote_Sensing]] · [[Forestry]] · [[Python]] · [[Data]] · [[SQL]] · [[Embeddings]] · [[Geospatial_Platforms]]

@@ -1,9 +1,14 @@
 # Data
 
 **Summary**: Notes on datasets, data portals, data formats, labeling tools, pipelines, and storage and distribution practices.
-**Last updated**: 2026-08-25
+**Last updated**: 2026-10-02
 
 ---
+
+- [STAC Browser v5.0.0-rc.2](https://github.com/radiantearth/stac-browser/releases/tag/v5.0.0-rc.2): LinkedIn post by Matthias Mohr, 23 July 2026: *"We just released STAC Browser v5.0.0-rc.2! … The most prominent change is the header … It now stays fixed at the top by default (it's configurable), so users don't need to scroll as much … v5 will be a major release with several breaking changes. If you want to ensure a smooth transition, we'd appreciate it if you could test this release candidate soon."* STAC Browser is the Vue web UI for browsing and searching static STAC catalogs and STAC APIs. The post linked a live demo at `browser.moregeo.it`, and said the final v5 was about a week away, waiting on upstream OpenLayers fixes. Repo: [radiantearth/stac-browser](https://github.com/radiantearth/stac-browser), ISC. *Keywords: STAC Browser, STAC, catalog UI, release candidate, Vue, OpenLayers*
+  - Source: [LinkedIn post](https://www.linkedin.com/posts/matthias-mohr-565748178_we-just-released-stac-browser-v500-rc2-ugcPost-7486091938614448128-RBgH); see [[LinkedIn]]. The changelog `lnkd.in` link resolved to the v5.0.0-rc.2 release page.
+  - STAC Index, further down this page, lists the catalogs you would browse with it. PySTAC, on [[Python]], is the programmatic counterpart.
+  - Related: [[Python]], [[Code_Repositories]], [[LinkedIn]]
 
 - [Source Cooperative](https://source.coop/): The Cooperative Data Publishing Utility - Data publishing at any scale for everyone. "A nonprofit data publishing utility built on commodity cloud object storage", a Radiant Earth project. Data is served over plain URLs and S3-compatible storage so it works with existing tools instead of a bespoke portal or API. Aimed at data engineers, scientists and researchers who would rather not run infrastructure, with flat volume-based pricing, publishers keeping ownership, open formats to avoid lock-in, and an explicit stance against institutional capture. It also hosts the Fields of the World outputs; see [[Agriculture]]. *Keywords: Radiant Earth, data publishing, S3, open formats, nonprofit, cloud object storage*
   - Related: [[Benchmark_Datasets]], [[Geospatial_Platforms]]

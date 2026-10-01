@@ -5,6 +5,13 @@
 
 ---
 
+- [PyGeoFetch](https://github.com/EOCoreINT/pygeofetch): LinkedIn post by Samuel Appiah Kubi, 22 July 2026, introducing an open-source package for one problem: *"Every provider has different auth, queries, and formats and every project means re-learning"*, which he says hits institutions in Africa and the Global South hardest. One CLI and Python API searches and downloads from 20+ providers (USGS, Copernicus, NASA, Planet, Maxar and others). It also does optical preprocessing (cloud masking, pan-sharpening, mosaicking), computes 17+ spectral indices (NDVI, NDWI, EVI, NBR, dNBR, LST) and runs a full Sentinel-1 SLC InSAR pipeline in pure Python. Workflows can be scheduled from YAML. Install with `pip install pygeofetch`; [docs](https://appiahkubis14.github.io/pygeofetch-docs/); MIT. Free tutorials are at eocoreint.com. *Keywords: satellite data access, multi-provider download, InSAR, spectral indices, Python package, Global South*
+  - Source: [LinkedIn post](https://www.linkedin.com/posts/samuel-appiah-kubi-b52633333_pygeofetch-earthobservation-remotesensing-ugcPost-7485712214419464192-4Mqz); see [[LinkedIn]]. All three `lnkd.in` links (PyPI, docs, GitHub) were resolved.
+  - Related: [[Remote_Sensing]], [[Data]], [[Code_Repositories]]
+
+- [PDAL Python for Beginners: Working with LAS/LAZ LiDAR Data](https://www.geowgs84.ai/post/pdal-python-for-beginners-working-with-las-laz-lidar-data): A short tutorial from GeoWGS84.ai on PDAL, *"an open-source software library used to read, write, filter, translate, and process point cloud data."* It covers installing with conda or pip, how JSON pipelines are built (reader → filters → writer), reading LAS into NumPy arrays, compressing LAS to LAZ, ground classification with the SMRF filter, cropping to a bounding box, reprojecting, and writing a DTM to GeoTIFF. It ends with NumPy statistics and a mention of GeoPandas, Rasterio and Shapely. The page carries the year-less date "July 10" and doubles as marketing for GeoWGS84.ai's GeoAI services. *Keywords: PDAL, LiDAR, LAS/LAZ, point cloud, SMRF ground filter, DTM*
+  - Related: [[Remote_Sensing]], [[Data]], [[Forestry]]
+
 - [PySTAC](https://github.com/stac-utils/pystac): Python library for working with any SpatioTemporal Asset Catalog (STAC). The reference Python implementation of the STAC specification, covering reading, creating and manipulating catalogs and items, with optional jsonschema validation, orjson for speed, urllib3 retries, Jupyter display of STAC objects, and an extension system where each STAC extension is its own independently versioned package. Documented at pystac.readthedocs.io. *Keywords: PySTAC, STAC, catalog manipulation, extensions, validation, python library*
   - Related: [[Data]], [[Code_Repositories]]
 
