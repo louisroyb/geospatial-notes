@@ -5,6 +5,10 @@
 
 ---
 
+- [Smoothify — smooth staircase polygons from rasters](https://github.com/DPIRD-DMA/Smoothify): LinkedIn post by Nicholas Wright, 2 June 2026: *"Vectorise a raster and you get staircases."* Smoothify smooths polygons and lines (holes included) and whole GeoDataFrames, preserving area, using an optimised Chaikin corner-cutting algorithm. `pip install smoothify`; MIT, 213 stars. *Keywords: polygon smoothing, vectorisation, Chaikin, GeoPandas, segmentation masks, cartography*
+  - Source: [LinkedIn post](https://www.linkedin.com/posts/nicholas-wright-92205985_python-gis-remotesensing-ugcPost-7467432960795832321-1QWQ); see [[LinkedIn]].
+  - Related: [[Cartography]], [[Deep_Learning]], [[Code_Repositories]]
+
 - [PyGStat — geostatistics for modern Python](https://zia207.github.io/PyGStat/): LinkedIn post by Zia Ahmed, 11 September 2026: *"PyGStat brings together classical geostatistics, kriging, variogram modeling, simulation, spatial/spatiotemporal methods, machine learning, deep learning, and GPU-accelerated computing in a modern Python framework."* Kriging: ordinary, simple, universal, indicator, co-, regression, Poisson, Empirical Bayesian and spatiotemporal, plus GSLIB-style 3-D. Simulation: SGSIM/SISIM. ML: deep-learning regression kriging, GNNs, spatiotemporal graph transformers, ConvLSTM. `pip install pygstat` (v0.1.1). Repo: [zia207/PyGStat](https://github.com/zia207/PyGStat), MIT. *Keywords: geostatistics, kriging, variogram, spatial simulation, GPU, Python package*
   - Source: [LinkedIn post](https://www.linkedin.com/posts/zia-ahmed207_pygstat-share-7504241259574681600-pWKA); see [[LinkedIn]].
   - Related: [[Machine_Learning]], [[Code_Repositories]]

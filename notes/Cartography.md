@@ -5,6 +5,14 @@
 
 ---
 
+- [Interactive story maps with GeoLibre — maritime piracy hotspots](https://www.youtube.com/watch?v=fMXg-y4wg_8): LinkedIn post by Spatial Thoughts, 27 June 2026, on a video tutorial: *"This video covers the full workflow to import, style and analyze a dataset to find maritime piracy hotspots,"* then turns it into an interactive [story map](https://spatialthoughts.github.io/geolibre-maps/maritime-piracy-web.html) exported as standalone HTML. *Keywords: GeoLibre, story maps, hotspot analysis, web maps, tutorial, maritime piracy*
+  - Source: [LinkedIn post](https://www.linkedin.com/posts/new-video-tutorial-creating-interactive-share-7476693255422861312-3gPs); see [[LinkedIn]].
+  - Related: [[Geospatial_Platforms]], [[Learning_Resources]]
+
+- [GeoProfiler Web App — DEM line and swath profiles](https://geoprofiler.streamlit.app): Reshared on LinkedIn by Somdeep Kundu (17 Jun 2026) from Chandni Verma: *"What started as a Python tool has now evolved into GeoProfiler Web App—an open-source platform for extracting and visualizing topographic profiles from DEMs."* A Streamlit app for line and swath profiles, with hillshade, GeoJSON/Shapefile input with auto-reprojection, and PNG/PDF/CSV export. For river long profiles, cross-sections, faults and watersheds. [chandnivermageo/GeoProfiler-WebApp](https://github.com/chandnivermageo/GeoProfiler-WebApp), MIT. *Keywords: DEM, topographic profile, swath profile, Streamlit, geomorphology, hillshade*
+  - Source: [LinkedIn post](https://www.linkedin.com/posts/somdeep-kundu_great-pwa-must-give-it-a-try-ugcPost-7473088709224165377-hF0x); see [[LinkedIn]].
+  - Related: [[Python]]
+
 - [Open-source mapping tools from State of the Map 2026](https://2026.stateofthemap.org/programme/): LinkedIn post by Venkanna Babu Guthula, 31 August 2026, listing tools he picked up at the OSM community's Paris conference: [Panoramax](https://panoramax.fr/) (open street-level imagery), [GeoDesk](https://www.geodesk.com/) (OSM toolkit), [OpenHistoricalMap](https://www.openhistoricalmap.org/), [Mapterhorn](https://mapterhorn.com/) (*"Public terrain tiles for interactive web map visualisations"*), [OSM for Cities](https://osmforcities.org/), MapLibre, and routing engines MOTIS ([motis-project/motis](https://github.com/motis-project/motis), MIT, 598 stars), Transitous and OSRM. The next State of the Map is in Bogotá. *Keywords: OpenStreetMap, State of the Map, Panoramax, Mapterhorn, MapLibre, routing*
   - Source: [LinkedIn post](https://www.linkedin.com/posts/venkanna37_i-would-like-to-share-a-few-open-source-mapping-share-7500228539795800064-l3nd); see [[LinkedIn]].
   - Related: [[Data]], [[Urban_Planning]], [[Community_Resources]]

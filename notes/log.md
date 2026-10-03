@@ -162,3 +162,42 @@
   - **LinkedIn:** 36 posts and 1 LinkedIn article recorded on `LinkedIn.md`.
   - **Still behind the login wall after a second retry:** items 13 (Daniel Wiesmann) and 33 (David Phelan). Every URL form redirected to sign-up, so they move to the user's paste-me list with the group posts.
   - **Fetch notes:** Harvard CGA, WageningenX and Nature pages needed the reader proxy or curl. The links for the Estrada and Strabo posts were in comments; Strabo's blog was found on LGND's own site, and Estrada's links were left unresolved rather than guessed.
+- 2026-10-03 — *WhatsApp chat export, batch 3 (queue items 101–150, shared 1 Jun – 27 Jul 2026)* — 50 items: 44 filed, 4 private group posts held (items 103, 107, 118, 146), 1 personal item skipped and 1 low-value item skipped.
+  - **Skipped:** item 125, a signed S3 link to the user's own event-ticket PDF, which was not fetched. Item 142, a reshared "GCF free climate training" aggregator post whose real link could not be resolved past LinkedIn's interstitial.
+  - **Merged into existing notes (11 items):**
+    - geolibre-rust's June introduction (738 tools) went into the v1.0 note.
+    - Vikas Kumar's Earth Engine ADK agents post went into the ADK agents note.
+    - The OlmoEarth v1.2 tech report and two OlmoEarth v1.1 posts (Channing, Cleverley) went into the OlmoEarth v1.2/FiftyOne note as primary sources.
+    - TESSERA v1.1 went into the TESSERA note.
+    - NASA Harvest's global field-boundary release (two items) went into the Fields of the World note.
+    - ECMWF's ML MOOCs 1–2 went into the Course 3 note.
+    - Pyrcz's e-books and Rongier's notebooks became one geostatistics note.
+    - The EarthScope ISCE course and the ISCE2 test datasets became one note.
+  - **New notes:**
+    - `Forestry` (3): Science tree-cover-loss drivers paper, FAO tree-crop commodities guide, GRAS EUDR training.
+    - `Agriculture` (3): GMIA-NEXT irrigation map, FAO handbook, SALCA.
+    - `Embeddings` (2): Clay v1.5 on AWS, AlphaEarth explainer.
+    - `Foundation_Models` (2): Esri ArcNews on foundation models, a 9-paper reading list.
+    - `Remote_Sensing` (3): SARvey, NISAR S-band samples, ISCE material.
+    - `Climate_Change` (1): OpenHydroNet.
+    - `Agentic_Coding` (1): GIS Co-Scientist.
+    - `Geospatial_Platforms` (2): TerraServe, CDSE vs GEE.
+    - `Cartography` (2): GeoLibre story maps, GeoProfiler.
+    - `Land_Cover` (1): Check-a-Kea.
+    - `Python` (1): Smoothify.
+    - `Machine_Learning` (1): federated learning comic.
+    - `Google_Earth_Engine` (1): 20-day GEE course.
+    - `Learning_Resources` (7): geostatistics books, Stanford StoryMaps, free ML books, Mbeya's R tutorials, ML4EO workshops, YSE capstones, OpenGeoHub summer school (past).
+    - `Careers_and_Research` (3): Verra (status unverified), the Milan EO economics summer school (closed), the UK PACT roster (closed).
+  - **Repos:** 12 added; the tracker is now 82. Licensing watch is 26 of 82:
+    - No license: the 20-day GEE course, isce2_install, the YSE capstones repo.
+    - Non-standard: SARvey, GeomodelingPython.
+    - New copyleft entries: check-a-kea (GPL-2.0), SALCA (LGPL-3.0), TerraServe (MPL-2.0).
+    - olmoearth_pretrain refreshed (315 stars).
+  - **Recorded:** 31 LinkedIn posts on `LinkedIn.md`. The GMIA-NEXT ground truth is indexed on `Benchmark_Datasets.md`.
+  - **Caveats on the notes:**
+    - The check-a-kea repo was found by search, not linked from its post.
+    - The GMIA-NEXT preprint title was not captured.
+    - The "MIT made its entire library free" headline is overstated.
+    - The Esri and TESSERA v1.1 pages were read through a reader proxy.
+    - The ECMWF MOOC links need a learning.ecmwf.int login.

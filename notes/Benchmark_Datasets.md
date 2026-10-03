@@ -45,6 +45,7 @@ Datasets are filed on their subject pages; this page gathers the pointers.
 - UAVScenes — ~120,000 labeled image and LiDAR pairs with 6-DoF poses. See [[Remote_Sensing]].
 - MONITRS — 10,000+ FEMA disaster events pairing temporal imagery with news annotations. See [[Climate_Change]].
 - HydroPML — datasets and baselines for physics-aware ML in rainfall-runoff, flood and landslide forecasting. See [[Climate_Change]].
+- GMIA-NEXT ground truth — nearly 400,000 irrigation ground-truth points behind a global 30 m irrigated-area map. See [[Agriculture]].
 - Groundsource — 2.6M flood events mined from news across 150+ countries. See [[Climate_Change]].
 - FloodPlanet — 366 manual flood labels on PlanetScope with aligned Sentinel-1/2 and Landsat-8. See [[Climate_Change]].
 - Himalayan glacial lakes — 10 bands plus lake boundary labels for glacial lake detection. See [[Climate_Change]].

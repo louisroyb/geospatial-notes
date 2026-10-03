@@ -9,6 +9,18 @@
 
 | Repository                                                                                    | What it is                               | Filed under           | Language | License       | ★   | Last push  |
 | --------------------------------------------------------------------------------------------- | ---------------------------------------- | --------------------- | -------- | ------------- | --- | ---------- |
+| [google-research/flood-forecasting](https://github.com/google-research/flood-forecasting) | OpenHydroNet flood forecasting | [[Climate_Change]] | Python | Apache-2.0 | 351 | 2026-10-03 |
+| [terraops-org/TerraServe](https://github.com/terraops-org/TerraServe) | Clean-room Rust map server | [[Geospatial_Platforms]] | Rust | MPL-2.0 | 35 | 2026-10-01 |
+| [BlueGIS760404/20-Day-Google-Earth-Engine-Course](https://github.com/BlueGIS760404/20-Day-Google-Earth-Engine-Course) | 20-day GEE course | [[Google_Earth_Engine]] | JavaScript | none declared | 18 | 2026-10-02 |
+| [luhipi/sarvey](https://github.com/luhipi/sarvey) | InSAR time-series software | [[Remote_Sensing]] | Python | custom | 94 | 2026-09-14 |
+| [chandnivermageo/GeoProfiler-WebApp](https://github.com/chandnivermageo/GeoProfiler-WebApp) | DEM line/swath profile app | [[Cartography]] | Python | MIT | 1 | 2026-09-06 |
+| [google/earthengine-community](https://github.com/google/earthengine-community) | Earth Engine community tutorials + ADK agents | [[Google_Earth_Engine]] | Jupyter | Apache-2.0 | 825 | 2026-09-04 |
+| [grongier/GeomodelingPython](https://github.com/grongier/GeomodelingPython) | Geomodelling teaching notebooks | [[Learning_Resources]] | Jupyter | custom | 41 | 2026-08-04 |
+| [fdelgadodelapuente/isce2_install](https://github.com/fdelgadodelapuente/isce2_install) | ISCE2 install + test datasets | [[Remote_Sensing]] | — | none declared | 7 | 2026-07-28 |
+| [DPIRD-DMA/Smoothify](https://github.com/DPIRD-DMA/Smoothify) | Polygon smoothing (Chaikin) | [[Python]] | Jupyter | MIT | 213 | 2026-07-02 |
+| [manaakiwhenua/check-a-kea](https://github.com/manaakiwhenua/check-a-kea) | QGIS map-validation plugin | [[Land_Cover]] | Python | GPL-2.0 | 2 | 2026-06-30 |
+| [yse-eds-cert/cohort1-capstones](https://github.com/yse-eds-cert/cohort1-capstones) | Yale EDS capstone projects | [[Learning_Resources]] | — | none declared | 2 | 2026-06-10 |
+| [agroscope-ch/salca](https://github.com/agroscope-ch/salca) | Swiss agricultural LCA code | [[Agriculture]] | Python | LGPL-3.0 | 13 | 2026-06-02 |
 | [public-apis/public-apis](https://github.com/public-apis/public-apis) | Curated list of free APIs | [[Data]] | Python | MIT | 485,683 | 2026-10-02 |
 | [sparkgeo/geo-mcp-servers](https://github.com/sparkgeo/geo-mcp-servers) | Curated list of 91 geo MCP servers | [[Agentic_Coding]] | Python | MIT | 116 | 2026-10-01 |
 | [motis-project/motis](https://github.com/motis-project/motis) | Multimodal routing engine | [[Cartography]] | C++ | MIT | 598 | 2026-10-01 |
@@ -66,7 +78,7 @@
 | [microsoft/ML-For-Beginners](https://github.com/microsoft/ML-For-Beginners) | 26-lesson classic ML curriculum | [[Learning_Resources]] | Jupyter | MIT | 89,749 | 2026-08-20 |
 | [satellite-image-deep-learning/annotation](https://github.com/satellite-image-deep-learning/annotation) | Annotation tools catalogue | [[Data]] | - | Apache-2.0 | 65 | 2026-07-11 |
 | [planetlabs/notebooks](https://github.com/planetlabs/notebooks) | Planet API notebooks | [[Data]] | Jupyter | Apache-2.0 | 678 | 2026-06-18 |
-| [allenai/olmoearth_pretrain](https://github.com/allenai/olmoearth_pretrain)                   | Earth system foundation model family     | [[Foundation_Models]] | Python   | custom        | 299 | 2026-08-24 |
+| [allenai/olmoearth_pretrain](https://github.com/allenai/olmoearth_pretrain)                   | Earth system foundation model family     | [[Foundation_Models]] | Python   | custom        | 315 | 2026-10-03 |
 | [HarvestStat/HarvestStat-Africa](https://github.com/HarvestStat/HarvestStat-Africa)           | Harmonized subnational crop statistics   | [[Agriculture]]       | Jupyter  | MIT           | 34  | 2026-08-02 |
 | [TENOR-INRS/CropMapping_Project](https://github.com/TENOR-INRS/CropMapping_Project) | Mid-season crop type mapping code + data | [[Agriculture]] | — | MIT | 1 | 2026-06-05 |
 | [msalehsaudi/SentinelLabel](https://github.com/msalehsaudi/SentinelLabel) | Sentinel-2 annotation tool | [[Data]] | HTML | MIT | 53 | 2026-03-28 |
@@ -82,6 +94,10 @@
 
 ## Actively maintained
 
+- **[google/earthengine-community](https://github.com/google/earthengine-community)** — Apache-2.0, 825 stars, home of the community tutorials and the ADK reference agents. Note on [[Google_Earth_Engine]].
+- **[google-research/flood-forecasting](https://github.com/google-research/flood-forecasting)** — Apache-2.0, 351 stars, the open Flood Hub model framework. Note on [[Climate_Change]].
+- **[terraops-org/TerraServe](https://github.com/terraops-org/TerraServe)** — MPL-2.0 (file-level copyleft), beta. Note on [[Geospatial_Platforms]].
+- **[DPIRD-DMA/Smoothify](https://github.com/DPIRD-DMA/Smoothify)** — MIT, 213 stars. Note on [[Python]].
 - **[public-apis/public-apis](https://github.com/public-apis/public-apis)** — MIT, ~486k stars, now by far the most-starred repo tracked. Note on [[Data]].
 - **[dekart-xyz/geosql](https://github.com/dekart-xyz/geosql)** — MIT, 668 stars, a map-in-the-loop SQL skill for coding agents. Note on [[Agentic_Coding]].
 - **[sparkgeo/geo-mcp-servers](https://github.com/sparkgeo/geo-mcp-servers)** — MIT, the running index of geospatial MCP servers (91 entries). Note on [[Agentic_Coding]].
@@ -116,6 +132,8 @@
 
 ## Released and quiet
 
+- **[agroscope-ch/salca](https://github.com/agroscope-ch/salca)** — LGPL-3.0 (weak copyleft). Note on [[Agriculture]].
+- **[manaakiwhenua/check-a-kea](https://github.com/manaakiwhenua/check-a-kea)** — GPL-2.0 QGIS plugin, found by search rather than linked in its post. Note on [[Land_Cover]].
 - **[blaz-r/mason_cd](https://github.com/blaz-r/mason_cd)** — MIT, TGRS 2026 paper code with a Hugging Face demo. Note on [[Remote_Sensing]].
 - **[justing0909/infra-bench-cls](https://github.com/justing0909/infra-bench-cls)** — benchmark code; GitHub doesn't recognise the license. Note on [[Foundation_Models]].
 - **[geo2004/MCP-ArcGISPro](https://github.com/geo2004/MCP-ArcGISPro)** — no license, unlike its MIT add-in companion. Note on [[Agentic_Coding]].
@@ -145,7 +163,7 @@ These are dataset or paper releases rather than living projects; a stale push da
 
 ## Licensing watch
 
-Twenty-one of the 70 cannot be safely reused as-is. HieraRS, VHRV, proj-vit, S5, S2GAIA, NDVI-Tree-Crown-Detection, WAC, treematch, GLaSP, user26, LLM-Agents-Papers, LandSegmenter and MCP-ArcGISPro declare no license at all (default copyright, all rights reserved). UAVScenes, OlmoEarth, GenAI_Agents, GFSM, the alphaearth R package, infra-bench-cls, sar-colorization-gan and sentinel1_plugun ship non-standard ones (the last says CC0 in its announcement, but has no recognisable license file). PlotToSat and TOFMapper (GPL-3.0), and eudr-api-client and WaPOR4Global (AGPL-3.0; eudr-api-client declares it only in its README and `package.json`) are usable but copyleft. AGPL also covers code you only run as a network service. and Trazo uses CC-BY-4.0, a content license, for its code. PySTAC reports as unrecognised by the GitHub API but documents itself as Apache-2.0, so check its LICENSE file rather than assuming. Everything else carries clear permissive terms: Apache-2.0 (agribound, annotation, planetlabs/notebooks), MIT (forest-data-partnership, OpenEarthMap-SAR, HarvestStat-Africa, SentinelLabel, ssl4eo-l, ML-For-Beginners, awesome-spectral-indices, geoai-datacubes) or CC0-1.0 (Awesome-Geospatial). The four added on 2026-10-02 (geolibre-rust, pygeofetch, isprs26-embeddings-tutorial under MIT; stac-browser under ISC) are all permissive.
+Twenty-six of the 82 cannot be safely reused as-is. HieraRS, VHRV, proj-vit, S5, S2GAIA, NDVI-Tree-Crown-Detection, WAC, treematch, GLaSP, user26, LLM-Agents-Papers, LandSegmenter, MCP-ArcGISPro, the 20-day GEE course, isce2_install and the YSE capstones repo declare no license at all (default copyright, all rights reserved). UAVScenes, OlmoEarth, GenAI_Agents, GFSM, the alphaearth R package, infra-bench-cls, sar-colorization-gan, sentinel1_plugun, SARvey and GeomodelingPython ship non-standard ones (the last says CC0 in its announcement, but has no recognisable license file). PlotToSat and TOFMapper (GPL-3.0), and eudr-api-client and WaPOR4Global (AGPL-3.0; eudr-api-client declares it only in its README and `package.json`) are usable but copyleft, as are check-a-kea (GPL-2.0), SALCA (LGPL-3.0) and TerraServe (MPL-2.0, file-level). AGPL also covers code you only run as a network service. and Trazo uses CC-BY-4.0, a content license, for its code. PySTAC reports as unrecognised by the GitHub API but documents itself as Apache-2.0, so check its LICENSE file rather than assuming. Everything else carries clear permissive terms: Apache-2.0 (agribound, annotation, planetlabs/notebooks), MIT (forest-data-partnership, OpenEarthMap-SAR, HarvestStat-Africa, SentinelLabel, ssl4eo-l, ML-For-Beginners, awesome-spectral-indices, geoai-datacubes) or CC0-1.0 (Awesome-Geospatial). The four added on 2026-10-02 (geolibre-rust, pygeofetch, isprs26-embeddings-tutorial under MIT; stac-browser under ISC) are all permissive.
 
 ## Projects referenced without a GitHub link
 

@@ -5,6 +5,9 @@
 
 ---
 
+- [Federated Learning — an online comic from Google AI](https://federated.withgoogle.com/): An illustrated explainer by Lucy Bellwood and Scott McCloud on training models across devices so raw data never leaves them: *"Building better products with on-device data and privacy by default."* Not geospatial, but a clear introduction to a technique relevant to sensitive location data. *Keywords: federated learning, privacy, on-device ML, comic, Google AI, explainer*
+  - Related: [[Learning_Resources]]
+
 - [How Many Independent Samples Does a Satellite Image Contain? Generalization Bounds for Spatially Dependent Data](https://doi.org/10.1109/TGRS.2026.3739158): LinkedIn post by the Cambridge Energy & Environment Group, 2 October 2026, on Robin Young's *IEEE TGRS* paper (early access, 2026). It gives a mathematical proof that spatial cross-validation is the most reliable way to measure the accuracy of satellite image models. Spatial cross-validation holds out whole blocks of the image, spaced by the distance at which pixels stop echoing their neighbours. Random train/test splits flatter a model more the more alike neighbouring pixels are, which inflates reported map accuracy, for example in harvest estimates used for food security. *"Testing models properly means those using the maps know how far they can trust them."* *Keywords: spatial cross-validation, autocorrelation, generalization bounds, accuracy assessment, TGRS, sampling*
   - Source: [LinkedIn post](https://www.linkedin.com/posts/remotesensing-earthobservation-machinelearning-share-7511809732140138496-fFjO); see [[LinkedIn]].
   - Pairs with the CEOS land cover validation protocol on [[Land_Cover]].

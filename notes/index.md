@@ -9,9 +9,9 @@
 
 The three most recent additions, each from a different topic page.
 
-- [Infra-Bench CLS](https://arxiv.org/abs/2609.09482) — Seven EO foundation models benchmarked on 13 critical-infrastructure classes: airports at 85% F1, power infrastructure under 50%. On [[Foundation_Models]].
-- [The changing surface of the world's roads](https://www.nature.com/articles/s41467-026-76234-8) — Pavedness and width for 9.2 million km of arterial roads from PlanetScope, with a humanitarian passability score. On [[Urban_Planning]].
-- [Agentic Coding for Geospatial](https://courses.spatialthoughts.com/agentic-coding-geospatial.html) — Spatial Thoughts' free human-in-the-loop course on Claude Code, MCP servers and GeoAI. On [[Agentic_Coding]].
+- [Global extent and drivers of tree cover loss](https://doi.org/10.1126/science.adz9042) — A Science paper finds only about a third of global tree cover loss is permanent conversion, with pasture the largest driver. On [[Forestry]].
+- [OpenHydroNet](https://research.google/blog/the-next-chapter-in-flood-resilience-open-sourcing-googles-hydrology-framework/) — Google open-sources the LSTM framework behind Flood Hub, including its production model architecture. On [[Climate_Change]].
+- [GMIA-NEXT](https://zenodo.org/records/17627111) — A beta 30 m global irrigated-area map trained on nearly 400,000 ground-truth points. On [[Agriculture]].
 
 ## Topics
 

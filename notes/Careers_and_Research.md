@@ -50,6 +50,14 @@
 - [20 AI tools for research and productivity](https://www.linkedin.com/posts/yusuf-yakubu-yusuf-057675122_elicit-ai-for-scientific-research-share-7499411912053497856-gsq_): A bare list by Yusuf Yakubu Yusuf (29 Aug 2026). Research tools: Elicit, Consensus, ResearchRabbit, Zotero, Scite, Perplexity, Scholarcy, Connected Papers, Writefull, Overleaf. Productivity tools: Otter.ai, Tableau and others. *Keywords: research tools, Elicit, Consensus, literature search, Zotero, AI assistants*
   - See [[LinkedIn]].
 
+- [Program Officer, Agriculture Innovation — Verra (remote)](https://ats.rippling.com/verra-opportunities/jobs/b8fdef56-f2ea-44d7-bb0b-f341892b1368): Seen via a Zimbabwe jobs aggregator on 24 July 2026. A remote role overlapping US hours. The work splits into stakeholder support (45%), methodology development for agricultural land management and livestock (35%) and digital MRV (20%). *"At least 3 years of experience in greenhouse gas accounting within agriculture and livestock systems,"* with soil carbon, GHG modelling, remote sensing and geostatistics expertise. Listed as open "until filled", but more than two months old, so check before applying. *Keywords: Verra, carbon markets, agriculture, MRV, GHG accounting, remote job*
+
+- [Summer school: Earth Observation Data for Applied Economists](https://www.linkedin.com/posts/giacomo-coughlan-6992a9226_flyer-ugcPost-7477396237407666176-vCS3): Shared by Giacomo Coughlan (29 Jun 2026). University of Milan, 16–18 September 2026, taught by David Wüpper (Bonn) with Hadi Hadi and Wyclife Agumba Oluoch: Earth Engine, R and econometrics for PhD students and early-career researchers in agricultural, environmental and development economics. **Applications closed on 10 July 2026; the event has passed.** [Event page](https://esp.unimi.it/it/eventi/summer-school-earth-observation-data-applied-economists-methods-and-applications). *Keywords: summer school, applied economics, Earth Engine, R, econometrics, Milan*
+  - See [[LinkedIn]].
+
+- [UK PACT short-term technical assistance roster](https://www.linkedin.com/posts/monica-coutinho_hiring-opportunity-uk-pact-partnering-share-7465538008415584257-JYKy): Shared by Monica Souza (27 May 2026). UK PACT expanded its expert roster for climate policy, green finance, climate and nature, forests and land use, and energy transition. **Closed on 4 June 2026.** *Keywords: UK PACT, climate policy, consultant roster, green finance, technical assistance, closed*
+  - See [[LinkedIn]].
+
 ## Elsewhere in these notes
 
 - A PhD vacancy on multi-decade forest canopy height (UZH, now taken down) is on [[Forestry]].
