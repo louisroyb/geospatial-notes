@@ -9,6 +9,28 @@
 
 | Repository                                                                                    | What it is                               | Filed under           | Language | License       | ★   | Last push  |
 | --------------------------------------------------------------------------------------------- | ---------------------------------------- | --------------------- | -------- | ------------- | --- | ---------- |
+| [pysal/spopt](https://github.com/pysal/spopt) | Spatial optimisation | [[Urban_Planning]] | Python | BSD-3-Clause | 381 | 2026-10-02 |
+| [InSARdev/core](https://github.com/InSARdev/core) | InSAR.dev processing ecosystem | [[Remote_Sensing]] | Python | custom | 71 | 2026-10-01 |
+| [fieldsoftheworld/ftw-inference-app](https://github.com/fieldsoftheworld/ftw-inference-app) | FTW in-browser inference app | [[Agriculture]] | TypeScript | Apache-2.0 | 11 | 2026-09-29 |
+| [opengeos/maplibre-gl-lidar](https://github.com/opengeos/maplibre-gl-lidar) | LiDAR point clouds in MapLibre | [[Cartography]] | TypeScript | MIT | 206 | 2026-09-30 |
+| [reutkeller/iou-calculator](https://github.com/reutkeller/iou-calculator) | QGIS IoU validation plugin | [[Machine_Learning]] | Python | GPL-2.0 | 0 | 2026-09-07 |
+| [BaturalpArisoy/stac2cube](https://github.com/BaturalpArisoy/stac2cube) | Sentinel-2 ARD cubes from STAC | [[Remote_Sensing]] | Python | Apache-2.0 | 21 | 2026-08-10 |
+| [opengeos/anymap-ts](https://github.com/opengeos/anymap-ts) | MapLibre maps for web + Jupyter | [[Cartography]] | TypeScript | MIT | 221 | 2026-07-22 |
+| [3dgeo-heidelberg/etrainee](https://github.com/3dgeo-heidelberg/etrainee) | E-TRAINEE time-series course | [[Learning_Resources]] | Jupyter | MIT | 33 | 2026-07-22 |
+| [opengeos/qgis-notebook-plugin](https://github.com/opengeos/qgis-notebook-plugin) | Jupyter notebooks inside QGIS | [[Python]] | Python | MIT | 108 | 2026-07-20 |
+| [opengeos/qgis-timelapse-plugin](https://github.com/opengeos/qgis-timelapse-plugin) | Earth Engine timelapses in QGIS | [[Google_Earth_Engine]] | Python | MIT | 86 | 2026-07-20 |
+| [lorenzonava96/SAR-and-DL-for-Landslide-Rapid-Assessment](https://github.com/lorenzonava96/SAR-and-DL-for-Landslide-Rapid-Assessment) | SAR landslide rapid assessment | [[Climate_Change]] | Jupyter | MIT | 39 | 2026-06-08 |
+| [fneum/data-science-for-esm](https://github.com/fneum/data-science-for-esm) | Energy system modelling course | [[Climate_Change]] | Jupyter | MIT | 134 | 2026-05-25 |
+| [landler-io/ecosystem-integrity-index](https://github.com/landler-io/ecosystem-integrity-index) | Ecosystem Integrity Index | [[Land_Cover]] | Jupyter | Apache-2.0 | 39 | 2026-04-20 |
+| [mizmay/standalone_web_maps_foss4g2025](https://github.com/mizmay/standalone_web_maps_foss4g2025) | Standalone web maps workshop | [[Cartography]] | Shell | MIT | 11 | 2026-04-09 |
+| [geojupyter/workshop-open-source-geospatial](https://github.com/geojupyter/workshop-open-source-geospatial) | AGU25 cloud workflows workshop | [[Learning_Resources]] | Jupyter | MIT | 11 | 2026-04-06 |
+| [shuangchencc/ESD](https://github.com/shuangchencc/ESD) | 30 m global embedding database demo | [[Embeddings]] | Jupyter | AGPL-3.0 | 40 | 2026-02-27 |
+| [armitakar/GGS366_Spatial_Computing](https://github.com/armitakar/GGS366_Spatial_Computing) | GMU spatial computing course | [[Learning_Resources]] | Jupyter | none declared | 65 | 2026-02-24 |
+| [JohnKilbride/GEE_MediumBlog_Logic](https://github.com/JohnKilbride/GEE_MediumBlog_Logic) | AEF + LiDAR canopy height tutorial | [[Forestry]] | Jupyter | none declared | 17 | 2026-02-09 |
+| [kevinalexandr19/python_for_geologists](https://github.com/kevinalexandr19/python_for_geologists) | Python for geologists (JupyterLite) | [[Learning_Resources]] | Python | MIT | 110 | 2026-01-24 |
+| [Nowosad/landscapemetrics_motif_2026](https://github.com/Nowosad/landscapemetrics_motif_2026) | landscapemetrics/motif chapter code | [[Land_Cover]] | R | none declared | 9 | 2026-01-05 |
+| [OvertureMaps/stac](https://github.com/OvertureMaps/stac) | Overture STAC catalogue builder | [[Data]] | Rust | MIT | 40 | 2026-09-30 |
+| [facebookresearch/HighResCanopyHeight](https://github.com/facebookresearch/HighResCanopyHeight) | Meta canopy height model v1 | [[Forestry]] | Jupyter | Apache-2.0 | 367 | 2025-04-10 |
 | [TerraLabAI/QGIS_AI-Segmentation](https://github.com/TerraLabAI/QGIS_AI-Segmentation) | AI Segmentation QGIS plugin | [[Urban_Planning]] | Python | GPL-2.0 | 41 | 2026-10-02 |
 | [DPIRD-DMA/OmniWaterMask](https://github.com/DPIRD-DMA/OmniWaterMask) | Sensor-agnostic water segmentation | [[Deep_Learning]] | Python | MIT | 49 | 2026-09-22 |
 | [ucam-eo/tessera](https://github.com/ucam-eo/tessera) | TESSERA foundation model (CVPR 2026) | [[Embeddings]] | Python | MIT | 754 | 2026-08-17 |
@@ -126,6 +148,9 @@
 
 ## Actively maintained
 
+- **[pysal/spopt](https://github.com/pysal/spopt)** — BSD-3-Clause, PySAL's spatial optimisation library. Note on [[Urban_Planning]].
+- **[InSARdev/core](https://github.com/InSARdev/core)** — the InSAR.dev successor to PyGMTSAR; GitHub reports a non-standard license. Note on [[Remote_Sensing]].
+- **[opengeos/maplibre-gl-lidar](https://github.com/opengeos/maplibre-gl-lidar)** and **[opengeos/anymap-ts](https://github.com/opengeos/anymap-ts)** — MIT, Qiusheng Wu's web-mapping stack. Notes on [[Cartography]].
 - **[ucam-eo/tessera](https://github.com/ucam-eo/tessera)** — MIT, 754 stars, the TESSERA model itself (CVPR 2026); geotessera is the client. Note on [[Embeddings]].
 - **[facebookresearch/dinov3](https://github.com/facebookresearch/dinov3)** — ~11.5k stars; the backbone behind CHMv2. GitHub doesn't recognise the license; DINOv3 ships under Meta's own terms. Note on [[Forestry]].
 - **[TerraLabAI/QGIS_AI-Segmentation](https://github.com/TerraLabAI/QGIS_AI-Segmentation)** — GPL-2.0, the plugin code (its cloud mode is a paid service). Note on [[Urban_Planning]].
@@ -174,6 +199,8 @@
 
 ## Released and quiet
 
+- **[shuangchencc/ESD](https://github.com/shuangchencc/ESD)** — AGPL-3.0 demo for the 30 m ESD embedding database. Note on [[Embeddings]].
+- **[reutkeller/iou-calculator](https://github.com/reutkeller/iou-calculator)** — GPL-2.0, the IoU plugin that an August search missed. Note on [[Machine_Learning]].
 - **[nextgis/qgis_qtiles](https://github.com/nextgis/qgis_qtiles)** — GPL-2.0, 13 years old and now on QGIS 4. Note on [[Cartography]].
 - **[isaaccorley/geospatial-skills](https://github.com/isaaccorley/geospatial-skills)** — Apache-2.0, a catalogue of agent SKILL.md files for geospatial work. Note on [[Embeddings]] (under TerraBit).
 - **[asterisk-labs/beta-earth](https://github.com/asterisk-labs/beta-earth)** — pre-release AlphaEarth emulator; non-standard license. Note on [[Embeddings]].
@@ -209,7 +236,7 @@ These are dataset or paper releases rather than living projects; a stale push da
 
 ## Licensing watch
 
-Thirty-four of the 114 cannot be safely reused as-is. HieraRS, VHRV, proj-vit, S5, S2GAIA, NDVI-Tree-Crown-Detection, WAC, treematch, GLaSP, user26, LLM-Agents-Papers, LandSegmenter, MCP-ArcGISPro, the 20-day GEE course, isce2_install, the YSE capstones repo, quickview-geodata-portal, GeoSQL-learning, Awesome_GeoAI and the cartogram chapter repo declare no license at all (default copyright, all rights reserved). UAVScenes, OlmoEarth, GenAI_Agents, GFSM, the alphaearth R package, infra-bench-cls, sar-colorization-gan, sentinel1_plugun, SARvey, GeomodelingPython, BetaEarth, WorldWideView, leetcode-patterns and DINOv3 ship non-standard ones (the last says CC0 in its announcement, but has no recognisable license file). PlotToSat and TOFMapper (GPL-3.0), and eudr-api-client and WaPOR4Global (AGPL-3.0; eudr-api-client declares it only in its README and `package.json`) are usable but copyleft, as are check-a-kea (GPL-2.0), SALCA (LGPL-3.0) TerraServe (MPL-2.0, file-level), icesat2db (EUPL-1.2), and the AI Segmentation and QTiles plugins (GPL-2.0). AGPL also covers code you only run as a network service. and Trazo uses CC-BY-4.0, a content license, for its code. PySTAC reports as unrecognised by the GitHub API but documents itself as Apache-2.0, so check its LICENSE file rather than assuming. Everything else carries clear permissive terms: Apache-2.0 (agribound, annotation, planetlabs/notebooks), MIT (forest-data-partnership, OpenEarthMap-SAR, HarvestStat-Africa, SentinelLabel, ssl4eo-l, ML-For-Beginners, awesome-spectral-indices, geoai-datacubes) or CC0-1.0 (Awesome-Geospatial). The four added on 2026-10-02 (geolibre-rust, pygeofetch, isprs26-embeddings-tutorial under MIT; stac-browser under ISC) are all permissive.
+Thirty-eight of the 136 cannot be safely reused as-is. HieraRS, VHRV, proj-vit, S5, S2GAIA, NDVI-Tree-Crown-Detection, WAC, treematch, GLaSP, user26, LLM-Agents-Papers, LandSegmenter, MCP-ArcGISPro, the 20-day GEE course, isce2_install, the YSE capstones repo, quickview-geodata-portal, GeoSQL-learning, Awesome_GeoAI, the cartogram and landscapemetrics chapter repos, GGS366_Spatial_Computing and GEE_MediumBlog_Logic declare no license at all (default copyright, all rights reserved). UAVScenes, OlmoEarth, GenAI_Agents, GFSM, the alphaearth R package, infra-bench-cls, sar-colorization-gan, sentinel1_plugun, SARvey, GeomodelingPython, BetaEarth, WorldWideView, leetcode-patterns, DINOv3 and InSARdev/core ship non-standard ones (the last says CC0 in its announcement, but has no recognisable license file). PlotToSat and TOFMapper (GPL-3.0), and eudr-api-client and WaPOR4Global (AGPL-3.0; eudr-api-client declares it only in its README and `package.json`) are usable but copyleft, as are check-a-kea (GPL-2.0), SALCA (LGPL-3.0) TerraServe (MPL-2.0, file-level), icesat2db (EUPL-1.2), the AI Segmentation, QTiles and IoU Calculator plugins (GPL-2.0), and ESD (AGPL-3.0). AGPL also covers code you only run as a network service. and Trazo uses CC-BY-4.0, a content license, for its code. PySTAC reports as unrecognised by the GitHub API but documents itself as Apache-2.0, so check its LICENSE file rather than assuming. Everything else carries clear permissive terms: Apache-2.0 (agribound, annotation, planetlabs/notebooks), MIT (forest-data-partnership, OpenEarthMap-SAR, HarvestStat-Africa, SentinelLabel, ssl4eo-l, ML-For-Beginners, awesome-spectral-indices, geoai-datacubes) or CC0-1.0 (Awesome-Geospatial). The four added on 2026-10-02 (geolibre-rust, pygeofetch, isprs26-embeddings-tutorial under MIT; stac-browser under ISC) are all permissive.
 
 ## Projects referenced without a GitHub link
 

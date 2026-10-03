@@ -312,3 +312,37 @@
     - The Esri metadata seminar page is JavaScript-only, so its details come from search snippets.
     - The Living Atlas DLPK list was read via the ArcGIS Online search API.
     - The FOSS4G Asia talk note is based on its description only.
+- 2026-10-03 — *WhatsApp chat export, batch 7 (queue items 301–350, shared 18 Dec 2025 – 14 Feb 2026)* — 50 items: 45 filed, 2 behind the login wall (334, 337), 1 duplicate (339, the ucam-eo/tessera repo, already tracked), 1 paywalled Medium article skipped (309; only its intro was readable) and no private group posts.
+  - **Two earlier notes corrected:**
+    - **IoU Calculator** (`Machine_Learning.md`): the August note said no such plugin could be found. Azulay's January post shows it on the official QGIS repository (`reutkeller/iou-calculator`, GPL-2.0). The correction is on the note; the August search had missed it.
+    - **InSAR.dev** (`Remote_Sensing.md`): the repo is `InSARdev/core`, explicitly PyGMTSAR's successor, which resolves batch 1's "possibly related" caveat.
+  - **Merged into existing notes:**
+    - OlmoEarth gained Rahangdale's original-release write-up.
+    - E-TRAINEE gained v1.0.0.
+    - Earth Embeddings as Products gained Weckmüller's survey post.
+    - The MIT OCW note gained three Africans in Environmental Science posts and Lartey's MIT GIS list, which is flagged for its doubtful "certificate" claim.
+    - The ECMWF course gained the series announcement.
+    - CHMv2 gained Wu's HighResCanopyHeight tutorial.
+    - The GeoAI QGIS plugin gained v0.3.0, the Pixi install guide and v0.5.0.
+    - Fields of the World gained the inference app launch.
+    - The GEE Data Catalogs plugin gained its launch post and v0.5.
+  - **Paired into single notes:** the two QGIS Notebook plugin posts, and the two AGU25 GeoJupyter workshop posts.
+  - **New notes:**
+    - `Forestry` (1): AEF + LiDAR forest carbon.
+    - `Land_Cover` (3): Ecosystem Integrity Index, landscapemetrics/motif chapter, a paid LULC Udemy course.
+    - `Embeddings` (2): ESD 30 m embedding database, an overview of embedding models.
+    - `Remote_Sensing` (3): stac2cube, TerraLabel, Copernicus Connect.
+    - `Climate_Change` (2): SAR landslide rapid assessment, energy system modelling course.
+    - `Data` (1): Overture STAC.
+    - `Cartography` (3): anymap-ts, maplibre-gl-lidar, standalone web maps.
+    - `Python` (2): QGIS Notebook plugin, Janosov's 40 tutorials (shortlinks unresolved).
+    - `Urban_Planning` (1): spopt.
+    - `Google_Earth_Engine` (1): QGIS Timelapse.
+    - `Agriculture` (1): FAO land consolidation course.
+    - `Community_Resources` (2): Wu's 2025 review, Gandhi's open-content business talk.
+    - `Learning_Resources` (5): AGU25 workshop, PyQGIS automation course, Python for Geologists, GGS 366, free RS courses.
+  - **Repos:** 22 added; the tracker is now 136. Licensing watch is 38 of 136:
+    - No license: GGS366, GEE_MediumBlog_Logic, landscapemetrics_motif.
+    - Non-standard: InSARdev/core.
+    - New copyleft: ESD (AGPL-3.0), iou-calculator (GPL-2.0).
+  - **LinkedIn:** 45 posts recorded on `LinkedIn.md`.

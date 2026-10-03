@@ -5,6 +5,10 @@
 
 ---
 
+- [Overture Maps STAC catalogue](https://radiantearth.github.io/stac-browser/#/external/stac.overturemaps.org/2026-01-21.0/catalog.json): LinkedIn post by Dominik Weckmüller, 4 February 2026. Overture now publishes a STAC catalogue of all its datasets ([OvertureMaps/stac](https://github.com/OvertureMaps/stac), MIT), and *"every dataset is now also released as pmtiles file you can query on the spot in your browser!"* via an "open in Protomaps" link. *Keywords: Overture Maps, STAC, PMTiles, Protomaps, open map data, catalogue*
+  - Source: [LinkedIn post](https://www.linkedin.com/posts/dominik-weckm%C3%BCller_big-news-overture-maps-foundation-now-offers-activity-7424941490008735744-fN-x); see [[LinkedIn]].
+  - overture2osrm and Portolan, further down this page, also build on Overture. Related: [[Urban_Planning]], [[Code_Repositories]]
+
 - [Metadata Essentials for AI-Ready GIS — Esri seminar](https://www.esri.com/training/catalog/69827704ab65fc9a1cf43ab3/metadata-essentials-for-aiready-gis/): An Esri Live Training Seminar recording (~1 h) by Jordan Duft on how AI changes the way metadata is created, managed and searched in ArcGIS: where to edit it, when to start documenting during data creation, and which standards and styles to use. It requires an Esri Maintenance Program account. The page is JavaScript-only, so details come from search snippets, and the ad-campaign parameters were stripped from the link. *Keywords: metadata, AI-ready data, ArcGIS, data catalog, documentation, Esri training*
   - Related: [[Learning_Resources]]
 

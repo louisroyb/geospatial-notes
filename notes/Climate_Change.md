@@ -5,6 +5,14 @@
 
 ---
 
+- [Sentinel-1 SAR deep learning for co-seismic landslides](https://github.com/lorenzonava96/SAR-and-DL-for-Landslide-Rapid-Assessment): LinkedIn post by Lorenzo Nava, 21 January 2026, releasing code, weights and [datasets](https://zenodo.org/records/17328763) for an all-weather, day-and-night SAR Landslide Rapid Assessment tool for earthquake-triggered landslide events: *"Use it, test it, and build on it!"* MIT. *Keywords: landslides, Sentinel-1, SAR, deep learning, earthquakes, rapid assessment*
+  - Source: [LinkedIn post](https://www.linkedin.com/posts/lorenzo-nava-40997a189_github-lorenzonava96sar-and-dl-for-landslide-rapid-assessment-activity-7419769223633215488-hEDz); see [[LinkedIn]].
+  - Related: [[Remote_Sensing]], [[Deep_Learning]], [[Code_Repositories]]
+
+- [Data Science for Energy System Modelling](https://fneum.github.io/data-science-for-esm/): LinkedIn post by Fabian Neumann (TU Berlin), 1 February 2026: *"This semester, I recorded the lectures to accompany the revamped, fully open course website."* Hands-on numpy, pandas, geopandas, rasterio, pysheds, atlite, networkx, linopy, PyPSA and streamlit. Topics: renewable time series, geospatial land eligibility, weather-to-power conversion, power flow, capacity expansion, markets and sector coupling. [fneum/data-science-for-esm](https://github.com/fneum/data-science-for-esm), MIT. *Keywords: energy system modelling, PyPSA, atlite, renewables, land eligibility, open course*
+  - Source: [LinkedIn post](https://www.linkedin.com/posts/fabian-neumann-renewables_data-science-for-energy-system-modelling-activity-7423671947227697153-OccN); see [[LinkedIn]].
+  - Related: [[Python]], [[Learning_Resources]]
+
 - [A 10-course roadmap for climate data analysis](https://www.linkedin.com/posts/dr-muhammad-naveed-anjum-717b664b_climatescience-dataanalysis-remotesensing-activity-7432389587580284928-Yhz5): LinkedIn post by Dr. Muhammad Naveed Anjum, 25 February 2026: *"I have curated 10 free courses from world-class institutions, sequenced from foundational to advanced."*
   - **Foundations**: Sam Shen's [R climate text](https://shen.sdsu.edu/pdf/R-TextBySamShen2017.pdf), Elsner's [Use R for Climate Research](https://myweb.fsu.edu/jelsner/PDF/Use_R_for_Climate_Research.pdf), a CU Boulder Python climate Colab.
   - **EO**: ESA's [climate-from-satellites MOOC](https://climate.esa.int/en/educate/climate-for-science-excellence/massive-open-online-course/), [Monitoring Climate from Space](https://www.imperativemoocs.com/courses/monitoring-climate-from-space), [NASA ARSET](https://appliedsciences.nasa.gov/what-we-do/capacity-building/arset) fundamentals.

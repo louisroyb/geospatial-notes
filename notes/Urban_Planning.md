@@ -5,6 +5,10 @@
 
 ---
 
+- [spopt — spatial optimisation in Python](https://pysal.org/spopt/): LinkedIn post by Kyle Walker, 27 December 2025: *"My favorite #Python package to use is spopt, a library for spatial optimization."* PySAL's library for facility location, regionalisation and sales-territory design, and market-share maximisation. [pysal/spopt](https://github.com/pysal/spopt), BSD-3-Clause. *Keywords: spatial optimisation, facility location, regionalisation, PySAL, spopt, Python*
+  - Source: [LinkedIn post](https://www.linkedin.com/posts/walkerke_python-activity-7410695093457874944-AXqQ); see [[LinkedIn]].
+  - Related: [[Python]], [[Code_Repositories]]
+
 - [Do-it-yourself built-up mapping tool (DIY-BU) for African cities](https://www.sciencedirect.com/science/article/pii/S1569843226000695): LinkedIn post by Marta Sapena (DLR), 18 February 2026, on the *JAG* paper (Sapena, Mast, Schoepfer, Taubenböck; DOI 10.1016/j.jag.2026.105153): *"Traditional global mapping products often lack the resolution or temporal frequency required to accurately track the rapid and heterogeneous expansion of African cities."* DIY-BU is an [Earth Engine tool](https://code.earthengine.google.com/?accept_repo=users/diybuiltupmapping/diy_bu_tool) that builds built-up maps from Sentinel-1/2 for any area of interest. Tested on 100 cities, it scored F1 0.18–0.30 higher than major global products for 2022, and it is especially good at small structures and dense expansion. *Keywords: built-up mapping, urban expansion, Africa, Sentinel-1/2, Earth Engine, DLR*
   - Source: [LinkedIn post](https://www.linkedin.com/posts/marta-sapena_new-paper-local-urban-mapping-in-africa-activity-7429839439935414280-AbU9); see [[LinkedIn]].
   - Related: [[Google_Earth_Engine]], [[Land_Cover]], [[Remote_Sensing]]

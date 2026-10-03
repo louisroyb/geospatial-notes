@@ -5,6 +5,12 @@
 
 ---
 
+- [QGIS Notebook plugin — Jupyter inside QGIS](https://github.com/opengeos/qgis-notebook-plugin): Two LinkedIn posts by Qiusheng Wu. The [tutorial](https://www.linkedin.com/posts/giswqs_qgis-geospatial-python-activity-7410342969674723328-JsNS) (26 Dec 2025, *"No more switching between tools!"*) covers live maps, raster and vector outputs, markdown cells, auto-complete and PyQGIS examples (from his [pyqgis-cookbook](https://github.com/opengeos/pyqgis-cookbook)). [v0.2.0](https://www.linkedin.com/posts/giswqs_qgis-geospatial-python-activity-7411424951787745280-XVdi) (29 Dec) added a light theme, clearing outputs and inserting snippets. MIT, 108 stars. *Keywords: QGIS, Jupyter, PyQGIS, notebooks, plugin, opengeos*
+  - See [[LinkedIn]]. Hans van der Kwast's PyQGIS course on [[Learning_Resources]] uses it. Related: [[Code_Repositories]]
+
+- [40 Python geospatial data-science tutorials — Milan Janosov](https://www.linkedin.com/posts/milan-janosov_here-i-updated-my-collection-to-cover-40-activity-7422647440731860992-XuTP): An updated index (29 Jan 2026) of his tutorials: rasterising, interpolation, GeoPandas tips, Overture vs OSM, NDVI/NDWI, isochrones, transit accessibility, heat vulnerability, urban green equality, the Sentinel API and neighbourhood clustering, plus a [TEDx talk](https://www.youtube.com/watch?v=SmasjdAagRA). *"Here, I updated my collection to cover 40 of my Python tutorials on various geospatial data science topics."* The tutorial shortlinks (zurl.co) didn't resolve here. *Keywords: Python tutorials, GeoPandas, urban data science, isochrones, accessibility, Janosov*
+  - See [[LinkedIn]]. Related: [[Urban_Planning]], [[Learning_Resources]]
+
 - [Geospatial Python Tutorials — Spatial Thoughts](https://www.geopythontutorials.com/introduction.html): Ujaval Gandhi's free CC BY 4.0 tutorial series. Vector work with GeoPandas covers geocoding, spatial queries, fuzzy joins and flood mapping. Raster work with Xarray covers styling, mosaicking, sampling and time series. It also covers climate data, ML, Dask, STAC, XEE (Xarray on Earth Engine), segment-geospatial and web APIs. *"If you are new to Python, we highly recommend completing our introductory Python course Python Foundation for Spatial Analysis before diving into these tutorials."* *Keywords: GeoPandas, Xarray, Dask, XEE, STAC, tutorials*
   - Related: [[Learning_Resources]]
 

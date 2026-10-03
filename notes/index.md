@@ -9,9 +9,9 @@
 
 The three most recent additions, each from a different topic page.
 
-- [CHMv2](https://arxiv.org/abs/2603.06382) — Meta and WRI's DINOv3-based global meter-scale canopy height map, with Samapriya Roy's tools for actually downloading the 22 TB. On [[Forestry]].
-- [DIY-BU](https://www.sciencedirect.com/science/article/pii/S1569843226000695) — An Earth Engine tool that maps built-up areas in African cities better than global products. On [[Urban_Planning]].
-- [Mercy Corps map style guide](https://medium.com/mercy-corps-technology-for-development/creating-consistent-compelling-maps-at-mercy-corps-part-1-the-style-guidelines-640ded396fcf) — How a humanitarian NGO standardised fonts, palettes and layouts across all its maps. On [[Cartography]].
+- [Embedded Seamless Data](https://arxiv.org/abs/2601.11183) — 25 years (2000–2024) of 30 m Earth embeddings, about 2.4 TB per year of global land. On [[Embeddings]].
+- [Ecosystem Integrity Index](https://ecosystemintegrityindex.org/) — An open 300 m global ecosystem-condition metric combining function, structure and composition. On [[Land_Cover]].
+- [Forest carbon with AlphaEarth + LiDAR](https://medium.com/google-earth/improved-forest-carbon-estimation-with-alphaearth-foundations-and-airborne-lidar-data-af2d93e94c55) — A 64-coefficient linear model on embeddings maps canopy height from 3DEP LiDAR training points. On [[Forestry]].
 
 ## Topics
 

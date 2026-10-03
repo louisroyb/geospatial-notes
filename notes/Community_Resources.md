@@ -5,6 +5,13 @@
 
 ---
 
+- [Qiusheng Wu's open-source 2025 in review](https://www.linkedin.com/posts/giswqs_opensource-gis-geoai-activity-7412139114910830592-a_6D): LinkedIn post, 31 December 2025. Five major projects (GeoAI, SamGeo, Leafmap, AnyMap, Geemap) with nearly 14,000 stars combined, 145 YouTube videos (57K subscribers, 2.7M views), 13 QGIS plugins, and two books, [Introduction to GIS Programming](https://gispro.gishub.org) and [Spatial Data Management with DuckDB](https://duckdb.gishub.org). His output runs through these notes (GeoLibre, geolibre-rust, GeoAgent, the QGIS plugins), and this is the index to all of it: [github.com/opengeos](https://github.com/opengeos), [qgis.gishub.org](https://qgis.gishub.org). *Keywords: Qiusheng Wu, opengeos, open source, GeoAI, Leafmap, geemap*
+  - See [[LinkedIn]]. Related: [[Python]], [[Learning_Resources]]
+
+- [FOSS4G 2025 — Building a Business with Open Content and Open Source Software](https://www.youtube.com/watch?v=gjezz7nYSas): A 5-minute lightning talk by Ujaval Gandhi (shared 23 Dec 2025) on five years of Spatial Thoughts, where all course content is openly licensed: *"Not monetizing the content turned out to be an important decision, and while it may seem counterintuitive, it was key in powering the growth of the company."* *Keywords: open content, Spatial Thoughts, FOSS4G, business model, open education, open source*
+  - Source: [LinkedIn post](https://www.linkedin.com/posts/spatialthoughts_foss4g-2025-building-a-business-with-open-activity-7409104916729741313-CP7x); see [[LinkedIn]].
+  - Related: [[Careers_and_Research]], [[Learning_Resources]]
+
 - [Geospatial Catalog](https://geospatialcatalog.com/): *"Everything Geospatial, All in One Place"*, a free, hand-curated, searchable directory by David Hersh. It has 700+ links and 400+ tags across nine categories (blogs/newsletters/podcasts, books, companies, conferences, data, hardware, online courses, [open-source software](https://geospatialcatalog.com/categories/open-source-software), tooling). Users can submit entries or flag stale ones. *Keywords: directory, geospatial tools, curated list, open source, datasets, courses*
   - Related: [[Data]], [[Learning_Resources]]
 
