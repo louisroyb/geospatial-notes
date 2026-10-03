@@ -1,9 +1,13 @@
 # Remote Sensing
 
 **Summary**: Notes on Earth observation imagery, satellite data products, time series change detection, and the formats and models used to work with them. Courses and training material live on [[Learning_Resources]].
-**Last updated**: 2026-10-02
+**Last updated**: 2026-10-03
 
 ---
+
+- [InSAR.dev — open Python ecosystem for SAR and InSAR](https://colab.research.google.com/drive/1Sl0gUW693FNRuyZlePR-gy3IFaybmMlX): LinkedIn post by Alexey Pechnikov, 19 September 2026: *"By definition, science is reproducibility, and books and papers are not science until we can reproduce them."* InSAR.dev offers building blocks such as Gaussian and Goldstein filters and atmospheric trend detection, each named after its mathematical basis and combinable into reproducible Sentinel-1 and NISAR workflows. It includes two NISAR split-spectrum approaches you can compare. The linked example is a Colab notebook of NISAR subsidence over Mexico City. No InSAR.dev repo was found; Pechnikov's established [PyGMTSAR](https://github.com/AlexeyPechnikov/pygmtsar) (BSD-3-Clause, 601 stars) may be related but this is not confirmed. *Keywords: InSAR, NISAR, Sentinel-1, subsidence, Python, reproducibility*
+  - Source: [LinkedIn post](https://www.linkedin.com/posts/alexey-pechnikov_insardev-open-python-ecosystem-for-sar-share-7506962504330235904-wgmC); see [[LinkedIn]].
+  - Related: [[Python]], [[Urban_Planning]]
 
 - [Beyond Backscatter: InSAR Coherence from Detected SAR Images](https://github.com/FPSica/BeyondBackscatter): LinkedIn post by Francescopaolo Sica, 7 July 2026, releasing code and a Colab notebook for the paper by Sica, Andrea Pulella and Michael Schmitt: *"You can now predict Sentinel-1 repeat-pass coherence directly from a pair of GRD backscatter images using a Google Colab notebook, without requiring Sentinel-1 SLC data or interferometric processing."* The model is a TensorFlow/Keras ResUNet, with weights on Hugging Face Hub (`beyond-backscatter-grd-gee`). The [notebook](https://github.com/FPSica/BeyondBackscatter/blob/main/notebooks/back2coh_grd_gee_colab.ipynb) runs in three steps: pick an area, pick a Sentinel-1 GRD pair from Earth Engine, generate the coherence map. MIT. The paper is on [ResearchGate](https://www.researchgate.net/publication/406351207_Beyond_Backscatter_InSAR_coherence_from_detected_SAR_images); the venue is not stated. *Keywords: InSAR coherence, Sentinel-1 GRD, SAR, ResUNet, Google Earth Engine, Colab*
   - Source: [LinkedIn post](https://www.linkedin.com/posts/francescopaolo-sica_isprs2026-sar-insar-share-7480229592549621760-J4iX); see [[LinkedIn]].

@@ -1,7 +1,7 @@
 # Index
 
 **Summary**: Table of contents for all topic pages in this knowledge base.
-**Last updated**: 2026-10-02
+**Last updated**: 2026-10-03
 
 ---
 
@@ -9,9 +9,9 @@
 
 The three most recent additions, each from a different topic page.
 
-- [LandSegmenter](https://doi.org/10.1016/j.isprsjprs.2026.04.056) — A land-cover foundation model trained on ~150k global weak-label samples that segments any taxonomy you describe in words, zero-shot. On [[Land_Cover]].
-- [OlmoEarth v1.2 meets FiftyOne](https://voxel51.com/blog/olmoearth-fiftyone-satellite-embeddings) — 3× cheaper training at the same accuracy, plus a notebook that lets you see the embeddings cluster on a linked map. On [[Foundation_Models]].
-- [eudr-api-client](https://github.com/mfrntic/eudr-api-client) — A Node.js library for filing EUDR due-diligence statements with the EU's TRACES system (V3 API). On [[Forestry]].
+- [TESSERA embeddings go open on AWS](https://registry.opendata.aws/tessera/) — Nine years of annual 128-d Sentinel-1/2 embeddings for every 10 m pixel on Earth, free and egress-free. On [[Embeddings]].
+- [Mapping agriculture in displacement-affected landscapes](https://iopscience.iop.org/article/10.1088/1748-9326/aeabbc) — AlphaEarth cropland maps show northern Uganda's refugee-hosting districts halving their cropland between 2022 and 2024. On [[Agriculture]].
+- [Global Flood Susceptibility Map v1](https://www.nature.com/articles/s41597-026-08338-1) — A harmonised 30 m global flood susceptibility layer, validated against 4,432 observed floods. On [[Climate_Change]].
 
 ## Topics
 

@@ -1,9 +1,13 @@
 # Climate Change
 
 **Summary**: Notes on climate hazards, extreme events, and the datasets that record them.
-**Last updated**: 2026-10-02
+**Last updated**: 2026-10-03
 
 ---
+
+- [Global Flood Susceptibility Map (GFSM v1)](https://www.nature.com/articles/s41597-026-08338-1): LinkedIn post by Mirza Waleed (Hong Kong Baptist University; developed at KAUST), 30 September 2026, announcing the *Scientific Data* paper: *"GFSM v1 provides a globally harmonized flood susceptibility dataset at 30 m resolution."* Regionalised XGBoost models were trained on Aqueduct flood-hazard labels over 17,069 tiles (30.45M samples, 192 country/climate units), with nine factors: elevation, slope, aspect, TWI, HAND, NDVI, distance to water, distance to roads, rainfall frequency. Of 4,432 Dartmouth Flood Observatory events, about 79% fall within 5 km of High/Very High zones, and 92% within 10 km. Data on [Zenodo](https://zenodo.org/records/20568218), an [Earth Engine app](https://waleedgis.users.earthengine.app/view/gfsm), and code at [waleedgeo/GFSM](https://github.com/waleedgeo/GFSM). The post itself had no links; these came from search. *Keywords: flood susceptibility, global 30 m, XGBoost, Scientific Data, HAND, Earth Engine*
+  - Source: [LinkedIn post](https://www.linkedin.com/posts/waleedgeo_floodsusceptibility-geoai-earthobservation-share-7510821588477530112-bbdf); see [[LinkedIn]].
+  - Related: [[Machine_Learning]], [[Google_Earth_Engine]], [[Data]], [[Code_Repositories]]
 
 - [The Use of the IPCC Inventory Software — ICAT self-paced course](https://www.learningfornature.org/en/courses/icat-training-on-the-use-of-the-ipcc-inventory-software/): LinkedIn post by Learning for Nature, 6 July 2026: *"Gain hands-on experience with the IPCC Inventory Software through the self-paced training from the Initiative for Climate Action Transparency (ICAT)."* A free beginner course of about 9 hours, made with the Greenhouse Gas Management Institute, on estimating emissions and removals and compiling GHG inventories for UNFCCC Enhanced Transparency Framework reporting. Modules cover Energy, IPPU, Agriculture, LULUCF and Waste. In English; the LULUCF module is also in Russian. The certificate shows completion only and is not a professional credential. *Keywords: GHG inventory, IPCC Inventory Software, ICAT, LULUCF, UNFCCC transparency, free course*
   - Source: [LinkedIn post](https://www.linkedin.com/posts/new-self-paced-course-the-use-of-the-ipcc-share-7479999483884445696-4-gs); see [[LinkedIn]].

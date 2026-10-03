@@ -1,9 +1,17 @@
 # Data
 
 **Summary**: Notes on datasets, data portals, data formats, labeling tools, pipelines, and storage and distribution practices.
-**Last updated**: 2026-10-02
+**Last updated**: 2026-10-03
 
 ---
+
+- [SuperSTAC v0.3](https://spatialnode.com/superstac): LinkedIn post by Emmanuel Jolaiya, 2 October 2026: *"Build your satellite-data inventory. Search it again and again."* SuperSTAC queries several STAC catalogs through one interface, de-duplicating and normalising the results. v0.3 adds GeoParquet: save the STAC metadata for a study area once, then search it locally with fewer API calls, falling back to live catalogs when the saved inventory is stale or doesn't cover the query. Python, Rust or CLI, resumable ingestion, `pip install superstac`; [Colab demo](https://colab.research.google.com/drive/1JIx8j0Vi7jypKe5Q6klgCzYQMFHMaKGc). Repo: [spatialnode/superstac](https://github.com/spatialnode/superstac), MIT. *Keywords: STAC, GeoParquet, catalog search, local inventory, Rust, Python*
+  - Source: [LinkedIn post](https://www.linkedin.com/posts/emmanueljolaiya_geoparquet-stac-earthobservation-share-7511738612149796864-8K3Y); see [[LinkedIn]].
+  - Related: [[Python]], [[Code_Repositories]]
+
+- [The Shift to Cloud-Native Geospatial: Access, Scale, and the Open Source Ecosystem](https://davidgsmith.net/thoughts/the-shift-to-cloud-native-geospatial-access-scale-and-the-open-source-ecosystem.html): LinkedIn post by David G. Smith, 22 September 2026, linking a short essay. *"Cloud-native geospatial flips the model: bring your compute to the data instead of moving terabytes over the network."* COG, STAC and GeoParquet turn object storage into something you can query directly, and tools like GeoLibre and DuckDB Spatial read it over HTTP range requests without downloading. A plain-language overview rather than a tutorial. *Keywords: cloud-native geospatial, COG, STAC, GeoParquet, DuckDB, range requests*
+  - Source: [LinkedIn post](https://www.linkedin.com/posts/davidgsmith_geospatial-gis-dataengineering-share-7508308362049175552-KSu5); see [[LinkedIn]].
+  - Related: [[SQL]], [[Geospatial_Platforms]]
 
 - [STAC Browser v5.0.0-rc.2](https://github.com/radiantearth/stac-browser/releases/tag/v5.0.0-rc.2): LinkedIn post by Matthias Mohr, 23 July 2026: *"We just released STAC Browser v5.0.0-rc.2! … The most prominent change is the header … It now stays fixed at the top by default (it's configurable), so users don't need to scroll as much … v5 will be a major release with several breaking changes. If you want to ensure a smooth transition, we'd appreciate it if you could test this release candidate soon."* STAC Browser is the Vue web UI for browsing and searching static STAC catalogs and STAC APIs. The post linked a live demo at `browser.moregeo.it`, and said the final v5 was about a week away, waiting on upstream OpenLayers fixes. Repo: [radiantearth/stac-browser](https://github.com/radiantearth/stac-browser), ISC. *Keywords: STAC Browser, STAC, catalog UI, release candidate, Vue, OpenLayers*
   - Source: [LinkedIn post](https://www.linkedin.com/posts/matthias-mohr-565748178_we-just-released-stac-browser-v500-rc2-ugcPost-7486091938614448128-RBgH); see [[LinkedIn]]. The changelog `lnkd.in` link resolved to the v5.0.0-rc.2 release page.

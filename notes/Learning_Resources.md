@@ -1,9 +1,29 @@
 # Learning Resources
 
 **Summary**: Courses, tutorials, lectures, and training material for Earth observation and geospatial work.
-**Last updated**: 2026-10-02
+**Last updated**: 2026-10-03
 
 ---
+
+- [Spatial Thoughts course notes archive](https://courses.spatialthoughts.com/course-notes.html): LinkedIn post by Spatial Thoughts, 2 October 2026. Every instructor-led cohort keeps its own notes and resources section, and Spatial Thoughts ran thousands of these notes through an automated pipeline that cleaned, de-duplicated and organised them by topic into a public archive, updated after each cohort. *"A side benefit of the processing was that we have a count of how often each resource was shared - so resources are ranked and the most frequently shared ones are at the top."* It covers QGIS, PyQGIS, GDAL, Python, cloud-native remote sensing, Earth Engine and agentic coding for geospatial. *Keywords: Spatial Thoughts, course notes, curated resources, QGIS, Earth Engine, Python*
+  - Source: [LinkedIn post](https://www.linkedin.com/posts/spatial-thoughts_we-are-pleased-to-share-a-key-learning-resource-activity-7511744332966547457-BxaT); see [[LinkedIn]].
+  - Related: [[Python]], [[Google_Earth_Engine]], [[Community_Resources]]
+
+- [Machine Learning for Earth System Modelling — Course 3: Applications and Future Directions](https://learning.ecmwf.int/course/view.php?id=100): LinkedIn post by ECMWF, 25 September 2026. The third course in ECMWF's Destination Earth ML training series, online and self-paced (~16 h), **starts 5 October 2026**. It covers ML for extremes, downscaling and data assimilation; explainability, trust, foundation models and hybrid modelling; coupled systems and sub-seasonal prediction; and end-to-end ML workflows. Aimed at weather and climate researchers and at ML researchers working with geophysical data; Python and ML experience recommended. [Series page](https://destine.ecmwf.int/ml-training/). *Keywords: ECMWF, Destination Earth, weather ML, downscaling, foundation models, online course*
+  - Source: [LinkedIn post](https://www.linkedin.com/posts/join-course-3-on-applications-and-future-share-7509173846546132992-w8zR); see [[LinkedIn]].
+  - Its sibling, the in-person ECMWF satellite data assimilation course (deadline 11 Oct), is further down this page. Related: [[Climate_Change]], [[Machine_Learning]]
+
+- [HYPERedu — free EnMAP hyperspectral course](https://eo-college.org/courses/beyond-the-visible/): LinkedIn post by Serra Yosmaoglu, 24 September 2026. GFZ Potsdam's HYPERedu, funded by DLR and hosted on EO College, teaches the use of data from Germany's EnMAP hyperspectral satellite. The intro course "Beyond the Visible" is 5–8 h, self-paced, with videos, quizzes and EnMAP-Box exercises, and a certificate; it is available in English, German, Portuguese and Spanish. Follow-on 2–4 h modules cover agriculture, soil, forests, and data access. *"it's pitched at master's level and assumes you know basic remote sensing."* *Keywords: hyperspectral, EnMAP, HYPERedu, EO College, EnMAP-Box, free course*
+  - Source: [LinkedIn post](https://www.linkedin.com/posts/serrayosmaoglu_the-team-behind-germanys-hyperspectral-satellite-share-7509002746470141952-R0nf); see [[LinkedIn]]. The post's links were in a comment; the course URL above is EO College's own listing.
+  - Related: [[Remote_Sensing]], [[Agriculture]]
+
+- [11 YouTube channels to learn AI for free](https://www.youtube.com/@AndrejKarpathy): LinkedIn post by Sairam Sundaresan, 28 September 2026: *"You don't need a $120K degree to learn cutting-edge ML."* The channels: [Andrej Karpathy](https://www.youtube.com/@AndrejKarpathy), [AI Coffee Break](https://www.youtube.com/@AICoffeeBreak), [Umar Jamil](https://www.youtube.com/@umarjamilai), [Yannic Kilcher](https://www.youtube.com/@YannicKilcher), [GPU Mode](https://www.youtube.com/@GPUMODE), [3Blue1Brown](https://www.youtube.com/@3blue1brown), Szymon Ożóg, AI Jason, Artem Kirsanov, Aleksa Gordić and Art of Saience. The last is the author's own, as are the book and newsletter plugged at the end. *Keywords: YouTube, machine learning, deep learning, free learning, Karpathy, LLMs*
+  - Source: [LinkedIn post](https://www.linkedin.com/posts/sairam-sundaresan_11-youtube-channels-master-ai-zero-tuition-share-7510276549292498944-mbAj); see [[LinkedIn]].
+  - His earlier list of 50 LLM resources is on [[Agentic_Coding]]. Related: [[Deep_Learning]], [[Machine_Learning]]
+
+- [The GRAPH Courses — R for complete beginners](https://thegraphcourses.org): LinkedIn post by Abdullahi Zainab Zubairu, 6 September 2026. A personal account: tutorials that called themselves beginner-level kept assuming prior knowledge, until she found the GRAPH Courses' free YouTube lessons built for people who have never opened R. Her advice: *"check who the resource was built for before you decide you're bad at this."* The post has no links; the GRAPH Courses site was found by search and also sells a paid 12-week course. *Keywords: R, beginners, data analysis, free courses, GRAPH Courses, learning*
+  - Source: [LinkedIn post](https://www.linkedin.com/posts/nurse-zainab_i-couldnt-afford-the-r-courses-built-for-share-7502334753728258048-JWen); see [[LinkedIn]].
+  - Related: [[Data]]
 
 - [EUMETSAT/ECMWF NWP-SAF Satellite Data Assimilation Training Course](https://events.ecmwf.int/event/577/): A free, five-day, in-person course in Reading, UK, 18–22 January 2027. It gives *"a comprehensive overview of the usage of meteorological satellite observations in operational numerical weather prediction"*, covering data assimilation, radiative transfer, observations from different sensors, and machine learning. It is aimed at early-career scientists and PhD students. **Application deadline (extended): 11 October 2026.** *Keywords: data assimilation, NWP, ECMWF, EUMETSAT, radiative transfer, training course*
   - Related: [[Climate_Change]], [[Remote_Sensing]]
@@ -148,4 +168,4 @@ The ISPRS 2026 Earth embeddings tutorial (Konstantin Klemmer; slides plus two Co
 
 ## Related topics
 
-[[Remote_Sensing]] · [[Foundation_Models]] · [[Community_Resources]] · [[Urban_Planning]] · [[Agriculture]] · [[Google_Earth_Engine]] · [[Python]] · [[Machine_Learning]] · [[Data]] · [[Deep_Learning]] · [[Climate_Change]] · [[LinkedIn]] · [[Careers_and_Research]] · [[Agentic_Coding]] · [[Cartography]]
+[[Remote_Sensing]] · [[Foundation_Models]] · [[Community_Resources]] · [[Urban_Planning]] · [[Agriculture]] · [[Google_Earth_Engine]] · [[Python]] · [[Machine_Learning]] · [[Data]] · [[Deep_Learning]] · [[Climate_Change]] · [[LinkedIn]] · [[Careers_and_Research]] · [[Agentic_Coding]] · [[Cartography]] · [[Vegetation_Phenology]] · [[Embeddings]]

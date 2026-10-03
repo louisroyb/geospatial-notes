@@ -1,7 +1,7 @@
 # Careers and Research
 
 **Summary**: Job portals, vacancies and professional training, plus free material on research skills — thesis writing, methods, statistics and reference management.
-**Last updated**: 2026-10-02
+**Last updated**: 2026-10-03
 
 ---
 
@@ -23,6 +23,14 @@
 
 - [2026 MENA Regional Access Training — UN OCHA](https://www.linkedin.com/posts/rawan-taha_apply-share-girlfromlinkedin-ugcPost-7477790910769074178-6EEc): Reshared on LinkedIn by Rawan Taha, 30 June 2026, from a post by Adrianna Korte-Nahabedian: *"A training with United Nations OCHA for mid career humanitarians."* A 5-day residential course in Jordan, 26 September – 1 October 2026, supported by ZIF, on humanitarian access principles, access coordination and negotiation. It was open to mid-level staff from OCHA, UN agencies and NGOs in the region. **Applications closed on 6 July 2026** and the course has run. Not geospatial. *Keywords: UN OCHA, humanitarian access, negotiation, MENA, professional training, Jordan*
   - Source: [LinkedIn post](https://www.linkedin.com/posts/rawan-taha_apply-share-girlfromlinkedin-ugcPost-7477790910769074178-6EEc); see [[LinkedIn]].
+
+- [SDG Localization Expert — UN-Habitat (Nairobi)](https://www.linkedin.com/posts/unhabitat-sdglocalization-sdgs-share-7510228182189465600-tzFj): LinkedIn post by UN-Habitat's SDG Cities and Multilevel Governance team, 28 September 2026. A Nairobi consultancy supporting SDG localization, multilevel governance and sustainable urban development (implementation, technical advice, capacity building, tools for SDG Cities). **Deadline 8 October 2026**, applications through UN Inspira (the apply link requires a login, so the job ID is unknown). An urban policy role, not a technical GIS one. *Keywords: UN-Habitat, SDG localization, urban governance, consultancy, Nairobi, job*
+  - See [[LinkedIn]]. Related: [[Urban_Planning]]
+
+- [Junior GIS & Biodiversity Consultant (talent pool, remote) — BioSphere Solutions](https://www.linkedin.com/posts/job-description-ugcPost-7511058175371108352-y1I4): LinkedIn post by BioSphere Solutions, 30 September 2026. A roster call for environmental and biodiversity projects. Remote; bilingual English–Spanish; QGIS/ArcGIS, biodiversity metrics and technical writing. Apply by sending a CV and cover letter to nature@biospheresolutions.co with the subject "Talent Pool: Junior GIS Consultant – [Your Name]". **Deadline 13 October 2026.** *Keywords: GIS consultant, biodiversity, remote job, Spanish, talent pool, QGIS*
+  - See [[LinkedIn]]. Related: [[Land_Cover]]
+
+- [Space, Environmental & Geospatial Consultant — Evenflow (Brussels)](https://evenflow.odoo.com/jobs/space-environmental-geospatial-consultant-33): A Brussels consultancy role, hybrid, working on policy analysis, market studies, cost-benefit and impact assessments, and business plans around the EU Space Programme (Galileo, Copernicus, Govsatcom), including EO and GeoAI strategy. It needs 2+ years of environmental or geospatial consulting, C2 English and an EU work permit; experience writing EU funding proposals is a plus. *"This vacancy will remain open until further notice, and/or until the relevant position is filled."* *Keywords: Evenflow, EU Space Programme, Copernicus, consulting, GeoAI policy, Brussels*
 
 ## Elsewhere in these notes
 

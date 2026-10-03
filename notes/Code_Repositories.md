@@ -1,7 +1,7 @@
 # Code Repositories
 
 **Summary**: Tracking page for every GitHub repository referenced in these notes, with activity and licensing at a glance.
-**Last updated**: 2026-10-02
+**Last updated**: 2026-10-03
 
 ---
 
@@ -9,6 +9,16 @@
 
 | Repository                                                                                    | What it is                               | Filed under           | Language | License       | ★   | Last push  |
 | --------------------------------------------------------------------------------------------- | ---------------------------------------- | --------------------- | -------- | ------------- | --- | ---------- |
+| [ucam-eo/geotessera](https://github.com/ucam-eo/geotessera) | Python client for TESSERA embeddings | [[Embeddings]] | Python | MIT | 353 | 2026-10-01 |
+| [spatialnode/superstac](https://github.com/spatialnode/superstac) | Multi-catalog STAC search + GeoParquet inventory | [[Data]] | Rust | MIT | 3 | 2026-10-03 |
+| [dClimate/tessera-embeddings](https://github.com/dClimate/tessera-embeddings) | TESSERA embedding generation | [[Embeddings]] | Python | Apache-2.0 | 3 | 2026-10-03 |
+| [waleedgeo/GFSM](https://github.com/waleedgeo/GFSM) | Global 30 m flood susceptibility map | [[Climate_Change]] | Jupyter | custom | 2 | 2026-10-03 |
+| [wateraccounting/WaPOR4Global](https://github.com/wateraccounting/WaPOR4Global) | WaPOR MOOC scripts | [[Agriculture]] | Jupyter | AGPL-3.0 | 3 | 2026-10-02 |
+| [Open-EO/openeo-community-examples](https://github.com/Open-EO/openeo-community-examples) | openEO notebooks incl. embedding UDFs | [[Embeddings]] | Jupyter | Apache-2.0 | 78 | 2026-09-28 |
+| [taylor-geospatial/mind](https://github.com/taylor-geospatial/mind) | Matryoshka location encoder (MIND) | [[Embeddings]] | Python | MIT | 17 | 2026-09-24 |
+| [Moerizzy/TOFMapper](https://github.com/Moerizzy/TOFMapper) | Trees-outside-forests mapping | [[Forestry]] | Python | GPL-3.0 | 29 | 2026-08-19 |
+| [Vizzuality/biodiversity-intactness-100m-update](https://github.com/Vizzuality/biodiversity-intactness-100m-update) | Global 100 m biodiversity intactness | [[Land_Cover]] | Jupyter | MIT | 5 | 2026-07-30 |
+| [m3nin0-labs/alphaearth](https://github.com/m3nin0-labs/alphaearth) | R client for AlphaEarth embeddings | [[Embeddings]] | R | custom | 11 | 2026-07-04 |
 | [mfrntic/eudr-api-client](https://github.com/mfrntic/eudr-api-client) | Node.js client for the EUDR TRACES API | [[Forestry]] | JavaScript | AGPL-3.0 (no LICENSE file) | 24 | 2026-09-07 |
 | [zhu-xlab/LandSegmenter](https://github.com/zhu-xlab/LandSegmenter) | Promptable LULC foundation model + LAS | [[Land_Cover]] | Jupyter | none declared | 45 | 2026-07-13 |
 | [google-research/tabfm](https://github.com/google-research/tabfm) | Zero-shot tabular foundation model | [[Foundation_Models]] | Python | Apache-2.0 | 2,700 | 2026-09-18 |
@@ -36,7 +46,7 @@
 | [amirsharifi97/NDVI-Tree-Crown-Detection](https://github.com/amirsharifi97/NDVI-Tree-Crown-Detection) | NDVI + watershed crown mask tool | [[Forestry]] | Python | none declared | 5 | 2024-08-31 |
 | [stac-utils/pystac](https://github.com/stac-utils/pystac) | STAC Python library | [[Python]] | Python | custom | 455 | 2026-08-24 |
 | [buckai-observatory/geoai-datacubes](https://github.com/buckai-observatory/geoai-datacubes) | AI-ready data cube pipelines | [[Data]] | Python | MIT | 22 | 2026-08-23 |
-| [opengeos/GeoLibre](https://github.com/opengeos/GeoLibre) | Cloud-native browser GIS + Chrome extension | [[Geospatial_Platforms]] | TypeScript | MIT | 6,711 | 2026-08-25 |
+| [opengeos/GeoLibre](https://github.com/opengeos/GeoLibre) | Cloud-native browser GIS + Chrome extension | [[Geospatial_Platforms]] | TypeScript | MIT | 7,785 | 2026-10-03 |
 | [awesome-spectral-indices/awesome-spectral-indices](https://github.com/awesome-spectral-indices/awesome-spectral-indices) | Machine-readable spectral index catalogue | [[Remote_Sensing]] | Python | MIT | 1,170 | 2026-08-21 |
 | [sacridini/Awesome-Geospatial](https://github.com/sacridini/Awesome-Geospatial) | Curated geospatial tools list | [[Community_Resources]] | - | CC0-1.0 | 5,270 | 2026-08-20 |
 | [microsoft/ML-For-Beginners](https://github.com/microsoft/ML-For-Beginners) | 26-lesson classic ML curriculum | [[Learning_Resources]] | Jupyter | MIT | 89,749 | 2026-08-20 |
@@ -47,7 +57,7 @@
 | [TENOR-INRS/CropMapping_Project](https://github.com/TENOR-INRS/CropMapping_Project) | Mid-season crop type mapping code + data | [[Agriculture]] | — | MIT | 1 | 2026-06-05 |
 | [msalehsaudi/SentinelLabel](https://github.com/msalehsaudi/SentinelLabel) | Sentinel-2 annotation tool | [[Data]] | HTML | MIT | 53 | 2026-03-28 |
 | [torchgeo/ssl4eo-l](https://github.com/torchgeo/ssl4eo-l) | SSL4EO-L dataset reproduction code | [[Foundation_Models]] | Python | MIT | 1 | 2026-01-13 |
-| [montimaj/agribound](https://github.com/montimaj/agribound)                                   | Field boundary delineation toolkit       | [[Agriculture]]       | Python   | Apache-2.0    | 83  | 2026-07-13 |
+| [montimaj/agribound](https://github.com/montimaj/agribound)                                   | Field boundary delineation toolkit       | [[Agriculture]]       | Python   | Apache-2.0    | 89  | 2026-09-30 |
 | [AI-Tianlong/HieraRS](https://github.com/AI-Tianlong/HieraRS)                                 | Hierarchical LCLU segmentation           | [[Land_Cover]]        | —        | none declared | 16  | 2026-07-09 |
 | [google/forest-data-partnership](https://github.com/google/forest-data-partnership)           | Commodity probability models             | [[Forestry]]          | Jupyter  | MIT           | 55  | 2026-09-08 |
 | [MiliLab/S5](https://github.com/MiliLab/S5)                                                   | Semi-supervised segmentation (AAAI 2026) | [[Land_Cover]]        | Python   | none declared | 41  | 2025-12-04 |
@@ -58,6 +68,9 @@
 
 ## Actively maintained
 
+- **[ucam-eo/geotessera](https://github.com/ucam-eo/geotessera)** — MIT, 353 stars, the official client for TESSERA's open embeddings on AWS. Note on [[Embeddings]].
+- **[Open-EO/openeo-community-examples](https://github.com/Open-EO/openeo-community-examples)** — Apache-2.0, now includes server-side TESSERA and TerraMind embedding notebooks. Note on [[Embeddings]].
+- **[spatialnode/superstac](https://github.com/spatialnode/superstac)** and **[dClimate/tessera-embeddings](https://github.com/dClimate/tessera-embeddings)** — both pushed today, both very new. Notes on [[Data]] and [[Embeddings]].
 - **[mfrntic/eudr-api-client](https://github.com/mfrntic/eudr-api-client)** — npm package v2.1.1, kept in step with the EU's switch to the V3 API. Declared AGPL-3.0 in its README and `package.json` but has no LICENSE file, so the GitHub API shows it as unrecognised. Note on [[Forestry]].
 - **[google-research/tabfm](https://github.com/google-research/tabfm)** — Apache-2.0, 2,700 stars, Google Research's tabular foundation model, also in BigQuery. Note on [[Foundation_Models]].
 - **[MadsLorentzen/ai-job-search](https://github.com/MadsLorentzen/ai-job-search)** — MIT, ~44.7k stars after going viral; a Claude Code agent pipeline for job applications. Note on [[Agentic_Coding]].
@@ -85,6 +98,9 @@
 
 ## Released and quiet
 
+- **[taylor-geospatial/mind](https://github.com/taylor-geospatial/mind)** — MIT, paper code and CoordBench for MIND. Note on [[Embeddings]].
+- **[Moerizzy/TOFMapper](https://github.com/Moerizzy/TOFMapper)** — GPL-3.0 (copyleft). Note on [[Forestry]].
+- **[Vizzuality/biodiversity-intactness-100m-update](https://github.com/Vizzuality/biodiversity-intactness-100m-update)** — MIT, v1.1 update code. Note on [[Land_Cover]].
 - **[zhu-xlab/LandSegmenter](https://github.com/zhu-xlab/LandSegmenter)** — official code and the LAS dataset for the ISPRS J. 2026 paper. No license file. Note on [[Land_Cover]].
 - **[dgominski/treematch](https://github.com/dgominski/treematch)** — ECCV 2026 code for TinyTrees/TreeMatch. No license file. Note on [[Forestry]].
 - **[FPSica/BeyondBackscatter](https://github.com/FPSica/BeyondBackscatter)** — MIT, paper code plus a Colab notebook and Hugging Face weights. Note on [[Remote_Sensing]].
@@ -108,7 +124,7 @@ These are dataset or paper releases rather than living projects; a stale push da
 
 ## Licensing watch
 
-Fifteen of the forty-six cannot be safely reused as-is. HieraRS, VHRV, proj-vit, S5, S2GAIA, NDVI-Tree-Crown-Detection, WAC, treematch, GLaSP, user26, LLM-Agents-Papers and LandSegmenter declare no license at all (default copyright, all rights reserved). UAVScenes, OlmoEarth and GenAI_Agents ship non-standard ones. PlotToSat (GPL-3.0) and eudr-api-client (AGPL-3.0, declared only in its README and `package.json`) are usable but copyleft. AGPL also covers code you only run as a network service. and Trazo uses CC-BY-4.0, a content license, for its code. PySTAC reports as unrecognised by the GitHub API but documents itself as Apache-2.0, so check its LICENSE file rather than assuming. Everything else carries clear permissive terms: Apache-2.0 (agribound, annotation, planetlabs/notebooks), MIT (forest-data-partnership, OpenEarthMap-SAR, HarvestStat-Africa, SentinelLabel, ssl4eo-l, ML-For-Beginners, awesome-spectral-indices, geoai-datacubes) or CC0-1.0 (Awesome-Geospatial). The four added on 2026-10-02 (geolibre-rust, pygeofetch, isprs26-embeddings-tutorial under MIT; stac-browser under ISC) are all permissive.
+Seventeen of the 56 cannot be safely reused as-is. HieraRS, VHRV, proj-vit, S5, S2GAIA, NDVI-Tree-Crown-Detection, WAC, treematch, GLaSP, user26, LLM-Agents-Papers and LandSegmenter declare no license at all (default copyright, all rights reserved). UAVScenes, OlmoEarth, GenAI_Agents, GFSM and the alphaearth R package ship non-standard ones. PlotToSat and TOFMapper (GPL-3.0), and eudr-api-client and WaPOR4Global (AGPL-3.0; eudr-api-client declares it only in its README and `package.json`) are usable but copyleft. AGPL also covers code you only run as a network service. and Trazo uses CC-BY-4.0, a content license, for its code. PySTAC reports as unrecognised by the GitHub API but documents itself as Apache-2.0, so check its LICENSE file rather than assuming. Everything else carries clear permissive terms: Apache-2.0 (agribound, annotation, planetlabs/notebooks), MIT (forest-data-partnership, OpenEarthMap-SAR, HarvestStat-Africa, SentinelLabel, ssl4eo-l, ML-For-Beginners, awesome-spectral-indices, geoai-datacubes) or CC0-1.0 (Awesome-Geospatial). The four added on 2026-10-02 (geolibre-rust, pygeofetch, isprs26-embeddings-tutorial under MIT; stac-browser under ISC) are all permissive.
 
 ## Projects referenced without a GitHub link
 

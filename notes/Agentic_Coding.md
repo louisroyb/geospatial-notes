@@ -1,9 +1,13 @@
 # Agentic Coding
 
 **Summary**: Notes on AI agents that write code or drive tools, and the ecosystems built around them.
-**Last updated**: 2026-10-02
+**Last updated**: 2026-10-03
 
 ---
+
+- [QGIS and AI — automating spatial analysis with the QGIS MCP server](https://courses.spatialthoughts.com/advanced-qgis.html#qgis-and-ai): LinkedIn post by Spatial Thoughts, 29 September 2026. A new free module in the Advanced QGIS course drives QGIS through the QGIS MCP server and AI agents. Its main asset is *"the custom project instructions (CLAUDE .md/AGENTS .md) file that captures the best practices for using QGIS's powerful processing framework and adds guardrails for the agent"*. [Video walkthrough](https://www.youtube.com/watch?v=r-hPfRtgo2U). *Keywords: QGIS MCP, AI agents, CLAUDE.md, guardrails, processing framework, Spatial Thoughts*
+  - Source: [LinkedIn post](https://www.linkedin.com/posts/qgis-and-ai-automating-spatial-analysis-share-7510686340418793473-gKW8); see [[LinkedIn]].
+  - The same instruction-file pattern this vault uses (`CLAUDE.md`). Related: [[Cartography]], [[Learning_Resources]]
 
 - [ai-job-search — a Claude Code job application pipeline](https://github.com/MadsLorentzen/ai-job-search): LinkedIn post by Linas Beliūnas, 6 July 2026, on an open-source framework by Mads Lorentzen, a data scientist with a geophysics background. `/scrape` searches job boards and ranks postings against your profile. `/apply <url>` writes a tailored LaTeX CV and cover letter, which a second reviewer agent critiques before the first agent revises and compiles the PDFs. *"The entire system lives in plain Markdown files - your profile, writing rules, evaluation criteria, templates, and interview prep notes."* It needs a Claude subscription plus Python, Bun and LaTeX, and has Danish job portals built in. MIT, ~44.7k stars. *Keywords: Claude Code, job applications, agent pipeline, reviewer agent, markdown state, open source*
   - Source: [LinkedIn post](https://www.linkedin.com/posts/linasbeliunas_a-scientist-in-denmark-figured-out-how-to-share-7479975129024888833-bJym); see [[LinkedIn]]. The post itself links only to the author's newsletter; the repo link comes from the comments.

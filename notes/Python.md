@@ -1,7 +1,7 @@
 # Python
 
 **Summary**: Notes on Python packages and libraries, especially for geospatial and scientific work.
-**Last updated**: 2026-10-02
+**Last updated**: 2026-10-03
 
 ---
 
@@ -39,6 +39,8 @@ Two courses here teach programming for spatial work: the Spatial Thoughts Python
 The NUS Data Science for Construction, Architecture and Engineering course covers Python and Pandas from scratch using building data. It is now on YouTube and filed on [[Learning_Resources]].
 
 The ESA CCI Toolbox (`esa-climate-toolbox`) opens about 500 satellite climate data records as xarray and geopandas objects. It is on [[Climate_Change]].
+
+SuperSTAC (multi-catalog STAC search with a GeoParquet cache) is on [[Data]]. Ahrari's PySTAC NDVI and phenology video tutorials are on [[Vegetation_Phenology]]. InSAR.dev is on [[Remote_Sensing]].
 
 ## Related topics
 

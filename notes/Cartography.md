@@ -1,9 +1,24 @@
 # Cartography
 
 **Summary**: Notes on map projections, map design, and the presentation of spatial information.
-**Last updated**: 2026-10-02
+**Last updated**: 2026-10-03
 
 ---
+
+- [Top ten QGIS plugins I can't live without](https://www.linkedin.com/posts/helenmckenzie003_qgis-gis-geospatial-share-7511015796303765504-3xRj): LinkedIn post by Helen McKenzie (CARTO), 30 September 2026: *"QGIS out of the box is already a ridiculous piece of software for £0... it would actually be ridiculous for £5,000."* Her ten:
+  - QuickOSM (OSM data without Overpass queries)
+  - QuickMapServices (one-click basemaps)
+  - Chainage (points at intervals along a line)
+  - cartogram3
+  - CARTO (live cloud editing; she discloses she works there)
+  - qgis2web (no-code Leaflet/OpenLayers maps)
+  - DataPlotly (charts linked to the map selection)
+  - H3 Toolkit (pairs with the Density Analysis plugin)
+  - Bivariate Renderer
+  - Terrain Shading (ambient occlusion, texture shading)
+  - *Keywords: QGIS plugins, QuickOSM, qgis2web, DataPlotly, H3, terrain shading*
+  - Source: [LinkedIn post](https://www.linkedin.com/posts/helenmckenzie003_qgis-gis-geospatial-share-7511015796303765504-3xRj); see [[LinkedIn]]. The note arrived as an `lnkd.in/p/` share link.
+  - Related: [[Geospatial_Platforms]], [[Data]]
 
 - [GIS & Cartography student portfolios — University College Utrecht](https://jakub8markech-gif.github.io/GIS_web/elevation.html): LinkedIn post by Britta Ricker, 19 July 2026. In a two-week GIS summer course, *"students built personal websites to showcase the six assignments they completed throughout the course"*, using open data and mostly open-source tools, though *"Most of them had little or no prior web design experience"*. The examples are all GitHub Pages sites: a 3D flood model of Utrecht (linked above, built from Hans van der Kwast's tutorials), an [animated Amsterdam map](https://beatrizdapsoares24.github.io/page2.html), an [interactive DEM](https://21annaw.github.io/100annaw/elevation_map.html), [vegetation change in Beirut](https://alice772.github.io/maps-gallery.html) and [land-use classification](https://jakub8markech-gif.github.io/GIS_web/classification.html). *Keywords: GIS teaching, student portfolios, GitHub Pages, web maps, open data, Utrecht*
   - Source: [LinkedIn post](https://www.linkedin.com/posts/brittaricker_one-of-my-favorite-parts-of-teaching-gis-share-7484495600315506688-DlGn); see [[LinkedIn]]. LinkedIn served an unrelated post at the slug URL; the real post was read from its `feed/update` URL.

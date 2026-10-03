@@ -1,9 +1,18 @@
 # Land Cover
 
 **Summary**: Notes on land cover and land use mapping — classification schemes, segmentation methods, and the benchmarks that test them.
-**Last updated**: 2026-10-02
+**Last updated**: 2026-10-03
 
 ---
+
+- [Why a Pretty Map Is Not Always an Accurate One — CEOS Land Cover Validation Protocol v1.1](https://earth.jaxa.jp/ceos-newsletter/2026/09/01/land-cover-validation-guidelines/): LinkedIn post by CEOS, 2 October 2026, sharing its September newsletter article on the revised CEOS land cover validation protocol. The protocol was published September 2025 and endorsed November 2025, led by Alexandra Tyukavina (UMD) and Sophie Bontemps (UCLouvain) with 35 experts from 18 institutions. It updates the 2006 guidelines with practical area-estimation steps, newer reference data (drones, very high-resolution imagery), case studies, and guidance on sampling design and accuracy calculation. It recommends spending about 30% of a mapping budget on validation. *"A map that is lacking an accuracy assessment is just a prototype or an untested hypothesis and should not be used as a source of information."* *Keywords: accuracy assessment, validation protocol, CEOS, area estimation, sampling design, land cover*
+  - Source: [LinkedIn post](https://www.linkedin.com/posts/newsletter-share-7511669425486512128-EMrz); see [[LinkedIn]].
+  - The method side of the area estimates in the Uganda refugee cropland paper on [[Agriculture]]. Spatial autocorrelation in test samples is on [[Machine_Learning]].
+  - Related: [[Machine_Learning]], [[Remote_Sensing]]
+
+- [Global 100m Projections of Biodiversity Intactness v1.1 (2017–2025)](https://www.vizzuality.com/highlights/vizzuality-and-impact-observatory-extend-open-access-high-resolution-biodiversity-intactness-dataset-through-2025): LinkedIn post by Francis Gassert, 3 September 2026, on the Vizzuality and Impact Observatory update of the open 100 m Biodiversity Intactness Index. The model links human pressures seen from satellites to thousands of field observations from the PREDICTS database. *"~3% of global land area (~4 million km2) transitioned from relatively intact (≥0.9) to degraded (<0.9) states between 2017-2025"*, with smaller signs of recovery from restoration. Data on [Source Cooperative](https://source.coop/vizzuality/biodiversity-intactness-100m-v1-1), an [interactive map](https://vizz-bii.s3.amazonaws.com/out/bii_map.html), and code at [Vizzuality/biodiversity-intactness-100m-update](https://github.com/Vizzuality/biodiversity-intactness-100m-update) (MIT). *Keywords: biodiversity intactness, BII, PREDICTS, Impact Observatory, Vizzuality, 100 m*
+  - Source: [LinkedIn post](https://www.linkedin.com/posts/activity-7501205439867555841-DGiV); see [[LinkedIn]].
+  - Related: [[Climate_Change]], [[Forestry]], [[Data]], [[Code_Repositories]]
 
 - [LandSegmenter: Towards a flexible foundation model for Land Use and Land Cover mapping](https://doi.org/10.1016/j.isprsjprs.2026.04.056): LinkedIn post by Xiao Xiang Zhu (TUM), 15 June 2026: *"How can we build a #FoundationModel when high-quality annotations are scarce, but noisy labels are available at global scale?"* The paper is by Chenying Liu, Wei Huang and Xiao Xiang Zhu, *ISPRS Journal of Photogrammetry and Remote Sensing* 238 (August 2026). They first built **LAS (LAnd Segment)**, about 150k globally distributed sample locations with RGB, Planet, Sentinel-2 and Landsat imagery, combining precise annotations with large-scale weak labels. LandSegmenter is trained on LAS. It handles several sensor modalities, takes *language prompts* for the classes you want, and segments zero-shot on unseen datasets and taxonomies. It reports state-of-the-art zero-shot LULC results across six benchmarks. Code and dataset: [zhu-xlab/LandSegmenter](https://github.com/zhu-xlab/LandSegmenter), no license declared. Funded by the Munich Center for Machine Learning. *Keywords: LandSegmenter, LAS dataset, zero-shot segmentation, weak supervision, language prompts, LULC*
   - Source: [LinkedIn post](https://www.linkedin.com/posts/xiaoxiang-zhu-90b473228_foundationmodel-landsegmenter-las-ugcPost-7472191893670395904-RsE7); see [[LinkedIn]]. The note arrived as an `lnkd.in/p/` share link; both inner `lnkd.in` links (the DOI and the repo) were resolved, and the citation was checked against Crossref.
@@ -29,4 +38,4 @@
 
 ## Related topics
 
-[[Remote_Sensing]] · [[Agriculture]] · [[Forestry]] · [[Foundation_Models]] · [[Benchmark_Datasets]] · [[Code_Repositories]] · [[Deep_Learning]] · [[Vision_Language_Models]]
+[[Remote_Sensing]] · [[Agriculture]] · [[Forestry]] · [[Foundation_Models]] · [[Benchmark_Datasets]] · [[Code_Repositories]] · [[Deep_Learning]] · [[Vision_Language_Models]] · [[Machine_Learning]] · [[Climate_Change]]

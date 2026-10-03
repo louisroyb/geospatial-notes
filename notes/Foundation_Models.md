@@ -1,7 +1,7 @@
 # Foundation Models
 
 **Summary**: Notes on large pretrained models for Earth observation and agriculture — general-purpose backbones, domain-specific alternatives, and the self-supervised training behind them.
-**Last updated**: 2026-10-02
+**Last updated**: 2026-10-03
 
 ---
 
@@ -34,6 +34,8 @@ A running theme across these notes is whether general-purpose geospatial backbon
 - **Embedding products as frozen foundations** — AlphaEarth, Clay, Presto, Tessera and others ship model outputs rather than weights; see [[Embeddings]] and the interoperability critique on [[Remote_Sensing]].
 - **Pretraining corpora** — TerraMesh (IBM/ESA, 9M+ multimodal samples) trained TerraMind-B; see [[Remote_Sensing]] and [[Benchmark_Datasets]].
 - **Applied backbones** — Prithvi, DINOv3 and FTW appear as segmentation options in the `agribound` package on [[Agriculture]].
+
+Open TESSERA embeddings on AWS, Planetary Feature Fields (14 EO products in one neural field), the MIND location encoder, and server-side TerraMind/TESSERA inference in openEO are all on [[Embeddings]]. AgriScienceFM's agricultural foundation models are on [[Agriculture]].
 
 ## Related topics
 

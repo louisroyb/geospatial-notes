@@ -1,9 +1,13 @@
 # Forestry
 
 **Summary**: Notes on forest mapping, deforestation and degradation monitoring, and commodity-driven forest loss.
-**Last updated**: 2026-10-02
+**Last updated**: 2026-10-03
 
 ---
+
+- [Mapping and classification of trees outside forests using deep learning](https://doi.org/10.1016/j.srs.2026.100510): LinkedIn post by Moritz Lucas, 1 October 2026, on Lucas, Ebrahimy, Barkov, Pecenka, Kühnberger & Waske, *Science of Remote Sensing* (December 2026). It compares deep learning architectures for separating hedgerows, individual trees, groves and forest in high-resolution aerial imagery across four agricultural landscapes in Germany. Vision Transformers beat CNNs: *"They simply understand spatial context better than CNNs, which matters a lot when structure is what separates these classes."* Data on [Zenodo](https://zenodo.org/records/17468859) (CC-BY-4.0); code at [Moerizzy/TOFMapper](https://github.com/Moerizzy/TOFMapper) (GPL-3.0). The publisher page did not load, so the accuracy figures were not captured. *Keywords: trees outside forests, hedgerows, Vision Transformer, aerial imagery, Germany, agroforestry*
+  - Source: [LinkedIn post](https://www.linkedin.com/posts/moritz-lucas-76797b1a4_remotesensing-deeplearning-earthobservation-share-7511343769313492992--hWT); see [[LinkedIn]].
+  - Related: [[Deep_Learning]], [[Agriculture]], [[Benchmark_Datasets]], [[Code_Repositories]]
 
 - [eudr-api-client](https://github.com/mfrntic/eudr-api-client): *Node.js library for the EU Deforestation Regulation (EUDR) TRACES system*, by Marko Frntić, published on npm as `eudr-api-client` (v2.1.1). It wraps the official EUDR Information System (TRACES) SOAP API, so software can submit and retrieve Due Diligence Statements, file Simplified Declarations for micro and small primary operators, and verify declarations further down the chain. The README warns that the EU system *"now only accepts **V3** requests"*: V1/V2 calls are rejected with a SOAP fault, so only the `…V3` client classes still work. It supports both the production (legally binding) and acceptance (training) environments. AGPL-3.0 per the README and `package.json`. There is no LICENSE file, so GitHub reports the license as unrecognised. JavaScript, 24 stars. *Keywords: EUDR, TRACES, due diligence statement, Node.js, SOAP API, compliance*
   - This is the last step of the EUDR workflow on this page. WAC, the Forest Data Partnership maps and GeoCheck Lite produce the geolocation and deforestation evidence; this library files the statement with the EU.

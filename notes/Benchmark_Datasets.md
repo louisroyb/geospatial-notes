@@ -1,7 +1,7 @@
 # Benchmark Datasets
 
 **Summary**: Hub page for labeled datasets and benchmarks collected across the knowledge base, grouped by what they are built to test.
-**Last updated**: 2026-10-02
+**Last updated**: 2026-10-03
 
 ---
 
@@ -15,6 +15,9 @@ Datasets are filed on their subject pages; this page gathers the pointers.
 - OlmoEarth — 285,288 global samples of 2.56 km², Sentinel-1/2 and Landsat plus six derived map layers. See [[Foundation_Models]].
 - M3DRS — ~400,000 five-channel images at 10–25 cm over Switzerland, France and Italy, released unlabeled for self-supervised work. See [[Remote_Sensing]].
 
+**Location encoding**
+- CoordBench — 52 datasets and 78 target variables with random and regional holdouts at several spatial scales, released with MIND. See [[Embeddings]].
+
 **Vision-language**
 - RSVLM-QA — 13,820 images, 162,373 VQA pairs, GPT-4.1 assisted. See [[Vision_Language_Models]].
 - Landsat30-AU — 196,262 captions and 17,725 VQA samples over 36+ years of Australian Landsat. See [[Vision_Language_Models]].
@@ -27,6 +30,7 @@ Datasets are filed on their subject pages; this page gathers the pointers.
 - RS4P-1M — 1M-image curated pretraining corpus behind S5. See [[Land_Cover]].
 
 **Object and boundary extraction**
+- Trees outside forests (TOFMapper) — hedgerow, individual tree, grove and forest labels on German aerial imagery, CC-BY-4.0 on Zenodo. See [[Forestry]].
 - TinyTrees — 216M individual trees over 25,890 km² of China, Rwanda and France from 3 sensors, for counting rather than crown delineation; ECCV 2026. See [[Forestry]].
 - Trazo — 40,000+ crop field boundaries across 17 South American ecoregions, extending Fields of the World. See [[Agriculture]].
 - SelvaBox — 83,000+ manually labeled tropical tree crowns in 3–10 cm drone imagery. See [[Forestry]].

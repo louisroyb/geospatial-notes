@@ -1,9 +1,24 @@
 # Geospatial Platforms
 
 **Summary**: Notes on hosted platforms for accessing and analysing Earth observation data without local infrastructure.
-**Last updated**: 2026-10-02
+**Last updated**: 2026-10-03
 
 ---
+
+- [Google Earth's new Classify and Change detection tools](https://earth.google.com/web/tools): Three items on the same Google Earth (web) launch, September 2026.
+  - **Classify**: Emily Schechter's Google Earth blog post [Introducing classification in Google Earth](https://medium.com/google-earth/introducing-classification-in-google-earth-1254ea21fe86) (28 Sep). *"Create custom categorical maps from what you see on the globe — no code required."* Draw an area, define classes and label points; behind the scenes Earth Engine trains a random forest on the annual 10 m AlphaEarth Satellite Embedding. Labelled points export as GeoJSON for accuracy assessment. Tips: points apply to whole 10 m pixels; capture variation within each class; classes must hold all year; keep samples balanced. [Docs](https://developers.google.com/maps/documentation/earth/classify).
+  - **Change detection**: Google Maps Platform's [post](https://www.linkedin.com/posts/learn-how-to-use-google-earths-new-change-share-7508992687241621504-NgWQ) (24 Sep) shares the 2-minute video [Detect change with Google Earth](https://www.youtube.com/watch?v=hdxYTShD5GA) by computational designer Juan Francisco Saldarriaga, showing where and when change happened anywhere on Earth. OSINT journalist Ben Heubl's [reaction](https://www.linkedin.com/posts/benheubl_googleearth-investigators-osint-share-7509307167838199809-G9I9) (25 Sep): *"The last bit of tooling—putting an AI layer on top of a map—was pretty bad. But this? This seems fairly useful."*
+  - *Keywords: Google Earth, no-code classification, change detection, AlphaEarth, random forest, OSINT*
+  - Medium returned 403, so the Classify post was read through a reader proxy; pricing behind "Explore plans" is unknown. See [[LinkedIn]].
+  - Related: [[Google_Earth_Engine]], [[Embeddings]], [[Land_Cover]], [[Remote_Sensing]]
+
+- [STAC-GIS](https://stac-gis.opengeohub.org/): LinkedIn post by Tomislav Hengl (OpenGeoHub), 1 October 2026, launching an open-source, self-hosted, multi-user, STAC-native web GIS. It combines a "Digital Earth" viewer (MapLibre + rio-tiler), a STAC API and catalog, FastAPI access, and a conversational agent running on Ollama. You ask in plain language, e.g. "What is the dominant land cover in this region?", so *"users can focus more on what they want to learn from the data, rather than first figuring out how to find and access it."* Built for time series of cloud-optimised images, and Hengl says it is not a QGIS or GeoLibre competitor. Development lead is Aditya Kushwaha, funded by EU Horizon (Open-Earth-Monitor, AI4SoilHealth, OGCR). Hands-on workshop at the [OEMC Global Workshop 2026](https://earthmonitor.org/global-workshop-2026/), Barcelona, 7–9 October. *Keywords: STAC-GIS, OpenGeoHub, self-hosted web GIS, Ollama, conversational agent, EcoDataCube*
+  - Source: [LinkedIn post](https://www.linkedin.com/posts/tomhengl_geospatial-qgis-geolibre-share-7511382952971362304-p25P); see [[LinkedIn]].
+  - Related: [[Data]], [[Agentic_Coding]]
+
+- [GeoLibre map gallery — 100 open-data maps](https://geolibre.app/gallery): LinkedIn post by Qiusheng Wu, 29 September 2026: *"100 interactive maps built from open data, and all open live in your browser. No coding required."* Maps across 12 themes (health, hazards, climate, water, nature, transport, cities, energy, space, history, society, food) that you can explore and fork. [Video walkthrough](https://youtu.be/2r5OhvEa3AA). *Keywords: GeoLibre, map gallery, open data, web maps, no-code, examples*
+  - Source: [LinkedIn post](https://www.linkedin.com/posts/giswqs_geospatial-geolibre-opensource-share-7510688081671434240-c1eY); see [[LinkedIn]].
+  - Related: [[Cartography]], [[Data]]
 
 - [Nimbo — Earth map and live satellite view](https://nimbo.earth/): Kermap's (France) platform built on Sentinel data. It offers monthly cloud-free global basemaps at 10 m, an HD option at 2.5 m, crop analytics (Crop ID, Soil Cover) and global 3D terrain, and claims 300 TB of Sentinel data processed a month and 320+ layers from 2019 onwards. Pricing: a free non-commercial "Discovery" tier with watermarked layers and 4,000 geocredits a month; Pro from €20/month; Pro HD from €45/month. Commercial use, downloads, terrain and radar are Enterprise-only. Viewer at [maps.nimbo.earth](https://maps.nimbo.earth), [docs](https://docs.nimbo.earth/). *Keywords: Nimbo, Kermap, cloud-free basemaps, Sentinel-2 mosaics, crop analytics, freemium*
   - Related: [[Remote_Sensing]], [[Agriculture]]
@@ -40,4 +55,4 @@
 
 ## Related topics
 
-[[Google_Earth_Engine]] · [[Remote_Sensing]] · [[Forestry]] · [[Data]] · [[Learning_Resources]]
+[[Google_Earth_Engine]] · [[Remote_Sensing]] · [[Forestry]] · [[Data]] · [[Learning_Resources]] · [[Embeddings]] · [[Agentic_Coding]] · [[Land_Cover]]
