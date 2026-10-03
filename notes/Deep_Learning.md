@@ -5,6 +5,10 @@
 
 ---
 
+- [Train custom deep learning models without code — QGIS Deepness workflow](https://youtu.be/HIsheKG-lE4): LinkedIn post by Hans van der Kwast, 5 April 2026, on a video tutorial: export training tiles with the QGIS Deepness plugin, annotate in Roboflow, train YOLO with Ultralytics, export to ONNX, and run inference back in Deepness. The example detects wind turbines in aerial photos. *"Personally, I still prefer training people over training models…"* *Keywords: YOLO, QGIS Deepness, Roboflow, ONNX, object detection, no-code*
+  - Source: [LinkedIn post](https://www.linkedin.com/posts/jvdkwast_train-custom-deep-learning-models-without-share-7446559794037014528-3gLS); see [[LinkedIn]].
+  - Related: [[Learning_Resources]], [[Remote_Sensing]]
+
 - [seapig — area of applicability for EO deep learning](https://www.seapig.dev): LinkedIn post by Darius Görgen, 3 May 2026 (presented at EGU2026): *"{seapig} lets your model abstain from predicting when it encounters unreliable inputs."* A lightweight library for selective inference. It scores inputs by KNN distance in embedding space (Euclidean, cosine, Mahalanobis) or by logit, PCA or PyOD methods, then calibrates thresholds on validation data to hit a target coverage. Integrates with PyTorch Lightning. `pip install seapig`; MIT; Zenodo DOI 10.5281/zenodo.20005134; funded by DFG TRR 391. *Keywords: area of applicability, out-of-distribution, selective inference, uncertainty, PyTorch Lightning, EO*
   - Source: [LinkedIn post](https://www.linkedin.com/posts/darius-goergen_egu2026-share-7456670440292249600-_YMY); see [[LinkedIn]].
   - The deep-learning counterpart to Nowosad's "Where Your Models Can Be Trusted" workshop and to spatial cross-validation on [[Machine_Learning]]. Related: [[Machine_Learning]], [[Remote_Sensing]], [[Code_Repositories]]

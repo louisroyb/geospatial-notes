@@ -77,6 +77,8 @@
 - [skills.sh](https://www.skills.sh/): Skill repository. "The Open Agent Skills Directory", made by Vercel. Skills are described as "reusable capabilities for AI agents. Install them with a single command to enhance your agents with access to procedural knowledge" — installed via `npx skills add <owner/repo>` and supported across Claude Code, Cursor, GitHub Copilot, Gemini and a dozen-plus other agents. Carries a leaderboard tracking over 1.3 million skill installs, with Vercel Labs, Matt Pocock, Microsoft Azure and Anthropic among top contributors, plus docs, security audits and topic browsing. Open source on GitHub. *Keywords: agent skills, Vercel, directory, Claude Code, procedural knowledge, npx install*
   - Related: [[Code_Repositories]]
 
+Isaac Corley's catalogue of 19 geospatial agent skills (`geospatial-skills`: GDAL, GeoParquet, STAC, TESSERA, PMTiles and more) is described under TerraBit on [[Embeddings]]. The GeoAI Agency Primitives paper, a vocabulary for GeoAI assistants, is on [[Agriculture]] with its sibling survey-protocol paper.
+
 ## Related topics
 
 Google's Agent Development Kit example agents for Earth Engine — the EUDR and ForestWise agents — are on [[Google_Earth_Engine]].

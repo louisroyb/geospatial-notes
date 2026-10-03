@@ -63,6 +63,17 @@
 - [LeetCode Patterns — coding-interview prep](https://github.com/seanprashad/leetcode-patterns): Shared by Vishakha Singhal (21 May 2026): interview problems grouped by pattern (sliding window, two pointers, binary search, DFS/BFS, DP, backtracking), with a 4-week plan. *"It's not about how many questions you solve. It's about how quickly you recognize the pattern."* About 14k stars; GitHub doesn't recognise the license. Not geospatial, but useful prep for GIS developer and data roles. *Keywords: coding interviews, LeetCode, algorithms, patterns, job prep, study plan*
   - See [[LinkedIn]].
 
+- [Research Methods — Gilberto Câmara's INPE course, updated for LLMs](https://github.com/gilbertocamara/research_methods): LinkedIn post, 8 April 2026. Câmara has taught this graduate course at INPE since 2003. The new lectures cover LLMs in scientific writing, philosophy of science (IMRAD read through Lakatos) and the growth of Brazilian science: *"The question is not whether to use LLMs, but how to do it."* Free slides in English, CC0. *Keywords: research methods, scientific writing, LLMs, philosophy of science, INPE, free slides*
+  - Source: [LinkedIn post](https://www.linkedin.com/posts/gilberto-camara-6782a594_inpe-share-7447765399213047808-VNTf); see [[LinkedIn]].
+
+- [WHO GIS Centre for Health — consultant roster](https://www.linkedin.com/posts/reut-keller_gisimorostertor-ugcPost-7449428476824014849-RHbo): Shared by Reut Keller Azulay (13 Apr 2026). Information Management Officer (GIS) roster for health emergencies and Health Cluster operations, bands A–B at USD 3,955–9,980/month, field or remote. **Closed on 26 April 2026.** *Keywords: WHO, GIS, health emergencies, consultant roster, information management, closed*
+  - See [[LinkedIn]].
+
+- [World Bank — two remote consultants on AI-enabled dMRV](https://www.linkedin.com/posts/jeehye-kim-740b2965_we-are-seeking-two-remote-short-term-consultantsan-share-7449475632935124992-9uIQ): Shared by Jeehye Kim (13 Apr 2026). An EO/ML delivery-workflow specialist and an MRV/validation specialist for a knowledge report on AI-enabled digital MRV for smallholder sustainable land management, needing 6–10 years *"bridging satellite-based Earth observation, machine learning, and rigorous verification logic for agricultural outcomes."* **Closed on 22 April 2026.** *Keywords: World Bank, dMRV, consultancy, Earth observation, smallholders, closed*
+  - See [[LinkedIn]].
+
+- [Senckenberg Society for Nature Research](https://www.senckenberg.de): A German Leibniz biodiversity research organisation, founded in 1817, with research institutes and natural history museums. Bookmarked without a specific page, presumably as a prospective employer or research partner. *Keywords: Senckenberg, biodiversity research, Leibniz, Germany, research institute, employer*
+
 ## Elsewhere in these notes
 
 - A PhD vacancy on multi-decade forest canopy height (UZH, now taken down) is on [[Forestry]].

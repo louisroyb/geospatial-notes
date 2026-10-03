@@ -237,3 +237,37 @@
     - The Spatial KG book's repo isn't linked from its post.
     - The UNFCCC official page didn't render.
     - Wu's FTW "web app" shortlink resolved to a generic PMTiles demo and was not used.
+- 2026-10-03 — *WhatsApp chat export, batch 5 (queue items 201–250, shared 24 Mar – 19 Apr 2026)* — 50 items. 2 were duplicate URLs for the same post (233/249 and 237/239; each filed once), 3 are private group posts (222, 236, 242), 1 is behind a login wall (204), 4 were skipped, and the remaining 40 were filed as new notes or merged into existing ones.
+  - **Skipped:** 203, an image-only "#AI #freecourses" post. 210, a self-promotional post for the freemium "Eureka" paper search. 215, a generic "20 free GeoAI courses" listicle, the same kind as 154 in batch 4. 225, an R course whose content was only in an unreadable attached document.
+  - **Merged into existing notes:**
+    - Corley's PRUE launch, with country predictions and ftw-baselines, went into Fields of the World.
+    - agribound's March launch went into agribound.
+    - Corley's two TerraBit posts (blog and open-sourcing, plus the geospatial-skills catalogue) went into TerraBit.
+    - Mahute's GEE Data Catalogs reshare went into the QGIS Earth Engine assistant note.
+    - Janosov's Stanford share is the third on the Stanford note.
+    - Saleh's SentinelLabel launch went into the SentinelLabel note.
+    - The Alabi and Nakalembe posts on the Nigeria intercropping paper became one note.
+    - Four playlist posts (Kwast ×2, Spatial Thoughts, Qiusheng Wu) became one "free GIS YouTube playlists" note.
+  - **New notes:**
+    - `Agriculture` (3): Nigeria intercropping, survey protocol cards with GeoAI Agency Primitives, CropCycle.
+    - `Embeddings` (2): AlphaEarth GeoZarr mosaic, EarthEmbeddingExplorer.
+    - `Forestry` (2): CTrees biomass, ANR MOOC (ended).
+    - `Remote_Sensing` (3): ICEYE open SAR, AI Edit by TerraLab, NISAR Pro.
+    - `Data` (2): STAC Atlas, OpenDataLoader PDF.
+    - `Python` (2): Lonboard COGs, notebook.link.
+    - `Cartography` (2): deck.gl-raster multi-band, Claude + D3 locator globes.
+    - `Deep_Learning` (1): no-code YOLO in QGIS.
+    - `Geospatial_Platforms` (2): Quickview portal, openEO Studio webinar (past).
+    - `Land_Cover` (1): Land-Cover Mapping with QGIS course.
+    - `Learning_Resources` (2): YouTube playlists, four training tracks.
+    - `Careers_and_Research` (4): Câmara's research-methods course, WHO roster (closed), World Bank dMRV consultants (closed), Senckenberg.
+    - `SQL` (1): SQL Server DBA course review.
+    - `Community_Resources` (1): Geospatial Catalog.
+  - **Repos:** 9 added; the tracker is now 103. The licensing watch is 30 of 103: quickview-geodata-portal declares no license. SentinelLabel was refreshed.
+  - **LinkedIn:** 37 posts recorded on `LinkedIn.md`.
+  - **Caveats on the notes:**
+    - The Nigeria paper's venue is corrected to *Environmental Research: Food Systems*, per Crossref; the posts say ERL.
+    - The CropCycle app wouldn't load.
+    - The NISAR Pro post links no repo.
+    - The AI Edit details come from the QGIS plugin registry, and the note says generated pixels are not observations.
+  - **WebFetch:** hit its session limit in one research agent, which used curl, Crossref and a reader proxy instead.

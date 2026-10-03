@@ -5,6 +5,14 @@
 
 ---
 
+- [Cloud-Optimized GeoTIFFs in Lonboard](https://developmentseed.org/lonboard/latest/blog/2026/04/02/cloud-optimized-geotiffs-in-lonboard/): LinkedIn post by Kyle Barron (Development Seed), 2 April 2026: *"Stream massive COGs on demand."* Lonboard's `RasterLayer.from_geotiff` streams COG tiles from local, remote or private storage via async-geotiff and obstore, with no tile server and no GDAL. A `render_tile` function controls bands, colormaps or even ML inference; the [land cover example](https://developmentseed.org/lonboard/latest/examples/raster-cog-nlcd-server/) renders a 1.3 GB COG live. [developmentseed/lonboard](https://github.com/developmentseed/lonboard), MIT, 963 stars. *Keywords: Lonboard, COG, Jupyter, deck.gl, obstore, raster visualisation*
+  - Source: [LinkedIn post](https://www.linkedin.com/posts/kylebarrongeo_native-cloud-optimized-geotiff-support-in-share-7445513649084903424-G7OK); see [[LinkedIn]].
+  - Related: [[Cartography]], [[Code_Repositories]]
+
+- [notebook.link — run any GitHub notebook in the browser](https://notebook.link/): LinkedIn post by Martin Renou, 7 April 2026: *"Simply prefix the Github URL with 'notebook.link', and you're good to go!"* JupyterLite/WASM-based, for Python, R and C++; dependencies install with `!mamba` or `!pip`, or can be [pre-configured per repo](https://notebook.link/docs/user-guide/enable-your-github-repository). *Keywords: Jupyter, JupyterLite, WASM, notebooks, sharing, no install*
+  - Source: [LinkedIn post](https://www.linkedin.com/posts/martin-renou_notebook-jupyter-github-ugcPost-7447207972948033537-VKeN); see [[LinkedIn]].
+  - Related: [[Learning_Resources]]
+
 - [lazycogs v0.1.0](https://developmentseed.org/lazycogs/): LinkedIn post by Henry Rodman (Development Seed), 27 April 2026. lazycogs loads STAC collections as lazy, mosaicked xarray arrays, inspired by stackstac and odc-stac but built on stac-geoparquet, rustac, async-geotiff and obstore. Set the target CRS, extent and resolution, and *"When you actually want to load some pixels it fetches only the bytes you need from the cloud-optimized geotiff assets."* The demo is a low-cloud 300 m Sentinel-2 mosaic of the US Southwest. MIT. *Keywords: lazycogs, STAC, xarray, COG, stac-geoparquet, lazy loading*
   - Source: [LinkedIn post](https://www.linkedin.com/posts/hrodmn_today-development-seed-published-v010-of-activity-7454625241974312960-W3IR); see [[LinkedIn]].
   - Also covered in Development Seed's Groundwork 05 on [[Data]]. Related: [[Data]], [[Code_Repositories]]

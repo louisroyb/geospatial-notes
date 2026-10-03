@@ -6,6 +6,7 @@
 ---
 
 - [An AI assistant for Earth Engine inside QGIS](https://github.com/opengeos/qgis-gee-data-catalogs-plugin): LinkedIn post by Qiusheng Wu, 29 April 2026. The QGIS *GEE Data Catalogs* plugin (MIT, 367 stars) gains a GeoAgent-powered assistant that explores, visualises and analyses the 80+ PB Earth Engine catalog in natural language: *"Every interaction automatically generates reusable code, making it easy to reproduce results, customize workflows, and transition from no-code to full scripting when needed."* [Plugin page](https://plugins.qgis.org/plugins/gee_data_catalogs), [video](https://youtu.be/5zkXQlHUsu8). *Keywords: QGIS, Earth Engine, AI assistant, GeoAgent, no-code, data catalog*
+  - **The plugin before the assistant** ([reshared by Mashford Mahute, 14 Apr 2026](https://www.linkedin.com/posts/mashford-mahute-012487178_qgis-gis-remotesensing-ugcPost-7449798716670214145-dHRB); [video](https://youtu.be/nZ3D6wLKJQw)): *"unlocks access to 80+ petabytes of satellite imagery and geospatial datasets - all with zero coding required"*. You can browse the official and Awesome GEE Community catalogs, build time series, export, and convert Earth Engine JavaScript to Python.
   - Source: [LinkedIn post](https://www.linkedin.com/posts/giswqs_earthengine-qgis-opensource-ugcPost-7455263708743634945-6raN); see [[LinkedIn]].
   - Related: [[Agentic_Coding]], [[Code_Repositories]]
 

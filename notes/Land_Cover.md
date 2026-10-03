@@ -5,6 +5,10 @@
 
 ---
 
+- [Land-Cover Mapping with QGIS — GIS OpenCourseWare](https://courses.gisopencourseware.org/course/view.php?id=85): LinkedIn post by Hans van der Kwast, 13 April 2026. A free course combining field data collection in Mergin Maps with supervised classification in QGIS, using TerraLab's AI Segmentation plugin and the Semi-Automatic Classification Plugin: *"From designing your survey to producing a validated classification map, the course walks learners through the complete workflow using open‑source tools."* Made for IHE Delft, QWAST and the Geo-ICT Training Center; guest access. *Keywords: land cover classification, QGIS, Mergin Maps, Semi-Automatic Classification Plugin, field survey, free course*
+  - Source: [LinkedIn post](https://www.linkedin.com/posts/jvdkwast_im-excited-to-share-that-a-brandnew-fully-share-7449538763103367168-TPml); see [[LinkedIn]].
+  - Related: [[Learning_Resources]], [[Remote_Sensing]]
+
 - [Check-a-Kea — fast manual map validation in QGIS](https://github.com/manaakiwhenua/check-a-kea): LinkedIn post by Richard Law (with James Ardo), 30 June 2026: *"As much as AI is coming for us all, there will still be people validating maps."* A QGIS plugin that steps through a validation sample with your own keyboard shortcuts, mostly without the mouse. It respects layer filters and attribute order, integrates with the identify tool, is type-aware, and writes nothing until saved; it can also be used to label training data quickly. GPL-2.0, in the official plugin repository. The post doesn't link the repo; the one above (Manaaki Whenua) was found by search. *Keywords: map validation, QGIS plugin, accuracy assessment, labelling, keyboard shortcuts, Manaaki Whenua*
   - Source: [LinkedIn post](https://www.linkedin.com/posts/richardmlaw_qgis-share-7477566612045344768-n-mv); see [[LinkedIn]].
   - A practical tool for the CEOS validation protocol below. Related: [[Cartography]], [[Machine_Learning]]

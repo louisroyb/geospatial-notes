@@ -5,6 +5,12 @@
 
 ---
 
+- [Quickview Geodata Portal](https://jeffreyblay.github.io/quickview-geodata-portal/): LinkedIn post by Jeffrey Blay, 8 April 2026. Paste a URL or upload CSV, GeoJSON, JSON, XML or zipped shapefiles and see them on a map at once: *"No GIS software, no setup, no code."* For a first look before real analysis. [Jeffreyblay/quickview-geodata-portal](https://github.com/Jeffreyblay/quickview-geodata-portal), no license. *Keywords: web map viewer, quick look, GeoJSON, shapefile, no-code, data preview*
+  - Source: [LinkedIn post](https://www.linkedin.com/posts/jeffrey-blay_quickview-geodata-portal-share-7447755541898137600-OLvd); see [[LinkedIn]].
+
+- [openEO Studio on EOPF Sentinel Zarr](https://www.linkedin.com/posts/emmanuelmathot_this-monday-ill-be-doing-a-live-demo-of-ugcPost-7450793678694109184-IL4S): LinkedIn post by Emmanuel Mathot, 17 April 2026, announcing a live demo (20 April, with ESA) of *"applying advanced processing workflows live on Sentinel Zarr data, all running server-side without downloading anything,"* moving from visual exploration in EOPF Explorer to analysis. The webinar has passed. *Keywords: openEO Studio, EOPF, Sentinel Zarr, ESA, server-side processing, webinar*
+  - See [[LinkedIn]]. Related: [[Data]]
+
 - [WorldWideView — open-source real-time OSINT dashboard](https://worldwideview.dev/): LinkedIn post by Daniel Demure, 18 May 2026: *"An open source, optionally, self hosted realtime visual intelligence view dashboard. Complete with an open plugin standard."* It tracks satellites, weather, air and ship traffic, military bases, airports and public cameras, and can be extended with your own plugins and databases. Pitched as a DIY Palantir. [Demo](https://demo.worldwideview.dev/); [silvertakana/worldwideview](https://github.com/silvertakana/worldwideview) (~1.9k stars; GitHub doesn't recognise the license). *Keywords: OSINT, real-time dashboard, satellite tracking, AIS, plugins, self-hosted*
   - Source: [LinkedIn post](https://www.linkedin.com/posts/danieldemure_opensource-osint-ai-share-7462016436643971072-b-t4); see [[LinkedIn]].
   - Related: [[Data]], [[Code_Repositories]]

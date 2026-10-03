@@ -1,9 +1,12 @@
 # Community Resources
 
 **Summary**: People, labs, newsletters, and curated lists worth following in the geospatial and GeoAI community.
-**Last updated**: 2026-10-02
+**Last updated**: 2026-10-03
 
 ---
+
+- [Geospatial Catalog](https://geospatialcatalog.com/): *"Everything Geospatial, All in One Place"*, a free, hand-curated, searchable directory by David Hersh. It has 700+ links and 400+ tags across nine categories (blogs/newsletters/podcasts, books, companies, conferences, data, hardware, online courses, [open-source software](https://geospatialcatalog.com/categories/open-source-software), tooling). Users can submit entries or flag stale ones. *Keywords: directory, geospatial tools, curated list, open source, datasets, courses*
+  - Related: [[Data]], [[Learning_Resources]]
 
 - [CNG London 2026 — notes from Anil Madhavapeddy](https://anil.recoil.org/notes/cng-london-2026): LinkedIn post by Anil Madhavapeddy (Cambridge), 26 June 2026, on the Cloud-Native Geospatial Forum's London meetup during Climate Action Week: *"50 geospatial geeks from across industry and academia and policy descending on the Jellicoe where ARIA is also based."* His blog note (24 June) calls it the first CNG Forum event outside the US. Highlights:
   - Source Cooperative now hosts about 6 PB, at roughly $20/TB/month behind Cloudflare R2 caching, and he hopes TESSERA will be published there.

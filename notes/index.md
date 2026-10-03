@@ -9,9 +9,9 @@
 
 The three most recent additions, each from a different topic page.
 
-- [Global Forest Typology 2020](https://nature-trace.projects.earthengine.app/view/forest-typology-2020) — The first global 10 m map separating primary, regenerating, planted and plantation forest from tree crops, at 90% accuracy. On [[Forestry]].
-- [Global annual cropland dynamics 2015–2024](https://glad.umd.edu/dataset/annual-croplands) — UMD GLAD's 30 m annual cropland maps: +6% in a decade, a third of it from converting natural vegetation. On [[Agriculture]].
-- [GroundSet](https://arxiv.org/abs/2603.14609) — 3.8M cadastral-grounded objects that let a plain LLaVA outperform remote-sensing VLMs on spatial reasoning. On [[Vision_Language_Models]].
+- [CTrees aboveground biomass 2000–2025](https://ctrees.org/news/2026-aboveground-biomass-data-release) — An open annual 100 m biomass record for every hectare of land, built from satellites, airborne LiDAR and plots. On [[Forestry]].
+- [ICEYE Open Data](https://www.iceye.com/open-data-initiative) — 3 TB of commercial X-band SAR from 20 satellites, open on S3 with STAC, no sign-up. On [[Remote_Sensing]].
+- [AlphaEarth GeoZarr mosaic](https://source.coop/tge-labs/aef-mosaic) — Nine years of Google's AlphaEarth embeddings as a single global GeoZarr on Source Cooperative. On [[Embeddings]].
 
 ## Topics
 
