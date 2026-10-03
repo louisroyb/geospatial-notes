@@ -19,6 +19,7 @@ Datasets are filed on their subject pages; this page gathers the pointers.
 - CoordBench — 52 datasets and 78 target variables with random and regional holdouts at several spatial scales, released with MIND. See [[Embeddings]].
 
 **Vision-language**
+- GroundSet — 3.8M cadastral-grounded objects across 510k images, 135 categories, plus a 7-task spatial reasoning benchmark. See [[Vision_Language_Models]].
 - RSVLM-QA — 13,820 images, 162,373 VQA pairs, GPT-4.1 assisted. See [[Vision_Language_Models]].
 - Landsat30-AU — 196,262 captions and 17,725 VQA samples over 36+ years of Australian Landsat. See [[Vision_Language_Models]].
 

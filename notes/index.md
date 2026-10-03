@@ -9,9 +9,9 @@
 
 The three most recent additions, each from a different topic page.
 
-- [Global extent and drivers of tree cover loss](https://doi.org/10.1126/science.adz9042) — A Science paper finds only about a third of global tree cover loss is permanent conversion, with pasture the largest driver. On [[Forestry]].
-- [OpenHydroNet](https://research.google/blog/the-next-chapter-in-flood-resilience-open-sourcing-googles-hydrology-framework/) — Google open-sources the LSTM framework behind Flood Hub, including its production model architecture. On [[Climate_Change]].
-- [GMIA-NEXT](https://zenodo.org/records/17627111) — A beta 30 m global irrigated-area map trained on nearly 400,000 ground-truth points. On [[Agriculture]].
+- [Global Forest Typology 2020](https://nature-trace.projects.earthengine.app/view/forest-typology-2020) — The first global 10 m map separating primary, regenerating, planted and plantation forest from tree crops, at 90% accuracy. On [[Forestry]].
+- [Global annual cropland dynamics 2015–2024](https://glad.umd.edu/dataset/annual-croplands) — UMD GLAD's 30 m annual cropland maps: +6% in a decade, a third of it from converting natural vegetation. On [[Agriculture]].
+- [GroundSet](https://arxiv.org/abs/2603.14609) — 3.8M cadastral-grounded objects that let a plain LLaVA outperform remote-sensing VLMs on spatial reasoning. On [[Vision_Language_Models]].
 
 ## Topics
 

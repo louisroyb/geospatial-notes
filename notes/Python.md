@@ -5,6 +5,14 @@
 
 ---
 
+- [lazycogs v0.1.0](https://developmentseed.org/lazycogs/): LinkedIn post by Henry Rodman (Development Seed), 27 April 2026. lazycogs loads STAC collections as lazy, mosaicked xarray arrays, inspired by stackstac and odc-stac but built on stac-geoparquet, rustac, async-geotiff and obstore. Set the target CRS, extent and resolution, and *"When you actually want to load some pixels it fetches only the bytes you need from the cloud-optimized geotiff assets."* The demo is a low-cloud 300 m Sentinel-2 mosaic of the US Southwest. MIT. *Keywords: lazycogs, STAC, xarray, COG, stac-geoparquet, lazy loading*
+  - Source: [LinkedIn post](https://www.linkedin.com/posts/hrodmn_today-development-seed-published-v010-of-activity-7454625241974312960-W3IR); see [[LinkedIn]].
+  - Also covered in Development Seed's Groundwork 05 on [[Data]]. Related: [[Data]], [[Code_Repositories]]
+
+- [gdown v6](https://github.com/wkentaro/gdown/releases/tag/v6.0.0): LinkedIn post by Kentaro Wada, 12 April 2026, on the Google Drive downloader that many EO datasets and model weights are fetched with: *"Folder downloads work with more than 50 files (this was annoying for everyone for a long time)."* `download()` now raises `DownloadError` instead of returning None, a progress callback is added, deprecated APIs are removed, and Python 3.10+ is required. MIT, 5.4k stars. *Keywords: gdown, Google Drive, downloads, Python CLI, datasets, release*
+  - Source: [LinkedIn post](https://www.linkedin.com/posts/wkentaro_gdown-v6-is-out-biggest-changes-this-time-share-7448987150999552002-9Mkg); see [[LinkedIn]].
+  - Related: [[Data]]
+
 - [Smoothify — smooth staircase polygons from rasters](https://github.com/DPIRD-DMA/Smoothify): LinkedIn post by Nicholas Wright, 2 June 2026: *"Vectorise a raster and you get staircases."* Smoothify smooths polygons and lines (holes included) and whole GeoDataFrames, preserving area, using an optimised Chaikin corner-cutting algorithm. `pip install smoothify`; MIT, 213 stars. *Keywords: polygon smoothing, vectorisation, Chaikin, GeoPandas, segmentation masks, cartography*
   - Source: [LinkedIn post](https://www.linkedin.com/posts/nicholas-wright-92205985_python-gis-remotesensing-ugcPost-7467432960795832321-1QWQ); see [[LinkedIn]].
   - Related: [[Cartography]], [[Deep_Learning]], [[Code_Repositories]]

@@ -5,6 +5,27 @@
 
 ---
 
+- [Two weeks of agentic geospatial announcements, spring 2026](https://www.linkedin.com/posts/ahmadalipour_the-rate-of-advancement-in-agentic-geospatial-ugcPost-7457685480004820992-ZjWY): LinkedIn post by Ali Ahmadalipour, 6 May 2026, rounding up ten launches:
+  - Cecil's land-cover analysis with Claude Code and [xarray-sql](https://github.com/xqlsystems/xarray-sql) (Apache-2.0)
+  - Felt's MCP server
+  - Google Maps Platform [grounding via MCP](https://mapsplatform.google.com/resources/blog/powering-the-next-era-of-agentic-experiences-announcing-new-grounding-capabilities/)
+  - LGND's chat-on-map *Discover*
+  - Microsoft's Planetary Computer Pro MCP tools (below)
+  - Planet's agentic image discovery beta
+  - Qiusheng Wu's [GeoAgent](https://github.com/opengeos/GeoAgent) (MIT, 501 stars)
+  - Tomorrow.io's agentic weather stack
+  - Verisk's XactRestore connector for Claude
+  - a Yugen Space pilot
+
+  His closing question: *"If agents are becoming the primary users of geospatial data, do we need to move past wrappers and start building agentic-native geospatial databases?"*
+  - **Microsoft Planetary Computer Pro MCP Tools** ([LinkedIn, Guillermo Morales, 4 May 2026](https://www.linkedin.com/posts/guillermomoralessanchez_agentic-geoai-is-here-we-just-released-ugcPost-7457183755934396416-ua-I); [VS Code Marketplace](https://marketplace.visualstudio.com/items?itemName=ms-planetarycomputer.mpc-pro-mcp-tools)): 40+ tools that let GitHub Copilot Chat search STAC, ingest into GeoCatalogs, configure collections and author mosaics. Free, but needs an Azure subscription and an MPC Pro GeoCatalog. *"Not because it replaces geospatial expertise, but because it helps experts move from intent to action much faster."*
+  - *Keywords: agentic geospatial, MCP, Planetary Computer Pro, GeoAgent, xarray-sql, market roundup*
+  - See [[LinkedIn]]. Sparkgeo's running MCP list is further up this page. Related: [[Geospatial_Platforms]], [[Code_Repositories]]
+
+- [NORA: A Harness-Engineered Autonomous Research Agent for End-to-End Spatial Data Science](https://arxiv.org/abs/2605.02092): Shared on LinkedIn by Ban Hikmet (6 May 2026). The paper (Zhou, Huang, Ning, Wu, Li, Zhang; arXiv 2605.02092) presents *"a harness-engineered, multi-agent autonomous research system purpose-built for GIScience and spatial data science"*: 21 domain workflow skills, 9 specialist sub-agents and custom MCP servers. It formalises "harness engineering" as lifecycle hooks, safety gates, separate generator and evaluator agents, human-in-the-loop checkpoints and state persistence. It was evaluated by 6 specialists and 3 LLM reviewers on 7 dimensions. *Keywords: NORA, autonomous research agent, harness engineering, GIScience, MCP, multi-agent*
+  - Source: [LinkedIn post](https://www.linkedin.com/posts/ban-hikmet-11120864_nora-night-owl-research-agent-share-7457710885747453953-SthM); see [[LinkedIn]].
+  - A sibling of GIS Co-Scientist, further up this page. Related: [[Careers_and_Research]]
+
 - [GIS Co-Scientist — a multi-agent autonomous GIS](https://www.gis-coscientist.online): LinkedIn post by Zhenlong Li, 9 June 2026: *"GIS Co-Scientist supports retrieving geospatial data, running spatial analyses, and producing full research manuscripts through a single conversational interface."* Agents plan the research, design workflows, and generate and run code, with human review at key stages and an optional fully autonomous mode. Built by PhD student Temitope Ezekiel Akinboyewa. Preprint: *Towards Autonomous Geospatial Scientific Inquiry: A Multi-Agent AI Co-Scientist Framework* ([SSRN](http://dx.doi.org/10.2139/ssrn.6753098)); [demo video](https://www.youtube.com/watch?v=oyf4I1VRlLU). *Keywords: autonomous GIS, multi-agent, AI co-scientist, spatial analysis, manuscript generation, LLM agents*
   - Source: [LinkedIn post](https://www.linkedin.com/posts/zhenlongli_giscience-autonomousgis-autonomousspatialanalysis-ugcPost-7469935527014887424-KIGD); see [[LinkedIn]].
   - Related: [[Careers_and_Research]]

@@ -5,6 +5,13 @@
 
 ---
 
+- [icesat2DB — query ICESat-2 ATL08 without the HDF5](https://icesat2db.readthedocs.io/en/latest/): LinkedIn post by Simon Besnard, 13 April 2026. A Python package (`pip install icesat2db`, built on the earlier gediDB) that queries, filters and analyses ICESat-2 ATL08 land and canopy-height data stored in a global TileDB database, *"without downloading raw HDF5 files."* Citation: Dombrowski, Besnard, Urbazaev & Holcomb (2026), DOI 10.5281/zenodo.19458654. [simonbesnard1/icesat2db](https://github.com/simonbesnard1/icesat2db), EUPL-1.2. *Keywords: ICESat-2, ATL08, canopy height, TileDB, lidar altimetry, Python*
+  - Source: [LinkedIn post](https://www.linkedin.com/posts/simon-besnard-0623b02b_icesat2db-a-toolbox-for-ice-cloud-and-share-7449390596458340352-9SJS); see [[LinkedIn]].
+  - Related: [[Forestry]], [[Python]], [[Code_Repositories]]
+
+- [RS Paper Hub](https://rspaper.top/): A searchable hub of remote sensing and geospatial arXiv papers: about 7,500 papers spanning 30 years, about 1,000 with code, tagged by task (classification, change detection, detection, VQA, super-resolution, datasets) with venues and a weekly hot-keyword radar. The maintainer isn't named. The site failed DNS from here and was read through a reader proxy. *Keywords: paper index, arXiv, remote sensing literature, code availability, search, research tool*
+  - Related: [[Community_Resources]], [[Careers_and_Research]]
+
 - [SARvey — open-source InSAR time series](https://github.com/luhipi/sarvey): LinkedIn post by Mahmud Haghighi, 7 June 2026, on the paper *SARvey – survey with SAR: A new Open-Source InSAR Research Software* (Piter, Haghighi, Rabe, Motagh et al., *Environmental Modelling & Software*, DOI 10.1016/j.envsoft.2026.107004). Four case studies, with the Sentinel-1 inputs on [Zenodo](https://zenodo.org/records/18888709) for reproduction. *"SARvey is open source and can be installed on Linux, macOS, and Windows."* 94 stars; GitHub reports a non-standard license. *Keywords: InSAR, time series, SARvey, Sentinel-1, deformation, open source*
   - Source: [LinkedIn post](https://www.linkedin.com/posts/mahmud-haghighi_if-you-are-using-sarvey-for-insar-time-series-share-7469437068322979840-Br0w); see [[LinkedIn]].
   - Related: [[Python]], [[Code_Repositories]]

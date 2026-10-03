@@ -1,9 +1,13 @@
 # Deep Learning
 
 **Summary**: Notes on neural network architectures and models, particularly for imagery and geospatial tasks.
-**Last updated**: 2026-10-02
+**Last updated**: 2026-10-03
 
 ---
+
+- [seapig — area of applicability for EO deep learning](https://www.seapig.dev): LinkedIn post by Darius Görgen, 3 May 2026 (presented at EGU2026): *"{seapig} lets your model abstain from predicting when it encounters unreliable inputs."* A lightweight library for selective inference. It scores inputs by KNN distance in embedding space (Euclidean, cosine, Mahalanobis) or by logit, PCA or PyOD methods, then calibrates thresholds on validation data to hit a target coverage. Integrates with PyTorch Lightning. `pip install seapig`; MIT; Zenodo DOI 10.5281/zenodo.20005134; funded by DFG TRR 391. *Keywords: area of applicability, out-of-distribution, selective inference, uncertainty, PyTorch Lightning, EO*
+  - Source: [LinkedIn post](https://www.linkedin.com/posts/darius-goergen_egu2026-share-7456670440292249600-_YMY); see [[LinkedIn]].
+  - The deep-learning counterpart to Nowosad's "Where Your Models Can Be Trusted" workshop and to spatial cross-validation on [[Machine_Learning]]. Related: [[Machine_Learning]], [[Remote_Sensing]], [[Code_Repositories]]
 
 - [TorchGeo](https://docs.torchgeo.org/en/stable/): Torchgeo by the GOAT. "A PyTorch domain library, similar to torchvision, providing datasets, samplers, transforms, and pre-trained models specific to geospatial data", aiming both to let ML people work with geospatial data and to let remote sensing people reach for ML. Handles coordinate reference systems automatically when combining datasets, ships benchmark datasets for classification, segmentation and detection, pre-trained weights for multispectral imagery such as Sentinel-2, Lightning datamodules and tasks for reproducible experiments, and a LightningCLI-based command line for training. MIT, ~4.2k stars. Paper: "TorchGeo: Deep Learning With Geospatial Data", *ACM Transactions on Spatial Algorithms and Systems*, August 2025, [10.1145/3707459](https://doi.org/10.1145/3707459). Repository: [microsoft/torchgeo](https://github.com/microsoft/torchgeo). *Keywords: TorchGeo, PyTorch, geospatial datasets, pretrained weights, Lightning, CRS handling*
   - Related: [[Python]], [[Foundation_Models]], [[Benchmark_Datasets]]
@@ -21,4 +25,4 @@ From this batch, other pages hold the deep learning applications: tree counting 
 
 A head-to-head of Transformers, LSTM–Transformer hybrids, 1D CNNs and LSTMs against Random Forest and XGBoost on Sentinel time series, including how they transfer to an unseen season, is on [[Agriculture]].
 
-[[Machine_Learning]] · [[Foundation_Models]] · [[Land_Cover]] · [[Agriculture]] · [[Forestry]] · [[Remote_Sensing]] · [[Benchmark_Datasets]] · [[Vision_Language_Models]] · [[Embeddings]] · [[Python]]
+[[Machine_Learning]] · [[Foundation_Models]] · [[Land_Cover]] · [[Agriculture]] · [[Forestry]] · [[Remote_Sensing]] · [[Benchmark_Datasets]] · [[Vision_Language_Models]] · [[Embeddings]] · [[Python]] · [[LinkedIn]] · [[Code_Repositories]]

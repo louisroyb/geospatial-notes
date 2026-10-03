@@ -5,6 +5,10 @@
 
 ---
 
+- [geoparquet-io v1.0](https://geoparquet.io): LinkedIn post by Nissim Lebovits (with Chris Holmes), 14 April 2026. One CLI and Python API to convert, sort, partition and spatially index GeoParquet: *"Unix pipes with Arrow IPC streaming—no intermediate files."* It reads and writes S3, GCS, Azure and HTTPS via DuckDB and obstore, adds Hilbert sorting, ZSTD and bbox columns automatically, supports H3/S2/A5/quadkey/KD-tree indices, and handles GeoParquet 1.1 and 2.0. `pip install geoparquet-io`; [geoparquet/geoparquet-io](https://github.com/geoparquet/geoparquet-io), Apache-2.0. *Keywords: GeoParquet, CLI, Hilbert sorting, spatial index, DuckDB, Arrow*
+  - Source: [LinkedIn post](https://www.linkedin.com/posts/nlebovits_geoparquet-io-share-7449796317075329025-EpWo); see [[LinkedIn]].
+  - Related: [[SQL]], [[Python]], [[Code_Repositories]]
+
 - [Groundwork 05 — Development Seed](https://developmentseed.org/blog/2026-07-02-groundwork-05/): Kiri Carini's quarterly round-up of Development Seed's experimental open-source tools (2 July 2026). It covers lazycogs (virtual COG mosaics straight from STAC GeoParquet and xarray, with no tile server); deck.gl-raster (in-browser cloud-native raster rendering, now multi-band with GPU processing, GeoZarr next); healpix-ts and deck.gl-healpix (HEALPix grids in the browser, shown with ERA5); and Pixelverse, a geospatial-embedding toolkit tested on building-type classification. *"As Earth observation archives continue to grow, making data easier to access becomes just as important as making it easier to store."* *Keywords: Development Seed, lazycogs, deck.gl-raster, HEALPix, Pixelverse, cloud-native*
   - rustac, also mentioned there, is on [[Python]]. Related: [[Embeddings]], [[Geospatial_Platforms]]
 

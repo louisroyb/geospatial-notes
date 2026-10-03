@@ -58,11 +58,16 @@
 - [UK PACT short-term technical assistance roster](https://www.linkedin.com/posts/monica-coutinho_hiring-opportunity-uk-pact-partnering-share-7465538008415584257-JYKy): Shared by Monica Souza (27 May 2026). UK PACT expanded its expert roster for climate policy, green finance, climate and nature, forests and land use, and energy transition. **Closed on 4 June 2026.** *Keywords: UK PACT, climate policy, consultant roster, green finance, technical assistance, closed*
   - See [[LinkedIn]].
 
+- [UNFCCC CAPACITY Fellowship Programme](https://unfccc.int/capacity-fellowship-programme): Seen via the Global Jobs Atlas aggregator (16 Apr 2026). A year at the UNFCCC Secretariat in Bonn, extendable to two, with a stipend of up to €4,500 a month, for mid-career professionals from LDCs and SIDS with an advanced degree and government or climate experience. No deadline was given (*"Apply during official call periods only"*), and the official page didn't render here, so check it directly. *Keywords: UNFCCC, fellowship, climate policy, Bonn, LDC SIDS, stipend*
+
+- [LeetCode Patterns — coding-interview prep](https://github.com/seanprashad/leetcode-patterns): Shared by Vishakha Singhal (21 May 2026): interview problems grouped by pattern (sliding window, two pointers, binary search, DFS/BFS, DP, backtracking), with a 4-week plan. *"It's not about how many questions you solve. It's about how quickly you recognize the pattern."* About 14k stars; GitHub doesn't recognise the license. Not geospatial, but useful prep for GIS developer and data roles. *Keywords: coding interviews, LeetCode, algorithms, patterns, job prep, study plan*
+  - See [[LinkedIn]].
+
 ## Elsewhere in these notes
 
 - A PhD vacancy on multi-decade forest canopy height (UZH, now taken down) is on [[Forestry]].
 - An open-source Claude Code pipeline for tailoring CVs and cover letters is on [[Agentic_Coding]].
-- Free and paid courses generally are on [[Learning_Resources]]. GHG accounting courses, which job descriptions increasingly ask for, are on [[Climate_Change]].
+- Free and paid courses generally are on [[Learning_Resources]]. The RS Paper Hub index for literature search is on [[Remote_Sensing]], and the NORA and GIS Co-Scientist research agents are on [[Agentic_Coding]]. GHG accounting courses, which job descriptions increasingly ask for, are on [[Climate_Change]].
 
 ## Related topics
 

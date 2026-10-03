@@ -201,3 +201,39 @@
     - The "MIT made its entire library free" headline is overstated.
     - The Esri and TESSERA v1.1 pages were read through a reader proxy.
     - The ECMWF MOOC links need a learning.ecmwf.int login.
+- 2026-10-03 — *WhatsApp chat export, batch 4 (queue items 151–200, shared 12 Apr – 1 Jun 2026)* — 50 items: 46 filed (as new notes or merged into existing ones), 1 private group post held (item 171), and 3 skipped.
+  - **Skipped:** item 157, an Oracle-sponsored post with ad-campaign parameters, not geospatial. Item 154, a generic "15 free GeoAI courses" listicle linking only to top-level domains. Item 163, a Johns Hopkins "10 free courses" post whose list was only in an image.
+  - **Merged into existing notes:**
+    - Ai2's own OlmoEarth v1.1 announcement went into the OlmoEarth note.
+    - Corley's FTW global-map post, his CVPR post (the PRUE paper) and the reshare of Wu's field-boundary notebook went into the Fields of the World note.
+    - GeoLibre v0.5.0 went into the GeoLibre note.
+    - Two GRAPH Network posts went into the GRAPH Courses note.
+    - Desmond Lartey's share of the Stanford StoryMaps courses went into the existing Stanford note.
+    - Four Africans in Environmental Science MIT OCW lists became one consolidated MIT OCW note.
+    - UMD GLAD's and Global Nature Watch's 2025 tree-cover-loss posts became one note.
+    - Microsoft's Planetary Computer Pro MCP post was folded into Ahmadalipour's agentic-geospatial roundup.
+  - **New notes:**
+    - `Forestry` (4): Global Forest Typology 2020, 2025 TCL update, Open Foris Arena, osapiens embeddings workshop.
+    - `Agriculture` (1): GLAD annual cropland dynamics.
+    - `Embeddings` (3): OlmoEarth on-demand embeddings, BetaEarth, Kiri Carini's reading list.
+    - `Vision_Language_Models` (1): GroundSet.
+    - `Agentic_Coding` (2): the agentic roundup, NORA.
+    - `Google_Earth_Engine` (3): GEE AI assistant in QGIS, 300+ GEE tutorials, cloud-free download GUI.
+    - `Data` (1): geoparquet-io.
+    - `Python` (2): lazycogs, gdown v6.
+    - `Geospatial_Platforms` (3): WorldWideView, prepair for Processing, Wu's QGIS 4 plugin migration.
+    - `Cartography` (1): BellTopo Sans.
+    - `Deep_Learning` (1): seapig.
+    - `Remote_Sensing` (2): icesat2DB, RS Paper Hub.
+    - `Climate_Change` (1): Google ERA and CO₂ from GOES.
+    - `Learning_Resources` (6): MIT OCW roundup, Spatial KG book, OpenGeoPub, Copenhagen ML courses, Alison ML diploma, IRSPS summer school (past).
+    - `Careers_and_Research` (2): UNFCCC CAPACITY Fellowship (status unverified), LeetCode Patterns.
+    - GroundSet indexed on `Benchmark_Datasets.md`.
+  - **Repos:** 12 added; the tracker is now 94. Licensing watch is 29 of 94. BetaEarth, WorldWideView and leetcode-patterns are non-standard; icesat2db (EUPL-1.2) joins the copyleft list. GeoLibre refreshed. The anonymous GitHub API hit its rate limit mid-batch, so agents used the authenticated `gh api` instead.
+  - **LinkedIn:** 41 posts recorded on `LinkedIn.md`.
+  - **Caveats on the notes:**
+    - The BellTopo page now 404s; details come from Lat × Long and Esri.
+    - RS Paper Hub was read through a reader proxy after a DNS failure.
+    - The Spatial KG book's repo isn't linked from its post.
+    - The UNFCCC official page didn't render.
+    - Wu's FTW "web app" shortlink resolved to a generic PMTiles demo and was not used.
