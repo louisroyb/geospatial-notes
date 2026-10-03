@@ -1,9 +1,13 @@
 # Urban Planning
 
 **Summary**: Notes on cities — urban data, urban heat, transport and housing analysis, and the methods planners use on them.
-**Last updated**: 2026-10-02
+**Last updated**: 2026-10-03
 
 ---
+
+- [The changing surface of the world's roads](https://www.nature.com/articles/s41467-026-76234-8): LinkedIn post by Sukanya Randhawa (HeiGIT), 1 September 2026, on the *Nature Communications* paper (DOI 10.1038/s41467-026-76234-8) by S. Randhawa, G. Randhawa, Langer, Andorful, Herfort, Kwakye, Olchik and colleagues. A deep learning model reads road pavedness and width from PlanetScope imagery, covering 95.5% of 9.2 million km of critical arterial roads for 2020 and 2024; nearly half had no prior classification. It also produces a global Humanitarian Passability Score, with case studies in Ghana (governance) and Pakistan (climate vulnerability). Pavedness is offered as *"a high-resolution proxy for economic activity (when compared to traditional proxies such as nightime lights)"*. The data is on OCHA's HDX. *Keywords: road surface, pavedness, PlanetScope, humanitarian passability, HeiGIT, Nature Communications*
+  - Source: [LinkedIn post](https://www.linkedin.com/posts/sukanya-randhawa_the-changing-surface-of-the-worlds-roads-share-7500579169467043840-bE8M); see [[LinkedIn]].
+  - Related: [[Remote_Sensing]], [[Deep_Learning]], [[Climate_Change]], [[Data]]
 
 - [641 buildings detected in less than 1 minute — AI Segmentation QGIS plugin](https://plugins.qgis.org/plugins/AI_Segmentation/): LinkedIn post by Lilien Auger, co-founder of TerraLab (Paris), 16 July 2026, launching the automatic mode of TerraLab's *AI Segmentation* QGIS plugin. Detection needs no clicks, covers up to 5 km² per run, and *"runs in the cloud"*, so no local models are installed. The demo extracted 600+ buildings on the outskirts of Paris. Install it from the QGIS Plugin Manager by searching "AI Segmentation". According to TerraLab's [docs](https://terra-lab.ai/docs/ai-segmentation), it also extracts trees and vegetation as polygons, supports QGIS 3.22–4, and is free to start. *Keywords: building extraction, QGIS plugin, TerraLab, cloud inference, segmentation, Paris*
   - Source: [LinkedIn post](https://www.linkedin.com/posts/lilien-auger_641-buildings-detected-in-less-than-1-minute-ugcPost-7483547339945791488-V8qW); see [[LinkedIn]]. The post put its how-to guide in the comments, which need a login; the plugin and docs links come from web search.
@@ -27,6 +31,8 @@
 Clayton Miller's NUS course on data science for the built environment (Python, Pandas, data cleaning, visualisation and intro ML) is on [[Learning_Resources]].
 
 AV-QGIS, a QGIS module for Swiss cadastral surveying funded by 60 firms, is on [[Cartography]].
+
+Agent-driven flood exposure of electricity substations (GeoSQL with Overture and DuckDB) is on [[Agentic_Coding]]. Local routing on Overture data is on [[Data]].
 
 ## Related topics
 

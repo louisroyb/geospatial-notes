@@ -139,3 +139,26 @@
   - **Retry later:** items 13 (Daniel Wiesmann, Development Seed, probably stac-zap) and 33 (David Phelan, dClimate). LinkedIn served a sign-up wall on every URL form. This looks like rate-limiting from parallel fetching, so they were re-queued rather than guessed at.
   - **Unverified details, flagged on the notes:** the InSAR.dev repo could not be located (PyGMTSAR is named as possibly related, not confirmed). The trees-outside-forests accuracy figures were not captured. The GFSM and HYPERedu URLs came from search, because the posts kept their links in comments.
   - **Correction:** this entry was first committed garbled. Backtick-quoted page names were swallowed by shell command substitution while the log was written from an inline command. It was rewritten from a file in the next commit; no other content was affected.
+- 2026-10-03 — *WhatsApp chat export, batch 2 (queue items 51–100, shared 27 Jul – 19 Sep 2026)* — 50 items: 44 filed into 37 notes, 1 private group post held (item 95), 2 dropped, and 3 cross-batch merges.
+  - **Dropped:** item 78 (a paid YouTube membership ad with no content) and item 89 (a 2022 Ugandan tea-seedling news item; the domain is now parked and was read only via the Wayback Machine; not geospatial).
+  - **Merges:**
+    - Will Cadell's two geo MCP list posts became one note.
+    - Saurav's two Google ALU/AMED posts became one note.
+    - The two UN Maps Learning Hub shares became one note.
+    - STAC Browser v5.1.0 was added to the existing STAC Browser note on `Data.md`.
+    - The PyGeoFetch Zenodo release was added to the existing PyGeoFetch note on `Python.md`.
+    - Spatial Thoughts' TESSERA notebooks were added to the TESSERA note from batch 1.
+    - The Fields of the World User Advisory Group (closed 14 Aug) was added to the existing FTW note on `Agriculture.md`.
+  - **Filed:**
+    - `Agentic_Coding` (5): Agentic Coding for Geospatial course, geo MCP list, eo-mcp, GeoSQL, ArcGIS Pro MCP servers.
+    - `Learning_Resources` (9): NASA ARSET autumn trainings, AI4EO EO College, free GeoAI list, UN Maps, Intro to QGIS for QGIS 4, Donnelly's QGIS tutorial, Harvard CGA, Harvard free courses, 3iS, plus the WageningenX big data course, flagged as archived.
+    - `Remote_Sensing` (4): MaSoN, Sentinel-1 SAR QGIS plugin, SAR colourisation GAN, Siemens Noedra Flow (vendor content).
+    - `Data` (4): Groundwork 05, Portolan, overture2osrm, public-apis.
+    - `Python` (3): PyGStat, Easy-EO, fundayao.
+    - One each: `Foundation_Models` (Infra-Bench CLS), `Embeddings` (Strabo), `Agriculture` (Google ALU/AMED), `Urban_Planning` (global road surface paper), `Forestry` (TreeScanPL10K), `Cartography` (State of the Map tools), `Climate_Change` (GHG accounting courses).
+    - `Careers_and_Research` (6): ADEL roster (open to 31 Oct), IFAD roster (closed 29 Sep), DataCamp scholarship (rolling), Taylor Geospatial Innovation Program (invitation only), Work in Luxembourg, MUST/WaterNet summer school (closed 31 Jul), plus a list of AI research tools.
+    - Indexed TreeScanPL10K and Infra-Bench CLS on `Benchmark_Datasets.md`.
+  - **Repos:** 14 added; the tracker is now 70. public-apis (~486k stars) is the new most-starred repo. Licensing watch: 21 of 70. MCP-ArcGISPro declares no license. infra-bench-cls, sar-colorization-gan and sentinel1_plugun are non-standard; the last says CC0 in its post, but GitHub doesn't recognise its license file. fundayao is on Gitee, so it isn't tracked. stac-browser was refreshed (425 stars).
+  - **LinkedIn:** 36 posts and 1 LinkedIn article recorded on `LinkedIn.md`.
+  - **Still behind the login wall after a second retry:** items 13 (Daniel Wiesmann) and 33 (David Phelan). Every URL form redirected to sign-up, so they move to the user's paste-me list with the group posts.
+  - **Fetch notes:** Harvard CGA, WageningenX and Nature pages needed the reader proxy or curl. The links for the Estrada and Strabo posts were in comments; Strabo's blog was found on LGND's own site, and Estrada's links were left unresolved rather than guessed.

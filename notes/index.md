@@ -9,9 +9,9 @@
 
 The three most recent additions, each from a different topic page.
 
-- [TESSERA embeddings go open on AWS](https://registry.opendata.aws/tessera/) — Nine years of annual 128-d Sentinel-1/2 embeddings for every 10 m pixel on Earth, free and egress-free. On [[Embeddings]].
-- [Mapping agriculture in displacement-affected landscapes](https://iopscience.iop.org/article/10.1088/1748-9326/aeabbc) — AlphaEarth cropland maps show northern Uganda's refugee-hosting districts halving their cropland between 2022 and 2024. On [[Agriculture]].
-- [Global Flood Susceptibility Map v1](https://www.nature.com/articles/s41597-026-08338-1) — A harmonised 30 m global flood susceptibility layer, validated against 4,432 observed floods. On [[Climate_Change]].
+- [Infra-Bench CLS](https://arxiv.org/abs/2609.09482) — Seven EO foundation models benchmarked on 13 critical-infrastructure classes: airports at 85% F1, power infrastructure under 50%. On [[Foundation_Models]].
+- [The changing surface of the world's roads](https://www.nature.com/articles/s41467-026-76234-8) — Pavedness and width for 9.2 million km of arterial roads from PlanetScope, with a humanitarian passability score. On [[Urban_Planning]].
+- [Agentic Coding for Geospatial](https://courses.spatialthoughts.com/agentic-coding-geospatial.html) — Spatial Thoughts' free human-in-the-loop course on Claude Code, MCP servers and GeoAI. On [[Agentic_Coding]].
 
 ## Topics
 

@@ -5,6 +5,10 @@
 
 ---
 
+- [Open-source mapping tools from State of the Map 2026](https://2026.stateofthemap.org/programme/): LinkedIn post by Venkanna Babu Guthula, 31 August 2026, listing tools he picked up at the OSM community's Paris conference: [Panoramax](https://panoramax.fr/) (open street-level imagery), [GeoDesk](https://www.geodesk.com/) (OSM toolkit), [OpenHistoricalMap](https://www.openhistoricalmap.org/), [Mapterhorn](https://mapterhorn.com/) (*"Public terrain tiles for interactive web map visualisations"*), [OSM for Cities](https://osmforcities.org/), MapLibre, and routing engines MOTIS ([motis-project/motis](https://github.com/motis-project/motis), MIT, 598 stars), Transitous and OSRM. The next State of the Map is in Bogotá. *Keywords: OpenStreetMap, State of the Map, Panoramax, Mapterhorn, MapLibre, routing*
+  - Source: [LinkedIn post](https://www.linkedin.com/posts/venkanna37_i-would-like-to-share-a-few-open-source-mapping-share-7500228539795800064-l3nd); see [[LinkedIn]].
+  - Related: [[Data]], [[Urban_Planning]], [[Community_Resources]]
+
 - [Top ten QGIS plugins I can't live without](https://www.linkedin.com/posts/helenmckenzie003_qgis-gis-geospatial-share-7511015796303765504-3xRj): LinkedIn post by Helen McKenzie (CARTO), 30 September 2026: *"QGIS out of the box is already a ridiculous piece of software for £0... it would actually be ridiculous for £5,000."* Her ten:
   - QuickOSM (OSM data without Overpass queries)
   - QuickMapServices (one-click basemaps)

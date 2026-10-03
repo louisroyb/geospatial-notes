@@ -9,6 +9,20 @@
 
 | Repository                                                                                    | What it is                               | Filed under           | Language | License       | ★   | Last push  |
 | --------------------------------------------------------------------------------------------- | ---------------------------------------- | --------------------- | -------- | ------------- | --- | ---------- |
+| [public-apis/public-apis](https://github.com/public-apis/public-apis) | Curated list of free APIs | [[Data]] | Python | MIT | 485,683 | 2026-10-02 |
+| [sparkgeo/geo-mcp-servers](https://github.com/sparkgeo/geo-mcp-servers) | Curated list of 91 geo MCP servers | [[Agentic_Coding]] | Python | MIT | 116 | 2026-10-01 |
+| [motis-project/motis](https://github.com/motis-project/motis) | Multimodal routing engine | [[Cartography]] | C++ | MIT | 598 | 2026-10-01 |
+| [Tommy-Burns/easy-eo](https://github.com/Tommy-Burns/easy-eo) | Chainable EO raster processing | [[Python]] | Python | MIT | 11 | 2026-10-03 |
+| [eo-mcp/eo-mcp](https://github.com/eo-mcp/eo-mcp) | MCP server for EO data | [[Agentic_Coding]] | Python | Apache-2.0 | 12 | 2026-09-24 |
+| [dekart-xyz/geosql](https://github.com/dekart-xyz/geosql) | Claude/Codex geospatial SQL skill | [[Agentic_Coding]] | Python | MIT | 668 | 2026-09-22 |
+| [geo2004/MCP-ArcGISPro](https://github.com/geo2004/MCP-ArcGISPro) | ArcGIS Pro arcpy MCP bridge | [[Agentic_Coding]] | Python | none declared | 36 | 2026-09-13 |
+| [geo2004/MCP-ArcGISPro-AddIn](https://github.com/geo2004/MCP-ArcGISPro-AddIn) | ArcGIS Pro in-process MCP add-in | [[Agentic_Coding]] | C# | MIT | 3 | 2026-09-13 |
+| [fahad-mughal-rehman/sar-colorization-gan](https://github.com/fahad-mughal-rehman/sar-colorization-gan) | SAR-to-optical GAN | [[Remote_Sensing]] | Jupyter | custom | 12 | 2026-09-13 |
+| [blaz-r/mason_cd](https://github.com/blaz-r/mason_cd) | Unsupervised change detection (TGRS 2026) | [[Remote_Sensing]] | Python | MIT | 21 | 2026-09-11 |
+| [zia207/PyGStat](https://github.com/zia207/PyGStat) | Geostatistics package | [[Python]] | Jupyter | MIT | 7 | 2026-09-11 |
+| [justing0909/infra-bench-cls](https://github.com/justing0909/infra-bench-cls) | Critical infrastructure benchmark | [[Foundation_Models]] | Jupyter | custom | 4 | 2026-09-10 |
+| [do-me/overture2osrm](https://github.com/do-me/overture2osrm) | Overture to OSRM converter | [[Data]] | Rust | MIT | 12 | 2026-09-02 |
+| [nadiopt-cell/sentinel1_plugun](https://github.com/nadiopt-cell/sentinel1_plugun) | Sentinel-1 SAR QGIS plugin | [[Remote_Sensing]] | Python | custom (CC0 per author) | 1 | 2026-08-28 |
 | [ucam-eo/geotessera](https://github.com/ucam-eo/geotessera) | Python client for TESSERA embeddings | [[Embeddings]] | Python | MIT | 353 | 2026-10-01 |
 | [spatialnode/superstac](https://github.com/spatialnode/superstac) | Multi-catalog STAC search + GeoParquet inventory | [[Data]] | Rust | MIT | 3 | 2026-10-03 |
 | [dClimate/tessera-embeddings](https://github.com/dClimate/tessera-embeddings) | TESSERA embedding generation | [[Embeddings]] | Python | Apache-2.0 | 3 | 2026-10-03 |
@@ -36,7 +50,7 @@
 | [MiltoMiltiadou/PlotToSat](https://github.com/MiltoMiltiadou/PlotToSat) | S1/S2 time series at field plots (GEE) | [[Google_Earth_Engine]] | Jupyter | GPL-3.0 | 51 | 2026-06-22 |
 | [isaaccorley/terrabit](https://github.com/isaaccorley/terrabit) | Browser search over binarized Clay embeddings | [[Embeddings]] | TypeScript | Apache-2.0 | 79 | 2026-04-09 |
 | [opengeos/geolibre-rust](https://github.com/opengeos/geolibre-rust) | 936 WASM geoprocessing tools for GeoLibre | [[Geospatial_Platforms]] | Rust | MIT | 284 | 2026-09-25 |
-| [radiantearth/stac-browser](https://github.com/radiantearth/stac-browser) | Web UI for STAC catalogs and APIs | [[Data]] | JavaScript | ISC | 423 | 2026-09-29 |
+| [radiantearth/stac-browser](https://github.com/radiantearth/stac-browser) | Web UI for STAC catalogs and APIs | [[Data]] | JavaScript | ISC | 425 | 2026-10-02 |
 | [EOCoreINT/pygeofetch](https://github.com/EOCoreINT/pygeofetch) | Multi-provider satellite data fetcher | [[Python]] | Python | MIT | 35 | 2026-09-29 |
 | [konstantinklemmer/isprs26-embeddings-tutorial](https://github.com/konstantinklemmer/isprs26-embeddings-tutorial) | ISPRS 2026 Earth embeddings tutorial | [[Embeddings]] | Jupyter | MIT | 96 | 2026-07-07 |
 | [masolele/WAC](https://github.com/masolele/WAC) | EUDR commodity + deforestation mapping | [[Forestry]] | Jupyter | none declared | 2 | 2026-08-19 |
@@ -68,6 +82,10 @@
 
 ## Actively maintained
 
+- **[public-apis/public-apis](https://github.com/public-apis/public-apis)** — MIT, ~486k stars, now by far the most-starred repo tracked. Note on [[Data]].
+- **[dekart-xyz/geosql](https://github.com/dekart-xyz/geosql)** — MIT, 668 stars, a map-in-the-loop SQL skill for coding agents. Note on [[Agentic_Coding]].
+- **[sparkgeo/geo-mcp-servers](https://github.com/sparkgeo/geo-mcp-servers)** — MIT, the running index of geospatial MCP servers (91 entries). Note on [[Agentic_Coding]].
+- **[motis-project/motis](https://github.com/motis-project/motis)** — MIT, multimodal routing, geocoding and tiles. Note on [[Cartography]].
 - **[ucam-eo/geotessera](https://github.com/ucam-eo/geotessera)** — MIT, 353 stars, the official client for TESSERA's open embeddings on AWS. Note on [[Embeddings]].
 - **[Open-EO/openeo-community-examples](https://github.com/Open-EO/openeo-community-examples)** — Apache-2.0, now includes server-side TESSERA and TerraMind embedding notebooks. Note on [[Embeddings]].
 - **[spatialnode/superstac](https://github.com/spatialnode/superstac)** and **[dClimate/tessera-embeddings](https://github.com/dClimate/tessera-embeddings)** — both pushed today, both very new. Notes on [[Data]] and [[Embeddings]].
@@ -98,6 +116,9 @@
 
 ## Released and quiet
 
+- **[blaz-r/mason_cd](https://github.com/blaz-r/mason_cd)** — MIT, TGRS 2026 paper code with a Hugging Face demo. Note on [[Remote_Sensing]].
+- **[justing0909/infra-bench-cls](https://github.com/justing0909/infra-bench-cls)** — benchmark code; GitHub doesn't recognise the license. Note on [[Foundation_Models]].
+- **[geo2004/MCP-ArcGISPro](https://github.com/geo2004/MCP-ArcGISPro)** — no license, unlike its MIT add-in companion. Note on [[Agentic_Coding]].
 - **[taylor-geospatial/mind](https://github.com/taylor-geospatial/mind)** — MIT, paper code and CoordBench for MIND. Note on [[Embeddings]].
 - **[Moerizzy/TOFMapper](https://github.com/Moerizzy/TOFMapper)** — GPL-3.0 (copyleft). Note on [[Forestry]].
 - **[Vizzuality/biodiversity-intactness-100m-update](https://github.com/Vizzuality/biodiversity-intactness-100m-update)** — MIT, v1.1 update code. Note on [[Land_Cover]].
@@ -124,7 +145,7 @@ These are dataset or paper releases rather than living projects; a stale push da
 
 ## Licensing watch
 
-Seventeen of the 56 cannot be safely reused as-is. HieraRS, VHRV, proj-vit, S5, S2GAIA, NDVI-Tree-Crown-Detection, WAC, treematch, GLaSP, user26, LLM-Agents-Papers and LandSegmenter declare no license at all (default copyright, all rights reserved). UAVScenes, OlmoEarth, GenAI_Agents, GFSM and the alphaearth R package ship non-standard ones. PlotToSat and TOFMapper (GPL-3.0), and eudr-api-client and WaPOR4Global (AGPL-3.0; eudr-api-client declares it only in its README and `package.json`) are usable but copyleft. AGPL also covers code you only run as a network service. and Trazo uses CC-BY-4.0, a content license, for its code. PySTAC reports as unrecognised by the GitHub API but documents itself as Apache-2.0, so check its LICENSE file rather than assuming. Everything else carries clear permissive terms: Apache-2.0 (agribound, annotation, planetlabs/notebooks), MIT (forest-data-partnership, OpenEarthMap-SAR, HarvestStat-Africa, SentinelLabel, ssl4eo-l, ML-For-Beginners, awesome-spectral-indices, geoai-datacubes) or CC0-1.0 (Awesome-Geospatial). The four added on 2026-10-02 (geolibre-rust, pygeofetch, isprs26-embeddings-tutorial under MIT; stac-browser under ISC) are all permissive.
+Twenty-one of the 70 cannot be safely reused as-is. HieraRS, VHRV, proj-vit, S5, S2GAIA, NDVI-Tree-Crown-Detection, WAC, treematch, GLaSP, user26, LLM-Agents-Papers, LandSegmenter and MCP-ArcGISPro declare no license at all (default copyright, all rights reserved). UAVScenes, OlmoEarth, GenAI_Agents, GFSM, the alphaearth R package, infra-bench-cls, sar-colorization-gan and sentinel1_plugun ship non-standard ones (the last says CC0 in its announcement, but has no recognisable license file). PlotToSat and TOFMapper (GPL-3.0), and eudr-api-client and WaPOR4Global (AGPL-3.0; eudr-api-client declares it only in its README and `package.json`) are usable but copyleft. AGPL also covers code you only run as a network service. and Trazo uses CC-BY-4.0, a content license, for its code. PySTAC reports as unrecognised by the GitHub API but documents itself as Apache-2.0, so check its LICENSE file rather than assuming. Everything else carries clear permissive terms: Apache-2.0 (agribound, annotation, planetlabs/notebooks), MIT (forest-data-partnership, OpenEarthMap-SAR, HarvestStat-Africa, SentinelLabel, ssl4eo-l, ML-For-Beginners, awesome-spectral-indices, geoai-datacubes) or CC0-1.0 (Awesome-Geospatial). The four added on 2026-10-02 (geolibre-rust, pygeofetch, isprs26-embeddings-tutorial under MIT; stac-browser under ISC) are all permissive.
 
 ## Projects referenced without a GitHub link
 

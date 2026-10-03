@@ -1,7 +1,7 @@
 # SQL
 
 **Summary**: Notes on SQL for spatial work — query engines, spatial joins, indexing, and the performance tradeoffs between them.
-**Last updated**: 2026-08-25
+**Last updated**: 2026-10-03
 
 ---
 
@@ -10,8 +10,10 @@
   - Source note: the accompanying text filed this as "Optimizing DuckDB Spatial Queries"; the page's own title is "PostGIS spatial joins in DuckDB". Both are recorded above.
   - Related: [[Data]], [[Code_Repositories]], [[Python]]
 
+GeoSQL, a coding-agent skill that writes spatial SQL against DuckDB, PostGIS or BigQuery and checks the result on a map, is on [[Agentic_Coding]].
+
 ## Related topics
 
 Spatial data formats and the cloud-native storage practices these queries read from are on [[Data]]. The Python side of the same work — reading and manipulating spatial data in code rather than SQL — is on [[Python]].
 
-[[Data]] · [[Python]] · [[Code_Repositories]] · [[Geospatial_Platforms]]
+[[Data]] · [[Python]] · [[Code_Repositories]] · [[Geospatial_Platforms]] · [[Agentic_Coding]]

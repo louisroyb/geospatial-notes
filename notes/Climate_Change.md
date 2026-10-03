@@ -5,6 +5,13 @@
 
 ---
 
+- [Free and affordable GHG accounting courses](https://ghgprotocol.org/e-learning-opportunities): Reshared on LinkedIn by Tapan Mozumdar (12 Aug 2026) from Anna Trojak's list: *"Almost every sustainability job description now asks for GHG accounting."*
+  - **Free:** [Persefoni Carbon Accounting Essentials](https://www.persefoni.com/sign-up/carbon-accounting-essentials) (1 h, certificate); GHG Protocol [Corporate Standard](https://ghgprotocol.org/corporate-standard-training-webinar) and Scope 2 webinars (certificate $30); [SRN Academy ESRS E1](https://academy.srnav.com/course/introduction-to-emissions-reporting); [World Bank GHG Accounting 101](https://www.worldbank.org/en/olc/course/39857).
+  - **Paid:** GHG Protocol Scope 3 and Product Life Cycle ($325 each); GHGMI 201 ($300, or $435 with exam); [GHGMI Diploma](https://ghginstitute.org/product/diploma-in-ghg-accounting/) ($2,250); Terra.do (from $37/month).
+  - *Keywords: GHG accounting, carbon inventory, GHG Protocol, Scope 3, sustainability careers, courses*
+  - Source: [LinkedIn post](https://www.linkedin.com/posts/tapanmozumdar_this-should-encourage-young-professionals-share-7493197081751490561-y4Ia); see [[LinkedIn]].
+  - The national-inventory counterpart, the ICAT IPCC Inventory Software course, is further down this page. Related: [[Learning_Resources]], [[Careers_and_Research]]
+
 - [Global Flood Susceptibility Map (GFSM v1)](https://www.nature.com/articles/s41597-026-08338-1): LinkedIn post by Mirza Waleed (Hong Kong Baptist University; developed at KAUST), 30 September 2026, announcing the *Scientific Data* paper: *"GFSM v1 provides a globally harmonized flood susceptibility dataset at 30 m resolution."* Regionalised XGBoost models were trained on Aqueduct flood-hazard labels over 17,069 tiles (30.45M samples, 192 country/climate units), with nine factors: elevation, slope, aspect, TWI, HAND, NDVI, distance to water, distance to roads, rainfall frequency. Of 4,432 Dartmouth Flood Observatory events, about 79% fall within 5 km of High/Very High zones, and 92% within 10 km. Data on [Zenodo](https://zenodo.org/records/20568218), an [Earth Engine app](https://waleedgis.users.earthengine.app/view/gfsm), and code at [waleedgeo/GFSM](https://github.com/waleedgeo/GFSM). The post itself had no links; these came from search. *Keywords: flood susceptibility, global 30 m, XGBoost, Scientific Data, HAND, Earth Engine*
   - Source: [LinkedIn post](https://www.linkedin.com/posts/waleedgeo_floodsusceptibility-geoai-earthobservation-share-7510821588477530112-bbdf); see [[LinkedIn]].
   - Related: [[Machine_Learning]], [[Google_Earth_Engine]], [[Data]], [[Code_Repositories]]

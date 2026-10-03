@@ -32,11 +32,29 @@
 
 - [Space, Environmental & Geospatial Consultant — Evenflow (Brussels)](https://evenflow.odoo.com/jobs/space-environmental-geospatial-consultant-33): A Brussels consultancy role, hybrid, working on policy analysis, market studies, cost-benefit and impact assessments, and business plans around the EU Space Programme (Galileo, Copernicus, Govsatcom), including EO and GeoAI strategy. It needs 2+ years of environmental or geospatial consulting, C2 English and an EU work permit; experience writing EU funding proposals is a plus. *"This vacancy will remain open until further notice, and/or until the relevant position is filled."* *Keywords: Evenflow, EU Space Programme, Copernicus, consulting, GeoAI policy, Brussels*
 
+- [ADEL Expert Consultant Roster — African Development Evidence Lab](https://forms.zohopublic.com/abubakaradela1/form/AfricanDevelopmentEvidenceLabADELExpertConsultantR/formperma/mOC2hw1EeAMU-x411DUWWRqoVQC9ikm1E0h48-U_CIo): Shared on LinkedIn by the Africa Data Leadership Initiative (9 Sep 2026). A project-based roster covering climate, agriculture and food security, DRR, MEAL, data and analytics, GIS/geospatial and AI/ML: *"This is a project-based consultant roster, not a salaried employment opportunity."* **Open until 31 October 2026.** *Keywords: consultant roster, Africa, GIS, AI/ML, development evidence, open call*
+  - Source: [LinkedIn post](https://www.linkedin.com/posts/opportunities-alert-the-african-development-share-7503450622235475968-Mysv); see [[LinkedIn]].
+
+- [IFAD Geospatial Analysis & EO Consultant Roster](https://www.linkedin.com/posts/michelle-picoli-234709a2_geospatial-gis-earthobservation-share-7500135786827251712-5K_t): Shared by Michelle Picoli (31 Aug 2026). IFAD's remote roster for GIS, EO/remote sensing (optical, SAR, change detection, drought and flood), geospatial programming (Python, R, SQL, GEE, GDAL, PostGIS) and web GIS, at entry (2–7 years), mid and senior levels. *"So, this is not a single job opening."* **Closed on 29 September 2026** (ref. 37601). Worth watching for the next round. *Keywords: IFAD, consultant roster, remote sensing, GEE, agriculture, closed*
+  - See [[LinkedIn]].
+
+- [Free DataCamp year — Empirici Academy scholarship](https://docs.google.com/forms/d/e/1FAIpQLSfSAxmUS5XJRzunTcBa0jOL3faj2yIfqfRNhmHaY0DW8K12pQ/viewform): Shared by Amina Halbaj (7 Sep 2026): *"one full year of premium DataCamp access completely free"* for students, graduates and career changers. Free to apply, rolling review, no stated deadline. *Keywords: DataCamp, scholarship, data science, free access, Empirici, rolling*
+  - Source: [LinkedIn post](https://www.linkedin.com/posts/amina-halbaj-585423169_dataanalysis-datascience-scholarship-share-7502875832999133184-fPwq); see [[LinkedIn]].
+
+- [Taylor Geospatial Innovation Program](https://taylorgeospatial.org/innovation-program/): Funds AI-driven geospatial work through the GIFS food-security challenge, Fields of the World, Features of the World (infrastructure) and Benchmarks of the World. *"All benchmarks, training data, models, model weights and code will be released as digital public goods."* Grants are mostly by invitation, with no open call or deadline. *Keywords: Taylor Geospatial, research funding, food security, digital public goods, benchmarks, grants*
+
+- [Work in Luxembourg — careers portal](https://workinluxembourg.com/work/careers-opportunities): Luxinnovation's government-led recruitment and relocation portal, highlighting space, AI and data, cleantech and research among other sectors. A general job board, with no GIS roles named. *Keywords: Luxembourg, job portal, space sector, relocation, careers, Europe*
+
+- [5th International Summer School on AI, Big Data and EO for Climate-Resilient Water Management](https://selibeng.com/5th-international-summer-school-on-artificial-intelligence-big-data-and-earth-observation-technologies-for-climate-resilient-water-resources-management/): MUST and WaterNet, Mbeya, Tanzania, 12–26 October 2026. Topics: IWRM, the water-energy-food nexus, Copernicus, optical and SAR remote sensing, and ML in Python. Fee $700 (international), with limited SADC sponsorships. **Applications closed on 31 July 2026.** *Keywords: summer school, water resources, Tanzania, WaterNet, Earth observation, closed*
+
+- [20 AI tools for research and productivity](https://www.linkedin.com/posts/yusuf-yakubu-yusuf-057675122_elicit-ai-for-scientific-research-share-7499411912053497856-gsq_): A bare list by Yusuf Yakubu Yusuf (29 Aug 2026). Research tools: Elicit, Consensus, ResearchRabbit, Zotero, Scite, Perplexity, Scholarcy, Connected Papers, Writefull, Overleaf. Productivity tools: Otter.ai, Tableau and others. *Keywords: research tools, Elicit, Consensus, literature search, Zotero, AI assistants*
+  - See [[LinkedIn]].
+
 ## Elsewhere in these notes
 
 - A PhD vacancy on multi-decade forest canopy height (UZH, now taken down) is on [[Forestry]].
 - An open-source Claude Code pipeline for tailoring CVs and cover letters is on [[Agentic_Coding]].
-- Free and paid courses generally are on [[Learning_Resources]].
+- Free and paid courses generally are on [[Learning_Resources]]. GHG accounting courses, which job descriptions increasingly ask for, are on [[Climate_Change]].
 
 ## Related topics
 
