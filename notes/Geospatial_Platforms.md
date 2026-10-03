@@ -5,6 +5,9 @@
 
 ---
 
+- [Destination Earth's Earth Data Hub adds EO data](https://earthdatahub.destine.eu/): B-Open (18 Nov 2025): *"Our Earth Data Hub service gets a major catalogue update with the first Earth observation datasets,"* starting with a sample Sentinel-1 analysis-ready collection alongside the climate data. DestinE is run by ESA, ECMWF and EUMETSAT. *Keywords: Destination Earth, Earth Data Hub, Sentinel-1, analysis-ready data, ECMWF, ESA*
+  - See [[LinkedIn]]. Related: [[Data]], [[Climate_Change]]
+
 - [EOPF Sentinel Zarr Explorer — software and services](https://explorer.eopf.copernicus.eu/software-services): ESA's catalogue of tools for the new cloud-native Sentinel Zarr/GeoZarr products:
   - **Browse and view**: an [EOPF STAC Browser](https://api.explorer.eopf.copernicus.eu/browser), the [Sentinel Explorer](https://explorer.eopf.copernicus.eu/sentinelexplorer/) viewer, and TiTiler for on-the-fly tiles and band math.
   - **Libraries and processing**: OpenLayers/EOxElements with GeoZarr support, the openEO Web Editor and [openEO Studio](https://studio.explorer.eopf.copernicus.eu/), the eodash dashboard builder, and CarbonPlan's WebGL [zarr-layer](https://zarr-layer.demo.carbonplan.org/?dataset=sentinel_2_eopf).

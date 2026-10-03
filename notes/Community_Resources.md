@@ -5,6 +5,9 @@
 
 ---
 
+- [OSINT image-geolocation toolkit](https://www.linkedin.com/posts/aidanosint_location-isnt-just-a-set-of-coordinates-share-7387360549115760641-qiAe): Aidan Raney's curated list (Nov 2025): *"Location isn't just a set of coordinates. It's vital context."* AI estimators include GeoSpy, Picarta, TIB's [Geoestimation](https://labs.tib.eu/geoestimation/), [EarthKit Agent](https://agent.earthkit.app/) and [findthatspot](https://www.findthatspot.io/) (OSM features from natural language). Shadow and sun tools: SunCalc, ShadeMap and Bellingcat's [ShadowFinder](https://github.com/bellingcat/ShadowFinder) (MIT). Peak identification: PeakFinder and PeakVisor. *Keywords: OSINT, geolocation, ShadowFinder, sun position, GeoSpy, investigations*
+  - See [[LinkedIn]]. Google Earth's change detection for investigators is on [[Geospatial_Platforms]]. Related: [[Remote_Sensing]]
+
 - [GeoAI news roundup, December 2025 — Milan Janosov](https://www.linkedin.com/posts/milan-janosov_geoai-activity-7405524389661687808-qe9u): *"a series of the latest news related to the research and application geospatial data science + AI"*. Tools: OpenAI's open-weight [GPT-OSS](https://openai.com/index/introducing-gpt-oss/), Esri's pretrained DLPKs, AlphaEarth, an AI georeferencer, [Axion Planetary MCP](https://github.com/Dhenenjay/axion-planetary-mcp) (a "virtual satellite" MCP server, MIT) and [GeoGPT](https://geogpt.zero2x.org/), which he calls "a bit controversial". Reading: Springer's [GeoAI and Human Geography](https://link.springer.com/book/10.1007/978-3-031-87421-5) and TESSERA. It ends with a plug for his paid course. *Keywords: GeoAI news, roundup, MCP, GeoGPT, Esri models, reading list*
   - See [[LinkedIn]]. Related: [[Agentic_Coding]], [[Foundation_Models]]
 

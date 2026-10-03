@@ -9,9 +9,9 @@
 
 The three most recent additions, each from a different topic page.
 
-- [SAM 3 arrives in geospatial tools](https://github.com/opengeos/segment-geospatial) — Within a week of Meta's release, text- and box-prompted segmentation of satellite imagery in Python and QGIS. On [[Foundation_Models]].
-- [AlphaEarth embeddings on Google Cloud Storage](https://developers.google.com/earth-engine/guides/aef_on_gcs_readme) — The full annual AEF dataset as int8 COGs, free to download since July 2026. On [[Embeddings]].
-- [Microsoft Global Renewables Watch](https://github.com/microsoft/global-renewables-watch) — 375,197 wind turbines and 86,410 solar installations detected worldwide, 2017–2024. On [[Climate_Change]].
+- [Natural Forests of the World 2020](https://research.google/blog/separating-natural-forests-from-other-tree-cover-with-ai-for-deforestation-free-supply-chains/) — A 10 m global map separating natural forest from plantations for EUDR, at 92% accuracy. On [[Forestry]].
+- [TEMPO](https://aka.ms/ai4g-buildings) — Global building density and height from Planet imagery every three months, released openly by Microsoft AI for Good. On [[Urban_Planning]].
+- [Global land cover maps' accuracy explained](https://landcarbonlab.org/insights/global-land-cover-maps-accuracy-applications/) — WorldCover, Dynamic World, Esri and GLAD compared on 2.1M validation units. On [[Land_Cover]].
 
 ## Topics
 

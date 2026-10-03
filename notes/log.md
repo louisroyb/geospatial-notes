@@ -381,3 +381,41 @@
     - `Careers_and_Research` (1): East Africa land consultants (likely closed).
   - **Repos:** 11 added; the tracker is now 147. The four core opengeos repos are segment-geospatial, geemap, leafmap and geoai. `geoai` moves from "referenced without a GitHub link" into the main table, because these posts link it directly. Licensing watch: 39 of 147 (GEE_index_sets declares no license).
   - **LinkedIn:** 32 posts recorded on `LinkedIn.md`.
+- 2026-10-03 — *WhatsApp chat export, batch 9 (queue items 401–450, shared 5–28 Nov 2025)* — 50 items: 34 filed (new notes or merges), 3 private group posts (402, 409, 426), 5 behind the login wall (435, 440, 442, 444, 449), and 8 skipped.
+  - **Skipped:**
+    - 404 and 447: their content was only in attachments.
+    - 405: a TUM energy-entrepreneurship summer school, off-topic and past.
+    - 414 and 428: thin posts.
+    - 431: a removed Google student-researcher posting.
+  - **Merged into existing notes:**
+    - Fields of the World: the first country-scale release on Source Cooperative (Corley's post plus the dataset page). This is where its CC BY-NC 4.0 license is recorded.
+    - 300+ GEE tutorials: an earlier posting.
+    - AlphaEarth GeoZarr mosaic: the earlier COG copy (NASA Lifelines and Samapriya Roy's size estimate; 406.51 TB vs the blog's 465 TB, flagged as unresolved).
+    - Five free RS courses: Imran's shorter list.
+    - SAM 3: Nasrallah's prompt-wording test.
+    - TorchGeo: the original PyTorch blog post.
+    - Esri DLPK: Stängel on the Sentinel-2 land cover model.
+  - **Consolidated into single notes:**
+    - Zhu's two So2Sat posts (LCZ42 geolocations, slum mapping).
+    - Ahrari's GEE Python and SAR tutorial lists.
+  - **New notes:**
+    - `Forestry` (2): Natural Forests of the World 2020, JRC GFC2020 v3.
+    - `Embeddings` (1): embedding calculus.
+    - `Agriculture` (2): yield-estimation review, AEF crop-type detection in France.
+    - `Land_Cover` (2): global LC accuracy comparison, DW vs WorldCover.
+    - `Urban_Planning` (3): TEMPO, So2Sat, diffusion-model urban form.
+    - `Foundation_Models` (1): TerraMind tiny/small.
+    - `Agentic_Coding` (1): CARTO's agentic GIS.
+    - `Data` (1): osmextract.
+    - `Remote_Sensing` (1): free classification tools.
+    - `Google_Earth_Engine` (1): Ahrari's tutorials.
+    - `Python` (1): Geocomputation with Python, chapter 7.
+    - `Deep_Learning` (1): ETH Machine Perception.
+    - `Community_Resources` (1): OSINT geolocation toolkit.
+    - `Climate_Change` (1): FEW nexus course.
+    - `Geospatial_Platforms` (1): DestinE Earth Data Hub.
+    - `Learning_Resources` (2): free GIS university courses, EuroTeQ.
+    - `Careers_and_Research` (3): geospatial engineer skills, the land management education map, the UN-Habitat P4 role (closed).
+    - So2Sat LCZ42 indexed on `Benchmark_Datasets.md`.
+  - **Repos:** 8 added; the tracker is now 155. `torchgeo/torchgeo` moved from "referenced without a GitHub link" into the main table, since the PyTorch blog links it directly. Licensing watch unchanged at 39.
+  - **Sources:** 29 posts recorded on `LinkedIn.md`. Item 448 (a goo.gle shortlink) resolved to Google Research's blog with `utm_source=linkedin` and was stripped and filed.

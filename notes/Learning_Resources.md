@@ -5,6 +5,12 @@
 
 ---
 
+- [Free GIS courses from ten universities](https://www.linkedin.com/posts/amit072_gis-geospatial-remotesensing-share-7397337800464961538-wuAE): Amit Maurya (20 Nov 2025): *"Here are the 10 top universities offering completely free GIS courses."* In practice it is nine links, some of them search pages: Coursera's [GIS specialization](https://www.coursera.org/specializations/gis) and [geospatial analysis](https://www.coursera.org/learn/geospatial-analysis) (audit-free only), [MIT OCW GIS search](https://ocw.mit.edu/search/?q=GIS), Penn State's [GEOG 483](https://dutton.psu.edu/geog483_sample_syllabus) and [IHE Delft OCW](https://ocw.un-ihe.org/). *Keywords: free GIS courses, Coursera, Penn State, IHE Delft, MIT OCW, list*
+  - See [[LinkedIn]].
+
+- [EuroTeQ professional courses](https://eduxchange.eu/euroteq/for-professionals/explore): The EuroTeQ alliance's catalogue of 27 paid continuing-education courses (DTU, EPFL, HEC, TU/e). It has no EO courses. The relevant ones are EPFL's [Elements of data science](https://www.epfl.ch/education/continuing-education/elements-of-data-science/) (R/Tidyverse) and [Thinking and creating with code](https://www.epfl.ch/education/continuing-education/thinking-and-creating-with-code/) (both 390 CHF/month, open to Dec 2026), and DTU's [WAsP wind-resource self-study](https://lifelonglearning.dtu.dk/en/wind/idv-intern/wasp-self-study-course/) (5,950 DKK). *Keywords: continuing education, EPFL, DTU, wind resource, data science, paid courses*
+  - Related: [[Careers_and_Research]], [[Climate_Change]]
+
 - [Earth Observation for Ecosystem Conservation — Geoversity / ITC](https://www.geoversity.io/courses/earth-obs-ecco/): A free, self-paced course of about 16 hours from the ESA-funded PEOPLE-ECCO project (ITC, University of Twente; Bijker, Van Doninck, Willemen). It covers image formation; spatial, temporal and spectral resolution; choosing and accessing data; processing environments; and conservation applications. *"you will learn how images are formed and to select suitable EO data for your application."* *Keywords: conservation, Earth observation, ITC Twente, PEOPLE-ECCO, free course, ESA*
   - Related: [[Remote_Sensing]], [[Forestry]]
 
@@ -37,6 +43,7 @@
   - Related: [[Python]]
 
 - [Five free remote sensing courses with certificates](https://www.linkedin.com/posts/samuel-akande-b1b66851_basics-of-remote-sensing-geographical-information-activity-7408862247151751168-KFWa): Samuel Akande, 22 December 2025: *"Start with NASA or Alison, then move up, and you'll be reading satellite data like a pro!"* [NASA ARSET Fundamentals](https://appliedsciences.nasa.gov/get-involved/training/english/arset-fundamentals-remote-sensing), [Alison GIS & RS](https://alison.com/course/applications-of-gis-and-remote-sensing), [Geo University intro](https://www.geo.university/courses/introduction-to-remote-sensing), [NPTEL RS for natural hazards](https://onlinecourses.nptel.ac.in/noc25_ce125/preview), [SWAYAM RS, GIS & GNSS](https://onlinecourses.swayam2.ac.in/aic20_ge04/preview). *Keywords: remote sensing courses, NASA ARSET, NPTEL, SWAYAM, certificates, free*
+  - A four-course version of the same list by [Malik Imran](https://www.linkedin.com/posts/malik-imran-66012025b_remotesensing-gis-geospatial-share-7398262346537799681-k8oh) (23 Nov 2025): *"Start with NASA or Alison, build your fundamentals, then move into Geo University or NPTEL for deeper technical skills."*
   - The same five-course list circulated earlier as [#NASACourses](https://www.linkedin.com/posts/ban-hikmet-11120864_nasacourses-share-7401939727546843138-VraT) (Ban Hikmet resharing Jawahir Khaleel, 3 Dec 2025).
   - See [[LinkedIn]]. Related: [[Remote_Sensing]]
 

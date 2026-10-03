@@ -5,6 +5,9 @@
 
 ---
 
+- [Our Global FEWture: Cultivating Food-Energy-Water Solutions (Coursera)](https://www.coursera.org/learn/our-global-fewture-cultivating-food-energy-water-solutions/): A ~6-hour beginner course from the University of Maryland (Heidi Scott) on the food-energy-water nexus, *"an example of integrated systems thinking in science that can resolve resource gaps and help communities plan for the future."* It covers climate impacts on FEW systems, global case studies and solutions. Coursera Plus or financial aid. *Keywords: food-energy-water nexus, systems thinking, climate impacts, Coursera, UMD, beginner*
+  - Related: [[Agriculture]], [[Learning_Resources]]
+
 - [Microsoft Global Renewables Watch — every wind turbine and solar farm](https://github.com/microsoft/global-renewables-watch): LinkedIn post by Rajasivaranjan T., 1 December 2025. Microsoft released global detections from 2017 to Q2 2024: *"The dataset includes 375,197 individual wind turbines and 86,410 solar PV installations,"* as GeoPackages with construction dates and land-use context. MIT. *Keywords: renewable energy, wind turbines, solar PV, Microsoft, global dataset, energy transition*
   - Source: [LinkedIn post](https://www.linkedin.com/posts/rajasivaranjan_microsoft-released-two-global-datasets-for-activity-7401239051032461314-B3Xv); see [[LinkedIn]].
   - Related: [[Data]], [[Urban_Planning]], [[Code_Repositories]]

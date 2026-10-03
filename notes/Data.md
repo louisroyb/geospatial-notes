@@ -5,6 +5,10 @@
 
 ---
 
+- [osmextract — OSM extraction powered by DuckDB](https://github.com/tobilg/osmextract): LinkedIn post by Tobias Müller, 20 November 2025. It *"can filter and extract local or remote OpenStreetMap PBF files, and save the features either to GeoParquet files, or DuckDB databases,"* ready for his duckdb-tileserver. Rust, Apache-2.0. *Keywords: OpenStreetMap, DuckDB, GeoParquet, PBF extraction, Rust, tile server*
+  - Source: [LinkedIn post](https://www.linkedin.com/posts/tobiasmuellerlg_introducing-osmextract-high-performance-share-7397337467458105344-PY2f); see [[LinkedIn]].
+  - Related: [[SQL]], [[Code_Repositories]]
+
 - [82 new or updated datasets on the AWS Registry of Open Data](https://aws.amazon.com/blogs/publicsector/82-new-or-updated-datasets-available-on-the-registry-of-open-data-on-aws/): AWS Public Sector blog, 13 October 2025: *"customers are making over 300 PB of high-value, cloud-optimized data available for public use."* The EO highlights:
   - **NASA OPERA**: surface water (DSWx), RTC and CSLC Sentinel-1, disturbance (DIST) and [displacement](https://registry.opendata.aws/nasa-operal3disp-s1v1/).
   - **Optical and SAR archives**: Sentinel-1 GRD/SLC, HLS v2.0, the MODIS v061 suite, ASTER, [GLAD Landsat ARD](https://registry.opendata.aws/glad-landsat-ard/), [ICEYE SAR](https://registry.opendata.aws/iceye-opendata/), and [SpaceEye-T](https://registry.opendata.aws/st-open-data/) very-high-resolution imagery.

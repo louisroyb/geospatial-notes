@@ -80,6 +80,14 @@
 - [Land administration consultants — East Africa](https://www.linkedin.com/posts/matthew-mccartney-60883b272_job-specifications-land-project-in-east-ugcPost-7396578794431733760-zsi0): Matthew McCartney (18 Nov 2025) sought a Land Administration Specialist and a Geodetic Engineer for a land project in East Africa. CVs went by email; the specs were in an image. **Almost certainly closed by now.** *Keywords: land administration, geodesy, consultancy, East Africa, cadastre, closed*
   - See [[LinkedIn]].
 
+- [Ten skills a geospatial engineer needs](https://www.linkedin.com/posts/abraham-ikokonyi-omusungu-misk-89639a252_here-are-the-ten-strong-practical-points-share-7396239555881844736-ABkw): Abraham Ikokonyi Omusungu (17 Nov 2025): GIS software, GNSS/RTK surveying, remote sensing, drone photogrammetry (Pix4D, Metashape), programming (Python, GDAL, GeoPandas), spatial databases (PostGIS), cartography, geodesy (datums, ITRF), soft skills, and continuous certification. *"Here are the ten strong, practical points on what a geospatial engineer needs to stay competitive in today's job market."* *Keywords: geospatial careers, skills, GNSS, photogrammetry, PostGIS, job market*
+  - See [[LinkedIn]].
+
+- [Global Land Management Higher Education Map](https://qiushiyi2001.github.io/Global-Land-Management-Higher-Education-Map/): Qiushi Yi (TUM) maps 216 land management degree programmes at 155 universities in 66 countries (as of Sept 2025), with additions via CSV on [GitHub](https://github.com/qiushiyi2001/Global-Land-Management-Higher-Education-Map) (MIT). *"This interactive map advances global research on land management higher education by consolidating programs worldwide into a single, easily navigable reference."* *Keywords: land management, degree programmes, higher education, TUM, Leaflet, study abroad*
+  - Related: [[Learning_Resources]]
+
+- [Programme Management Officer, Human Settlements (P4) — UN-Habitat, Nairobi](https://careers.un.org/jobSearchDescription/266823?language=en): A housing-policy role (slum upgrading and prevention, World Cities Report) under the Land, Housing and Shelter Section. **Closed 6 December 2025.** Not GIS-specific. *Keywords: UN-Habitat, housing policy, slum upgrading, P4, Nairobi, closed*
+
 ## Elsewhere in these notes
 
 - A PhD vacancy on multi-decade forest canopy height (UZH, now taken down) is on [[Forestry]].

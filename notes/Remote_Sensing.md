@@ -5,6 +5,9 @@
 
 ---
 
+- [Free tools for image classification](https://www.linkedin.com/posts/douha-akkari-0666b6183_gis-remotesensing-earthobservation-share-7398310454588059648-hoot): Douha Akkari (23 Nov 2025) lists Google Earth Engine, QGIS + the [Semi-Automatic Classification Plugin](https://semiautomaticclassificationmanual.readthedocs.io/en/latest/), [ESA SNAP](https://step.esa.int/main/), [EO Browser](https://apps.sentinel-hub.com/eo-browser/) and [Orfeo Toolbox](https://www.orfeo-toolbox.org/): *"Start with QGIS SCP or GEE, then move to SNAP or OTB as you level up."* *Keywords: image classification, SCP, SNAP, Orfeo Toolbox, EO Browser, free tools*
+  - See [[LinkedIn]]. Related: [[Land_Cover]]
+
 - [HyperCoast QGIS plugin — hyperspectral made easy](https://hypercoast.org): LinkedIn post by Qiusheng Wu, 11 December 2025, on a QGIS plugin for the HyperCoast package that opens and inspects hyperspectral data from AVIRIS, NEON, PACE, EMIT, DESIS, PRISMA and EnMAP (plus ECOSTRESS): *"HyperCoast supports the reading and visualization of hyperspectral data from various missions."* [Video](https://youtu.be/RxDUcfv-vBc); [opengeos/HyperCoast](https://github.com/opengeos/HyperCoast), MIT. *Keywords: hyperspectral, HyperCoast, EMIT, PACE, EnMAP, QGIS plugin*
   - Source: [LinkedIn post](https://www.linkedin.com/posts/giswqs_geospatial-opensource-hyperspectral-activity-7404964482575192066-XTV3); see [[LinkedIn]].
   - Pairs with the HYPERedu EnMAP courses on [[Learning_Resources]]. Related: [[Climate_Change]], [[Code_Repositories]]

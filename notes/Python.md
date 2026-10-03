@@ -5,6 +5,10 @@
 
 ---
 
+- [Geocomputation with Python, chapter 7: geographic data I/O](https://py.geocompx.org/07-read-write): Shared by Jakub Nowosad (16 Nov 2025), from the free book by Dorman, Graser, Nowosad and Lovelace. It covers finding data (geoportals, cartopy, osmnx), formats (GDAL's 200+), reading and writing vectors with geopandas/pyogrio (with where and mask filters), and rasters with rasterio (windowed reads, multiband, nodata). *Keywords: Geocomputation with Python, I/O, geopandas, rasterio, GDAL, free book*
+  - Source: [LinkedIn post](https://www.linkedin.com/posts/jakub-nowosad-r_7-geographic-data-io-geocomputation-with-activity-7395823270350168064-Djt1); see [[LinkedIn]].
+  - The R edition's useR! tutorial is on [[Learning_Resources]]. Related: [[Data]]
+
 - [QGIS Notebook plugin — Jupyter inside QGIS](https://github.com/opengeos/qgis-notebook-plugin): Two LinkedIn posts by Qiusheng Wu. The [tutorial](https://www.linkedin.com/posts/giswqs_qgis-geospatial-python-activity-7410342969674723328-JsNS) (26 Dec 2025, *"No more switching between tools!"*) covers live maps, raster and vector outputs, markdown cells, auto-complete and PyQGIS examples (from his [pyqgis-cookbook](https://github.com/opengeos/pyqgis-cookbook)). [v0.2.0](https://www.linkedin.com/posts/giswqs_qgis-geospatial-python-activity-7411424951787745280-XVdi) (29 Dec) added a light theme, clearing outputs and inserting snippets. MIT, 108 stars. *Keywords: QGIS, Jupyter, PyQGIS, notebooks, plugin, opengeos*
   - See [[LinkedIn]]. Hans van der Kwast's PyQGIS course on [[Learning_Resources]] uses it. Related: [[Code_Repositories]]
 

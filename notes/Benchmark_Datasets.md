@@ -26,6 +26,7 @@ Datasets are filed on their subject pages; this page gathers the pointers.
 **Segmentation and land cover**
 - OpenEarthMap-SAR — 1.5M segments, eight classes, all-weather SAR; 2025 IEEE GRSS Data Fusion Contest Track 1. See [[Land_Cover]].
 - LAS (LAnd Segment) — ~150k global sample locations with RGB, Planet, Sentinel-2 and Landsat imagery, mixing precise and weak LULC labels; built to train LandSegmenter. See [[Land_Cover]].
+- So2Sat LCZ42 — 400,000+ Sentinel-1/2 patch pairs labelled with 17 Local Climate Zones across 42 cities, now with geolocations. See [[Urban_Planning]].
 - S1S2_AI4LCC — co-located Sentinel-1/2 with 5-class AI4LCC land cover labels over Northern Africa, 13.9 GB in Zarr. See [[Land_Cover]].
 - HieraRS / MM-5B — hierarchical multi-granularity LCLU labels. See [[Land_Cover]].
 - RS4P-1M — 1M-image curated pretraining corpus behind S5. See [[Land_Cover]].

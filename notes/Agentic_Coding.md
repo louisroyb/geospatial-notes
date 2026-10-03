@@ -5,6 +5,10 @@
 
 ---
 
+- [What is agentic GIS? — CARTO](https://carto.com/blog/what-is-agentic-gis): LinkedIn post by Javier de la Torre (CARTO), 26 November 2025: spatial problems are iterative, so the breakthrough is agents that choose tools and data, run multi-step workflows, and check and redo their own outputs. *"This is why Agentic AI is such a natural fit for GIS."* He argues it works now because open formats, cloud-native compute, spatial foundation models and MCP have arrived together. The blog frames three pillars: reach (agents), velocity (assistants) and depth (embeddings). *Keywords: agentic GIS, CARTO, AI agents, MCP, cloud-native, spatial reasoning*
+  - Source: [LinkedIn post](https://www.linkedin.com/posts/jatorre_most-discussions-about-ai-focus-on-models-share-7399373230110818305-8xFc); see [[LinkedIn]].
+  - Related: [[Geospatial_Platforms]]
+
 - [Claude Code turned a bookmark pile into a searchable site](https://spatialthoughts.github.io/notes/): LinkedIn post by Ujaval Gandhi, 12 March 2026: *"With just instructions from a CLAUDE.md file, Claude Code fetched the info from the URLs, organized it into topics with keywords, and made a nice Mkdocs website and pushed it on Github!"* New notes saved in Obsidian rebuild the site automatically. This vault is built on the same template (`spatialthoughts/personal-notes-website-template`). *Keywords: Claude Code, CLAUDE.md, personal knowledge base, MkDocs, Obsidian, GitHub Pages*
   - Source: [LinkedIn post](https://www.linkedin.com/posts/spatialthoughts_claude-code-helped-me-with-a-long-overdue-share-7437853790315180033-9Qky); see [[LinkedIn]].
   - Related: [[Community_Resources]]
