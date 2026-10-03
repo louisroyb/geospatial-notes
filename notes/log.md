@@ -110,26 +110,32 @@
   - LandSegmenter citation checked via Crossref: Liu, Huang & Zhu, *ISPRS J. Photogramm. Remote Sens.* 238, August 2026, DOI 10.1016/j.isprsjprs.2026.04.056.
   - eudr-api-client: GitHub reports the license as `NOASSERTION` because there is no LICENSE file (the URL returns 404). The README badge and the npm `package.json` both declare AGPL-3.0, so that is recorded, with the caveat. Licensing watch is now 15 of 46, and LandSegmenter is a further repo with no license.
   - Post text was read directly from the pages' JSON-LD. The first attempt failed on Windows console encoding (cp1252 and emoji), so the reader script was re-run with `PYTHONUTF8=1`.
-- 2026-10-03 — *WhatsApp chat export, batch 1 of ~15 (queue items 1–50, shared 19 Sep – 3 Oct 2026)* — Started ingesting the user's WhatsApp self-chat (1,422 messages, May 2025 – Oct 2026). Triage: 1,155 links. 251 TikTok/Facebook videos were skipped as instructed, 58 were repeats within the chat, 78 were already in the vault and 33 were clearly personal (Bible, Maps pins, tickets, shops, Spotify, language apps), leaving a 735-link queue processed newest first. Per the user, only links are ingested; message text is ignored. The export and the queue () live in gitignored  and are never committed.
-  - **Batch 1 outcome (50 items):** 42 filed, merged into 33 notes; 5 private group posts held for the user; 2 left for retry (login wall); 1 dropped as off-topic (a Kampala property-valuation firm).
+- 2026-10-03 — *WhatsApp chat export, batch 1 of ~15 (queue items 1–50, shared 19 Sep – 3 Oct 2026)* — Started ingesting the user's WhatsApp self-chat: 1,422 messages, May 2025 – Oct 2026. Triage found 1,155 links:
+  - 251 TikTok/Facebook videos were skipped, as instructed.
+  - 58 were repeats within the chat, and 78 were already in the vault.
+  - 33 were clearly personal (Bible, Maps pins, tickets, shops, Spotify, language apps).
+  - That leaves a 735-link queue, processed newest first. Per the user, only links are ingested; message text is ignored.
+  - The export (`processed/WhatsApp_Chat_2026-10-03.txt`) and the queue (`processed/whatsapp_queue.json`) live in gitignored `processed/` and are never committed.
+  - **Batch 1 outcome (50 items):** 42 filed, merged into 33 notes. 5 private group posts held for the user, 2 left for retry (login wall), 1 dropped as off-topic (a Kampala property-valuation firm).
   - **Consolidations:**
-    - Six TESSERA posts (dClimate, AWS, two by Atzberger, the dClimate blog) became one note on .
+    - Six TESSERA posts (dClimate, AWS, two by Atzberger, the dClimate blog) became one note on `Embeddings.md`.
     - Two openEO UDF embedding posts became one note.
-    - Three Google Earth launch posts (Classify, the change-detection video, Ben Heubl's take) became one note on .
-    - Two Ahrari PySTAC tutorial posts became one note on .
-    - The agribound v1.0.1 post was merged into the existing agribound note on .
+    - Three Google Earth launch posts (Classify, the change-detection video, Ben Heubl's take) became one note on `Geospatial_Platforms.md`.
+    - Two Ahrari PySTAC tutorial posts became one note on `Vegetation_Phenology.md`.
+    - The agribound v1.0.1 post was merged into the existing agribound note on `Agriculture.md`.
   - **Filed:**
-    -  (6): TESSERA, Planetary Feature Fields, MIND, openEO embeddings, GeoLibre embeddings plugin, alphaearth R package.
-    -  (4 + 1 merge): Nakalembe's Uganda refugee cropland paper, Lisaius' Senegal paper, AgriScienceFM, WaPOR MOOC, Global Pasture Watch grasslands.
-    -  (5): Spatial Thoughts notes archive, ECMWF DestinE ML course 3 (starts 5 Oct), HYPERedu, 11 AI YouTube channels, GRAPH Courses.
-    -  (3): Google Earth tools, STAC-GIS, GeoLibre gallery.
-    -  (2): CEOS validation protocol, Biodiversity Intactness v1.1.
-    -  (2): SuperSTAC, cloud-native essay.
-    -  (3 jobs): UN-Habitat (deadline 8 Oct), BioSphere (13 Oct), Evenflow (rolling).
-    - One each:  (spatial CV bounds paper),  (trees outside forests),  (GFSM v1),  (InSAR.dev),  (PySTAC tutorials),  (top QGIS plugins),  (QGIS + AI module).
-    - Indexed TOFMapper and CoordBench on .
-  - **Repos:** 10 added, the tracker is now 56. Licensing watch is 17 of 56. GFSM and alphaearth report non-standard licenses; TOFMapper (GPL-3.0) and WaPOR4Global (AGPL-3.0) join the copyleft list. GeoLibre (7,785 stars) and agribound (89) were refreshed.
-  - **LinkedIn:** 38 posts recorded on . All / stripped, shortlinks resolved, dates decoded from activity IDs.
+    - `Embeddings` (6): TESSERA, Planetary Feature Fields, MIND, openEO embeddings, GeoLibre embeddings plugin, alphaearth R package.
+    - `Agriculture` (5 + 1 merge): Nakalembe's Uganda refugee cropland paper, Lisaius' Senegal paper, AgriScienceFM, WaPOR MOOC, Global Pasture Watch grasslands.
+    - `Learning_Resources` (5): Spatial Thoughts notes archive, ECMWF DestinE ML course 3 (starts 5 Oct), HYPERedu, 11 AI YouTube channels, GRAPH Courses.
+    - `Geospatial_Platforms` (3): Google Earth tools, STAC-GIS, GeoLibre gallery.
+    - `Land_Cover` (2): CEOS validation protocol, Biodiversity Intactness v1.1.
+    - `Data` (2): SuperSTAC, cloud-native essay.
+    - `Careers_and_Research` (3 jobs): UN-Habitat (deadline 8 Oct), BioSphere (13 Oct), Evenflow (rolling).
+    - One each: `Machine_Learning` (spatial CV bounds paper), `Forestry` (trees outside forests), `Climate_Change` (GFSM v1), `Remote_Sensing` (InSAR.dev), `Vegetation_Phenology` (PySTAC tutorials), `Cartography` (top QGIS plugins), `Agentic_Coding` (QGIS + AI module).
+    - Indexed TOFMapper and CoordBench on `Benchmark_Datasets.md`.
+  - **Repos:** 10 added, the tracker is now 56. The licensing watch is 17 of 56. GFSM and alphaearth report non-standard licenses. TOFMapper (GPL-3.0) and WaPOR4Global (AGPL-3.0) join the copyleft list. GeoLibre (7,785 stars) and agribound (89) were refreshed.
+  - **LinkedIn:** 38 posts recorded on `LinkedIn.md`. All `utm_*`/`rcm` tracking was stripped, shortlinks resolved, and dates decoded from activity IDs.
   - **Held for the user:** private group posts (queue items 5, 10, 24, 32, 49; 27 across the whole queue).
-  - **Retry later:** items 13 (Daniel Wiesmann, Development Seed, probably stac-zap) and 33 (David Phelan, dClimate). LinkedIn served a sign-up wall on every URL form. This looks like rate-limiting from parallel fetching, so they are re-queued rather than guessed at.
-  - **Unverified details, flagged on the notes:** the InSAR.dev repo could not be located (PyGMTSAR is named as possibly related, not confirmed); the accuracy figures for the trees-outside-forests paper were not captured; the GFSM and HYPERedu URLs came from search because the posts kept their links in comments.
+  - **Retry later:** items 13 (Daniel Wiesmann, Development Seed, probably stac-zap) and 33 (David Phelan, dClimate). LinkedIn served a sign-up wall on every URL form. This looks like rate-limiting from parallel fetching, so they were re-queued rather than guessed at.
+  - **Unverified details, flagged on the notes:** the InSAR.dev repo could not be located (PyGMTSAR is named as possibly related, not confirmed). The trees-outside-forests accuracy figures were not captured. The GFSM and HYPERedu URLs came from search, because the posts kept their links in comments.
+  - **Correction:** this entry was first committed garbled. Backtick-quoted page names were swallowed by shell command substitution while the log was written from an inline command. It was rewritten from a file in the next commit; no other content was affected.
