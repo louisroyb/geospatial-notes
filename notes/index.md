@@ -9,9 +9,9 @@
 
 The three most recent additions, each from a different topic page.
 
-- [CTrees aboveground biomass 2000–2025](https://ctrees.org/news/2026-aboveground-biomass-data-release) — An open annual 100 m biomass record for every hectare of land, built from satellites, airborne LiDAR and plots. On [[Forestry]].
-- [ICEYE Open Data](https://www.iceye.com/open-data-initiative) — 3 TB of commercial X-band SAR from 20 satellites, open on S3 with STAC, no sign-up. On [[Remote_Sensing]].
-- [AlphaEarth GeoZarr mosaic](https://source.coop/tge-labs/aef-mosaic) — Nine years of Google's AlphaEarth embeddings as a single global GeoZarr on Source Cooperative. On [[Embeddings]].
+- [CHMv2](https://arxiv.org/abs/2603.06382) — Meta and WRI's DINOv3-based global meter-scale canopy height map, with Samapriya Roy's tools for actually downloading the 22 TB. On [[Forestry]].
+- [DIY-BU](https://www.sciencedirect.com/science/article/pii/S1569843226000695) — An Earth Engine tool that maps built-up areas in African cities better than global products. On [[Urban_Planning]].
+- [Mercy Corps map style guide](https://medium.com/mercy-corps-technology-for-development/creating-consistent-compelling-maps-at-mercy-corps-part-1-the-style-guidelines-640ded396fcf) — How a humanitarian NGO standardised fonts, palettes and layouts across all its maps. On [[Cartography]].
 
 ## Topics
 

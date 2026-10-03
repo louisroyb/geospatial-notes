@@ -74,6 +74,9 @@
 
 - [Senckenberg Society for Nature Research](https://www.senckenberg.de): A German Leibniz biodiversity research organisation, founded in 1817, with research institutes and natural history museums. Bookmarked without a specific page, presumably as a prospective employer or research partner. *Keywords: Senckenberg, biodiversity research, Leibniz, Germany, research institute, employer*
 
+- [Summer school: Experiencing Nature OUTSIDE! — Politecnico di Milano](https://www.linkedin.com/posts/israa-mahmoud_summer-school-flyer-activity-7431727551695249409-SrSM): Shared by Israa H. Mahmoud (23 Feb 2026). DAStU's urban-simulation lab ran it with the Pro-GREEN-LABs Erasmus+ project, 29 June – 3 July 2026, with faculty from Bauhaus-Universität Weimar, Chalmers and Jordanian universities. **This edition has passed.** *Keywords: summer school, nature-based solutions, urban green, Milan, Erasmus+, closed*
+  - See [[LinkedIn]]. Related: [[Urban_Planning]]
+
 ## Elsewhere in these notes
 
 - A PhD vacancy on multi-decade forest canopy height (UZH, now taken down) is on [[Forestry]].

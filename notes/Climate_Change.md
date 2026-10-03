@@ -5,6 +5,17 @@
 
 ---
 
+- [A 10-course roadmap for climate data analysis](https://www.linkedin.com/posts/dr-muhammad-naveed-anjum-717b664b_climatescience-dataanalysis-remotesensing-activity-7432389587580284928-Yhz5): LinkedIn post by Dr. Muhammad Naveed Anjum, 25 February 2026: *"I have curated 10 free courses from world-class institutions, sequenced from foundational to advanced."*
+  - **Foundations**: Sam Shen's [R climate text](https://shen.sdsu.edu/pdf/R-TextBySamShen2017.pdf), Elsner's [Use R for Climate Research](https://myweb.fsu.edu/jelsner/PDF/Use_R_for_Climate_Research.pdf), a CU Boulder Python climate Colab.
+  - **EO**: ESA's [climate-from-satellites MOOC](https://climate.esa.int/en/educate/climate-for-science-excellence/massive-open-online-course/), [Monitoring Climate from Space](https://www.imperativemoocs.com/courses/monitoring-climate-from-space), [NASA ARSET](https://appliedsciences.nasa.gov/what-we-do/capacity-building/arset) fundamentals.
+  - **Statistics**: [Modeling Climate Anomalies](https://www.coursera.org/learn/modeling-climate-anomalies-with-statistical-analysis), Mudelsee's *Climate Time Series Analysis*.
+  - **Applications**: [Earth Lab](https://www.earthdatascience.org/courses/), ARSET water resources (GRACE, SMAP, SWOT).
+  - *Keywords: climate data analysis, R, Python, ESA MOOC, ARSET, learning roadmap*
+  - Related: [[Learning_Resources]], [[Remote_Sensing]]
+
+- [Landslide risk mapping with remote sensing and GEE (Udemy)](https://www.udemy.com/course/landslide-risk-mapping-using-remote-sensing-and-gee/): A short paid course (~1 h, 5 lectures) building a low/medium/high landslide risk map in Earth Engine from SRTM slope and aspect, CHIRPS rainfall and land cover by normalising and thresholding layers. Introductory; the instructor and price weren't visible. *Keywords: landslides, hazard mapping, Earth Engine, CHIRPS, SRTM, Udemy*
+  - Related: [[Google_Earth_Engine]]
+
 - [Empirical Research Assistance — and CO₂ every 10 minutes from GOES](https://research.google/blog/four-ways-google-research-scientists-have-been-using-empirical-research-assistance/): LinkedIn post by Juliet Rothenberg (Google), 30 April 2026, on Google's ERA, an AI system that proposes methods, writes them as code and iterates through thousands of variants ([Nature paper](https://www.nature.com/articles/s41586-026-10658-6)). One of four showcased uses is climate: *"Researchers used ERA to develop a physics-guided neural network that distills CO2 signals from existing weather satellites - allowing us to track variability every 10 minutes."* It estimates column-averaged CO₂ from GOES-East's 16 bands plus meteorology, validated against OCO-2/3 and TCCON. It's unclear whether ERA is publicly available. *Keywords: ERA, AI research assistant, CO2 monitoring, GOES, physics-guided ML, Google Research*
   - Source: [LinkedIn post](https://www.linkedin.com/posts/julietrothenberg_im-really-excited-about-how-ai-can-accelerate-ugcPost-7455677271018868736-p7PA); see [[LinkedIn]].
   - Related: [[Agentic_Coding]], [[Machine_Learning]], [[Remote_Sensing]]

@@ -5,6 +5,12 @@
 
 ---
 
+- [Geospatial Python Tutorials — Spatial Thoughts](https://www.geopythontutorials.com/introduction.html): Ujaval Gandhi's free CC BY 4.0 tutorial series. Vector work with GeoPandas covers geocoding, spatial queries, fuzzy joins and flood mapping. Raster work with Xarray covers styling, mosaicking, sampling and time series. It also covers climate data, ML, Dask, STAC, XEE (Xarray on Earth Engine), segment-geospatial and web APIs. *"If you are new to Python, we highly recommend completing our introductory Python course Python Foundation for Spatial Analysis before diving into these tutorials."* *Keywords: GeoPandas, Xarray, Dask, XEE, STAC, tutorials*
+  - Related: [[Learning_Resources]]
+
+- [Python for Everyone — Esri Academy](https://www.linkedin.com/posts/guynoll_python-is-the-most-popular-scripting-language-share-7435114057608749057-E9HJ): Shared by Guy Noll (5 Mar 2026): *"Python is the most popular scripting language in ArcGIS. If you want to learn Python and start automating ArcGIS workflows, take this web course."* [Course](https://www.esri.com/en-us/training/catalog/57630436851d31e02a43f13c/python-for-everyone). *Keywords: Python, ArcGIS, ArcPy, automation, Esri Academy, beginners*
+  - See [[LinkedIn]].
+
 - [Cloud-Optimized GeoTIFFs in Lonboard](https://developmentseed.org/lonboard/latest/blog/2026/04/02/cloud-optimized-geotiffs-in-lonboard/): LinkedIn post by Kyle Barron (Development Seed), 2 April 2026: *"Stream massive COGs on demand."* Lonboard's `RasterLayer.from_geotiff` streams COG tiles from local, remote or private storage via async-geotiff and obstore, with no tile server and no GDAL. A `render_tile` function controls bands, colormaps or even ML inference; the [land cover example](https://developmentseed.org/lonboard/latest/examples/raster-cog-nlcd-server/) renders a 1.3 GB COG live. [developmentseed/lonboard](https://github.com/developmentseed/lonboard), MIT, 963 stars. *Keywords: Lonboard, COG, Jupyter, deck.gl, obstore, raster visualisation*
   - Source: [LinkedIn post](https://www.linkedin.com/posts/kylebarrongeo_native-cloud-optimized-geotiff-support-in-share-7445513649084903424-G7OK); see [[LinkedIn]].
   - Related: [[Cartography]], [[Code_Repositories]]

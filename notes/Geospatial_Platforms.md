@@ -5,6 +5,17 @@
 
 ---
 
+- [EOPF Sentinel Zarr Explorer — software and services](https://explorer.eopf.copernicus.eu/software-services): ESA's catalogue of tools for the new cloud-native Sentinel Zarr/GeoZarr products:
+  - **Browse and view**: an [EOPF STAC Browser](https://api.explorer.eopf.copernicus.eu/browser), the [Sentinel Explorer](https://explorer.eopf.copernicus.eu/sentinelexplorer/) viewer, and TiTiler for on-the-fly tiles and band math.
+  - **Libraries and processing**: OpenLayers/EOxElements with GeoZarr support, the openEO Web Editor and [openEO Studio](https://studio.explorer.eopf.copernicus.eu/), the eodash dashboard builder, and CarbonPlan's WebGL [zarr-layer](https://zarr-layer.demo.carbonplan.org/?dataset=sentinel_2_eopf).
+  - **Examples**: showcase stories (NDVI, cyanobacteria in the Venice Lagoon).
+  - *"EOPF Sentinel Zarr catalog browser revealing Sentinel scenes at a glance."*
+  - *Keywords: EOPF, Sentinel Zarr, GeoZarr, TiTiler, openEO, ESA*
+  - The openEO Studio webinar note is further up this page. Related: [[Data]], [[Remote_Sensing]]
+
+- [Thirty QGIS plugins worth knowing](https://www.linkedin.com/posts/milan-janosov_qgis-share-7438478332003762176-UmJG): Shared by Milan Janosov (Mar 2026) from a collection by Mashford Mahute: Clipper, mmqgis, Crayfish, RiverGIS, First Aid, qgis2web, Data Plotly, Semi-Automatic Classification Plugin, Profile Tool, SentinelHub, EnMAP-Box 3, TimeManager, Digitizing Tools, Density Analysis, QuickMapServices, Open LiDAR Toolbox, GEE Timeseries Explorer, Bunting Labs AI Vectorizer, Relief Visualization Toolbox and more. The original infographic wasn't accessible. *Keywords: QGIS plugins, list, Crayfish, SCP, EnMAP-Box, qgis2web*
+  - See [[LinkedIn]]. Helen McKenzie's top ten is on [[Cartography]].
+
 - [Quickview Geodata Portal](https://jeffreyblay.github.io/quickview-geodata-portal/): LinkedIn post by Jeffrey Blay, 8 April 2026. Paste a URL or upload CSV, GeoJSON, JSON, XML or zipped shapefiles and see them on a map at once: *"No GIS software, no setup, no code."* For a first look before real analysis. [Jeffreyblay/quickview-geodata-portal](https://github.com/Jeffreyblay/quickview-geodata-portal), no license. *Keywords: web map viewer, quick look, GeoJSON, shapefile, no-code, data preview*
   - Source: [LinkedIn post](https://www.linkedin.com/posts/jeffrey-blay_quickview-geodata-portal-share-7447755541898137600-OLvd); see [[LinkedIn]].
 

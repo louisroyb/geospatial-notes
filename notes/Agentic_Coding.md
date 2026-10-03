@@ -5,6 +5,10 @@
 
 ---
 
+- [Claude Code turned a bookmark pile into a searchable site](https://spatialthoughts.github.io/notes/): LinkedIn post by Ujaval Gandhi, 12 March 2026: *"With just instructions from a CLAUDE.md file, Claude Code fetched the info from the URLs, organized it into topics with keywords, and made a nice Mkdocs website and pushed it on Github!"* New notes saved in Obsidian rebuild the site automatically. This vault is built on the same template (`spatialthoughts/personal-notes-website-template`). *Keywords: Claude Code, CLAUDE.md, personal knowledge base, MkDocs, Obsidian, GitHub Pages*
+  - Source: [LinkedIn post](https://www.linkedin.com/posts/spatialthoughts_claude-code-helped-me-with-a-long-overdue-share-7437853790315180033-9Qky); see [[LinkedIn]].
+  - Related: [[Community_Resources]]
+
 - [Two weeks of agentic geospatial announcements, spring 2026](https://www.linkedin.com/posts/ahmadalipour_the-rate-of-advancement-in-agentic-geospatial-ugcPost-7457685480004820992-ZjWY): LinkedIn post by Ali Ahmadalipour, 6 May 2026, rounding up ten launches:
   - Cecil's land-cover analysis with Claude Code and [xarray-sql](https://github.com/xqlsystems/xarray-sql) (Apache-2.0)
   - Felt's MCP server

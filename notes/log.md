@@ -271,3 +271,44 @@
     - The NISAR Pro post links no repo.
     - The AI Edit details come from the QGIS plugin registry, and the note says generated pixels are not observations.
   - **WebFetch:** hit its session limit in one research agent, which used curl, Crossref and a reader proxy instead.
+- 2026-10-03 — *WhatsApp chat export, batch 6 (queue items 251–300, shared 8 Feb – 31 Mar 2026)* — 50 items: 46 filed, 2 private group posts held (264, 267), 1 personal item skipped (276, another signed ticket-PDF link, not fetched) and 1 off-topic item skipped (277, an IVSC property-valuation course).
+  - **Merged into existing notes:**
+    - The TESSERA note gained its CVPR acceptance, the new website, and the Claude Code skill.
+    - The Fields of the World note gained Wu's original Mask R-CNN tutorial (the reshare was filed in batch 4).
+    - The TerraLab AI Segmentation note gained van der Kwast's review, the round-corners update, and Auger's pairing with the IoU calculator.
+    - The GeoAI QGIS plugin note gained v1.0 and OmniWaterMask's move into `geoai`.
+    - The PlotToSat note gained the new logo and forum.
+    - The GeoSpatial ML note gained the blog launch.
+    - The YouTube playlists note gained Mahara's QGIS channels.
+    - The Stanford note gained a fourth share.
+  - **Consolidated into single notes:**
+    - CHMv2 plus Samapriya Roy's two CHM tools.
+    - Firigato's repo list plus Awesome_GeoAI.
+    - Mercy Corps' article plus Eubank's post.
+    - Spatial Thoughts' learning paths plus QGIS Tutorials.
+  - **New notes:**
+    - `Forestry` (1): CHMv2.
+    - `Agriculture` (1): organic vs conventional farming.
+    - `Urban_Planning` (1): DIY-BU.
+    - `Cartography` (3): Mercy Corps style guide, cartograms, QTiles 2.
+    - `Embeddings` (1): AEF similarity search with open tools.
+    - `Remote_Sensing` (2): Vantor plugins, S2-Tiler.
+    - `Deep_Learning` (2): Esri DLPK catalogue, Awesome_GeoAI.
+    - `Agentic_Coding` (1): Spatial Thoughts' Claude Code notes site, the template this vault is built on.
+    - `Climate_Change` (2): climate-data roadmap, landslide GEE course.
+    - `SQL` (1): GeoSQL learning.
+    - `Python` (2): Geospatial Python Tutorials, Esri Python for Everyone.
+    - `Data` (1): Esri metadata seminar.
+    - `Geospatial_Platforms` (2): EOPF Zarr software catalogue, 30 QGIS plugins.
+    - `Learning_Resources` (7): learning paths, fire-risk course, A–Z course list, R books, FOSS4G Asia talk, GEE tutorials index, cheat sheets.
+    - `Careers_and_Research` (1): Milan summer school (past).
+  - **Repos:** 11 added; the tracker is now 114. The licensing watch is 34 of 114:
+    - GeoSQL-learning, Awesome_GeoAI and the cartogram repo declare no license.
+    - DINOv3 is non-standard (Meta's own terms).
+    - The AI Segmentation and QTiles plugins are GPL-2.0.
+    - The QTiles repo was found by lookup, not linked from its post.
+  - **LinkedIn:** 35 posts recorded on `LinkedIn.md`.
+  - **Caveats on the notes:**
+    - The Esri metadata seminar page is JavaScript-only, so its details come from search snippets.
+    - The Living Atlas DLPK list was read via the ArcGIS Online search API.
+    - The FOSS4G Asia talk note is based on its description only.

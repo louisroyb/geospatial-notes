@@ -5,6 +5,9 @@
 
 ---
 
+- [Metadata Essentials for AI-Ready GIS — Esri seminar](https://www.esri.com/training/catalog/69827704ab65fc9a1cf43ab3/metadata-essentials-for-aiready-gis/): An Esri Live Training Seminar recording (~1 h) by Jordan Duft on how AI changes the way metadata is created, managed and searched in ArcGIS: where to edit it, when to start documenting during data creation, and which standards and styles to use. It requires an Esri Maintenance Program account. The page is JavaScript-only, so details come from search snippets, and the ad-campaign parameters were stripped from the link. *Keywords: metadata, AI-ready data, ArcGIS, data catalog, documentation, Esri training*
+  - Related: [[Learning_Resources]]
+
 - [STAC Atlas — one search index for STAC collections](https://atlas.stacindex.org): LinkedIn post by Robin Gummels, 24 March 2026: *"Every provider runs their own catalog, there's no unified search, and you end up manually browsing APIs one by one."* STAC Atlas crawls, validates (with version migration) and indexes STAC collections from distributed catalogs, exposing a STAC API with full-text, spatial, temporal and CQL2 search, plus a Vue UI. The live preview holds about 45k collections. Built by nine Münster ifgi students with Matthias Mohr. [SpatioCore/STAC-Atlas](https://github.com/SpatioCore/STAC-Atlas), Apache-2.0. *Keywords: STAC, catalog search, crawler, CQL2, STAC Index, discovery*
   - Source: [LinkedIn post](https://www.linkedin.com/posts/robin-gummels-35962b340_stac-earthobservation-opensource-ugcPost-7442211517741096962-ZpiI); see [[LinkedIn]].
   - Complements STAC Index and STAC Browser on this page. Related: [[Code_Repositories]]

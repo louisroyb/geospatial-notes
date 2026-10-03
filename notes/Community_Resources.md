@@ -17,6 +17,7 @@
   - Related: [[Embeddings]], [[Data]]
 
 - [GeoSpatial ML](https://geospatialml.com/): GeoSpatial ML Weekly dispatches on geospatial machine learning — remote sensing, earth observation, and everything in between Isaac Corley & Caleb Robinson. A weekly newsletter run by Isaac Corley and Caleb Robinson covering geospatial machine learning, remote sensing and Earth observation. *Keywords: newsletter, geospatial machine learning, weekly, Isaac Corley, Caleb Robinson, earth observation*
+  - **Blog launch** ([LinkedIn, Isaac Corley, 4 Mar 2026](https://www.linkedin.com/posts/activity-7434986379584929792-P80e)): *"we started a blog where we'll share our experiments, paper highlights, and explorations in geospatial machine learning including TorchGeo use-cases."* The first post trained a water segmentation model with TorchGeo. Later posts include the embedding-compression series behind TerraBit ([[Embeddings]]). Also on [Substack](https://geospatialml.substack.com).
   - Both authors have written free books, Corley's *First Principles of Geospatial Computer Vision* (hosted on this site) and Robinson's *Geospatial Machine Learning*. Both are on [[Learning_Resources]].
   - Related: [[Machine_Learning]], [[Remote_Sensing]], [[Learning_Resources]]
 

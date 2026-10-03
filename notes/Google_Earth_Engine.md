@@ -22,6 +22,7 @@
   - Related: [[Learning_Resources]]
 
 - [PlotToSat](https://github.com/MiltoMiltiadou/PlotToSat): LinkedIn post by Milto Miltiadou (University of Exeter), 26 June 2026, after running a PlotToSat workshop at the 4th ML4EO Conference. *"PlotToSat efficiently generates time-series signatures from Sentinel-1 and Sentinel-2 imagery across multiple regions (e.g., thousands of field-based plots) for machine learning applications."* It runs in Earth Engine. In one run it processed about 18.3 TB of Sentinel-1/2 data for 15,962 plots in under 24 hours. New spectral-index support was introduced at the workshop; slides are in the repo and a recording is "coming soon". GPL-3.0, so the license is copyleft. The 5th ML4EO conference is 14–16 June 2027 at Exeter. *Keywords: PlotToSat, Earth Engine, Sentinel-1/2 time series, field plots, ML4EO, feature extraction*
+  - PlotToSat got an [official logo and a GitHub Discussions forum](https://www.linkedin.com/posts/milto-miltiadou_remotesensing-earthobservation-satellitedata-activity-7429499483865915392-ShYx) in February 2026, and the repo moved from `Art-n-MathS/` to `MiltoMiltiadou/`.
   - Source: [LinkedIn post](https://www.linkedin.com/posts/milto-miltiadou_earthobservation-remotesensing-machinelearning-ugcPost-7476263083292884993-3Ab2); see [[LinkedIn]].
   - Related: [[Remote_Sensing]], [[Machine_Learning]], [[Forestry]], [[Code_Repositories]]
 

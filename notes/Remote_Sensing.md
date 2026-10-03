@@ -5,6 +5,13 @@
 
 ---
 
+- [Free Vantor (ex-Maxar) open data in QGIS and MapLibre](https://www.linkedin.com/posts/giswqs_qgis-maxar-satelliteimagery-ugcPost-7434601819193901056-NlCf): LinkedIn post by Qiusheng Wu, 3 March 2026: *"The Vantor Open Data Program provides free satellite imagery to support global disaster response and recovery efforts."* Two plugins search, filter, preview and download that very-high-resolution disaster imagery without code: [qgis-vantor-plugin](https://github.com/opengeos/qgis-vantor-plugin) and [maplibre-gl-vantor](https://github.com/opengeos/maplibre-gl-vantor) (both MIT). [Programme page](https://vantor.com/company/open-data-program). *Keywords: Maxar, Vantor, open data, disaster response, VHR imagery, QGIS plugin*
+  - See [[LinkedIn]]. Related: [[Climate_Change]], [[Code_Repositories]]
+
+- [S2-Tiler — a Sentinel-2 COG tile server in Rust](https://github.com/gsueur/s2-tiler): LinkedIn post by Guillaume Sueur, 23 March 2026, open-sourcing a standalone async tile server, built with Claude, that serves Sentinel-2 L2A COGs from AWS Open Data as XYZ tiles. You give an extent, years and months and it picks the scenes; band choice gives true colour, false colour or NDVI. *"Instead of being a generic tileserver, it is tight to Sentinel-2 COGs available on AWS."* MIT. *Keywords: tile server, Rust, Sentinel-2, COG, XYZ tiles, AWS Open Data*
+  - Source: [LinkedIn post](https://www.linkedin.com/posts/gsueur_geospatial-satellite-earthobservation-share-7441824928502501377-rcs8); see [[LinkedIn]].
+  - Related: [[Data]], [[Code_Repositories]]
+
 - [ICEYE Open Data — 3 TB of SAR on S3](https://www.iceye.com/open-data-initiative): LinkedIn post by Mark Litwintschik, 16 April 2026: *"ICEYE have an open S3 bucket with 3 TB of SAR Imagery."* The archive covers 20 satellites from 2024 to March 2026, with no registration, as SLC, GRD and COG assets through a map browser, a [STAC browser](https://radiantearth.github.io/stac-browser/#/external/iceye-open-data-catalog.s3.amazonaws.com/catalog.json) and the [AWS Registry of Open Data](https://registry.opendata.aws/iceye-opendata/) with unauthenticated access. *Keywords: ICEYE, SAR, open data, S3, STAC, X-band*
   - Source: [LinkedIn post](https://www.linkedin.com/posts/marklitwintschik_iceye-have-an-open-s3-bucket-with-3-tb-of-share-7450646498528182272-imVC); see [[LinkedIn]].
   - Related: [[Data]]

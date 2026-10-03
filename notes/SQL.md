@@ -5,6 +5,10 @@
 
 ---
 
+- [GeoSQL — learn PostgreSQL & PostGIS with geoscience data](https://siddhi1991.github.io/GeoSQL-learning/): LinkedIn post by Siddhi Garg, 14 February 2026, on a free interactive tutorial that swaps the usual employee tables for earthquakes, rock samples, mineral deposits, seismic stations and geological formations. It runs from SELECT and joins to PostGIS spatial queries, with an in-browser editor and solutions at each step: *"It is the resource I wish I had when I was learning spatial SQL."* [siddhi1991/GeoSQL-learning](https://github.com/siddhi1991/GeoSQL-learning), no license. *Keywords: PostGIS, spatial SQL, interactive tutorial, geoscience, PostgreSQL, beginners*
+  - Source: [LinkedIn post](https://www.linkedin.com/posts/activity-7428585125812174848-h871); see [[LinkedIn]].
+  - Related: [[Learning_Resources]]
+
 - [Complete Microsoft SQL Server Database Administration (Udemy)](https://www.udemy.com/course/complete-microsoft-sql-server-database-administration-course/): A learner's review on LinkedIn by Céphas Mwimangire (1 Apr 2026) of a 32-hour paid course covering RDBMS basics, indexing, performance tuning, security, high availability and backups, with AI-assisted query writing: *"a solid foundation for a long-term career in database administration."* Not spatial, but the database-admin side of running PostGIS or SQL Server spatial in production. *Keywords: SQL Server, database administration, indexing, performance, Udemy, career*
   - Source: [LinkedIn post](https://www.linkedin.com/posts/c%C3%A9phas-mwimangire-543302133_sql-databaseadministration-learningjourney-share-7445193430374277120-R8JC); see [[LinkedIn]].
   - Related: [[Careers_and_Research]], [[Learning_Resources]]

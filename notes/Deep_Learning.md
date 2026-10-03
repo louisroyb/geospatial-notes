@@ -5,6 +5,18 @@
 
 ---
 
+- [Esri pretrained deep learning packages (DLPK) in Living Atlas](https://livingatlas.arcgis.com/en/browse/?q=dlpk+detection): Esri's catalogue of about 75 ready-to-run deep learning packages for ArcGIS Pro / ArcGIS Image:
+  - **Detection**: trees, palms, cars, pools, solar panels, wind turbines, ships (SAR and RGB), oil spills and tanks, pylons, wildlife, pavement cracks, insulator defects.
+  - **Extraction**: building footprints by region, global roads, parcels, field boundaries, Sentinel-2 cloud masks, SAR water bodies, wildfire scars.
+  - **Land-cover classifiers**: for Sentinel-2, Landsat and aerial imagery.
+  - **Wrapped foundation models**: Text SAM, GroundingDINO, Prithvi EO 2.0, Clay, DOFA, TerraMind, DINOv2/v3, SEN2SR.
+  - Free to download, but they need ArcGIS Pro and Image Analyst. The listing was read through the ArcGIS Online search API because the page renders with JavaScript.
+  - *Keywords: Esri, DLPK, pretrained models, ArcGIS Pro, object detection, foundation models*
+  - Related: [[Foundation_Models]], [[Geospatial_Platforms]]
+
+- [Awesome_GeoAI — João Otavio Firigato](https://github.com/joaootavio007/Awesome_GeoAI): Five worked Python examples, from Firigato's [LinkedIn post](https://www.linkedin.com/posts/jo%C3%A3o-otavio-firigato-4876b3aa_have-you-heard-of-awesome-geoai-github-ugcPost-7439345207818620928-QYve) (16 Mar 2026): weed classification in drone imagery, building detection with GEE + SAMGeo + CNN, CNN scene classification, U-Net landslide segmentation, and YOLOv10 palm detection: *"Using Deep Learning and Computer Vision techniques applied to satellite or drone imagery to solve real-world problems!"* His [other repos](https://github.com/joaootavio007?tab=repositories) include a geospatial ML for agriculture notebook set. No licenses; the post also sells a paid e-book. *Keywords: GeoAI examples, U-Net, YOLO, SAMGeo, drone imagery, notebooks*
+  - See [[LinkedIn]]. Related: [[Learning_Resources]], [[Code_Repositories]]
+
 - [Train custom deep learning models without code — QGIS Deepness workflow](https://youtu.be/HIsheKG-lE4): LinkedIn post by Hans van der Kwast, 5 April 2026, on a video tutorial: export training tiles with the QGIS Deepness plugin, annotate in Roboflow, train YOLO with Ultralytics, export to ONNX, and run inference back in Deepness. The example detects wind turbines in aerial photos. *"Personally, I still prefer training people over training models…"* *Keywords: YOLO, QGIS Deepness, Roboflow, ONNX, object detection, no-code*
   - Source: [LinkedIn post](https://www.linkedin.com/posts/jvdkwast_train-custom-deep-learning-models-without-share-7446559794037014528-3gLS); see [[LinkedIn]].
   - Related: [[Learning_Resources]], [[Remote_Sensing]]
@@ -17,6 +29,7 @@
   - Related: [[Python]], [[Foundation_Models]], [[Benchmark_Datasets]]
 
 - [GeoAI plugin for QGIS](https://plugins.qgis.org/plugins/geoai/#plugin-about): GeoAI plugin for QGIS providing AI-powered geospatial analysis including tree segmentation (DeepForest), water segmentation (OmniWaterMask), Moondream vision-language model, Segment Anything (SAM1/SAM2/SAM3), semantic segmentation, and instance segmentation (Mask R-CNN). Created by Qiusheng Wu and maintained as giswqs, version 1.7.0 released July 2026, for QGIS 3.28 through 4.99. DeepForest covers tree crowns and also birds, livestock, nests and dead trees; SAM supports text, point and box prompts; semantic segmentation takes custom U-Net, DeepLabV3+ or FPN models. Needs the geoai-py package and PyTorch, with a built-in dependency installer that detects NVIDIA CUDA or Apple MPS. Repository: [opengeos/geoai](https://github.com/opengeos/geoai). *Keywords: QGIS plugin, DeepForest, Segment Anything, Moondream, Mask R-CNN, Qiusheng Wu*
+  - **v1.0** ([LinkedIn, Qiusheng Wu, 25 Feb 2026](https://www.linkedin.com/posts/giswqs_geoai-qgis-gis-activity-7432427146809290752-jnb0)): the first stable release, with a one-click dependency installer for Windows, macOS and Linux: *"You can install and run GeoAI directly from your existing QGIS setup, without the old complex pixi workflow."* It covers semantic and instance segmentation, Moondream VLM, SAM 3, DeepForest and OmniWaterMask, and exports training data as COCO, YOLO or Pascal VOC. [Docs](https://opengeoai.org/qgis_plugin). OmniWaterMask joined the `geoai` package the same week ([Nicholas Wright](https://www.linkedin.com/posts/nicholas-wright-92205985_earthobservation-python-machinelearning-ugcPost-7432282654965841920-m9cs)): *"OmniWaterMask was designed to be a truly sensor-agnostic solution for water detection,"* cross-checking deep-learning predictions against NDWI and OSM water ([DPIRD-DMA/OmniWaterMask](https://github.com/DPIRD-DMA/OmniWaterMask), MIT).
   - Related: [[Foundation_Models]], [[Vision_Language_Models]], [[Land_Cover]]
 
 Segmentation and detection models for field boundary delineation — YOLO, Mask R-CNN, FTW, DINOv3, Prithvi — are covered by the `agribound` package in [[Agriculture]]. Vision Transformer architectures underpin the Earth observation embedding products discussed in [[Remote_Sensing]] and [[Embeddings]]. The Forest Data Partnership ships TensorFlow commodity probability models, hosted for Earth Engine — see [[Forestry]].
