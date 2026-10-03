@@ -346,3 +346,38 @@
     - Non-standard: InSARdev/core.
     - New copyleft: ESD (AGPL-3.0), iou-calculator (GPL-2.0).
   - **LinkedIn:** 45 posts recorded on `LinkedIn.md`.
+- 2026-10-03 — *WhatsApp chat export, batch 8 (queue items 351–400, shared 18 Nov – 17 Dec 2025)* — 50 items: 39 filed, 2 private group posts (353, 400), 5 behind the login wall (368, 372, 376, 378, 396), 1 partly walled (364), and 3 skipped.
+  - **Item 364:** filed as the RAMEN paper (CVPR 2026, arXiv 2512.05025), which was verified separately. The post's slug "introramen" points to it, but the post text was never read, and the note says so.
+  - **Skipped:**
+    - 352: a "free PDF" of an R spatial-analysis textbook on a low-quality aggregator site, unclear whether legitimate.
+    - 392: a course list whose links were only in hidden comments.
+    - 399: a link-free discussion prompt.
+  - **SAM 3 consolidation:** eight posts from the week Meta's SAM 3 reached geospatial tools became one note on `Foundation_Models.md`:
+    - Wu's interactive, caption-driven and point-prompt notebooks, plus the QGIS plugin.
+    - Kyle Walker's Shiny app.
+    - Jesse Lawrence's aspen grove test.
+    - Javier Valdés' Grounded SAM notebook.
+  - **AlphaEarth on GCS:** the Google blog and Ollie Guinan's post became one note on `Embeddings.md`. The bucket has been provider-pays (free) since July 2026.
+  - **Merged into existing notes:**
+    - GeoAI plugin: entry into the official repo, and the Windows install guide.
+    - Wherobots RasterFlow note: the RasterFlow launch.
+    - TESSERA: Keshav and Coomes' workshop talk, and Barrett's AEF-vs-TESSERA t-SNE.
+    - Stanford StoryMaps: two more shares (Akbari, Hikmet). It is now the most-shared link in the chat, seven times in ten months.
+    - Five free RS courses: the #NASACourses reshare.
+    - HYPERedu: EO College's forest spectroscopy module.
+    - Thirty QGIS plugins: a 15-plugin list.
+    - Wu 2025 review: the 13K-stars milestone.
+  - **New notes:**
+    - `Foundation_Models` (3): SAM 3, RAMEN, REMSA.
+    - `Embeddings` (1): AEF on GCS.
+    - `Agriculture` (1): TabPFN maize yield across Africa.
+    - `Climate_Change` (1): Microsoft Global Renewables Watch.
+    - `Remote_Sensing` (2): HyperCoast QGIS, GeoAI cloud-shadow masking.
+    - `Data` (1): AWS Open Data roundup (82 datasets).
+    - `Machine_Learning` (1): Nowosad's trustworthy predictions talk.
+    - `Cartography` (2): Simmon's GDAL part 10, MapYourGrid's "Humans for the Grid".
+    - `Learning_Resources` (5): PEOPLE-ECCO course, free QGIS courses (GRID3 et al.), Google Earth Outreach, NASA e-books, Nakhjiri mini-course.
+    - `Community_Resources` (1): Janosov's GeoAI roundup.
+    - `Careers_and_Research` (1): East Africa land consultants (likely closed).
+  - **Repos:** 11 added; the tracker is now 147. The four core opengeos repos are segment-geospatial, geemap, leafmap and geoai. `geoai` moves from "referenced without a GitHub link" into the main table, because these posts link it directly. Licensing watch: 39 of 147 (GEE_index_sets declares no license).
+  - **LinkedIn:** 32 posts recorded on `LinkedIn.md`.

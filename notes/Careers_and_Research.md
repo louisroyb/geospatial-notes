@@ -77,6 +77,9 @@
 - [Summer school: Experiencing Nature OUTSIDE! — Politecnico di Milano](https://www.linkedin.com/posts/israa-mahmoud_summer-school-flyer-activity-7431727551695249409-SrSM): Shared by Israa H. Mahmoud (23 Feb 2026). DAStU's urban-simulation lab ran it with the Pro-GREEN-LABs Erasmus+ project, 29 June – 3 July 2026, with faculty from Bauhaus-Universität Weimar, Chalmers and Jordanian universities. **This edition has passed.** *Keywords: summer school, nature-based solutions, urban green, Milan, Erasmus+, closed*
   - See [[LinkedIn]]. Related: [[Urban_Planning]]
 
+- [Land administration consultants — East Africa](https://www.linkedin.com/posts/matthew-mccartney-60883b272_job-specifications-land-project-in-east-ugcPost-7396578794431733760-zsi0): Matthew McCartney (18 Nov 2025) sought a Land Administration Specialist and a Geodetic Engineer for a land project in East Africa. CVs went by email; the specs were in an image. **Almost certainly closed by now.** *Keywords: land administration, geodesy, consultancy, East Africa, cadastre, closed*
+  - See [[LinkedIn]].
+
 ## Elsewhere in these notes
 
 - A PhD vacancy on multi-decade forest canopy height (UZH, now taken down) is on [[Forestry]].

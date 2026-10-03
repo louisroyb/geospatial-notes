@@ -5,6 +5,10 @@
 
 ---
 
+- [Microsoft Global Renewables Watch — every wind turbine and solar farm](https://github.com/microsoft/global-renewables-watch): LinkedIn post by Rajasivaranjan T., 1 December 2025. Microsoft released global detections from 2017 to Q2 2024: *"The dataset includes 375,197 individual wind turbines and 86,410 solar PV installations,"* as GeoPackages with construction dates and land-use context. MIT. *Keywords: renewable energy, wind turbines, solar PV, Microsoft, global dataset, energy transition*
+  - Source: [LinkedIn post](https://www.linkedin.com/posts/rajasivaranjan_microsoft-released-two-global-datasets-for-activity-7401239051032461314-B3Xv); see [[LinkedIn]].
+  - Related: [[Data]], [[Urban_Planning]], [[Code_Repositories]]
+
 - [Sentinel-1 SAR deep learning for co-seismic landslides](https://github.com/lorenzonava96/SAR-and-DL-for-Landslide-Rapid-Assessment): LinkedIn post by Lorenzo Nava, 21 January 2026, releasing code, weights and [datasets](https://zenodo.org/records/17328763) for an all-weather, day-and-night SAR Landslide Rapid Assessment tool for earthquake-triggered landslide events: *"Use it, test it, and build on it!"* MIT. *Keywords: landslides, Sentinel-1, SAR, deep learning, earthquakes, rapid assessment*
   - Source: [LinkedIn post](https://www.linkedin.com/posts/lorenzo-nava-40997a189_github-lorenzonava96sar-and-dl-for-landslide-rapid-assessment-activity-7419769223633215488-hEDz); see [[LinkedIn]].
   - Related: [[Remote_Sensing]], [[Deep_Learning]], [[Code_Repositories]]

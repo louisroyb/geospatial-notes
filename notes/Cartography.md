@@ -5,6 +5,13 @@
 
 ---
 
+- [A Gentle Introduction to GDAL, Part 10 — Python & the command line](https://medium.com/@robsimmon/a-gentle-introduction-to-gdal-part-10-python-the-command-line-d38e89d28636): LinkedIn post by Robert Simmon, 3 December 2025, on the latest part of his series for cartographers: batch-converting with pathlib loops, and generating variations of shaded relief from one DEM. *"You don't need to know any programming, but it's good to know the basics of the command line."* Also his [NACIS 2025 talk](https://youtu.be/QciLfnZnpps). *Keywords: GDAL, shaded relief, Python, command line, batch processing, cartography*
+  - Source: [LinkedIn post](https://www.linkedin.com/posts/robert-b-simmon_interested-in-automating-repetitive-mapping-activity-7402047727074746368-BvSt); see [[LinkedIn]].
+  - Related: [[Python]], [[Data]]
+
+- [Humans for the Grid — why mapping power infrastructure still needs people](https://mapyourgrid.org/blog/20251209-humans-for-the-grid/): Tobias Augspurger (MapYourGrid), 9 December 2025, on a year of helping OpenStreetMap close the remaining ~25% gap in global transmission-grid coverage. OSM is a verifiable collection system, existing grid data is consistent, full automation keeps failing, and the work needs grid and imagery expertise. *"Automation should empower the local community in creating this data, not replace it. Human-in-the-loop mapping is not a weakness; it is the only way to ensure global consistency and high-quality grid data."* Tools: Osmose QA, [Open Infrastructure Map](https://openinframap.org). *Keywords: power grid, OpenStreetMap, MapYourGrid, human-in-the-loop, infrastructure mapping, energy*
+  - Related: [[Climate_Change]], [[Community_Resources]]
+
 - [anymap-ts — MapLibre maps for web and Jupyter](https://github.com/opengeos/anymap-ts): LinkedIn post by Qiusheng Wu, 13 February 2026: *"Built on MapLibre + TypeScript, anymap-ts brings the same rich mapping experience to both the web and Jupyter Notebook."* It reads GeoJSON, GeoParquet, FlatGeobuf, PMTiles, COG, Zarr, COPC LiDAR and Gaussian splats, with a minimap, bookmarks, print, STAC search, street view and a geometry editor. [Docs](https://ts.anymap.dev), MIT. *Keywords: anymap-ts, MapLibre, Jupyter, anywidget, web mapping, TypeScript*
   - Source: [LinkedIn post](https://www.linkedin.com/posts/giswqs_mapping-maplibre-typescript-ugcPost-7428088630402981888-kE-6); see [[LinkedIn]].
   - Related: [[Python]], [[Code_Repositories]]

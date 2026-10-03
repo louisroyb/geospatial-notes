@@ -5,6 +5,10 @@
 
 ---
 
+- [High-resolution maize yield mapping across Africa with a tabular foundation model](https://doi.org/10.1016/j.srs.2025.100344): LinkedIn post by Krishnagopal Halder, 17 December 2025, on the *Science of Remote Sensing* paper (vol. 13, 2026; Halder, Ewert, Ghosh, Muduchuru, Sweet, Elshawi, Timko, Zheng et al.). It maps maize yield at 250 m across 42 African countries, one of the first large-scale uses of TabPFN for yield: *"TabPFN is a foundation model for tabular data that works well even with very limited training samples."* It matched XGBoost with far fewer samples, had the lowest MAPE, and generalised across agro-ecological zones without retraining. *Keywords: maize yield, Africa, TabPFN, tabular foundation model, XGBoost, 250 m*
+  - Source: [LinkedIn post](https://www.linkedin.com/posts/krishnagopal-halder_high-resolution-maize-yield-mapping-across-activity-7406990542112346112-AZGH); see [[LinkedIn]].
+  - The yield-mapping counterpart to Google's TabFM on [[Foundation_Models]]. Related: [[Machine_Learning]], [[Foundation_Models]]
+
 - [FAO e-learning: land consolidation and land banking](https://elearning.fao.org/course/view.php?id=1271): FAO Europe and Central Asia launched (in a February 2026 webinar) a free course based on its *generic master's curriculum on land consolidation and land banking*, aimed at practice in Eastern Europe ([event page](https://www.fao.org/europe/events/detail/launch-of-the-e-learning-course-on-land-consolidation-and-land-banking/en)). The launch event has passed; the course remains online. *Keywords: land consolidation, land banking, FAO, land administration, e-learning, Eastern Europe*
   - Related: [[Learning_Resources]], [[Urban_Planning]]
 

@@ -5,6 +5,15 @@
 
 ---
 
+- [82 new or updated datasets on the AWS Registry of Open Data](https://aws.amazon.com/blogs/publicsector/82-new-or-updated-datasets-available-on-the-registry-of-open-data-on-aws/): AWS Public Sector blog, 13 October 2025: *"customers are making over 300 PB of high-value, cloud-optimized data available for public use."* The EO highlights:
+  - **NASA OPERA**: surface water (DSWx), RTC and CSLC Sentinel-1, disturbance (DIST) and [displacement](https://registry.opendata.aws/nasa-operal3disp-s1v1/).
+  - **Optical and SAR archives**: Sentinel-1 GRD/SLC, HLS v2.0, the MODIS v061 suite, ASTER, [GLAD Landsat ARD](https://registry.opendata.aws/glad-landsat-ard/), [ICEYE SAR](https://registry.opendata.aws/iceye-opendata/), and [SpaceEye-T](https://registry.opendata.aws/st-open-data/) very-high-resolution imagery.
+  - **Lidar**: GEDI L2A/L4A, ICESat-2 ATL03/ATL08.
+  - **Weather and reanalysis**: GPM IMERG V07, MERRA-2.
+  - **Other**: CanElevation DEMs, SatPM2.5, Library of Congress Sanborn maps, MERMAID coral training data.
+  - *Keywords: AWS Open Data, OPERA, HLS, GEDI, GLAD ARD, cloud-optimised*
+  - Related: [[Remote_Sensing]], [[Climate_Change]]
+
 - [Overture Maps STAC catalogue](https://radiantearth.github.io/stac-browser/#/external/stac.overturemaps.org/2026-01-21.0/catalog.json): LinkedIn post by Dominik Weckmüller, 4 February 2026. Overture now publishes a STAC catalogue of all its datasets ([OvertureMaps/stac](https://github.com/OvertureMaps/stac), MIT), and *"every dataset is now also released as pmtiles file you can query on the spot in your browser!"* via an "open in Protomaps" link. *Keywords: Overture Maps, STAC, PMTiles, Protomaps, open map data, catalogue*
   - Source: [LinkedIn post](https://www.linkedin.com/posts/dominik-weckm%C3%BCller_big-news-overture-maps-foundation-now-offers-activity-7424941490008735744-fN-x); see [[LinkedIn]].
   - overture2osrm and Portolan, further down this page, also build on Overture. Related: [[Urban_Planning]], [[Code_Repositories]]

@@ -5,6 +5,10 @@
 
 ---
 
+- [How trustworthy are your spatial predictions? — Jakub Nowosad](https://jakubnowosad.com/rome2025): LinkedIn post, 1 December 2025, on his Rome R Users Group talk: *"I showed practical ways to evaluate where spatial predictions are trustworthy, and where they aren't."* It compares IDW, ordinary and universal kriging, and ML on CAST's splotdata, then covers the fixes: the area of applicability ([Meyer & Pebesma 2021](https://doi.org/10.1111/2041-210X.13650)), dissimilarity maps, and kNNDM cross-validation that adapts to the prediction area ([Linnenbrink et al. 2024](https://doi.org/10.5194/gmd-17-5897-2024)). [Video](https://youtu.be/uZe7thh80MI). *Keywords: area of applicability, kNNDM, spatial validation, kriging, CAST, R*
+  - Source: [LinkedIn post](https://www.linkedin.com/posts/jakub-nowosad-r_rspatial-rstats-gischat-share-7401258999137865728--HZy); see [[LinkedIn]].
+  - The R counterpart to seapig on [[Deep_Learning]] and the spatial-CV bounds paper below. Related: [[Deep_Learning]], [[Learning_Resources]]
+
 - [Federated Learning — an online comic from Google AI](https://federated.withgoogle.com/): An illustrated explainer by Lucy Bellwood and Scott McCloud on training models across devices so raw data never leaves them: *"Building better products with on-device data and privacy by default."* Not geospatial, but a clear introduction to a technique relevant to sensitive location data. *Keywords: federated learning, privacy, on-device ML, comic, Google AI, explainer*
   - Related: [[Learning_Resources]]
 

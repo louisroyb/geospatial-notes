@@ -9,6 +9,38 @@ Posts shared as links from the mobile app arrive with `utm_*` and `rcm` tracking
 
 | Item | Author | Kind | Filed under |
 |---|---|---|---|
+| [Maize yield across Africa with TabPFN](https://www.linkedin.com/posts/krishnagopal-halder_high-resolution-maize-yield-mapping-across-activity-7406990542112346112-AZGH) | Krishnagopal Halder | Feed post, shared link | [[Agriculture]] |
+| [GRID3 GIS Foundations Program](https://www.linkedin.com/posts/dr-amandeep-singh-5854b535_gis-foundations-program-p1-eng-activity-7405507444233166848-sDaN) | Amandeep Singh | Feed post, shared link | [[Learning_Resources]] |
+| [Free GIS & QGIS learning](https://www.linkedin.com/posts/dr-amandeep-singh-5854b535_qgis-basics-activity-7405506172675358721-tUm9) | Amandeep Singh | Feed post, shared link | [[Learning_Resources]] |
+| [GeoAI plugin in the official repo](https://www.linkedin.com/posts/giswqs_qgis-geoai-opensource-activity-7405993504948056065-ETdz) | Qiusheng Wu | Feed post, shared link | [[Deep_Learning]] |
+| [GeoAI news roundup](https://www.linkedin.com/posts/milan-janosov_geoai-activity-7405524389661687808-qe9u) | Milan Janosov | Feed post, shared link | [[Community_Resources]] |
+| [GeoAI + SAM 3 on Windows](https://www.linkedin.com/posts/giswqs_geoai-sam3-qgis-activity-7405666807119970304-0ZQz) | Qiusheng Wu | Feed post, shared link | [[Deep_Learning]] |
+| [AEF vs TESSERA t-SNE](https://www.linkedin.com/posts/samuel-barrett-b86b85171_fine-fine-fine-ill-jump-on-board-the-ugcPost-7404302445440421889-8Jj3) | Samuel Barrett | Feed post, shared link | [[Embeddings]] |
+| [RasterFlow launch](https://www.linkedin.com/posts/activity-7404576804696395776-6RHs) | Isaac Corley | Feed post, shared link | [[Foundation_Models]] |
+| [13K stars across four projects](https://www.linkedin.com/posts/giswqs_geospatial-opensource-datascience-activity-7404538047041544194-eoPo) | Qiusheng Wu | Feed post, shared link | [[Community_Resources]] |
+| [HyperCoast QGIS plugin](https://www.linkedin.com/posts/giswqs_geospatial-opensource-hyperspectral-activity-7404964482575192066-XTV3) | Qiusheng Wu | Feed post, shared link | [[Remote_Sensing]] |
+| [RAMEN (post unread)](https://www.linkedin.com/posts/sylvain-lobry_introramen-activity-7404885133587005440-f-Q0) | Sylvain Lobry | Feed post, shared link | [[Foundation_Models]] |
+| [Google Earth Engine overview](https://www.linkedin.com/posts/godwin-murithi-847830138_gee-geospatial-satellite-activity-7404237422592618496-0dNu) | Godwin Murithi | Feed post, shared link | [[Learning_Resources]] |
+| [SamGeo point prompts with SAM 3](https://www.linkedin.com/posts/giswqs_sam3-geospatial-opensource-activity-7403904800658051073-OCmD) | Qiusheng Wu | Feed post, shared link | [[Foundation_Models]] |
+| [Free Stanford courses](https://www.linkedin.com/posts/reza-akbari-06a37314b_free-courses-activity-7402710026529865729-3chj) | Reza Akbari | Feed post, shared link | [[Learning_Resources]] |
+| [SAM 3 is blowing my mind](https://www.linkedin.com/posts/walkerke_the-new-sam3-model-from-meta-is-blowing-my-ugcPost-7403875696848257026-mh78) | Kyle Walker | Feed post, shared link | [[Foundation_Models]] |
+| [Caption + SAM 3 segmentation](https://www.linkedin.com/posts/giswqs_sam3-geoai-geospatial-activity-7402739793694142465-J71Z) | Qiusheng Wu | Feed post, shared link | [[Foundation_Models]] |
+| [SamGeo QGIS plugin](https://www.linkedin.com/posts/giswqs_qgis-segmentanything-sam-activity-7404236648445800449-XP3f) | Qiusheng Wu | Feed post, shared link | [[Foundation_Models]] |
+| [Global Renewables Watch](https://www.linkedin.com/posts/rajasivaranjan_microsoft-released-two-global-datasets-for-activity-7401239051032461314-B3Xv) | Rajasivaranjan T. | Feed post, shared link | [[Climate_Change]] |
+| [Grounded SAM](https://www.linkedin.com/posts/javiervaldesgeo_geo-ai-image-segmentation-with-activity-7402717054740623362-ef0D) | Javier Valdés | Feed post, shared link | [[Foundation_Models]] |
+| [TESSERA workshop talk](https://www.linkedin.com/posts/clement-atzberger-8abb8065_tessera-workshop-on-foundational-ai-to-forecast-activity-7402353213728931841-Rt4G) | Clement Atzberger | Feed post, shared link | [[Embeddings]] |
+| [15 essential QGIS plugins](https://www.linkedin.com/posts/lamloumi-wassim_qgis-gis-opensource-activity-7401868457585127424--3Qr) | lamloumi wassim | Feed post, shared link | [[Geospatial_Platforms]] |
+| [Gentle Introduction to GDAL part 10](https://www.linkedin.com/posts/robert-b-simmon_interested-in-automating-repetitive-mapping-activity-7402047727074746368-BvSt) | Robert Simmon | Feed post, shared link | [[Cartography]] |
+| [Geostatistics mini-course](https://www.linkedin.com/posts/arminnakhjiri_ecologicalinformatics-remotesensing-geostatistics-activity-7400736068557332480-z9Ft) | Armin Nakhjiri | Feed post, shared link | [[Learning_Resources]] |
+| [Free Stanford courses (reshare)](https://www.linkedin.com/posts/ban-hikmet-11120864_free-courses-activity-7402725489406357504-hFJz) | Ban Hikmet | Feed post, shared link | [[Learning_Resources]] |
+| [NASA courses list](https://www.linkedin.com/posts/ban-hikmet-11120864_nasacourses-share-7401939727546843138-VraT) | Ban Hikmet | Feed post, shared link | [[Learning_Resources]] |
+| [REMSA](https://www.linkedin.com/posts/beg%C3%BCm-demir-89626690_remsa-llm-remsa-share-7401257278105964544-zUwy) | Begüm Demir | Feed post, shared link | [[Foundation_Models]] |
+| [SAM 3 interactive segmentation](https://www.linkedin.com/posts/giswqs_sam3-geoai-geospatial-ugcPost-7402354098827862016-eF9m) | Qiusheng Wu | Feed post, shared link | [[Foundation_Models]] |
+| [AEF on Google Cloud Storage](https://www.linkedin.com/posts/ollie-guinan-35b13b1_earthobservation-alphaearth-cloudstorage-share-7401433373317230593-QTsb) | Ollie Guinan | Feed post, shared link | [[Embeddings]] |
+| [Trustworthy spatial predictions](https://www.linkedin.com/posts/jakub-nowosad-r_rspatial-rstats-gischat-share-7401258999137865728--HZy) | Jakub Nowosad | Feed post, shared link | [[Machine_Learning]] |
+| [SAM 3 on an aspen grove](https://www.linkedin.com/posts/jesse-lawrence-37658469_sam3-geoai-share-7401836534389510144-Igy2) | Jesse Lawrence | Feed post, shared link | [[Foundation_Models]] |
+| [Cloud shadow masking with GeoAI](https://www.linkedin.com/posts/javiervaldesgeo_geoai-masking-shadows-cast-by-clouds-share-7401201409687265280-Fqmg) | Javier Valdés | Feed post, shared link | [[Remote_Sensing]] |
+| [Land project consultants, East Africa](https://www.linkedin.com/posts/matthew-mccartney-60883b272_job-specifications-land-project-in-east-ugcPost-7396578794431733760-zsi0) | Matthew McCartney | Feed post, shared link | [[Careers_and_Research]] |
 | [anymap-ts](https://www.linkedin.com/posts/giswqs_mapping-maplibre-typescript-ugcPost-7428088630402981888-kE-6) | Qiusheng Wu | Feed post, shared link | [[Cartography]] |
 | [stac2cube](https://www.linkedin.com/posts/florian-betz_github-baturalparisoystac2cube-stac-catalogs-activity-7427597409779642368-n939) | Florian Betz | Feed post, shared link | [[Remote_Sensing]] |
 | [Advance your environmental data skills](https://www.linkedin.com/posts/africans-in-environmental-science_introduction-to-r-and-geographic-information-activity-7427399580524347392-M77d) | Africans in Environmental Science | Feed post, shared link | [[Learning_Resources]] |
@@ -327,6 +359,38 @@ Posts shared as links from the mobile app arrive with `utm_*` and `rcm` tracking
 
 ## Posts
 
+- **[Maize yield across Africa with TabPFN](https://www.linkedin.com/posts/krishnagopal-halder_high-resolution-maize-yield-mapping-across-activity-7406990542112346112-AZGH)** — Krishnagopal Halder: a tabular foundation model maps yield in 42 countries. Note on [[Agriculture]].
+- **[GRID3 GIS Foundations Program](https://www.linkedin.com/posts/dr-amandeep-singh-5854b535_gis-foundations-program-p1-eng-activity-7405507444233166848-sDaN)** — Amandeep Singh: a free QGIS course with a certificate. Note on [[Learning_Resources]].
+- **[Free GIS & QGIS learning](https://www.linkedin.com/posts/dr-amandeep-singh-5854b535_qgis-basics-activity-7405506172675358721-tUm9)** — Amandeep Singh: four free QGIS courses. Note on [[Learning_Resources]].
+- **[GeoAI plugin in the official repo](https://www.linkedin.com/posts/giswqs_qgis-geoai-opensource-activity-7405993504948056065-ETdz)** — Qiusheng Wu: install QGIS via conda-forge for PyTorch. Note on [[Deep_Learning]].
+- **[GeoAI news roundup](https://www.linkedin.com/posts/milan-janosov_geoai-activity-7405524389661687808-qe9u)** — Milan Janosov: December's GeoAI tools and reading. Note on [[Community_Resources]].
+- **[GeoAI + SAM 3 on Windows](https://www.linkedin.com/posts/giswqs_geoai-sam3-qgis-activity-7405666807119970304-0ZQz)** — Qiusheng Wu: a Windows install guide. Note on [[Deep_Learning]].
+- **[AEF vs TESSERA t-SNE](https://www.linkedin.com/posts/samuel-barrett-b86b85171_fine-fine-fine-ill-jump-on-board-the-ugcPost-7404302445440421889-8Jj3)** — Samuel Barrett: TESSERA clusters crops more tightly. Note on [[Embeddings]].
+- **[RasterFlow launch](https://www.linkedin.com/posts/activity-7404576804696395776-6RHs)** — Isaac Corley: Wherobots' mosaicking and inference service. Note on [[Foundation_Models]].
+- **[13K stars across four projects](https://www.linkedin.com/posts/giswqs_geospatial-opensource-datascience-activity-7404538047041544194-eoPo)** — Qiusheng Wu: geemap, leafmap, SamGeo, GeoAI. Note on [[Community_Resources]].
+- **[HyperCoast QGIS plugin](https://www.linkedin.com/posts/giswqs_geospatial-opensource-hyperspectral-activity-7404964482575192066-XTV3)** — Qiusheng Wu: hyperspectral data in QGIS. Note on [[Remote_Sensing]].
+- **[RAMEN (post unread)](https://www.linkedin.com/posts/sylvain-lobry_introramen-activity-7404885133587005440-f-Q0)** — Sylvain Lobry: login wall; the paper is filed from the slug and verified separately. Note on [[Foundation_Models]].
+- **[Google Earth Engine overview](https://www.linkedin.com/posts/godwin-murithi-847830138_gee-geospatial-satellite-activity-7404237422592618496-0dNu)** — Godwin Murithi: GEE and Google Earth Outreach tutorials. Note on [[Learning_Resources]].
+- **[SamGeo point prompts with SAM 3](https://www.linkedin.com/posts/giswqs_sam3-geospatial-opensource-activity-7403904800658051073-OCmD)** — Qiusheng Wu: batch point-prompted segmentation. Note on [[Foundation_Models]].
+- **[Free Stanford courses](https://www.linkedin.com/posts/reza-akbari-06a37314b_free-courses-activity-7402710026529865729-3chj)** — Reza Akbari: the Stanford StoryMaps list again. Note on [[Learning_Resources]].
+- **[SAM 3 is blowing my mind](https://www.linkedin.com/posts/walkerke_the-new-sam3-model-from-meta-is-blowing-my-ugcPost-7403875696848257026-mh78)** — Kyle Walker: a text-prompted Shiny app on Mapbox imagery. Note on [[Foundation_Models]].
+- **[Caption + SAM 3 segmentation](https://www.linkedin.com/posts/giswqs_sam3-geoai-geospatial-activity-7402739793694142465-J71Z)** — Qiusheng Wu: segment every feature type without prompts. Note on [[Foundation_Models]].
+- **[SamGeo QGIS plugin](https://www.linkedin.com/posts/giswqs_qgis-segmentanything-sam-activity-7404236648445800449-XP3f)** — Qiusheng Wu: SAM 3 in QGIS without code. Note on [[Foundation_Models]].
+- **[Global Renewables Watch](https://www.linkedin.com/posts/rajasivaranjan_microsoft-released-two-global-datasets-for-activity-7401239051032461314-B3Xv)** — Rajasivaranjan T.: 375k turbines and 86k solar farms mapped. Note on [[Climate_Change]].
+- **[Grounded SAM](https://www.linkedin.com/posts/javiervaldesgeo_geo-ai-image-segmentation-with-activity-7402717054740623362-ef0D)** — Javier Valdés: text-prompted SAM, with an algal bloom example. Note on [[Foundation_Models]].
+- **[TESSERA workshop talk](https://www.linkedin.com/posts/clement-atzberger-8abb8065_tessera-workshop-on-foundational-ai-to-forecast-activity-7402353213728931841-Rt4G)** — Clement Atzberger: how TESSERA works, in 35 minutes. Note on [[Embeddings]].
+- **[15 essential QGIS plugins](https://www.linkedin.com/posts/lamloumi-wassim_qgis-gis-opensource-activity-7401868457585127424--3Qr)** — lamloumi wassim: another plugin list. Note on [[Geospatial_Platforms]].
+- **[Gentle Introduction to GDAL part 10](https://www.linkedin.com/posts/robert-b-simmon_interested-in-automating-repetitive-mapping-activity-7402047727074746368-BvSt)** — Robert Simmon: Python for batch cartography. Note on [[Cartography]].
+- **[Geostatistics mini-course](https://www.linkedin.com/posts/arminnakhjiri_ecologicalinformatics-remotesensing-geostatistics-activity-7400736068557332480-z9Ft)** — Armin Nakhjiri: six five-minute tutorials. Note on [[Learning_Resources]].
+- **[Free Stanford courses (reshare)](https://www.linkedin.com/posts/ban-hikmet-11120864_free-courses-activity-7402725489406357504-hFJz)** — Ban Hikmet: the Stanford list, reshared. Note on [[Learning_Resources]].
+- **[NASA courses list](https://www.linkedin.com/posts/ban-hikmet-11120864_nasacourses-share-7401939727546843138-VraT)** — Ban Hikmet: the five free RS courses, reshared. Note on [[Learning_Resources]].
+- **[REMSA](https://www.linkedin.com/posts/beg%C3%BCm-demir-89626690_remsa-llm-remsa-share-7401257278105964544-zUwy)** — Begüm Demir: an LLM agent that recommends RS foundation models. Note on [[Foundation_Models]].
+- **[SAM 3 interactive segmentation](https://www.linkedin.com/posts/giswqs_sam3-geoai-geospatial-ugcPost-7402354098827862016-eF9m)** — Qiusheng Wu: box or text prompts in SamGeo. Note on [[Foundation_Models]].
+- **[AEF on Google Cloud Storage](https://www.linkedin.com/posts/ollie-guinan-35b13b1_earthobservation-alphaearth-cloudstorage-share-7401433373317230593-QTsb)** — Ollie Guinan: AlphaEarth freed from Earth Engine. Note on [[Embeddings]].
+- **[Trustworthy spatial predictions](https://www.linkedin.com/posts/jakub-nowosad-r_rspatial-rstats-gischat-share-7401258999137865728--HZy)** — Jakub Nowosad: AoA and kNNDM for reliable maps. Note on [[Machine_Learning]].
+- **[SAM 3 on an aspen grove](https://www.linkedin.com/posts/jesse-lawrence-37658469_sam3-geoai-share-7401836534389510144-Igy2)** — Jesse Lawrence: one box finds every grove. Note on [[Foundation_Models]].
+- **[Cloud shadow masking with GeoAI](https://www.linkedin.com/posts/javiervaldesgeo_geoai-masking-shadows-cast-by-clouds-share-7401201409687265280-Fqmg)** — Javier Valdés: cloud and shadow masks from a notebook. Note on [[Remote_Sensing]].
+- **[Land project consultants, East Africa](https://www.linkedin.com/posts/matthew-mccartney-60883b272_job-specifications-land-project-in-east-ugcPost-7396578794431733760-zsi0)** — Matthew McCartney: two land administration roles; likely closed. Note on [[Careers_and_Research]].
 - **[anymap-ts](https://www.linkedin.com/posts/giswqs_mapping-maplibre-typescript-ugcPost-7428088630402981888-kE-6)** — Qiusheng Wu: the same MapLibre maps on the web and in Jupyter. Note on [[Cartography]].
 - **[stac2cube](https://www.linkedin.com/posts/florian-betz_github-baturalparisoystac2cube-stac-catalogs-activity-7427597409779642368-n939)** — Florian Betz: Sentinel-2 ARD cubes from STAC with super-resolution. Note on [[Remote_Sensing]].
 - **[Advance your environmental data skills](https://www.linkedin.com/posts/africans-in-environmental-science_introduction-to-r-and-geographic-information-activity-7427399580524347392-M77d)** — Africans in Environmental Science: more MIT OCW courses. Note on [[Learning_Resources]].

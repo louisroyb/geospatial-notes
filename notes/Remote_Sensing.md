@@ -5,6 +5,13 @@
 
 ---
 
+- [HyperCoast QGIS plugin — hyperspectral made easy](https://hypercoast.org): LinkedIn post by Qiusheng Wu, 11 December 2025, on a QGIS plugin for the HyperCoast package that opens and inspects hyperspectral data from AVIRIS, NEON, PACE, EMIT, DESIS, PRISMA and EnMAP (plus ECOSTRESS): *"HyperCoast supports the reading and visualization of hyperspectral data from various missions."* [Video](https://youtu.be/RxDUcfv-vBc); [opengeos/HyperCoast](https://github.com/opengeos/HyperCoast), MIT. *Keywords: hyperspectral, HyperCoast, EMIT, PACE, EnMAP, QGIS plugin*
+  - Source: [LinkedIn post](https://www.linkedin.com/posts/giswqs_geospatial-opensource-hyperspectral-activity-7404964482575192066-XTV3); see [[LinkedIn]].
+  - Pairs with the HYPERedu EnMAP courses on [[Learning_Resources]]. Related: [[Climate_Change]], [[Code_Repositories]]
+
+- [Cloud and cloud-shadow masking with GeoAI](https://www.linkedin.com/posts/javiervaldesgeo_geoai-masking-shadows-cast-by-clouds-share-7401201409687265280-Fqmg): LinkedIn post by Javier Valdés, 1 December 2025, sharing a [notebook](https://github.com/jaalvalcan/GEE_index_sets/blob/c7ae3960ca374134ce1ca65697e05f4ff984f89f/docs/examples/Shadow%20and_cloud_detection.ipynb) that uses the `geoai` package to predict cloud and shadow masks, compute cover statistics, keep GeoTIFF metadata, and batch-filter scenes by cloud cover: *"Predicting cloud masks from numpy arrays."* The repo has no license. *Keywords: cloud masking, cloud shadows, GeoAI, deep learning, preprocessing, notebook*
+  - See [[LinkedIn]]. OmniCloudMask and Cloud Score+ are compared further up this page. Related: [[Deep_Learning]]
+
 - [stac2cube — Sentinel-2 data cubes from STAC](https://github.com/BaturalpArisoy/stac2cube): LinkedIn post by Florian Betz, 12 February 2026, on PhD student Baturalp Arisoy's package (EORC Würzburg). It builds analysis-ready Sentinel-2 cubes from STAC catalogs with probabilistic cloud masking, coregistration and deep-learning super-resolution, *"ideally suited to provide the foundation for satellite time series analysis in the context of earth surface dynamics."* It was used on braided rivers (Naryn, Lech, Svalbard). Preprint: [EGUsphere, DOI 10.5194/egusphere-2026-619](https://doi.org/10.5194/egusphere-2026-619). Apache-2.0. *Keywords: data cubes, Sentinel-2, STAC, coregistration, super-resolution, geomorphology*
   - Source: [LinkedIn post](https://www.linkedin.com/posts/florian-betz_github-baturalparisoystac2cube-stac-catalogs-activity-7427597409779642368-n939); see [[LinkedIn]].
   - Related: [[Python]], [[Data]], [[Code_Repositories]]
