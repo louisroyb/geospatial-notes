@@ -5,7 +5,18 @@
 
 ---
 
+- [rio-stac-io — open STAC items as rasterio datasets](https://github.com/planetlabs/rio-stac-io): LinkedIn post by Thomas Maschler (Planet), 5 November 2025: *"Ever wondered if there was an easy way to load your STAC metadata as a rasterio dataset?"* A rasterio extension that opens STAC Items and ItemCollections through GDAL's native drivers. Apache-2.0. *Keywords: STAC, rasterio, GDAL, Planet, Python, cloud-native*
+  - Source: [LinkedIn post](https://www.linkedin.com/posts/thomasmaschler_github-planetlabsrio-stac-io-rasterio-activity-7391974723720474624-SEhd); see [[LinkedIn]].
+  - Related: [[Data]], [[Code_Repositories]]
+
+- [Visualise COGs in the browser with Leafmap](https://leafmap.org/notebooks/108_add_geotiff): Qiusheng Wu (6 Nov 2025): load Cloud-Optimized GeoTIFFs over HTTP in Jupyter with no tile server (aerial, LiDAR, multiband), with band, colormap and opacity control: *"Run everything 100% serverless in your browser!"* [opengeos/leafmap](https://github.com/opengeos/leafmap), MIT. *Keywords: Leafmap, COG, Jupyter, serverless, web mapping, raster visualisation*
+  - Source: [LinkedIn post](https://www.linkedin.com/posts/giswqs_geospatial-opensource-leafmap-activity-7392219799520452609-wSUB); see [[LinkedIn]].
+
+- [24 Python libraries for the #30DayMapChallenge](https://www.linkedin.com/posts/milan-janosov_30daymapchallenge-pydeck-folium-activity-7389579329913032704-cCm6): Milan Janosov (30 Oct 2025): *"Get ready for the #30DayMapChallenge and brush up your toolbox."* Cartopy, Contextily, Folium, GeoPandas, GeoPy, [h3](https://h3geo.org/docs/), [kepler.gl](https://kepler.gl), OSMnx, [PySAL](https://pysal.org), Pydeck, Pyrosm, Rasterio, scikit-mobility, Shapely and more. *Keywords: Python libraries, 30DayMapChallenge, GeoPandas, OSMnx, kepler.gl, mapping*
+  - See [[LinkedIn]]. Related: [[Cartography]]
+
 - [Geocomputation with Python, chapter 7: geographic data I/O](https://py.geocompx.org/07-read-write): Shared by Jakub Nowosad (16 Nov 2025), from the free book by Dorman, Graser, Nowosad and Lovelace. It covers finding data (geoportals, cartopy, osmnx), formats (GDAL's 200+), reading and writing vectors with geopandas/pyogrio (with where and mask filters), and rasters with rasterio (windowed reads, multiband, nodata). *Keywords: Geocomputation with Python, I/O, geopandas, rasterio, GDAL, free book*
+  - **Chapter 5, raster–vector interactions** ([Nowosad, 2 Nov 2025](https://www.linkedin.com/posts/jakub-nowosad-r_5-raster-vector-interactions-geocomputation-share-7390749865225490432-vic-); [chapter](https://py.geocompx.org/05-raster-vector)): cropping and masking rasters with vectors, extracting values, and polygonising and rasterising.
   - Source: [LinkedIn post](https://www.linkedin.com/posts/jakub-nowosad-r_7-geographic-data-io-geocomputation-with-activity-7395823270350168064-Djt1); see [[LinkedIn]].
   - The R edition's useR! tutorial is on [[Learning_Resources]]. Related: [[Data]]
 

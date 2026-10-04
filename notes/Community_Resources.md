@@ -5,6 +5,9 @@
 
 ---
 
+- [IEEE GRSS events calendar](https://www.grss-ieee.org/events-calendar/list/?tribe_event_display=past): The Geoscience and Remote Sensing Society's listing of IGARSS, webinars, workshops and summer schools (e.g. IGARSS 2026 in Washington DC, a physics-informed ML workshop in Crete, a microwave radiometry school). The past-events view is useful for finding webinar recordings. *Keywords: IEEE GRSS, IGARSS, webinars, summer schools, conferences, remote sensing community*
+  - Related: [[Learning_Resources]]
+
 - [OSINT image-geolocation toolkit](https://www.linkedin.com/posts/aidanosint_location-isnt-just-a-set-of-coordinates-share-7387360549115760641-qiAe): Aidan Raney's curated list (Nov 2025): *"Location isn't just a set of coordinates. It's vital context."* AI estimators include GeoSpy, Picarta, TIB's [Geoestimation](https://labs.tib.eu/geoestimation/), [EarthKit Agent](https://agent.earthkit.app/) and [findthatspot](https://www.findthatspot.io/) (OSM features from natural language). Shadow and sun tools: SunCalc, ShadeMap and Bellingcat's [ShadowFinder](https://github.com/bellingcat/ShadowFinder) (MIT). Peak identification: PeakFinder and PeakVisor. *Keywords: OSINT, geolocation, ShadowFinder, sun position, GeoSpy, investigations*
   - See [[LinkedIn]]. Google Earth's change detection for investigators is on [[Geospatial_Platforms]]. Related: [[Remote_Sensing]]
 

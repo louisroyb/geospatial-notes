@@ -5,10 +5,19 @@
 
 ---
 
+- [Sentinel-2 Grid Explorer](https://dpird-dma.github.io/Sentinel-2-grid-explorer/): Shared by Matt Forrest (31 Oct 2025) from Nicholas Wright: *"an open source web tool that makes it easy to visualize all 57k+ grid tiles globally, select the ones you need, and share or export them effortlessly"*, instead of loading the MGRS shapefile into QGIS. [DPIRD-DMA/Sentinel-2-grid-explorer](https://github.com/DPIRD-DMA/Sentinel-2-grid-explorer), MIT. *Keywords: Sentinel-2, MGRS tiles, tiling grid, web map, tile selection, DPIRD*
+  - Source: [LinkedIn post](https://www.linkedin.com/posts/mbforr_if-youve-ever-worked-with-sentinel-2-data-share-7390077845668118528-o2jb); see [[LinkedIn]].
+  - From the DPIRD team behind Smoothify ([[Python]]) and OmniWaterMask ([[Deep_Learning]]). Related: [[Data]], [[Code_Repositories]]
+
+- [Building damage assessment with GeoAI — Jasper wildfire StoryMap](https://storymaps.arcgis.com/stories/0fcd408146334271bc26e5541537d8dd): Shared by David Parry (Oct 2025): an Esri tutorial where *"you will train a custom deep learning model with a small set of post-fire training samples to classify structures as damaged or undamaged"* after the Jasper wildfires, then map damage for recovery planning in ArcGIS Pro. *Keywords: damage assessment, wildfire, ArcGIS Pro, deep learning, Jasper, StoryMaps*
+  - Source: [LinkedIn post](https://www.linkedin.com/posts/davidparrygis_building-damage-assessment-with-geoai-in-share-7387897376679780353-zIK_); see [[LinkedIn]].
+  - Related: [[Climate_Change]], [[Deep_Learning]]
+
 - [Free tools for image classification](https://www.linkedin.com/posts/douha-akkari-0666b6183_gis-remotesensing-earthobservation-share-7398310454588059648-hoot): Douha Akkari (23 Nov 2025) lists Google Earth Engine, QGIS + the [Semi-Automatic Classification Plugin](https://semiautomaticclassificationmanual.readthedocs.io/en/latest/), [ESA SNAP](https://step.esa.int/main/), [EO Browser](https://apps.sentinel-hub.com/eo-browser/) and [Orfeo Toolbox](https://www.orfeo-toolbox.org/): *"Start with QGIS SCP or GEE, then move to SNAP or OTB as you level up."* *Keywords: image classification, SCP, SNAP, Orfeo Toolbox, EO Browser, free tools*
   - See [[LinkedIn]]. Related: [[Land_Cover]]
 
 - [HyperCoast QGIS plugin — hyperspectral made easy](https://hypercoast.org): LinkedIn post by Qiusheng Wu, 11 December 2025, on a QGIS plugin for the HyperCoast package that opens and inspects hyperspectral data from AVIRIS, NEON, PACE, EMIT, DESIS, PRISMA and EnMAP (plus ECOSTRESS): *"HyperCoast supports the reading and visualization of hyperspectral data from various missions."* [Video](https://youtu.be/RxDUcfv-vBc); [opengeos/HyperCoast](https://github.com/opengeos/HyperCoast), MIT. *Keywords: hyperspectral, HyperCoast, EMIT, PACE, EnMAP, QGIS plugin*
+  - **Wyvern's open hyperspectral data** ([Wu, 27 Oct 2025](https://www.linkedin.com/posts/giswqs_wyvern-hyperspectral-remotesensing-activity-7388564707634327552-adxb); [notebook](https://hypercoast.org/examples/wyvern)): handling gigabyte-scale [Wyvern open data](https://wyvern.space/open-data) in Python and Xarray to *"explore spectral signatures, analyze environmental features like vegetation, water, and urban areas, and export data for classification."*
   - Source: [LinkedIn post](https://www.linkedin.com/posts/giswqs_geospatial-opensource-hyperspectral-activity-7404964482575192066-XTV3); see [[LinkedIn]].
   - Pairs with the HYPERedu EnMAP courses on [[Learning_Resources]]. Related: [[Climate_Change]], [[Code_Repositories]]
 
@@ -89,6 +98,7 @@
   - Related: [[Python]], [[Learning_Resources]], [[Google_Earth_Engine]]
 
 - [Sentinel-2 super-resolution with Gamma Earth AI](https://www.youtube.com/watch?v=vlCY-cCleeY): LinkedIn post by Prince Suthar, 23 June 2026. The workflow: download Sentinel-2 from the [Copernicus Data Space Ecosystem](https://browser.dataspace.copernicus.eu/), process it in a [Colab notebook](https://colab.research.google.com/drive/1B4y0kuGqk5i5CCi4OSZl3SP4Rxsy8LpJ), and run [Gamma Earth](https://gamma.earth/)'s super-resolution model for finer visual detail. Suggested uses are urban mapping, land use and infrastructure. The post warns that the result *"should not be confused with true 1 meter satellite data"* and *"should be validated before being used for scientific, legal, or operational decision making."* The code is shared as a Google Drive file, not a repository. *Keywords: super-resolution, Sentinel-2, Gamma Earth, Copernicus Data Space, Colab, AI enhancement*
+  - **The model is S2DR3** ([Pratikshya Regmi, 31 Oct 2025](https://www.linkedin.com/posts/pratiregmi_geospatial-remotesensing-sentinel2-activity-7390082037514129408-HfGk); [Colab](https://colab.research.google.com/drive/18phbwA1iYG5VDGN2WjK7WrWYi-FdCHJ5)): single-image super-resolution that *"upscales the 10 multispectral bands (originally 10 m/20 m) to about 1 m/px"*. She found it helpful for NDVI over a Hurricane Helene study site. The same caveat applies: the extra detail is generated, not observed.
   - Source: [LinkedIn post](https://www.linkedin.com/posts/prince-suthar-79552428a_geoai-gis-remotesensing-ugcPost-7475147790134915072-IPxl); see [[LinkedIn]].
   - Related: [[Deep_Learning]], [[Urban_Planning]]
 

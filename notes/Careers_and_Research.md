@@ -88,6 +88,16 @@
 
 - [Programme Management Officer, Human Settlements (P4) — UN-Habitat, Nairobi](https://careers.un.org/jobSearchDescription/266823?language=en): A housing-policy role (slum upgrading and prevention, World Cities Report) under the Land, Housing and Shelter Section. **Closed 6 December 2025.** Not GIS-specific. *Keywords: UN-Habitat, housing policy, slum upgrading, P4, Nairobi, closed*
 
+- [Development-sector learning: M&E and UN agency courses](https://www.linkedin.com/posts/oluwakemi-olorode-5b2768171_start-taking-online-courses-from-un-agencies-share-7389751719749926912-H8hy): Two career-building posts (Oct 2025). Oluwakemi Olorode lists free UN-agency platforms: *"it will boost your CV and prepare you to secure NGO jobs"*. They include [OpenWHO](https://openwho.org/), [UNITAR](https://www.unitar.org/free-and-open-courses), [UNICEF Agora](https://agora.unicef.org/), [UN CC:Learn](https://unccelearn.org/) and [Global Health eLearning](https://www.globalhealthlearning.org/home). [Elom Joël Ayale](https://www.linkedin.com/posts/elom-jo%C3%ABl-ayale_me-fundamentals-activity-7390002432552116225-51xX) recommends an M&E primer plus free courses: Kaya Connect's MEAL series and [M&E Fundamentals](https://www.globalhealthlearning.org/course/m-e-fundamentals). Not geospatial, but the core skills for MEL roles where GIS is often used. *Keywords: M&E, MEAL, UN courses, NGO careers, free learning, development sector*
+  - See [[LinkedIn]].
+
+- [African Development Bank Young Professionals Program 2026](https://www.afdb.org/en/vacancy/young-professionals-program-88098): A 3-year rotational programme (PL6) for nationals of member countries aged 32 or under, with a Master's and 3+ years' experience. **Closed 30 November 2025**; the page has since been taken down. *Keywords: AfDB, young professionals, development finance, Africa, programme, closed*
+
+- [Senior Geospatial Data Scientist — Syngenta, Madrid](https://jobs.smartrecruiters.com/SyngentaGroup/744000091613623-senior-geospatial-data-scientist): Computational agronomy: geospatial and ML models on satellite, drone and IoT data, plus cloud pipelines, needing 5+ years. **The posting has been removed.** *Keywords: Syngenta, geospatial data science, agronomy, Madrid, remote sensing, closed*
+
+- [How to apply for Erasmus programmes — webinar recording](https://www.youtube.com/watch?v=nqliM-axzaY): Shared by Thomas Burns Botchwey (9 Nov 2025), a recorded webinar on Erasmus Mundus applications. *Keywords: Erasmus Mundus, scholarships, application tips, webinar, study abroad, master's*
+  - See [[LinkedIn]].
+
 ## Elsewhere in these notes
 
 - A PhD vacancy on multi-decade forest canopy height (UZH, now taken down) is on [[Forestry]].

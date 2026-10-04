@@ -5,6 +5,10 @@
 
 ---
 
+- [Esri Image Interrogation — ask questions of imagery in ArcGIS](https://esridech.maps.arcgis.com/home/item.html?id=7b78192196be437fa85120b41d54b669): LinkedIn post by Matthias Stängel (Esri Deutschland), 27 October 2025, on a vision-language DLPK in Living Atlas for visual question answering, captioning and reasoning. The example extracts vegetation share per parcel from 20 cm RGB with no training: *"Image Interrogation enables fast, no-training-required extraction of meaningful insights—like vegetation percentage per parcel—from high-resolution imagery using natural language prompts."* *Keywords: visual question answering, Esri, ArcGIS, parcels, no-training, VLM*
+  - Source: [LinkedIn post](https://www.linkedin.com/posts/matthias-staengel_esrivoices-esri-esrideutschland-activity-7388548783179075584-om0c); see [[LinkedIn]].
+  - Related: [[Urban_Planning]], [[Deep_Learning]]
+
 - [GroundSet: A Cadastral-Grounded Dataset for Spatial Understanding with Vector Data](https://arxiv.org/abs/2603.14609): LinkedIn post by Roger Ferrod (Université Paris Cité, with Google Research), 28 April 2026. It has 3.8M objects annotated from verified cadastral vector data across 510k high-resolution images and 135 categories, plus an instruction-tuning benchmark of 7 spatial-reasoning tasks. A plain LLaVA baseline trained on it beats remote-sensing-specific and commercial models: *"a standard VLM architecture (like LLaVA) can master complex spatial grounding tasks when trained on dense annotations, without needing complex architectural modifications."* [Data](https://huggingface.co/datasets/RogerFerrod/GroundSet), [model](https://huggingface.co/RogerFerrod/GroundSet-LLaVA-1.6-7B), code at [rogerferrod/GroundSet](https://github.com/rogerferrod/GroundSet) (Apache-2.0). *Keywords: GroundSet, multimodal LLM, spatial grounding, cadastral data, LLaVA, instruction tuning*
   - Source: [LinkedIn post](https://www.linkedin.com/posts/roger-ferrod-926938130_remotesensing-earthobservation-multimodalai-share-7454878375279656960-hwZC); see [[LinkedIn]].
   - Related: [[Benchmark_Datasets]], [[Urban_Planning]], [[Code_Repositories]]

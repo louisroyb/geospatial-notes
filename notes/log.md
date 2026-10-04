@@ -419,3 +419,38 @@
     - So2Sat LCZ42 indexed on `Benchmark_Datasets.md`.
   - **Repos:** 8 added; the tracker is now 155. `torchgeo/torchgeo` moved from "referenced without a GitHub link" into the main table, since the PyTorch blog links it directly. Licensing watch unchanged at 39.
   - **Sources:** 29 posts recorded on `LinkedIn.md`. Item 448 (a goo.gle shortlink) resolved to Google Research's blog with `utm_source=linkedin` and was stripped and filed.
+- 2026-10-04 — *WhatsApp chat export, batch 10 (queue items 451–500, shared 24 Oct – 12 Nov 2025)* — 50 items: 40 filed (new notes or merges), 5 private group posts (466, 469, 470, 472, 473), 1 behind the login wall (463), 1 already in the vault (474, the EEFA book), and 3 skipped.
+  - **Skipped:**
+    - 459: a live two-day training that is now over.
+    - 478: a promotional software-overview video.
+    - 495: a thin reflection on a SANSA handbook, without a link to it.
+  - **Merged into existing notes:**
+    - Fields of the World: TGE's profile of Caleb Robinson.
+    - TESSERA: Atzberger on soil mapping.
+    - Gamma Earth super-resolution: Regmi's S2DR3 test.
+    - HyperCoast: the Wyvern hyperspectral tutorial.
+    - Thirty QGIS plugins: a Spanish 14-plugin list.
+    - Ahrari's GEE tutorials: 12 agriculture tutorials.
+    - Five free RS courses: Selmi's earliest copy.
+    - MIT OCW list: the first version.
+    - Geocomputation with Python: chapter 5.
+  - **Consolidated into single notes:**
+    - Zeydani's walkability posts (QGIS and Python).
+    - The M&E and UN-agency course posts.
+  - **New notes:**
+    - `Urban_Planning` (6): Open Building Map, ORBITaL-Net, OpenFACADES, walkability, site-suitability pitfalls, BIM and GIS.
+    - `Agriculture` (3): Delineate Anything, crop-type foundation-model generalisability, QGIS Raster Value Extractor.
+    - `Forestry` (1): WRI Tropical Tree Cover on Cecil.
+    - `Remote_Sensing` (2): Sentinel-2 Grid Explorer, Jasper damage assessment.
+    - `Deep_Learning` (1): Mundi cloud SAM.
+    - `Vision_Language_Models` (1): Esri Image Interrogation.
+    - `Foundation_Models` (1): Chronos-2.
+    - `SQL` (1): Wu's DuckDB book.
+    - `Python` (3): rio-stac-io, Leafmap COGs, 24 libraries.
+    - `Cartography` (3): Kotov's flow-map workshop, ETH Zurich centenary, spatial-thinking books.
+    - `Learning_Resources` (2): ACC free GIS courses, Ghamisi on adversarial attacks.
+    - `Community_Resources` (1): IEEE GRSS events.
+    - `Careers_and_Research` (4): M&E and UN courses, AfDB YPP (closed), Syngenta Madrid (removed), Erasmus webinar.
+    - FBIS-22M, ORBITaL-Net and OpenFACADES indexed on `Benchmark_Datasets.md`.
+  - **Repos:** 9 added; the tracker is now 164. Licensing watch is 42: flowmapper and flowmapblue.R are non-standard, and Delineate-Anything is AGPL-3.0. Also fixed a stray "and" in that paragraph.
+  - **LinkedIn:** 32 posts recorded on `LinkedIn.md`.

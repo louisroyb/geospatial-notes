@@ -5,6 +5,10 @@
 
 ---
 
+- [Spatial Data Management with DuckDB — Qiusheng Wu's book](https://duckdb.gishub.org): LinkedIn post, 3 November 2025, announcing *Spatial Data Management with DuckDB: From SQL Basics to Advanced Geospatial Analytics*, based on his University of Tennessee course ([geog-414](https://geog-414.gishub.org)). It is aimed at GIS analysts, data scientists and spatial developers, and *"all code examples will be freely available on GitHub"*: [giswqs/duckdb-spatial](https://github.com/giswqs/duckdb-spatial) (CC0). *Keywords: DuckDB, spatial SQL, book, GeoParquet, Qiusheng Wu, course*
+  - Source: [LinkedIn post](https://www.linkedin.com/posts/giswqs_table-of-contents-ugcPost-7391097247792263169-vEO4); see [[LinkedIn]].
+  - Related: [[Learning_Resources]], [[Data]], [[Code_Repositories]]
+
 - [GeoSQL — learn PostgreSQL & PostGIS with geoscience data](https://siddhi1991.github.io/GeoSQL-learning/): LinkedIn post by Siddhi Garg, 14 February 2026, on a free interactive tutorial that swaps the usual employee tables for earthquakes, rock samples, mineral deposits, seismic stations and geological formations. It runs from SELECT and joins to PostGIS spatial queries, with an in-browser editor and solutions at each step: *"It is the resource I wish I had when I was learning spatial SQL."* [siddhi1991/GeoSQL-learning](https://github.com/siddhi1991/GeoSQL-learning), no license. *Keywords: PostGIS, spatial SQL, interactive tutorial, geoscience, PostgreSQL, beginners*
   - Source: [LinkedIn post](https://www.linkedin.com/posts/activity-7428585125812174848-h871); see [[LinkedIn]].
   - Related: [[Learning_Resources]]

@@ -9,9 +9,9 @@
 
 The three most recent additions, each from a different topic page.
 
-- [Natural Forests of the World 2020](https://research.google/blog/separating-natural-forests-from-other-tree-cover-with-ai-for-deforestation-free-supply-chains/) — A 10 m global map separating natural forest from plantations for EUDR, at 92% accuracy. On [[Forestry]].
-- [TEMPO](https://aka.ms/ai4g-buildings) — Global building density and height from Planet imagery every three months, released openly by Microsoft AI for Good. On [[Urban_Planning]].
-- [Global land cover maps' accuracy explained](https://landcarbonlab.org/insights/global-land-cover-maps-accuracy-applications/) — WorldCover, Dynamic World, Esri and GLAD compared on 2.1M validation units. On [[Land_Cover]].
+- [Open Building Map](https://tech.marksblogg.com/open-building-map.html) — 2.7 billion buildings merged from Google, OSM and Microsoft, with Mark Litwintschik's Parquet walkthrough. On [[Urban_Planning]].
+- [Delineate Anything](https://huggingface.co/datasets/MykolaL/FBIS-22M) — Resolution-agnostic field boundary instance segmentation and the FBIS-22M dataset. On [[Agriculture]].
+- [Chronos-2](https://huggingface.co/amazon/chronos-2) — Amazon's zero-shot time series foundation model, a candidate for EO time series. On [[Foundation_Models]].
 
 ## Topics
 

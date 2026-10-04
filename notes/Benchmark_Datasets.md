@@ -35,6 +35,9 @@ Datasets are filed on their subject pages; this page gathers the pointers.
 - Trees outside forests (TOFMapper) — hedgerow, individual tree, grove and forest labels on German aerial imagery, CC-BY-4.0 on Zenodo. See [[Forestry]].
 - TreeScanPL10K — 10,417 trees segmented in terrestrial laser scans from 272 Polish plots, about 72% labelled across 30 species. See [[Forestry]].
 - Infra-Bench CLS — 18,756 Sentinel-1/2 chips, 13 critical-infrastructure classes on 7 continents; benchmarks seven EO foundation models. See [[Foundation_Models]].
+- FBIS-22M — the field-boundary instance segmentation dataset behind Delineate Anything. See [[Agriculture]].
+- ORBITaL-Net — 128,270 Maxar VHR chips with building labels across 72 countries. See [[Urban_Planning]].
+- OpenFACADES — 31,180 annotated street-view building images (plus 1.2M auto-labelled) with type, floors, age and material. See [[Urban_Planning]].
 - TinyTrees — 216M individual trees over 25,890 km² of China, Rwanda and France from 3 sensors, for counting rather than crown delineation; ECCV 2026. See [[Forestry]].
 - Trazo — 40,000+ crop field boundaries across 17 South American ecoregions, extending Fields of the World. See [[Agriculture]].
 - SelvaBox — 83,000+ manually labeled tropical tree crowns in 3–10 cm drone imagery. See [[Forestry]].

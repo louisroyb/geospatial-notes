@@ -5,6 +5,9 @@
 
 ---
 
+- [Mundi — Segment Anything on your own GeoTIFFs](https://www.linkedin.com/posts/michael-egan-4941a4145_you-can-now-run-segment-anything-on-your-ugcPost-7389817116499042305-Dl6s): Michael Egan (31 Oct 2025): Mundi's cloud SAM tool for spatial data. *"It runs completely in the cloud so you don't need to download a model or have a GPU, and is already designed to accept GeoTIFFs and output GeoJSONs."* It works on drone or satellite imagery and even scanned zoning maps. The link was in the comments. *Keywords: Segment Anything, cloud GIS, GeoTIFF, GeoJSON, Mundi, no GPU*
+  - See [[LinkedIn]]. The open-source route is SamGeo on [[Foundation_Models]].
+
 - [ETH Zurich Machine Perception — all course material now public](https://ait.ethz.ch/teaching/courses/2025-ss-machine-perception): LinkedIn post by Manuel Kaufmann, 25 November 2025. The 8-ECTS course ran for the last time in spring 2025: *"Upon popular request, we are now making all material publicly available."* Slides, [lecture videos](https://video.ethz.ch/!s/DUF6EA7frcM), Colab notebooks, exercises and a mock exam cover MLPs, CNNs, sequence models, latent-variable models, GANs, autoregressive models, normalising flows, diffusion, NeRFs and 3D reconstruction. *Keywords: deep learning course, ETH Zurich, generative models, diffusion, NeRF, free lectures*
   - Source: [LinkedIn post](https://www.linkedin.com/posts/kaufmanuel_the-spring-semester-2025-was-the-last-time-share-7399079153695883264-djfA); see [[LinkedIn]].
   - Related: [[Learning_Resources]], [[Machine_Learning]]

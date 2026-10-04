@@ -5,6 +5,9 @@
 
 ---
 
+- [WRI Tropical Tree Cover 2020 on Cecil](https://www.linkedin.com/posts/alex-logan-cecil_we-are-happy-to-announce-that-the-world-resources-activity-7389715706084323328-A3C_): Alex Logan (30 Oct 2025): WRI's Tropical Tree Cover datasets are now on the Cecil platform. *"One dataset estimates tree extent probability at 10 m spatial resolution, while the other aggregates this into fractional tree cover at 0.5 ha (~70 m)."* A free account is needed; the link was in the comments. *Keywords: tropical tree cover, WRI, Cecil, 10 m, fractional cover, trees outside forests*
+  - See [[LinkedIn]]. Related: [[Data]]
+
 - [Natural Forests of the World 2020](https://research.google/blog/separating-natural-forests-from-other-tree-cover-with-ai-for-deforestation-free-supply-chains/): Google Research blog post by Maxim Neumann and Charlotte Stanton, 13 November 2025. It introduces a 10 m global map separating natural forest from plantations and other tree cover, as an EUDR 2020 baseline. Treating them alike *"conflates the harvesting of a short-term plantation with the permanent loss of an irreplaceable, biodiversity-rich natural forest."* The model is a multi-modal temporal-spatial ViT (MTSViT), with 92.2% accuracy against independent global validation. Paper: [*Scientific Data*](https://www.nature.com/articles/s41597-025-06097-z); data in Earth Engine and on Figshare. Tooling: [google-deepmind/geeflow](https://github.com/google-deepmind/geeflow) (dataset generation from GEE) and [google-deepmind/jeo](https://github.com/google-deepmind/jeo) (JAX EO training), both Apache-2.0. *Keywords: natural forests, EUDR baseline, plantations, MTSViT, Scientific Data, 10 m*
   - Reached via a shortlink carrying `utm_source=linkedin` (stripped). The Forest Typology 2020 map further up this page extends it to six classes. Related: [[Deep_Learning]], [[Google_Earth_Engine]], [[Code_Repositories]]
 

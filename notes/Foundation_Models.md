@@ -5,6 +5,10 @@
 
 ---
 
+- [Chronos-2 — a zero-shot time series foundation model](https://huggingface.co/amazon/chronos-2): LinkedIn post by George Karypis (Amazon), 30 October 2025: *"a 120M-parameter time series foundation model (TSFM) that offers zero-shot support for univariate, multivariate, and covariate-informed forecasting tasks."* Reported state-of-the-art zero-shot, with a >90% win rate against Chronos-Bolt. [Technical report](https://arxiv.org/abs/2510.15821); [amazon-science/chronos-forecasting](https://github.com/amazon-science/chronos-forecasting), Apache-2.0. Not EO-specific, but a candidate for NDVI, weather or yield series. *Keywords: Chronos-2, time series forecasting, foundation model, zero-shot, Amazon, covariates*
+  - Source: [LinkedIn post](https://www.linkedin.com/posts/karypis_amazonchronos-2-hugging-face-activity-7389760516115582976-5Vp6); see [[LinkedIn]].
+  - The temporal counterpart to TabFM and TabPFN on this page and [[Agriculture]]. Related: [[Machine_Learning]], [[Code_Repositories]]
+
 - [TerraMind.tiny and TerraMind.small](https://philab.esa.int/less-is-more-the-power-of-terramind-in-your-pocket-and-in-space/): LinkedIn post by Marta Curado Avelar (ESA Φ-lab), 21 November 2025. ESA Φ-lab and IBM released lightweight versions of the multimodal TerraMind model (PANGAEA leader) that fine-tune on a CPU or run onboard satellites with little loss: *"anyone with a laptop can fine-tune these models and create new applications to better monitor Earth."* [Models](https://huggingface.co/ibm-esa-geospatial/models). A €1,000 Blue-Sky Challenge ran to January 2026 and has closed. *Keywords: TerraMind, ESA Φ-lab, IBM, small models, onboard AI, fine-tuning*
   - Source: [LinkedIn post](https://www.linkedin.com/posts/marta-curado-avelar-68104a15a_esa-ai4eo-foundationmodels-share-7397593061884768257-oBtd); see [[LinkedIn]].
   - TerraMind embeddings via openEO are on [[Embeddings]]. Related: [[Embeddings]], [[Remote_Sensing]]

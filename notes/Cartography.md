@@ -5,6 +5,15 @@
 
 ---
 
+- [Open science with Quarto, GitHub and flow maps — EDSD workshop](https://www.ekotov.pro/2025-EDSD-open-science-quarto-github/): LinkedIn post by Egor Kotov, 24 October 2025, on teaching European Doctoral School of Demography students to publish reproducible work: *"This year, I made a significant change: I demoed everything in Positron."* Students mapped the [Scholarly Migration Database](https://www.scholarlymigration.org/) as flow maps with [flowmapblue](https://flowmapblue.github.io/flowmapblue.R/) and [flowmapper](https://github.com/JohMast/flowmapper), and published them via GitHub Pages. *Keywords: flow maps, Quarto, reproducibility, R, migration, GitHub Pages*
+  - Source: [LinkedIn post](https://www.linkedin.com/posts/egorkotov_flowmapblue-flowmapper-ugcPost-7387508524765040640-zLP4); see [[LinkedIn]].
+  - Related: [[Learning_Resources]]
+
+- [100 Years of the Institute of Cartography and Geoinformation, ETH Zurich](https://karto.ethz.ch/en/news-events/events/archive/symposium-100-jahre.html): The centenary symposium (4–5 Sep 2025) of *"the oldest academic cartographic institute in the world,"* founded by Eduard Imhof in 1925. Keynotes on cartography in the AI age, cognition, GeoAI, 3D and map generalisation, plus the Prix Carto. Slides and audio are posted. *Keywords: ETH Zurich, cartography history, Eduard Imhof, generalisation, GeoAI, symposium*
+
+- [Ten books for spatial thinkers](https://www.linkedin.com/posts/surabhiguptageo_most-of-us-in-gis-spend-our-days-reading-activity-7392055664103165952-FS10): Surabhi Gupta (6 Nov 2025): *"Most of us in GIS spend our days reading data — not books."* The list includes *Prisoners of Geography* (Marshall), *How to Lie with Maps* (Monmonier), *The Phantom Atlas*, *Unruly Places* and *Strange Maps*; the other five titles were cut off. *Keywords: books, geography, map literacy, Monmonier, reading list, spatial thinking*
+  - See [[LinkedIn]].
+
 - [A Gentle Introduction to GDAL, Part 10 — Python & the command line](https://medium.com/@robsimmon/a-gentle-introduction-to-gdal-part-10-python-the-command-line-d38e89d28636): LinkedIn post by Robert Simmon, 3 December 2025, on the latest part of his series for cartographers: batch-converting with pathlib loops, and generating variations of shaded relief from one DEM. *"You don't need to know any programming, but it's good to know the basics of the command line."* Also his [NACIS 2025 talk](https://youtu.be/QciLfnZnpps). *Keywords: GDAL, shaded relief, Python, command line, batch processing, cartography*
   - Source: [LinkedIn post](https://www.linkedin.com/posts/robert-b-simmon_interested-in-automating-repetitive-mapping-activity-7402047727074746368-BvSt); see [[LinkedIn]].
   - Related: [[Python]], [[Data]]
