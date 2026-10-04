@@ -620,3 +620,5 @@
   - **WhatsApp export complete:** all 735 queue items have been processed.
 
 - 2026-10-05 — *New_Notes.md (4 links: Geospatial ML books)* — All 4 were already in the vault on `Learning_Resources.md`: First Principles of Geospatial Computer Vision (Corley), Geospatial Machine Learning (Robinson), GeoAI with Python (Wu) and the EEFA book. No pages changed; the raw file was archived to `processed/New_Notes_2026-10-05.md`.
+
+- 2026-10-05 — *Reorganisation of Learning_Resources.md* — Regrouped the 100 notes from one flat list into seven format sections, keeping the newest first within each: Books and textbooks (11), Courses (25), Training platforms and catalogues (20), Tutorials and hands-on guides (13), Video lectures and channels (7), Summer schools, workshops and events (2 upcoming, 5 past editions), and Curated lists and roundups (17). Added a jump-to line at the top. No note text was changed. CLAUDE.md now says which section new resources go in.

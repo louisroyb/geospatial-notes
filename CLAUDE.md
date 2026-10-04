@@ -36,6 +36,7 @@ When the user adds a new note to `raw/` and asks you to ingest it
 * Read `notes/index.md` first to find relevant topic pages.
 * If there is no match, a new topic page can be added. See the list of topics below for additional topics of interest.
 * Add a new item to the main topic page. Keeping the newer notes at the top.
+* `notes/Learning_Resources.md` is grouped by format: Books and textbooks, Courses, Training platforms and catalogues, Tutorials and hands-on guides, Video lectures and channels, Summer schools/workshops/events (Upcoming and Past editions), and Curated lists and roundups. File each new resource at the top of the matching section, and move events to Past editions once they end.
 * Add back-links ([[page-name]]) to connect related topics. If the related topic page does not exist, create the page.
 * Update `notes/index.md` with new pages and one-line descriptions.
 * If the note comes from LinkedIn -- a post URL, a clipped post, or a link whose URL carries `utm_source=linkedin` -- also add it to `notes/LinkedIn.md`, recording the author, what it argued, and the topic page the note lives on. Strip tracking parameters from the URL before filing.
