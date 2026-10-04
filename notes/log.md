@@ -618,3 +618,5 @@
   - **Repos:** 7 added; the tracker is now 205. Licensing watch is 56: spectral_earth has no license and bfm-model is non-standard.
   - **LinkedIn:** 22 posts recorded on `LinkedIn.md`.
   - **WhatsApp export complete:** all 735 queue items have been processed.
+
+- 2026-10-05 — *New_Notes.md (4 links: Geospatial ML books)* — All 4 were already in the vault on `Learning_Resources.md`: First Principles of Geospatial Computer Vision (Corley), Geospatial Machine Learning (Robinson), GeoAI with Python (Wu) and the EEFA book. No pages changed; the raw file was archived to `processed/New_Notes_2026-10-05.md`.
