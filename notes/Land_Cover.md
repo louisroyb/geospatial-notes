@@ -5,6 +5,9 @@
 
 ---
 
+- [Esri 10 m Sentinel-2 land cover adds 2024](https://www.linkedin.com/posts/desmond-lartey_esri-has-added-lulc-2024-to-the-sentinel-activity-7351900628656218114-3qO5): Desmond Lartey (Jul 2025): the 2024 layer joins Esri's annual Sentinel-2 LULC series in ArcGIS (*"Esri has Added LULC 2024 to the sentinel 2-10m collection"*). The series is also in Earth Engine via the [sat-io community catalog](https://code.earthengine.google.com/?scriptPath=users/sat-io/awesome-gee-catalog-examples:global-landuse-landcover/ESRI-10M-LANDCOVER). *Keywords: Esri land cover, Sentinel-2, annual LULC, 10 m, Earth Engine, Living Atlas*
+  - See [[LinkedIn]].
+
 - [Supervised land use classification with QGIS, GEE and SVM — a student case study](https://www.linkedin.com/posts/milan-janosov_case-study-ugcPost-7349178124216995840-oYr0): Shared by Milan Janosov (Jul 2025), *"Would you like to see something similar in Python?"* Navodi Jayaratne's [project](https://www.linkedin.com/posts/navodi-jayaratne-45450b275_land-use-mapping-using-remote-sensing-ml-activity-7332272059944787968-xbpd): 60 QField ground-truth points, Landsat 8 signatures from Earth Engine, and an SVM in Colab. The honest results (65% OA, kappa 0.55) make it a useful teaching example. *Keywords: land use classification, SVM, QField, Landsat 8, accuracy assessment, case study*
   - See [[LinkedIn]]. Related: [[Machine_Learning]]
 

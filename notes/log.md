@@ -590,3 +590,31 @@
     - MMEarth indexed on `Benchmark_Datasets.md`.
   - **Repos:** 10 added; the tracker is now 198. Licensing watch is 54: FineCrop and conferences_2026 have no license, MMEarth-train and the IFRC platform are non-standard, lightly-train is AGPL, and MapYourGrid uses CC-BY for code.
   - **LinkedIn:** 28 posts recorded on `LinkedIn.md`.
+- 2026-10-04 — *WhatsApp chat export, batch 15, the last (queue items 701–735, shared 18 May – 19 Jul 2025)* — 35 items: 27 filed, 2 behind the login wall (710, 717), and 6 skipped.
+  - **Skipped:**
+    - 716, 721 and 725: personal, not recorded. These were a community Linktree, a German course and an individual's CV site.
+    - 708: a self-promotional channel post.
+    - 734: a generic GitHub-upload PDF.
+    - 733: a UN Jobs vacancy that is gone, with no archive.
+  - **Merged into existing notes:**
+    - Natural Forests of the World: Neumann's first announcement.
+    - Forest Typology: DeepMind's Jeo, GeeFlow and ForesTypology code.
+    - Hansen GFC: v1.12.
+    - GeoAI: three mid-2025 tutorials.
+    - Wyvern: its public resources repo, including agent skills.
+    - MIT OCW: the two earliest lists.
+  - **Consolidated into single notes:** Wu's Introduction to GIS Programming (draft and final TOC).
+  - **New notes:**
+    - `Forestry` (1): CTrees Amazon canopy height.
+    - `Remote_Sensing` (3): Tanager open data, free high-res imagery programmes, no-code GeoAI tools.
+    - `Foundation_Models` (2): SpectralEarth, BioAnalyst.
+    - `Land_Cover` (1): Esri LULC 2024.
+    - `Google_Earth_Engine` (1): openMRV compositing.
+    - `Deep_Learning` (1): Geo-SAM.
+    - `Python` (1): Introduction to GIS Programming.
+    - `Learning_Resources` (5): EOPF 101, IHE Delft, the environmental GIS StoryMaps course, five certificate courses, the Yale EDS certificate (cycle closed).
+    - `Careers_and_Research` (2): research-skills courses, Impact Source.
+    - SpectralEarth indexed on `Benchmark_Datasets.md`.
+  - **Repos:** 7 added; the tracker is now 205. Licensing watch is 56: spectral_earth has no license and bfm-model is non-standard.
+  - **LinkedIn:** 22 posts recorded on `LinkedIn.md`.
+  - **WhatsApp export complete:** all 735 queue items have been processed.

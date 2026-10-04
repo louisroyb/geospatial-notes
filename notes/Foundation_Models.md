@@ -5,6 +5,14 @@
 
 ---
 
+- [SpectralEarth — hyperspectral foundation models at scale](https://geoservice.dlr.de/web/datasets/enmap_spectralearth): LinkedIn post by Xiaoxiang Zhu, June 2025, on *"the largest and most comprehensive global hyperspectral dataset to date, designed to support training EO foundation models"*: 538,974 patches from 11,636 EnMAP scenes over 415,153 locations. MoCo-v2, DINO and MAE models with spectral adapters are tested on nine benchmarks ([*JSTARS*](https://doi.org/10.1109/JSTARS.2025.3581451)). Code: [AABNassim/spectral_earth](https://github.com/AABNassim/spectral_earth) (no license). *Keywords: hyperspectral, EnMAP, pretraining dataset, self-supervised, spectral adapters, DLR*
+  - Source: [LinkedIn post](https://www.linkedin.com/posts/xiaoxiang-zhu-90b473228_spectralearth-ai4eo-remotesensing-ugcPost-7342179715513733120-5fK-); see [[LinkedIn]].
+  - Related: [[Remote_Sensing]], [[Benchmark_Datasets]]
+
+- [BioAnalyst — a foundation model for European biodiversity](https://arxiv.org/abs/2507.09080): LinkedIn post by Taimur Khan, 16 July 2025 (BioDT project): *"BioAnalyst introduces a first-of-a-kind multimodal foundation model tailored for biodiversity analysis and conservation planning in Europe at 0,25° spatial resolution."* It is pretrained on species occurrences, RS indicators and climate, beats Aurora in data-scarce settings, and is applied to SDMs, invasives and trends. Open [weights](https://huggingface.co/BioDT/bfm-pretrained), [code](https://github.com/BioDT/bfm-model) and [BioCube](https://huggingface.co/datasets/BioDT/BioCube). *Keywords: biodiversity, foundation model, species distribution, BioDT, Europe, Aurora*
+  - Source: [LinkedIn post](https://www.linkedin.com/posts/taimur-h-khan_biodt-activity-7351216595836248064-ubyT); see [[LinkedIn]].
+  - Related: [[Climate_Change]]
+
 - [DINOv3 — Meta's self-supervised vision backbone, tested on EO](https://ai.meta.com/dinov3/): Meta's August 2025 release ([arXiv 2508.10104](https://arxiv.org/abs/2508.10104)) scales self-supervised training to 7B parameters on 1.7B images, giving a frozen backbone for detection, depth and segmentation. Land & Carbon Lab's [John Brandt](https://www.linkedin.com/posts/johnmbrandt_computervision-geospatialai-earthobservation-ugcPost-7361798310879207424-CR3m) reported the geospatial results: *"A web-trained DINOv3 encoder ranks #1 on 10/12 GEO-Bench tasks with no satellite-specific pretraining, no backbone fine-tuning, and RGB-only inputs for Sentinel-2 and Landsat."* A satellite variant sets a new state of the art on Open-Canopy canopy height. [facebookresearch/dinov3](https://github.com/facebookresearch/dinov3) (custom license). *Keywords: DINOv3, self-supervised, vision backbone, GEO-Bench, canopy height, Meta*
   - Its geospatial uses: CHMv2 and restoration monitoring on [[Forestry]], one-click similarity in GeoAI on [[Deep_Learning]], and browser demos in geoai.js on [[Embeddings]]. See [[LinkedIn]].
 

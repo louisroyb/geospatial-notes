@@ -117,6 +117,12 @@
 - [3DForEcoTech virtual mobility grants](https://3dforecotech.eu/activities/virtual-mobility-call/): COST Action CA20118 offered €1,500 for 2–3 weeks of remote work on forest 3D ecology tech (dissemination, algorithms, impact). **Closed end of September 2025.** *Keywords: COST Action, virtual mobility, forest LiDAR, grants, 3D ecology, closed*
   - Related: [[Forestry]]
 
+- [20 free courses to become a research scientist](https://www.linkedin.com/posts/drasadnaveed_become-a-research-scientist-by-spending-0-activity-7339276966010765313-qBEp): Asad Naveed (Jun 2025): *"Here are 20 courses you can audit for FREE to boost your research skills today"*. They include Harvard's [Statistics and R](https://pll.harvard.edu/course/statistics-and-r), [How to Write and Publish a Scientific Paper](https://www.coursera.org/learn/how-to-write-a-scientific-paper), Stanford's [Writing in the Sciences](https://www.coursera.org/learn/sciwrite) and [systematic reviews](https://www.coursera.org/learn/systematic-review), plus grant writing. *Keywords: research skills, scientific writing, statistics, systematic reviews, free courses, PhD*
+  - See [[LinkedIn]].
+
+- [Remote social-impact jobs — Impact Source](https://www.linkedin.com/posts/nicholascmartin_whos-looking-for-remote-work-in-the-social-activity-7351249327731761153-Lvr8): Nick Martin (TechChange, Jul 2025) promotes a job board scraping about 100 social-impact organisations' career pages (4,400+ roles, salary search): *"Who's looking for REMOTE WORK in the SOCIAL IMPACT sector?"* Not geospatial. *Keywords: remote jobs, social impact, job board, NGOs, TechChange, careers*
+  - See [[LinkedIn]].
+
 ## Elsewhere in these notes
 
 - A PhD vacancy on multi-decade forest canopy height (UZH, now taken down) is on [[Forestry]].

@@ -5,6 +5,9 @@
 
 ---
 
+- [Introduction to GIS Programming — Qiusheng Wu's book](https://gispro.gishub.org): Two LinkedIn posts (June 2025): the [draft TOC](https://www.linkedin.com/posts/giswqs_introduction-to-gis-programming-table-of-ugcPost-7336133890811551744-Kpn7), *"building on the open-access materials I developed at the University of Tennessee"*, and the [final TOC](https://www.linkedin.com/posts/giswqs_table-of-content-for-the-intro-to-gis-programming-activity-7341994518394658816-gVpZ), ending with distributed computing on Apache Sedona. It is now published with a print edition; the code is at [giswqs/intro-gispro](https://github.com/giswqs/intro-gispro) (CC0) and there is a [video series](https://tinyurl.com/intro-gispro-videos). *Keywords: GIS programming, Python, book, Apache Sedona, open source, Qiusheng Wu*
+  - Its companion books (DuckDB, GeoAI) are on [[SQL]] and [[Learning_Resources]]. Related: [[Code_Repositories]]
+
 - [ArcGIS Online with Python, GeoPandas and Folium](https://youtu.be/UzbR-sQa3_4): Tek Kshetri ([Jul 2025](https://www.linkedin.com/posts/iamtekson_arcgis-python-geopandas-activity-7356488777168547841-SRKk)): *"I show how to integrate the ArcGIS API for Python with some of my favorite geospatial libraries – GeoPandas, Folium, and Matplotlib."* *Keywords: ArcGIS API for Python, ArcGIS Online, GeoPandas, Folium, automation, tutorial*
   - See [[LinkedIn]]. Related: [[Geospatial_Platforms]]
 

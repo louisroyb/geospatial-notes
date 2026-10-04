@@ -5,6 +5,9 @@
 
 ---
 
+- [openMRV: Landsat and Sentinel-2 composites in Earth Engine](https://open-mrv.readthedocs.io/en/latest/image_composite_Web.html): Open-MRV module 1.1 builds national cloud-free composites (Colombia 2019) from Landsat 7/8 SR and Sentinel-2 L2A, using QA masking, median and medoid compositing, focal-mean gap filling and cross-sensor band harmonisation. The [openmrv.org page](https://openmrv.org/web/guest/w/modules/mrv/modules_1/image-mosaic-composite-creation-for-landsat-and-sentinel-2-in-google-earth-engine) now renders empty; use the readthedocs mirror. *Keywords: compositing, medoid, Landsat, Sentinel-2, MRV, Earth Engine*
+  - Related: [[Forestry]]
+
 - [Pick the clearest Sentinel-2 image instead of a median](https://www.linkedin.com/posts/mohamed-el-mahdi_remotesensing-earthobservation-googleearthengine-activity-7364944518476967937-rrOF): Mohamed El Mahdi (Aug 2025) shares a [GEE script](https://code.earthengine.google.com/c4e04906bfacf9be1c080d5e9ea76c93) that joins S2 SR with S2 Cloud Probability, ranks scenes by mean cloud probability and exports the best one at 10 m: *"Instead of a standard median composite (which often blurs details), this code automatically selects the best-quality image based on cloud probability."* *Keywords: Sentinel-2, cloud probability, image selection, compositing, Earth Engine, script*
   - Related: an [explainer on geemap](https://www.linkedin.com/posts/godwin-murithi-847830138_geemap-powering-geospatial-analysis-activity-7363902344301862912-YnJV) (Godwin Murithi, Aug 2025), *"the Python API lacked strong visualization tools"*, covering JS-to-Python conversion, exports, timelapses and split maps. [geemap.org](https://geemap.org).
   - See [[LinkedIn]].

@@ -41,6 +41,7 @@ Datasets are filed on their subject pages; this page gathers the pointers.
 - CropGlobe — 300,000 crop-type samples across 8 countries and 5 continents, for testing transfer. See [[Agriculture]].
 - Kenya Helmets Labeling Crops — 4,925 street-level crop-type validation points. See [[Agriculture]].
 - MMEarth — 1.2M locations with 12 aligned modalities, for multi-modal pretraining. See [[Foundation_Models]].
+- SpectralEarth — 538,974 EnMAP hyperspectral patches for pretraining, plus nine downstream benchmarks. See [[Foundation_Models]].
 - TinyTrees — 216M individual trees over 25,890 km² of China, Rwanda and France from 3 sensors, for counting rather than crown delineation; ECCV 2026. See [[Forestry]].
 - Trazo — 40,000+ crop field boundaries across 17 South American ecoregions, extending Fields of the World. See [[Agriculture]].
 - SelvaBox — 83,000+ manually labeled tropical tree crowns in 3–10 cm drone imagery. See [[Forestry]].

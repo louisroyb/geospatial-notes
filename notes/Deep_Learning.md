@@ -5,6 +5,9 @@
 
 ---
 
+- [Geo-SAM — one-click digitising in QGIS](https://youtu.be/na0un9DHxD8): An Open Source Options video (Jul 2025) on the [Geo-SAM plugin](https://geo-sam.readthedocs.io/en/latest/installation.html), which pre-encodes imagery with Segment Anything so features can be digitised in a few clicks: *"Install and use the QGIS Geo-SAM plugin to digitize features in just one click!"* [coolzhao/Geo-SAM](https://github.com/coolzhao/Geo-SAM), MIT. *Keywords: Geo-SAM, Segment Anything, QGIS, digitising, plugin, segmentation*
+  - Related: [[Foundation_Models]], [[Code_Repositories]]
+
 - [GeoPatch — patches and labels for EO deep learning](https://github.com/Hejarshahabi/GeoPatch): LinkedIn post by Hejar Shahabi, 28 July 2025: cut rasters and labels into training patches for segmentation and YOLO detection, and stitch predictions back with their CRS: *"GeoPatch simplifies the process of preparing satellite imagery and labels for semantic segmentation and object detection tasks."* `pip install GeoPatch`; MIT; built on the author's GDAL-free TerraTiff. **Caveat:** the post announces v1.3 with a shapefile-label method, but [PyPI](https://pypi.org/project/GeoPatch/) tops out at 1.2.9 and the README now asks for raster labels. *Keywords: patch generation, training data, YOLO, segmentation, GeoTIFF, Python*
   - Source: [LinkedIn post](https://www.linkedin.com/posts/hejarshahabi_geopatch-remotesensing-yolo-activity-7355631140214374402-UEw6); see [[LinkedIn]].
   - Related: [[Python]], [[Code_Repositories]]
@@ -61,6 +64,10 @@
   - Related: [[Python]], [[Foundation_Models]], [[Benchmark_Datasets]]
 
 - [GeoAI plugin for QGIS](https://plugins.qgis.org/plugins/geoai/#plugin-about): GeoAI plugin for QGIS providing AI-powered geospatial analysis including tree segmentation (DeepForest), water segmentation (OmniWaterMask), Moondream vision-language model, Segment Anything (SAM1/SAM2/SAM3), semantic segmentation, and instance segmentation (Mask R-CNN). Created by Qiusheng Wu and maintained as giswqs, version 1.7.0 released July 2026, for QGIS 3.28 through 4.99. DeepForest covers tree crowns and also birds, livestock, nests and dead trees; SAM supports text, point and box prompts; semantic segmentation takes custom U-Net, DeepLabV3+ or FPN models. Needs the geoai-py package and PyTorch, with a built-in dependency installer that detects NVIDIA CUDA or Apple MPS. Repository: [opengeos/geoai](https://github.com/opengeos/geoai). *Keywords: QGIS plugin, DeepForest, Segment Anything, Moondream, Mask R-CNN, Qiusheng Wu*
+  - **Mid-2025 GeoAI tutorials** (Wu):
+    - [One-line land cover training](https://www.linkedin.com/posts/giswqs_geoai-geoai-geospatial-activity-7341547634878210048-fYI_) with any segmentation_models_pytorch encoder ([notebook](https://opengeoai.org/examples/train_landcover_classification)).
+    - [Tutorial 20, image chips from many images and masks](https://www.linkedin.com/posts/giswqs_geoai-geospatial-ai-activity-7348366965935091714-x6vG) ([notebook](https://opengeoai.org/examples/image_tiling)).
+    - [Tutorial 22, batch water segmentation](https://www.linkedin.com/posts/giswqs_geoai-tutorial-22-batch-segmentation-activity-7348460408585744384-aRRh) ([notebook](https://opengeoai.org/examples/batch_segmentation)).
   - **More GeoAI package posts from Qiusheng Wu, Sept–Oct 2025**:
     - A [beginner video](https://www.linkedin.com/posts/giswqs_geoai-pythonai-satelliteimagery-activity-7379860491571208192-Ftk0) on detecting buildings, trees, pools and solar panels: *"No deep learning background needed."*
     - The [TNView 2025 workshop recording](https://www.linkedin.com/posts/giswqs_geospatial-geoai-ai-activity-7372325205249269761-wbAm) ([video](https://youtu.be/jdK-cleFUkc), [notebook](https://opengeoai.org/workshops/TNView_2025)), which covers segmentation from preprocessing to interactive results.

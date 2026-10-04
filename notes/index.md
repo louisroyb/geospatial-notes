@@ -9,9 +9,9 @@
 
 The three most recent additions, each from a different topic page.
 
-- [DINOv3](https://ai.meta.com/dinov3/) — Meta's web-trained backbone tops 10 of 12 GEO-Bench tasks with RGB only. On [[Foundation_Models]].
-- [Smallholder field inventories in Mozambique](https://doi.org/10.48550/arXiv.2507.10499) — 21M fields from 1.5 m SPOT, and why field delineation fails without VHR. On [[Agriculture]].
-- [Global 30 m GPP](https://landcarbonlab.org/insights/global-productivity-data-ecosystem-health) — bi-monthly gross primary productivity, 2000–2024. On [[Climate_Change]].
+- [Amazon canopy height at ~5 m](https://registry.opendata.aws/ctrees-amazon-canopy-height/) — CTrees' NICFI-based height map for 2020–2024 on AWS. On [[Forestry]].
+- [SpectralEarth](https://geoservice.dlr.de/web/datasets/enmap_spectralearth) — the largest hyperspectral pretraining dataset, built from EnMAP. On [[Foundation_Models]].
+- [EOPF 101](https://eopf-toolkit.github.io/eopf-101/) — an open guide to cloud-native Sentinel data with Zarr and STAC. On [[Learning_Resources]].
 
 ## Topics
 

@@ -9,6 +9,28 @@ Posts shared as links from the mobile app arrive with `utm_*` and `rcm` tracking
 
 | Item | Author | Kind | Filed under |
 |---|---|---|---|
+| [Tanager hyperspectral open data](https://www.linkedin.com/posts/planet-labs_hyperspectral-datasets-have-arrived-for-activity-7352086819313709057-MbJX) | Planet | Feed post, shared link | [[Remote_Sensing]] |
+| [Esri LULC 2024](https://www.linkedin.com/posts/desmond-lartey_esri-has-added-lulc-2024-to-the-sentinel-activity-7351900628656218114-3qO5) | Desmond Lartey | Feed post, shared link | [[Land_Cover]] |
+| [Remote social-impact jobs](https://www.linkedin.com/posts/nicholascmartin_whos-looking-for-remote-work-in-the-social-activity-7351249327731761153-Lvr8) | Nick Martin | Feed post, shared link | [[Careers_and_Research]] |
+| [EOPF 101](https://www.linkedin.com/posts/development-seed_now-live-eopf-101-a-hands-on-open-guide-activity-7351324504817627137-b-ye) | Development Seed | Feed post, shared link | [[Learning_Resources]] |
+| [BioAnalyst](https://www.linkedin.com/posts/taimur-h-khan_biodt-activity-7351216595836248064-ubyT) | Taimur Khan | Feed post, shared link | [[Foundation_Models]] |
+| [IHE Delft free GIS courses](https://www.linkedin.com/posts/samuel-akande-b1b66851_course-qgis-for-precision-agriculture-activity-7349289897167306752-ft73) | Samuel Akande | Feed post, shared link | [[Learning_Resources]] |
+| [GeoAI tutorial 20](https://www.linkedin.com/posts/giswqs_geoai-geospatial-ai-activity-7348366965935091714-x6vG) | Qiusheng Wu | Feed post, shared link | [[Deep_Learning]] |
+| [GeoAI tutorial 22](https://www.linkedin.com/posts/giswqs_geoai-tutorial-22-batch-segmentation-activity-7348460408585744384-aRRh) | Qiusheng Wu | Feed post, shared link | [[Deep_Learning]] |
+| [Natural forests 2020 map](https://www.linkedin.com/posts/maximneumann_eudr-googleearthengine-lps2025-activity-7341448524015755265-h_QP) | Maxim Neumann | Feed post, shared link | [[Forestry]] |
+| [Free high-res imagery](https://www.linkedin.com/posts/rahul-shah12k_remotesensing-geospatial-earthobservation-activity-7344428396656963586-Ty3f) | Rahul Shah | Feed post, shared link | [[Remote_Sensing]] |
+| [5 no-code GeoAI tools](https://www.linkedin.com/posts/%C5%BCanetapiasecka_geoai-remotesensing-urbantech-activity-7343720467490336769-Jl2e) | Żaneta Piasecka | Feed post, shared link | [[Remote_Sensing]] |
+| [SpectralEarth](https://www.linkedin.com/posts/xiaoxiang-zhu-90b473228_spectralearth-ai4eo-remotesensing-ugcPost-7342179715513733120-5fK-) | Xiaoxiang Zhu | Feed post, shared link | [[Foundation_Models]] |
+| [Intro to GIS Programming final TOC](https://www.linkedin.com/posts/giswqs_table-of-content-for-the-intro-to-gis-programming-activity-7341994518394658816-gVpZ) | Qiusheng Wu | Feed post, shared link | [[Python]] |
+| [GeoAI land cover in one line](https://www.linkedin.com/posts/giswqs_geoai-geoai-geospatial-activity-7341547634878210048-fYI_) | Qiusheng Wu | Feed post, shared link | [[Deep_Learning]] |
+| [Free MIT courses (5)](https://www.linkedin.com/posts/africans-in-environmental-science_introduction-to-spatial-analysis-urban-activity-7340437672512929793-nYDR) | Africans in Environmental Science | Feed post, shared link | [[Learning_Resources]] |
+| [Free MIT courses (8)](https://www.linkedin.com/posts/africans-in-environmental-science_introduction-to-r-and-geographic-information-activity-7338650424041709568-9juY) | Africans in Environmental Science | Feed post, shared link | [[Learning_Resources]] |
+| [20 free research courses](https://www.linkedin.com/posts/drasadnaveed_become-a-research-scientist-by-spending-0-activity-7339276966010765313-qBEp) | Asad Naveed | Feed post, shared link | [[Careers_and_Research]] |
+| [Intro to GIS Programming draft TOC](https://www.linkedin.com/posts/giswqs_introduction-to-gis-programming-table-of-ugcPost-7336133890811551744-Kpn7) | Qiusheng Wu | Feed post, shared link | [[Python]] |
+| [Jeo, GeeFlow, ForesTypology](https://www.linkedin.com/posts/maximneumann_github-google-deepmindjeo-jeo-jax-model-activity-7336087758840418305-GkRw) | Maxim Neumann | Feed post, shared link | [[Forestry]] |
+| [Amazon canopy height on AWS](https://www.linkedin.com/posts/fabien-wagner-6a0699164_amazonrainforest-remotesensing-opendata-activity-7335553337834045441-qkIN) | Fabien Wagner | Feed post, shared link | [[Forestry]] |
+| [Hansen GFC v1.12](https://www.linkedin.com/posts/sasha-tyukavina_hansen-global-forest-change-v112-2000-2024-activity-7335703303953006592-BR7Q) | Sasha Tyukavina | Feed post, shared link | [[Forestry]] |
+| [Free GIS courses with certificates](https://www.linkedin.com/posts/prince-suthar-79552428a_gis-qgis-arcgis-activity-7329389362230558720-wV7K) | Prince Suthar | Feed post, shared link | [[Learning_Resources]] |
 | [Global 30 m GPP](https://www.linkedin.com/posts/opengeohub_the-importance-of-annual-and-bi-monthly-gpp-ugcPost-7364574741212327936-xJAT) | OpenGeoHub | Feed post, shared link | [[Climate_Change]] |
 | [GeoFMs on AWS](https://www.linkedin.com/posts/cooperrow_revolutionizing-earth-observation-with-geospatial-activity-7364413771949187072-JyId) | Phil Cooper | Feed post, shared link | [[Foundation_Models]] |
 | [TESSERA introduction](https://www.linkedin.com/posts/activity-7363873774787575808-aNDg) | Madeline Lisaius | Feed post, shared link | [[Embeddings]] |
@@ -537,6 +559,28 @@ Posts shared as links from the mobile app arrive with `utm_*` and `rcm` tracking
 
 ## Posts
 
+- **[Tanager hyperspectral open data](https://www.linkedin.com/posts/planet-labs_hyperspectral-datasets-have-arrived-for-activity-7352086819313709057-MbJX)** — Planet: 50+ radiance datasets on STAC. Note on [[Remote_Sensing]].
+- **[Esri LULC 2024](https://www.linkedin.com/posts/desmond-lartey_esri-has-added-lulc-2024-to-the-sentinel-activity-7351900628656218114-3qO5)** — Desmond Lartey: the 10 m Sentinel-2 series extended. Note on [[Land_Cover]].
+- **[Remote social-impact jobs](https://www.linkedin.com/posts/nicholascmartin_whos-looking-for-remote-work-in-the-social-activity-7351249327731761153-Lvr8)** — Nick Martin: the Impact Source job board. Note on [[Careers_and_Research]].
+- **[EOPF 101](https://www.linkedin.com/posts/development-seed_now-live-eopf-101-a-hands-on-open-guide-activity-7351324504817627137-b-ye)** — Development Seed: cloud-native Sentinel with Zarr. Note on [[Learning_Resources]].
+- **[BioAnalyst](https://www.linkedin.com/posts/taimur-h-khan_biodt-activity-7351216595836248064-ubyT)** — Taimur Khan: a biodiversity foundation model. Note on [[Foundation_Models]].
+- **[IHE Delft free GIS courses](https://www.linkedin.com/posts/samuel-akande-b1b66851_course-qgis-for-precision-agriculture-activity-7349289897167306752-ft73)** — Samuel Akande: five certificate courses. Note on [[Learning_Resources]].
+- **[GeoAI tutorial 20](https://www.linkedin.com/posts/giswqs_geoai-geospatial-ai-activity-7348366965935091714-x6vG)** — Qiusheng Wu: image chips in one line. Note on [[Deep_Learning]].
+- **[GeoAI tutorial 22](https://www.linkedin.com/posts/giswqs_geoai-tutorial-22-batch-segmentation-activity-7348460408585744384-aRRh)** — Qiusheng Wu: batch segmentation. Note on [[Deep_Learning]].
+- **[Natural forests 2020 map](https://www.linkedin.com/posts/maximneumann_eudr-googleearthengine-lps2025-activity-7341448524015755265-h_QP)** — Maxim Neumann: one global model at 10 m. Note on [[Forestry]].
+- **[Free high-res imagery](https://www.linkedin.com/posts/rahul-shah12k_remotesensing-geospatial-earthobservation-activity-7344428396656963586-Ty3f)** — Rahul Shah: Planet, Maxar and Wyvern programmes. Note on [[Remote_Sensing]].
+- **[5 no-code GeoAI tools](https://www.linkedin.com/posts/%C5%BCanetapiasecka_geoai-remotesensing-urbantech-activity-7343720467490336769-Jl2e)** — Żaneta Piasecka: no Python required. Note on [[Remote_Sensing]].
+- **[SpectralEarth](https://www.linkedin.com/posts/xiaoxiang-zhu-90b473228_spectralearth-ai4eo-remotesensing-ugcPost-7342179715513733120-5fK-)** — Xiaoxiang Zhu: hyperspectral FMs from EnMAP. Note on [[Foundation_Models]].
+- **[Intro to GIS Programming final TOC](https://www.linkedin.com/posts/giswqs_table-of-content-for-the-intro-to-gis-programming-activity-7341994518394658816-gVpZ)** — Qiusheng Wu: the book's last chapter on Sedona. Note on [[Python]].
+- **[GeoAI land cover in one line](https://www.linkedin.com/posts/giswqs_geoai-geoai-geospatial-activity-7341547634878210048-fYI_)** — Qiusheng Wu: any smp model. Note on [[Deep_Learning]].
+- **[Free MIT courses (5)](https://www.linkedin.com/posts/africans-in-environmental-science_introduction-to-spatial-analysis-urban-activity-7340437672512929793-nYDR)** — Africans in Environmental Science: adds GPS courses. Note on [[Learning_Resources]].
+- **[Free MIT courses (8)](https://www.linkedin.com/posts/africans-in-environmental-science_introduction-to-r-and-geographic-information-activity-7338650424041709568-9juY)** — Africans in Environmental Science: the first list. Note on [[Learning_Resources]].
+- **[20 free research courses](https://www.linkedin.com/posts/drasadnaveed_become-a-research-scientist-by-spending-0-activity-7339276966010765313-qBEp)** — Asad Naveed: research skills for $0. Note on [[Careers_and_Research]].
+- **[Intro to GIS Programming draft TOC](https://www.linkedin.com/posts/giswqs_introduction-to-gis-programming-table-of-ugcPost-7336133890811551744-Kpn7)** — Qiusheng Wu: a book from GEOG-312. Note on [[Python]].
+- **[Jeo, GeeFlow, ForesTypology](https://www.linkedin.com/posts/maximneumann_github-google-deepmindjeo-jeo-jax-model-activity-7336087758840418305-GkRw)** — Maxim Neumann: DeepMind's open EO code. Note on [[Forestry]].
+- **[Amazon canopy height on AWS](https://www.linkedin.com/posts/fabien-wagner-6a0699164_amazonrainforest-remotesensing-opendata-activity-7335553337834045441-qkIN)** — Fabien Wagner: ~5 m height from NICFI. Note on [[Forestry]].
+- **[Hansen GFC v1.12](https://www.linkedin.com/posts/sasha-tyukavina_hansen-global-forest-change-v112-2000-2024-activity-7335703303953006592-BR7Q)** — Sasha Tyukavina: 2024 tree cover loss. Note on [[Forestry]].
+- **[Free GIS courses with certificates](https://www.linkedin.com/posts/prince-suthar-79552428a_gis-qgis-arcgis-activity-7329389362230558720-wV7K)** — Prince Suthar: five platforms. Note on [[Learning_Resources]].
 - **[Global 30 m GPP](https://www.linkedin.com/posts/opengeohub_the-importance-of-annual-and-bi-monthly-gpp-ugcPost-7364574741212327936-xJAT)** — OpenGeoHub: bi-monthly productivity, 2000–2024. Note on [[Climate_Change]].
 - **[GeoFMs on AWS](https://www.linkedin.com/posts/cooperrow_revolutionizing-earth-observation-with-geospatial-activity-7364413771949187072-JyId)** — Phil Cooper: start with data preparation. Note on [[Foundation_Models]].
 - **[TESSERA introduction](https://www.linkedin.com/posts/activity-7363873774787575808-aNDg)** — Madeline Lisaius: more inputs isn't better. Note on [[Embeddings]].

@@ -5,6 +5,16 @@
 
 ---
 
+- [Planet Tanager-1 hyperspectral open data](https://www.planet.com/pulse/unleash-the-power-of-hyperspectral-over-50-tanager-radiance-datasets-now-available-on-planet-s/): LinkedIn post by Planet, 18 July 2025: *"For the first time, explore over 50 basic radiance datasets from our Tanager-1 satellite on our Planet Labs - Open Data STAC."* About 5 nm resolution across 380–2500 nm, CC BY 4.0. *Keywords: hyperspectral, Tanager, Planet, open data, STAC, VSWIR*
+  - Source: [LinkedIn post](https://www.linkedin.com/posts/planet-labs_hyperspectral-datasets-have-arrived-for-activity-7352086819313709057-MbJX); see [[LinkedIn]].
+  - Related: [[Data]]
+
+- [Free and low-cost high-resolution imagery](https://www.linkedin.com/posts/rahul-shah12k_remotesensing-geospatial-earthobservation-activity-7344428396656963586-Ty3f): Rahul Shah (Jun 2025): [Planet's Education & Research Program](https://www.planet.com/science/) (3 m PlanetScope), the [Maxar Open Data Program](https://www.maxar.com/open-data) (disaster imagery, CC) and [Wyvern open data](https://wyvern.space/open-data/) (5 m hyperspectral): *"You don't always need a big budget to get powerful satellite imagery."* *Keywords: high-resolution imagery, Planet, Maxar, Wyvern, open data, research access*
+  - See [[LinkedIn]]. Related: [[Data]]
+
+- [Five no-code GeoAI tools](https://www.linkedin.com/posts/%C5%BCanetapiasecka_geoai-remotesensing-urbantech-activity-7343720467490336769-Jl2e): Żaneta Piasecka (Jun 2025): [Detectree](https://detectree.ai) for trees, ESA's [FireAI](https://eo4society.esa.int/projects/fire-ai/) for wildfire risk, FAO's [EarthMap](https://earthmap.org), URBAN-i street segmentation (repo now gone) and [REMAP](https://remap-app.org) for land cover: *"You don't need to be an AI expert to work with satellites and geodata."* *Keywords: no-code, GeoAI tools, EarthMap, REMAP, wildfire risk, tree detection*
+  - See [[LinkedIn]]. Related: [[Geospatial_Platforms]]
+
 - [Hyperspectral Imaging Open Ecosystem — Yale](https://hsi.yale.edu/): An NSF-funded portal (PI Holly Rushmeier, with RIT, UMass and Wisconsin) for hyperspectral datasets, code, tools, [tutorials](https://hsi.yale.edu/tutorials) and a [dashboard](https://hsi.yale.edu/hsi-dashboard) of remote sensing scenes, with benchmark leaderboards: *"providing access to data, software, tutorials and case studies for using hyperspectral imaging across a wide range of applications."* *Keywords: hyperspectral, open data, benchmarks, NSF POSE, tutorials, spectral libraries*
   - Related: [[Data]], [[Learning_Resources]]
 
@@ -56,6 +66,7 @@
 
 - [HyperCoast QGIS plugin — hyperspectral made easy](https://hypercoast.org): LinkedIn post by Qiusheng Wu, 11 December 2025, on a QGIS plugin for the HyperCoast package that opens and inspects hyperspectral data from AVIRIS, NEON, PACE, EMIT, DESIS, PRISMA and EnMAP (plus ECOSTRESS): *"HyperCoast supports the reading and visualization of hyperspectral data from various missions."* [Video](https://youtu.be/RxDUcfv-vBc); [opengeos/HyperCoast](https://github.com/opengeos/HyperCoast), MIT. *Keywords: hyperspectral, HyperCoast, EMIT, PACE, EnMAP, QGIS plugin*
   - **Wyvern's open hyperspectral data** ([Wu, 27 Oct 2025](https://www.linkedin.com/posts/giswqs_wyvern-hyperspectral-remotesensing-activity-7388564707634327552-adxb); [notebook](https://hypercoast.org/examples/wyvern)): handling gigabyte-scale [Wyvern open data](https://wyvern.space/open-data) in Python and Xarray to *"explore spectral signatures, analyze environmental features like vegetation, water, and urban areas, and export data for classification."*
+  - **Wyvern's own resources** ([Nrevyw/wyvern-public-resources](https://github.com/Nrevyw/wyvern-public-resources), MIT): TOA-to-reflectance processing, plotting notebooks, spectral response curves, a hyperspectral index library, and new "Agent Skills" that teach AI coding agents to find and analyse Wyvern data. *"Public repository for tutorials, examples, and useful tools for working with Wyvern Hyperspectral Data."*
   - Source: [LinkedIn post](https://www.linkedin.com/posts/giswqs_geospatial-opensource-hyperspectral-activity-7404964482575192066-XTV3); see [[LinkedIn]].
   - Pairs with the HYPERedu EnMAP courses on [[Learning_Resources]]. Related: [[Climate_Change]], [[Code_Repositories]]
 
