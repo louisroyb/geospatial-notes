@@ -5,6 +5,8 @@
 
 ---
 
+- [Apertus — Switzerland's fully open multilingual LLM](https://ethz.ch/en/news-and-events/eth-news/news/2025/09/press-release-apertus-a-fully-open-transparent-multilingual-language-model.html): EPFL, ETH Zurich and CSCS (Sept 2025) released 8B and 70B models trained on 15T tokens in 1,000+ languages under a permissive open license covering research, education and commercial use, trained on the CSCS Alps supercomputer. *"Apertus is built for the public good."* On [Hugging Face](https://huggingface.co/collections/swiss-ai/apertus-llm-68b699e65415c231ace3b059). Not geospatial. *Keywords: open LLM, Apertus, Swiss AI, multilingual, transparency, CSCS*
+
 - [MapAnything — universal feed-forward metric 3D reconstruction](https://map-anything.github.io): Meta Reality Labs and CMU (3DV 2026, [arXiv 2509.13414](https://arxiv.org/abs/2509.13414)). One transformer takes one or many images, plus optional intrinsics, poses or depth, and outputs metric 3D geometry and cameras, covering SfM, MVS, monocular depth and localisation. *"MapAnything leverages a factored representation of multi-view scene geometry, i.e., a collection of depth maps, local ray maps, camera poses, and a metric scale factor."* [facebookresearch/map-anything](https://github.com/facebookresearch/map-anything), Apache-2.0. *Keywords: 3D reconstruction, photogrammetry, multi-view stereo, depth, Meta, transformer*
   - Related: [[Foundation_Models]], [[Code_Repositories]]
 

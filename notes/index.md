@@ -9,9 +9,9 @@
 
 The three most recent additions, each from a different topic page.
 
-- [Invariant features for global crop type classification](https://arxiv.org/abs/2509.03497) — Sentinel-2 crop classifiers transfer across hemispheres after all. On [[Agriculture]].
-- [MapAnything](https://map-anything.github.io) — Meta's single feed-forward model for metric 3D reconstruction. On [[Deep_Learning]].
-- [Building Regulariser](https://github.com/DPIRD-DMA/Building-Regulariser) — a free Python alternative to ArcGIS's footprint regularisation. On [[Urban_Planning]].
+- [Global short vegetation height](https://landcarbonlab.org/insights/global-short-vegetation-height-outside-forest/) — annual 30 m height maps for grasslands, savannas and shrublands, 2000–2024. On [[Land_Cover]].
+- [geoai.js](https://github.com/decision-labs/geoai.js) — GeoAI models running in the browser via WebGPU and transformers.js. On [[Embeddings]].
+- [MultiClean](https://github.com/DPIRD-DMA/MultiClean) — morphological cleaning for multiclass rasters. On [[Remote_Sensing]].
 
 ## Topics
 

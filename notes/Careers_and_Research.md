@@ -105,7 +105,17 @@
 - [Programme Management Support Senior Analyst — Cities Alliance / UNOPS, Kampala](https://jobs.unops.org/Pages/ViewVacancy/VADetails.aspx?id=30711): ICS-9, delivering the EU-funded SUIDAC programme for displacement-affected communities in Uganda, DRC and Sudan. **Closed 30 September 2025.** *Keywords: Cities Alliance, UNOPS, urban displacement, programme management, Uganda, closed*
 
 - [30-day "Become a Data Analyst" study plan](https://www.linkedin.com/posts/averyjsmith_dear-all-tomorrow-is-october-heres-a-activity-7378755296128712705-USI8): Avery Smith (Oct 2025), one free link a day covering SQL, Tableau and Power BI projects, storytelling and job hunting: *"If you spend 20 minutes a day with this plan, you'll be AMAZED at how much you will learn."* Not geospatial. *Keywords: data analyst, study plan, SQL, Power BI, career change, free*
+  - **A free data-analyst stack** ([Elijah Butler, Aug 2025](https://www.linkedin.com/posts/elijahbutler_learn-sql-excel-and-power-bi-for-free-activity-7367236936886865922-noKV)): [SQL](https://youtube.com/playlist?list=PLUaB-1hjhk8Fq6RBY-3MQ5MCXB5qxb8VA), [Excel](https://youtube.com/playlist?list=PLaxmRmRC0ahHzUTN-zd60D0R6961snm7t) and [Power BI](https://youtu.be/FwjaHCVNBWA): *"That's a full data analyst tech stack. For free."*
   - See [[LinkedIn]].
+
+- [Open thesis repositories instead of ChatGPT](https://www.linkedin.com/posts/wambi-samuel-3923791b9_e-thesis-activity-7370122567141126144-JRKI): Wambi Samuel (Sep 2025): *"Don't use ChatGPT to write your research projects, research articles and scientific reports."* He lists 20 open repositories to learn research writing from: [OATD](https://oatd.org/), [NDLTD](http://www.ndltd.org/), [DART-Europe](https://www.dart-europe.org/), EThOS, MIT DSpace, Harvard DASH, TSpace and others. *Keywords: theses, dissertations, research writing, open access, repositories, PhD*
+  - See [[LinkedIn]].
+
+- [Writing research that gets read — Lennart Nacke](https://www.linkedin.com/posts/nacke_research-phd-writingtips-activity-7367549042806906880-lUpx): Section-by-section advice (title, abstract, intro, methods, results, discussion) built on a "Problem → Solution → Steps → Implication" story: *"The only research that matters is the research that moves."* It ends with a coaching pitch. *Keywords: academic writing, papers, abstracts, PhD, publishing, storytelling*
+  - See [[LinkedIn]].
+
+- [3DForEcoTech virtual mobility grants](https://3dforecotech.eu/activities/virtual-mobility-call/): COST Action CA20118 offered €1,500 for 2–3 weeks of remote work on forest 3D ecology tech (dissemination, algorithms, impact). **Closed end of September 2025.** *Keywords: COST Action, virtual mobility, forest LiDAR, grants, 3D ecology, closed*
+  - Related: [[Forestry]]
 
 ## Elsewhere in these notes
 

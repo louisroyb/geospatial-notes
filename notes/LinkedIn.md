@@ -9,6 +9,36 @@ Posts shared as links from the mobile app arrive with `utm_*` and `rcm` tracking
 
 | Item | Author | Kind | Filed under |
 |---|---|---|---|
+| [Open thesis repositories](https://www.linkedin.com/posts/wambi-samuel-3923791b9_e-thesis-activity-7370122567141126144-JRKI) | Wambi Samuel | Feed post, shared link | [[Careers_and_Research]] |
+| [GenAI for Geospatial Challenge report](https://www.linkedin.com/posts/taylorgeostl_generativeai-geospatialinnovation-disasterresponse-activity-7370858724049141762-CijR) | Taylor Geospatial Institute | Feed post, shared link | [[Foundation_Models]] |
+| [Satellite Embedding Deep Dive](https://www.linkedin.com/posts/spatial-thoughts_satellite-embedding-deep-dive-full-workshop-activity-7371100483412885504-CtiA) | Spatial Thoughts | Feed post, shared link | [[Embeddings]] |
+| [Sentinel-2 L1C cloud masking](https://www.linkedin.com/posts/yusuf-yusuf-yakubu-057675122_s2-mission-activity-7370389427291971584-SeUM) | Yusuf Yakubu Yusuf | Feed post, shared link | [[Remote_Sensing]] |
+| [TerraMesh](https://www.linkedin.com/posts/mbforr_weve-been-patching-together-eo-datasets-activity-7369717277442600963-YNnw) | Matt Forrest | Feed post, shared link | [[Remote_Sensing]] |
+| [PO.DAAC virtual datasets](https://www.linkedin.com/posts/ban-hikmet-11120864_virtual-data-set-starter-notebook-activity-7369311839786156032-WFQ6) | Ban Hikmet | Feed post, shared link | [[Python]] |
+| [AI intensity in EO & GIS](https://www.linkedin.com/posts/xdl_geospatialai-earthobservation-gis-activity-7369674410351349762-7VMH) | Lawrence X. | Feed post, shared link | [[Foundation_Models]] |
+| [MultiClean](https://www.linkedin.com/posts/nicholas-wright-92205985_remotesensing-geospatial-machinelearning-activity-7368857517499555841-O7Gm) | Nicholas Wright | Feed post, shared link | [[Remote_Sensing]] |
+| [GEE flood tutorials](https://www.linkedin.com/posts/amirhosseinahrari_flood-naturalhazard-earthobservation-activity-7368854559676334081-I2fC) | Amirhossein Ahrari | Feed post, shared link | [[Google_Earth_Engine]] |
+| [GlobalBuildingAtlas launch](https://www.linkedin.com/posts/xiaoxiang-zhu-90b473228_globalbuildingatlas-global-2d-activity-7336326042908868608-QSWS) | Xiaoxiang Zhu | Feed post, shared link | [[Urban_Planning]] |
+| [GEE tutorials August 2025](https://www.linkedin.com/posts/amirhosseinahrari_googleearthengine-earthobservation-googledeveloper-activity-7368533355610406912-Srpb) | Amirhossein Ahrari | Feed post, shared link | [[Google_Earth_Engine]] |
+| [Writing compelling research](https://www.linkedin.com/posts/nacke_research-phd-writingtips-activity-7367549042806906880-lUpx) | Lennart Nacke | Feed post, shared link | [[Careers_and_Research]] |
+| [geocompx README](https://www.linkedin.com/posts/jakub-nowosad-r_geocomputation-rstats-python-activity-7368282407709421570-tVnd) | Jakub Nowosad | Feed post, shared link | [[Learning_Resources]] |
+| [Reservoir monitoring course](https://www.linkedin.com/posts/earth-s-ai_reservoir-monitoring-using-sentinel-1-radar-activity-7364208410961031168-WTVi) | Earth's AI | Feed post, shared link | [[Remote_Sensing]] |
+| [Geo for Good 2025 recap](https://www.linkedin.com/posts/samapriya_geoforgood25-awesome-candidcore-activity-7366804750291406848-_Wey) | Samapriya Roy | Feed post, shared link | [[Google_Earth_Engine]] |
+| [GEE and COGs in Google Earth 3D](https://www.linkedin.com/posts/giswqs_geospatial-googleearth-dataviz-activity-7367925288833400832-eyGr) | Qiusheng Wu | Feed post, shared link | [[Python]] |
+| [Landsat-Sentinel phenology](https://www.linkedin.com/posts/amirhosseinahrari_google-earth-engine-tutorial-151-landsat-sentinel-activity-7366218966752509952-BPKM) | Amirhossein Ahrari | Feed post, shared link | [[Google_Earth_Engine]] |
+| [Free SQL, Excel, Power BI](https://www.linkedin.com/posts/elijahbutler_learn-sql-excel-and-power-bi-for-free-activity-7367236936886865922-noKV) | Elijah Butler | Feed post, shared link | [[Careers_and_Research]] |
+| [GEE agriculture tutorials](https://www.linkedin.com/posts/amirhosseinahrari_cropland-agriculture-foodsecurity-activity-7366707632847355904-weWR) | Amirhossein Ahrari | Feed post, shared link | [[Google_Earth_Engine]] |
+| [QGIS Earth Engine plugin update](https://www.linkedin.com/posts/spatial-thoughts_earthengine-qgis-pyqgis-activity-7366292958167425024-ZgAK) | Spatial Thoughts | Feed post, shared link | [[Google_Earth_Engine]] |
+| [Sentinel-2 L1C cloud masking (reshare)](https://www.linkedin.com/posts/rahul-shah12k_remotesensing-earthobservation-gis-activity-7365785952763523074-CBjc) | Rahul Shah | Feed post, shared link | [[Remote_Sensing]] |
+| [Water bodies with R](https://www.linkedin.com/posts/defaniarmanalfitriansyah_remotesensing-r-rstat-activity-7365700867905294336-2bG4) | Defani Arman Alfitriansyah | Feed post, shared link | [[Remote_Sensing]] |
+| [IJGIS GeoFM special issue](https://www.linkedin.com/posts/may-yuan-7008016_international-journal-of-geographical-information-activity-7364725872458723333-llJm) | May Yuan | Feed post, shared link | [[Foundation_Models]] |
+| [geoai.js](https://www.linkedin.com/posts/shoaibburq_gischat-geoai-javascript-ugcPost-7365137868341583872-iGL4) | Shoaib Burq | Feed post, shared link | [[Embeddings]] |
+| [phidown S1+S2 notebook](https://www.linkedin.com/posts/roberto-del-prete-8175a7147_esa-esrin-philab-activity-7365754441066524675-qxnB) | Roberto Del Prete | Feed post, shared link | [[Remote_Sensing]] |
+| [segment-geospatial intro](https://www.linkedin.com/posts/godwin-murithi-847830138_geospatial-ai-remotesensing-activity-7365827188660621313-LZSp) | Godwin Murithi | Feed post, shared link | [[Foundation_Models]] |
+| [Clearest Sentinel-2 image](https://www.linkedin.com/posts/mohamed-el-mahdi_remotesensing-earthobservation-googleearthengine-activity-7364944518476967937-rrOF) | Mohamed El Mahdi | Feed post, shared link | [[Google_Earth_Engine]] |
+| [SBTN Natural Lands on Cecil](https://www.linkedin.com/posts/alex-logan-cecil_the-cecil-team-has-made-it-simple-and-fast-activity-7364415454985031680-jrQW) | Alex Logan | Feed post, shared link | [[Land_Cover]] |
+| [NASA ARSET programme](https://www.linkedin.com/posts/ban-hikmet-11120864_applied-remote-sensing-training-program-activity-7364412149420515328-MO6i) | Ban Hikmet | Feed post, shared link | [[Learning_Resources]] |
+| [Must-have QGIS plugins](https://www.linkedin.com/posts/godwin-murithi-847830138_geodev-qgis-gis-activity-7364292872180817920-Hht7) | Godwin Murithi | Feed post, shared link | [[Geospatial_Platforms]] |
 | [GeoAI made easy](https://www.linkedin.com/posts/giswqs_geoai-pythonai-satelliteimagery-activity-7379860491571208192-Ftk0) | Qiusheng Wu | Feed post, shared link | [[Deep_Learning]] |
 | [Sentinel-2 Grid Explorer launch](https://www.linkedin.com/posts/nicholas-wright-92205985_remotesensing-sentinel2-opensource-ugcPost-7379740541292335104-myLR) | Nicholas Wright | Feed post, shared link | [[Remote_Sensing]] |
 | [GEE GRACE tutorials](https://www.linkedin.com/posts/amirhosseinahrari_hydrology-drought-waterresources-activity-7378670186612162561-QiBK) | Amirhossein Ahrari | Feed post, shared link | [[Google_Earth_Engine]] |
@@ -479,6 +509,36 @@ Posts shared as links from the mobile app arrive with `utm_*` and `rcm` tracking
 
 ## Posts
 
+- **[Open thesis repositories](https://www.linkedin.com/posts/wambi-samuel-3923791b9_e-thesis-activity-7370122567141126144-JRKI)** — Wambi Samuel: learn from theses, not ChatGPT. Note on [[Careers_and_Research]].
+- **[GenAI for Geospatial Challenge report](https://www.linkedin.com/posts/taylorgeostl_generativeai-geospatialinnovation-disasterresponse-activity-7370858724049141762-CijR)** — Taylor Geospatial Institute: 12 teams with AWS. Note on [[Foundation_Models]].
+- **[Satellite Embedding Deep Dive](https://www.linkedin.com/posts/spatial-thoughts_satellite-embedding-deep-dive-full-workshop-activity-7371100483412885504-CtiA)** — Spatial Thoughts: a free AlphaEarth workshop. Note on [[Embeddings]].
+- **[Sentinel-2 L1C cloud masking](https://www.linkedin.com/posts/yusuf-yusuf-yakubu-057675122_s2-mission-activity-7370389427291971584-SeUM)** — Yusuf Yakubu Yusuf: four masking methods compared. Note on [[Remote_Sensing]].
+- **[TerraMesh](https://www.linkedin.com/posts/mbforr_weve-been-patching-together-eo-datasets-activity-7369717277442600963-YNnw)** — Matt Forrest: 9M co-registered samples. Note on [[Remote_Sensing]].
+- **[PO.DAAC virtual datasets](https://www.linkedin.com/posts/ban-hikmet-11120864_virtual-data-set-starter-notebook-activity-7369311839786156032-WFQ6)** — Ban Hikmet: Xarray and virtualizarr. Note on [[Python]].
+- **[AI intensity in EO & GIS](https://www.linkedin.com/posts/xdl_geospatialai-earthobservation-gis-activity-7369674410351349762-7VMH)** — Lawrence X.: a six-item roundup. Note on [[Foundation_Models]].
+- **[MultiClean](https://www.linkedin.com/posts/nicholas-wright-92205985_remotesensing-geospatial-machinelearning-activity-7368857517499555841-O7Gm)** — Nicholas Wright: multiclass raster cleaning. Note on [[Remote_Sensing]].
+- **[GEE flood tutorials](https://www.linkedin.com/posts/amirhosseinahrari_flood-naturalhazard-earthobservation-activity-7368854559676334081-I2fC)** — Amirhossein Ahrari: flood detection lists. Note on [[Google_Earth_Engine]].
+- **[GlobalBuildingAtlas launch](https://www.linkedin.com/posts/xiaoxiang-zhu-90b473228_globalbuildingatlas-global-2d-activity-7336326042908868608-QSWS)** — Xiaoxiang Zhu: 2.75B buildings with heights. Note on [[Urban_Planning]].
+- **[GEE tutorials August 2025](https://www.linkedin.com/posts/amirhosseinahrari_googleearthengine-earthobservation-googledeveloper-activity-7368533355610406912-Srpb)** — Amirhossein Ahrari: seven new videos. Note on [[Google_Earth_Engine]].
+- **[Writing compelling research](https://www.linkedin.com/posts/nacke_research-phd-writingtips-activity-7367549042806906880-lUpx)** — Lennart Nacke: section-by-section tips. Note on [[Careers_and_Research]].
+- **[geocompx README](https://www.linkedin.com/posts/jakub-nowosad-r_geocomputation-rstats-python-activity-7368282407709421570-tVnd)** — Jakub Nowosad: the geocomputation hub. Note on [[Learning_Resources]].
+- **[Reservoir monitoring course](https://www.linkedin.com/posts/earth-s-ai_reservoir-monitoring-using-sentinel-1-radar-activity-7364208410961031168-WTVi)** — Earth's AI: a Udemy S1 course. Note on [[Remote_Sensing]].
+- **[Geo for Good 2025 recap](https://www.linkedin.com/posts/samapriya_geoforgood25-awesome-candidcore-activity-7366804750291406848-_Wey)** — Samapriya Roy: the community-catalog showcase. Note on [[Google_Earth_Engine]].
+- **[GEE and COGs in Google Earth 3D](https://www.linkedin.com/posts/giswqs_geospatial-googleearth-dataviz-activity-7367925288833400832-eyGr)** — Qiusheng Wu: Leafmap to Google Earth. Note on [[Python]].
+- **[Landsat-Sentinel phenology](https://www.linkedin.com/posts/amirhosseinahrari_google-earth-engine-tutorial-151-landsat-sentinel-activity-7366218966752509952-BPKM)** — Amirhossein Ahrari: tutorial 151. Note on [[Google_Earth_Engine]].
+- **[Free SQL, Excel, Power BI](https://www.linkedin.com/posts/elijahbutler_learn-sql-excel-and-power-bi-for-free-activity-7367236936886865922-noKV)** — Elijah Butler: a data-analyst stack. Note on [[Careers_and_Research]].
+- **[GEE agriculture tutorials](https://www.linkedin.com/posts/amirhosseinahrari_cropland-agriculture-foodsecurity-activity-7366707632847355904-weWR)** — Amirhossein Ahrari: 15 crop and soil tutorials. Note on [[Google_Earth_Engine]].
+- **[QGIS Earth Engine plugin update](https://www.linkedin.com/posts/spatial-thoughts_earthengine-qgis-pyqgis-activity-7366292958167425024-ZgAK)** — Spatial Thoughts: no-code EE in QGIS. Note on [[Google_Earth_Engine]].
+- **[Sentinel-2 L1C cloud masking (reshare)](https://www.linkedin.com/posts/rahul-shah12k_remotesensing-earthobservation-gis-activity-7365785952763523074-CBjc)** — Rahul Shah: the same explainer. Note on [[Remote_Sensing]].
+- **[Water bodies with R](https://www.linkedin.com/posts/defaniarmanalfitriansyah_remotesensing-r-rstat-activity-7365700867905294336-2bG4)** — Defani Arman Alfitriansyah: NDWI thresholding. Note on [[Remote_Sensing]].
+- **[IJGIS GeoFM special issue](https://www.linkedin.com/posts/may-yuan-7008016_international-journal-of-geographical-information-activity-7364725872458723333-llJm)** — May Yuan: geo-foundation models. Note on [[Foundation_Models]].
+- **[geoai.js](https://www.linkedin.com/posts/shoaibburq_gischat-geoai-javascript-ugcPost-7365137868341583872-iGL4)** — Shoaib Burq: GeoAI in the browser. Note on [[Embeddings]].
+- **[phidown S1+S2 notebook](https://www.linkedin.com/posts/roberto-del-prete-8175a7147_esa-esrin-philab-activity-7365754441066524675-qxnB)** — Roberto Del Prete: SAR-optical download. Note on [[Remote_Sensing]].
+- **[segment-geospatial intro](https://www.linkedin.com/posts/godwin-murithi-847830138_geospatial-ai-remotesensing-activity-7365827188660621313-LZSp)** — Godwin Murithi: SAM for GIS. Note on [[Foundation_Models]].
+- **[Clearest Sentinel-2 image](https://www.linkedin.com/posts/mohamed-el-mahdi_remotesensing-earthobservation-googleearthengine-activity-7364944518476967937-rrOF)** — Mohamed El Mahdi: cloud-probability ranking. Note on [[Google_Earth_Engine]].
+- **[SBTN Natural Lands on Cecil](https://www.linkedin.com/posts/alex-logan-cecil_the-cecil-team-has-made-it-simple-and-fast-activity-7364415454985031680-jrQW)** — Alex Logan: nature-target data via SDK. Note on [[Land_Cover]].
+- **[NASA ARSET programme](https://www.linkedin.com/posts/ban-hikmet-11120864_applied-remote-sensing-training-program-activity-7364412149420515328-MO6i)** — Ban Hikmet: free trainings. Note on [[Learning_Resources]].
+- **[Must-have QGIS plugins](https://www.linkedin.com/posts/godwin-murithi-847830138_geodev-qgis-gis-activity-7364292872180817920-Hht7)** — Godwin Murithi: 11 plugins. Note on [[Geospatial_Platforms]].
 - **[GeoAI made easy](https://www.linkedin.com/posts/giswqs_geoai-pythonai-satelliteimagery-activity-7379860491571208192-Ftk0)** — Qiusheng Wu: a beginner video on the GeoAI package. Note on [[Deep_Learning]].
 - **[Sentinel-2 Grid Explorer launch](https://www.linkedin.com/posts/nicholas-wright-92205985_remotesensing-sentinel2-opensource-ugcPost-7379740541292335104-myLR)** — Nicholas Wright: tile selection on a web map. Note on [[Remote_Sensing]].
 - **[GEE GRACE tutorials](https://www.linkedin.com/posts/amirhosseinahrari_hydrology-drought-waterresources-activity-7378670186612162561-QiBK)** — Amirhossein Ahrari: water storage and drought. Note on [[Google_Earth_Engine]].

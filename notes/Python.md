@@ -5,6 +5,12 @@
 
 ---
 
+- [NASA PO.DAAC virtual datasets with Xarray](https://www.linkedin.com/posts/ban-hikmet-11120864_virtual-data-set-starter-notebook-activity-7369311839786156032-WFQ6): Ban Hikmet (Sep 2025) shares [Xarray in 45 minutes](https://tutorial.xarray.dev/overview/xarray-in-45-min.html), the PO.DAAC Cookbook chapter on [virtual datasets](https://podaac.github.io/tutorials/quarto_text/UsingVirtualDatasets) (virtualizarr/kerchunk references over SST, SMAP salinity, SWOT and ECCO) and a [starter notebook](https://podaac.github.io/tutorials/notebooks/Advanced_cloud/using_vds_starter.html): *"VDS's eliminate the need to open and work with individual files in this way."* *Keywords: Xarray, virtualizarr, kerchunk, PO.DAAC, ocean data, cloud-native*
+  - See [[LinkedIn]]. Related: [[Data]]
+
+- [Processing large geodata with quadtree partitioning](https://medium.com/p/4feded11ca93): Ahmad Zaenun Faiz (Medium, Aug 2025): a recursive quadtree splits Indonesia-wide Hansen tree cover and 85.8M Google Open Buildings into chunks, so only the tiles you need are read. *"The partitioned approach is 33 times faster while processing only a fraction of the data."* *Keywords: quadtree, partitioning, Dask, rasterio, Open Buildings, big data*
+  - Related: [[Data]]
+
 - [Leafmap at NASA's OPERA stakeholder workshop](https://www.linkedin.com/posts/giswqs_leafmap-geospatial-nasa-activity-7371987237464600576-a0tU): Qiusheng Wu's [slides](https://docs.google.com/presentation/d/1iTvu8Ghm6HDH9XUSkjQJYBbj46Us4d4ohsCICf5cCyA/edit) (11 Sep 2025) from the [fifth OPERA workshop](https://www.jpl.nasa.gov/go/opera/opera-workshops/fifth-workshop) (Observational Products for End-Users from Remote Sensing Analysis). The post shares only the slides. *Keywords: Leafmap, NASA OPERA, slides, Jupyter, workshop, open source*
   - See [[LinkedIn]]. Related: [[Remote_Sensing]], [[Data]]
 
@@ -23,6 +29,7 @@
   - Related: [[Data]], [[Code_Repositories]]
 
 - [Visualise COGs in the browser with Leafmap](https://leafmap.org/notebooks/108_add_geotiff): Qiusheng Wu (6 Nov 2025): load Cloud-Optimized GeoTIFFs over HTTP in Jupyter with no tile server (aerial, LiDAR, multiband), with band, colormap and opacity control: *"Run everything 100% serverless in your browser!"* [opengeos/leafmap](https://github.com/opengeos/leafmap), MIT. *Keywords: Leafmap, COG, Jupyter, serverless, web mapping, raster visualisation*
+  - **Into Google Earth in 3D** ([Wu, 31 Aug 2025](https://www.linkedin.com/posts/giswqs_geospatial-googleearth-dataviz-activity-7367925288833400832-eyGr); [notebook](https://leafmap.org/maplibre/google_earth); [video](https://youtu.be/UqY9Ojrgg6s)): render Earth Engine tiles and COGs in Google Earth's 3D view and share them *"just like sharing a Google Doc link."*
   - **Floating sidebar** ([Wu, 8 Oct 2025](https://www.linkedin.com/posts/giswqs_geospatial-leafmap-python-activity-7381703167006244864-k8kp); [notebook](https://github.com/opengeos/leafmap/blob/master/docs/maplibre/floating_sidebar.ipynb)): a panel on MapLibre maps for layer visibility and styling, plus your own ipywidgets.
   - Source: [LinkedIn post](https://www.linkedin.com/posts/giswqs_geospatial-opensource-leafmap-activity-7392219799520452609-wSUB); see [[LinkedIn]].
 

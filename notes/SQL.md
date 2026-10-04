@@ -5,6 +5,9 @@
 
 ---
 
+- [Learn spatial databases with PostGIS and QGIS — GIS Schools](https://www.youtube.com/playlist?list=PLumZ7YQFbxIw5WJFXFgL-rCoDCE8O9mmw): A free 21-video playlist covering PostgreSQL/PostGIS installation, shapefile import and export, SQL basics through JOINs and CASE, SRIDs and geometry vs geography, spatial joins and indexes, and editing from QGIS. *Keywords: PostGIS, spatial SQL, QGIS DB Manager, indexes, spatial joins, YouTube*
+  - Related: [[Learning_Resources]]
+
 - [Spatial Data Management with DuckDB — Qiusheng Wu's book](https://duckdb.gishub.org): LinkedIn post, 3 November 2025, announcing *Spatial Data Management with DuckDB: From SQL Basics to Advanced Geospatial Analytics*, based on his University of Tennessee course ([geog-414](https://geog-414.gishub.org)). It is aimed at GIS analysts, data scientists and spatial developers, and *"all code examples will be freely available on GitHub"*: [giswqs/duckdb-spatial](https://github.com/giswqs/duckdb-spatial) (CC0). *Keywords: DuckDB, spatial SQL, book, GeoParquet, Qiusheng Wu, course*
   - Source: [LinkedIn post](https://www.linkedin.com/posts/giswqs_table-of-contents-ugcPost-7391097247792263169-vEO4); see [[LinkedIn]].
   - Related: [[Learning_Resources]], [[Data]], [[Code_Repositories]]

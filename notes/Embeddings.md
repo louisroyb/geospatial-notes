@@ -5,6 +5,14 @@
 
 ---
 
+- [Satellite Embedding Deep Dive — Spatial Thoughts workshop](https://courses.spatialthoughts.com/gee-satellite-embedding.html): LinkedIn post by Spatial Thoughts, 9 September 2025: a free 2-hour [workshop](https://youtu.be/vDWjfW7pylM) from Geo for Good 2025 on AlphaEarth embeddings in Earth Engine. It covers visualisation, crop type mapping with CDL, mangroves, similarity search with negative examples, unsupervised water and urban tree cover: *"This 2-hour hands-on workshop will help you cut through the hype and learn how to leverage some of the new capabilities offered by this dataset."* CC-BY-4.0 materials, MIT code. *Keywords: AlphaEarth, workshop, similarity search, Earth Engine, crop mapping, Spatial Thoughts*
+  - Source: [LinkedIn post](https://www.linkedin.com/posts/spatial-thoughts_satellite-embedding-deep-dive-full-workshop-activity-7371100483412885504-CtiA); see [[LinkedIn]].
+  - Related: [[Google_Earth_Engine]], [[Learning_Resources]]
+
+- [geoai.js — GeoAI models in the browser](https://github.com/decision-labs/geoai.js): LinkedIn post by Shoaib Burq (Geobase), Aug 2025: *"Geobase just released an open source toolkit (geoai.js) for JavaScript devs to run GeoAI models on the frontend with help of WebGL | WebGPU."* He visualised DINOv3 similarity in 3D on OpenAerialMap drone imagery. TypeScript, MIT; [docs](https://docs.geobase.app/geoai). *Keywords: geoai.js, transformers.js, WebGPU, DINOv3, browser, JavaScript*
+  - Source: [LinkedIn post](https://www.linkedin.com/posts/shoaibburq_gischat-geoai-javascript-ugcPost-7365137868341583872-iGL4); see [[LinkedIn]].
+  - Related: [[Deep_Learning]], [[Code_Repositories]]
+
 - [Clustering Google satellite embeddings in Python — Milos Popovic](https://youtu.be/WjoB7mou2n8): LinkedIn post, 5 October 2025: *"After years of teaching GIS in R, I'm finally opening the Python chapter."* The video loads AlphaEarth embeddings from Earth Engine, runs k-means and maps the clusters as land-cover classes. *Keywords: AlphaEarth, k-means, Earth Engine, Python, unsupervised, land cover*
   - Source: [LinkedIn post](https://www.linkedin.com/posts/milos-popovic-phd-89778117_python-the-secret-weapon-for-analyzing-google-activity-7380589377262997504-ooli); see [[LinkedIn]].
   - Related: [[Google_Earth_Engine]]

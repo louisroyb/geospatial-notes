@@ -524,3 +524,39 @@
     - CropGlobe and the Kenya helmet dataset indexed on `Benchmark_Datasets.md`.
   - **Repos:** 10 added; the tracker is now 180. Licensing watch is 45, adding GlobalBuildingAtlas (non-standard) and lidar_odometry_for_beginner (none).
   - **LinkedIn:** 29 posts recorded on `LinkedIn.md`.
+- 2026-10-04 — *WhatsApp chat export, batch 13 (queue items 601–650, shared 21 Aug – 10 Sep 2025)* — 50 items: 43 filed, 3 behind the login wall (611, 621, 629), and 4 skipped.
+  - **Skipped:**
+    - 606: real-estate finance books.
+    - 628: "GEO" meaning the NCBI gene expression database.
+    - 614: a link-free giveaway reshare.
+    - 631: a thin ArcMap elevation video.
+  - **Merged into existing notes:**
+    - TerraMesh: Forrest's summary.
+    - CHMv2: the first Meta/WRI canopy-height paper (RSE 2024).
+    - GlobalBuildingAtlas: Zhu's launch post.
+    - Ahrari: flood, August and agriculture lists, plus tutorial 151.
+    - Community catalog: Geo for Good showcase.
+    - QGIS Earth Engine plugin: the Spatial Thoughts announcement.
+    - QGIS plugin lists: two more.
+    - SamGeo: an introduction.
+    - Leafmap: Google Earth 3D.
+    - OmniCloudMask: the RSE paper.
+    - ARSET: the programme page, with upcoming sessions as of today (TEMPO 13–15 Oct, NISAR surface water 20–27 Oct, NISAR disasters 12–19 Nov).
+    - geocompx: the org README.
+    - Data-analyst plan: Butler's free stack.
+  - **Consolidated into single notes:**
+    - The identical Sentinel-2 cloud-masking explainer shared by two authors (605, 638).
+    - The two ARSET shares (648, 649).
+  - **New notes:**
+    - `Land_Cover` (2): global short vegetation height, SBTN Natural Lands on Cecil.
+    - `Remote_Sensing` (6): MultiClean, S2 cloud masking, phidown, pysarflow, R water bodies, the reservoir Udemy course.
+    - `Foundation_Models` (3): IJGIS GeoFM issue, Lawrence X. roundup, TGI GenAI challenge (report link now dead).
+    - `Embeddings` (2): Satellite Embedding Deep Dive, geoai.js.
+    - `Google_Earth_Engine` (1): clearest-image script.
+    - `Python` (2): PO.DAAC virtual datasets, quadtree partitioning.
+    - `SQL` (1): PostGIS playlist.
+    - `Learning_Resources` (3): Luna Geospatial, CoE-LAM Mysuru, PR Stats (paid).
+    - `Deep_Learning` (1): Apertus.
+    - `Careers_and_Research` (3): thesis repositories, research writing, 3DForEcoTech grants (closed).
+  - **Repos:** 8 added; the tracker is now 188. Licensing watch is 48: the pysarflow and NDWI repos have no license, and s2cloudless uses CC-BY-SA.
+  - **LinkedIn:** 30 posts recorded on `LinkedIn.md`.
