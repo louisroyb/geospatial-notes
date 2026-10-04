@@ -5,6 +5,9 @@
 
 ---
 
+- [Seven regression concepts to master before complex ML](https://www.linkedin.com/posts/arpbhatnagar_chasing-complex-aiml-models-without-understanding-activity-7358138421271281666-C4qB): Arpit Bhatnagar (Aug 2025): the maths, degrees of freedom, logistic thresholds, metrics (RMSE, MAE, R², adjusted R²), reading output, residual plots, and Lasso vs Ridge, with linked videos. *"Chasing complex AI/ML models without understanding regression is like signing up for a marathon when you've never even learned how to walk properly."* *Keywords: regression, residuals, regularisation, Lasso, Ridge, interview prep*
+  - See [[LinkedIn]].
+
 - [Spatial machine learning with R — six-part blog series](https://geocompx.org/post/2025/sml-bp1/): LinkedIn post by Jakub Nowosad, 22 October 2025. The series covers an overview, caret, tidymodels, mlr3, specialised packages (RandomForestsGLS, spatialRF, meteo) and spatial cross-validation (sperrorest, blockCV). *"Spatial machine learning is generally different from traditional machine learning, as variables located closer to each other are often more similar than those located further apart."* *Keywords: spatial ML, R, tidymodels, mlr3, spatial cross-validation, autocorrelation*
   - Source: [LinkedIn post](https://www.linkedin.com/posts/jakub-nowosad-r_rstats-spatialml-machinelearning-activity-7386749657181392896-AGbV); see [[LinkedIn]].
   - Related: [[Learning_Resources]]

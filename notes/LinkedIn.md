@@ -9,6 +9,34 @@ Posts shared as links from the mobile app arrive with `utm_*` and `rcm` tracking
 
 | Item | Author | Kind | Filed under |
 |---|---|---|---|
+| [Global 30 m GPP](https://www.linkedin.com/posts/opengeohub_the-importance-of-annual-and-bi-monthly-gpp-ugcPost-7364574741212327936-xJAT) | OpenGeoHub | Feed post, shared link | [[Climate_Change]] |
+| [GeoFMs on AWS](https://www.linkedin.com/posts/cooperrow_revolutionizing-earth-observation-with-geospatial-activity-7364413771949187072-JyId) | Phil Cooper | Feed post, shared link | [[Foundation_Models]] |
+| [TESSERA introduction](https://www.linkedin.com/posts/activity-7363873774787575808-aNDg) | Madeline Lisaius | Feed post, shared link | [[Embeddings]] |
+| [geemap explainer](https://www.linkedin.com/posts/godwin-murithi-847830138_geemap-powering-geospatial-analysis-activity-7363902344301862912-YnJV) | Godwin Murithi | Feed post, shared link | [[Google_Earth_Engine]] |
+| [Geospatial conferences 2026](https://www.linkedin.com/posts/jakub-nowosad-r_gis-remotesensing-spatialdata-activity-7363933599991037952-Lisr) | Jakub Nowosad | Feed post, shared link | [[Community_Resources]] |
+| [LightlyTrain DINOv2 segmentation](https://www.linkedin.com/posts/matthiasheller_lightlytrain-now-supports-eomt-activity-7358903316535230465-dwNQ) | Matthias Heller | Feed post, shared link | [[Deep_Learning]] |
+| [Zeyoo tutorial](https://www.linkedin.com/posts/zeyuxu_getting-started-with-the-zeyoo-image-annotation-activity-7362507040608382977-Bvk-) | Zeyu Xu | Feed post, shared link | [[Deep_Learning]] |
+| [21 free Ivy League courses](https://www.linkedin.com/posts/leadership-andmanagement_21-free-courses-from-ivy-league-universities-activity-7362453701682171904-Tti2) | Leadership and Management | Feed post, shared link | [[Learning_Resources]] |
+| [DINOv3 on GEO-Bench](https://www.linkedin.com/posts/johnmbrandt_computervision-geospatialai-earthobservation-ugcPost-7361798310879207424-CR3m) | John Brandt | Feed post, shared link | [[Foundation_Models]] |
+| [8 AI playlists](https://www.linkedin.com/posts/sairam-sundaresan_mit-stanford-deepmind-berkeley-umich-activity-7360267426686529536-SUJT) | Sairam Sundaresan | Feed post, shared link | [[Learning_Resources]] |
+| [geeagri v0.1.1](https://www.linkedin.com/posts/krishnagopal-halder_geeagri-googleearthengine-remotesensing-ugcPost-7358974398671806464-JUP5) | Krishnagopal Halder | Feed post, shared link | [[Agriculture]] |
+| [GEE land cover tutorials](https://www.linkedin.com/posts/amirhosseinahrari_earthobservation-remotesensing-geospatial-activity-7358735523030454272-4w2v) | Amirhossein Ahrari | Feed post, shared link | [[Google_Earth_Engine]] |
+| [7 regression concepts](https://www.linkedin.com/posts/arpbhatnagar_chasing-complex-aiml-models-without-understanding-activity-7358138421271281666-C4qB) | Arpit Bhatnagar | Feed post, shared link | [[Machine_Learning]] |
+| [AlphaEarth in 3D](https://www.linkedin.com/posts/giswqs_geoai-geospatial-ai-activity-7358888210078359553-KteB) | Qiusheng Wu | Feed post, shared link | [[Embeddings]] |
+| [EO-NAM framework](https://www.linkedin.com/posts/catherinenakalembe_earthobservation-foodsecurity-africa-activity-7358129501467250690-xTuC) | Catherine Nakalembe | Feed post, shared link | [[Agriculture]] |
+| [ArcGIS Online with Python](https://www.linkedin.com/posts/iamtekson_arcgis-python-geopandas-activity-7356488777168547841-SRKk) | Tek Kshetri | Feed post, shared link | [[Python]] |
+| [GenAI courses by persona](https://www.linkedin.com/posts/divij-bajaj_ai-agents-for-beginners-activity-7355555339359997952-tQ-u) | Divij Bajaj | Feed post, shared link | [[Learning_Resources]] |
+| [10 GeoAI model repositories](https://www.linkedin.com/posts/arkadiuszszadkowski_repositories-every-geoai-explorer-should-activity-7357363077350047745-xkwd) | Arkadiusz Szadkowski | Feed post, shared link | [[Community_Resources]] |
+| [GEE tutorials June–July 2025](https://www.linkedin.com/posts/amirhosseinahrari_geospatial-remotesensing-earthobservation-activity-7356940787818938369-LdZf) | Amirhossein Ahrari | Feed post, shared link | [[Google_Earth_Engine]] |
+| [Official Satellite Embedding tutorials](https://www.linkedin.com/posts/spatial-thoughts_earthengine-eo-satelliteembedding-activity-7356516772373585920-rDok) | Spatial Thoughts | Feed post, shared link | [[Learning_Resources]] |
+| [Land use classification case study](https://www.linkedin.com/posts/milan-janosov_case-study-ugcPost-7349178124216995840-oYr0) | Milan Janosov | Feed post, shared link | [[Land_Cover]] |
+| [AlphaEarth Foundations release](https://www.linkedin.com/posts/giswqs_ai-geospatial-remotesensing-activity-7356390179416199172-AJr_) | Qiusheng Wu | Feed post, shared link | [[Embeddings]] |
+| [Google Earth AI](https://www.linkedin.com/posts/julietrothenberg_today-were-announcing-google-earth-ai-our-activity-7356339409748705280-Dnpg) | Juliet Rothenberg | Feed post, shared link | [[Foundation_Models]] |
+| [GeoPatch v1.3](https://www.linkedin.com/posts/hejarshahabi_geopatch-remotesensing-yolo-activity-7355631140214374402-UEw6) | Hejar Shahabi | Feed post, shared link | [[Deep_Learning]] |
+| [geeagri v0.1.0](https://www.linkedin.com/posts/krishnagopal-halder_geeagri-googleearthengine-remotesensing-activity-7355952592360779776-uUFs) | Krishnagopal Halder | Feed post, shared link | [[Agriculture]] |
+| [JURSE 2025 proceedings](https://www.linkedin.com/posts/riadh-abdelfattah-0b55b610_jurse2025-urbanremotesensing-ieeegrss-activity-7352983845857640448-2p3h) | Riadh Abdelfattah | Feed post, shared link | [[Urban_Planning]] |
+| [geeagri launch](https://www.linkedin.com/posts/krishnagopal-halder_remotesensing-earthobservation-agriculture-ugcPost-7353733037710299137-0xqt) | Krishnagopal Halder | Feed post, shared link | [[Agriculture]] |
+| [Smallholder field inventories](https://www.linkedin.com/posts/philipperufin_satellite-based-crop-field-delineation-appears-activity-7351534582237667328-Rb7m) | Philippe Rufin | Feed post, shared link | [[Agriculture]] |
 | [Open thesis repositories](https://www.linkedin.com/posts/wambi-samuel-3923791b9_e-thesis-activity-7370122567141126144-JRKI) | Wambi Samuel | Feed post, shared link | [[Careers_and_Research]] |
 | [GenAI for Geospatial Challenge report](https://www.linkedin.com/posts/taylorgeostl_generativeai-geospatialinnovation-disasterresponse-activity-7370858724049141762-CijR) | Taylor Geospatial Institute | Feed post, shared link | [[Foundation_Models]] |
 | [Satellite Embedding Deep Dive](https://www.linkedin.com/posts/spatial-thoughts_satellite-embedding-deep-dive-full-workshop-activity-7371100483412885504-CtiA) | Spatial Thoughts | Feed post, shared link | [[Embeddings]] |
@@ -509,6 +537,34 @@ Posts shared as links from the mobile app arrive with `utm_*` and `rcm` tracking
 
 ## Posts
 
+- **[Global 30 m GPP](https://www.linkedin.com/posts/opengeohub_the-importance-of-annual-and-bi-monthly-gpp-ugcPost-7364574741212327936-xJAT)** — OpenGeoHub: bi-monthly productivity, 2000–2024. Note on [[Climate_Change]].
+- **[GeoFMs on AWS](https://www.linkedin.com/posts/cooperrow_revolutionizing-earth-observation-with-geospatial-activity-7364413771949187072-JyId)** — Phil Cooper: start with data preparation. Note on [[Foundation_Models]].
+- **[TESSERA introduction](https://www.linkedin.com/posts/activity-7363873774787575808-aNDg)** — Madeline Lisaius: more inputs isn't better. Note on [[Embeddings]].
+- **[geemap explainer](https://www.linkedin.com/posts/godwin-murithi-847830138_geemap-powering-geospatial-analysis-activity-7363902344301862912-YnJV)** — Godwin Murithi: interactive Earth Engine in Python. Note on [[Google_Earth_Engine]].
+- **[Geospatial conferences 2026](https://www.linkedin.com/posts/jakub-nowosad-r_gis-remotesensing-spatialdata-activity-7363933599991037952-Lisr)** — Jakub Nowosad: a crowdsourced list. Note on [[Community_Resources]].
+- **[LightlyTrain DINOv2 segmentation](https://www.linkedin.com/posts/matthiasheller_lightlytrain-now-supports-eomt-activity-7358903316535230465-dwNQ)** — Matthias Heller: pretrain and fine-tune in one tool. Note on [[Deep_Learning]].
+- **[Zeyoo tutorial](https://www.linkedin.com/posts/zeyuxu_getting-started-with-the-zeyoo-image-annotation-activity-7362507040608382977-Bvk-)** — Zeyu Xu: a free annotation tool. Note on [[Deep_Learning]].
+- **[21 free Ivy League courses](https://www.linkedin.com/posts/leadership-andmanagement_21-free-courses-from-ivy-league-universities-activity-7362453701682171904-Tti2)** — Leadership and Management: data science and AI. Note on [[Learning_Resources]].
+- **[DINOv3 on GEO-Bench](https://www.linkedin.com/posts/johnmbrandt_computervision-geospatialai-earthobservation-ugcPost-7361798310879207424-CR3m)** — John Brandt: #1 on 10/12 tasks, RGB only. Note on [[Foundation_Models]].
+- **[8 AI playlists](https://www.linkedin.com/posts/sairam-sundaresan_mit-stanford-deepmind-berkeley-umich-activity-7360267426686529536-SUJT)** — Sairam Sundaresan: free lecture series. Note on [[Learning_Resources]].
+- **[geeagri v0.1.1](https://www.linkedin.com/posts/krishnagopal-halder_geeagri-googleearthengine-remotesensing-ugcPost-7358974398671806464-JUP5)** — Krishnagopal Halder: patch extraction. Note on [[Agriculture]].
+- **[GEE land cover tutorials](https://www.linkedin.com/posts/amirhosseinahrari_earthobservation-remotesensing-geospatial-activity-7358735523030454272-4w2v)** — Amirhossein Ahrari: six videos. Note on [[Google_Earth_Engine]].
+- **[7 regression concepts](https://www.linkedin.com/posts/arpbhatnagar_chasing-complex-aiml-models-without-understanding-activity-7358138421271281666-C4qB)** — Arpit Bhatnagar: fundamentals before complex ML. Note on [[Machine_Learning]].
+- **[AlphaEarth in 3D](https://www.linkedin.com/posts/giswqs_geoai-geospatial-ai-activity-7358888210078359553-KteB)** — Qiusheng Wu: visualising embeddings. Note on [[Embeddings]].
+- **[EO-NAM framework](https://www.linkedin.com/posts/catherinenakalembe_earthobservation-foodsecurity-africa-activity-7358129501467250690-xTuC)** — Catherine Nakalembe: national ag monitoring in Africa. Note on [[Agriculture]].
+- **[ArcGIS Online with Python](https://www.linkedin.com/posts/iamtekson_arcgis-python-geopandas-activity-7356488777168547841-SRKk)** — Tek Kshetri: the ArcGIS API with GeoPandas. Note on [[Python]].
+- **[GenAI courses by persona](https://www.linkedin.com/posts/divij-bajaj_ai-agents-for-beginners-activity-7355555339359997952-tQ-u)** — Divij Bajaj: free agent courses. Note on [[Learning_Resources]].
+- **[10 GeoAI model repositories](https://www.linkedin.com/posts/arkadiuszszadkowski_repositories-every-geoai-explorer-should-activity-7357363077350047745-xkwd)** — Arkadiusz Szadkowski: don't train from scratch. Note on [[Community_Resources]].
+- **[GEE tutorials June–July 2025](https://www.linkedin.com/posts/amirhosseinahrari_geospatial-remotesensing-earthobservation-activity-7356940787818938369-LdZf)** — Amirhossein Ahrari: eight videos. Note on [[Google_Earth_Engine]].
+- **[Official Satellite Embedding tutorials](https://www.linkedin.com/posts/spatial-thoughts_earthengine-eo-satelliteembedding-activity-7356516772373585920-rDok)** — Spatial Thoughts: five EE guides. Note on [[Learning_Resources]].
+- **[Land use classification case study](https://www.linkedin.com/posts/milan-janosov_case-study-ugcPost-7349178124216995840-oYr0)** — Milan Janosov: QGIS, GEE and SVM. Note on [[Land_Cover]].
+- **[AlphaEarth Foundations release](https://www.linkedin.com/posts/giswqs_ai-geospatial-remotesensing-activity-7356390179416199172-AJr_)** — Qiusheng Wu: launch-day links. Note on [[Embeddings]].
+- **[Google Earth AI](https://www.linkedin.com/posts/julietrothenberg_today-were-announcing-google-earth-ai-our-activity-7356339409748705280-Dnpg)** — Juliet Rothenberg: Google's geospatial model family. Note on [[Foundation_Models]].
+- **[GeoPatch v1.3](https://www.linkedin.com/posts/hejarshahabi_geopatch-remotesensing-yolo-activity-7355631140214374402-UEw6)** — Hejar Shahabi: training patches and YOLO labels. Note on [[Deep_Learning]].
+- **[geeagri v0.1.0](https://www.linkedin.com/posts/krishnagopal-halder_geeagri-googleearthengine-remotesensing-activity-7355952592360779776-uUFs)** — Krishnagopal Halder: scalers and PCA. Note on [[Agriculture]].
+- **[JURSE 2025 proceedings](https://www.linkedin.com/posts/riadh-abdelfattah-0b55b610_jurse2025-urbanremotesensing-ieeegrss-activity-7352983845857640448-2p3h)** — Riadh Abdelfattah: first JURSE in Africa. Note on [[Urban_Planning]].
+- **[geeagri launch](https://www.linkedin.com/posts/krishnagopal-halder_remotesensing-earthobservation-agriculture-ugcPost-7353733037710299137-0xqt)** — Krishnagopal Halder: GEE for agriculture. Note on [[Agriculture]].
+- **[Smallholder field inventories](https://www.linkedin.com/posts/philipperufin_satellite-based-crop-field-delineation-appears-activity-7351534582237667328-Rb7m)** — Philippe Rufin: 21M fields in Mozambique. Note on [[Agriculture]].
 - **[Open thesis repositories](https://www.linkedin.com/posts/wambi-samuel-3923791b9_e-thesis-activity-7370122567141126144-JRKI)** — Wambi Samuel: learn from theses, not ChatGPT. Note on [[Careers_and_Research]].
 - **[GenAI for Geospatial Challenge report](https://www.linkedin.com/posts/taylorgeostl_generativeai-geospatialinnovation-disasterresponse-activity-7370858724049141762-CijR)** — Taylor Geospatial Institute: 12 teams with AWS. Note on [[Foundation_Models]].
 - **[Satellite Embedding Deep Dive](https://www.linkedin.com/posts/spatial-thoughts_satellite-embedding-deep-dive-full-workshop-activity-7371100483412885504-CtiA)** — Spatial Thoughts: a free AlphaEarth workshop. Note on [[Embeddings]].

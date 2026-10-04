@@ -9,9 +9,9 @@
 
 The three most recent additions, each from a different topic page.
 
-- [Global short vegetation height](https://landcarbonlab.org/insights/global-short-vegetation-height-outside-forest/) — annual 30 m height maps for grasslands, savannas and shrublands, 2000–2024. On [[Land_Cover]].
-- [geoai.js](https://github.com/decision-labs/geoai.js) — GeoAI models running in the browser via WebGPU and transformers.js. On [[Embeddings]].
-- [MultiClean](https://github.com/DPIRD-DMA/MultiClean) — morphological cleaning for multiclass rasters. On [[Remote_Sensing]].
+- [DINOv3](https://ai.meta.com/dinov3/) — Meta's web-trained backbone tops 10 of 12 GEO-Bench tasks with RGB only. On [[Foundation_Models]].
+- [Smallholder field inventories in Mozambique](https://doi.org/10.48550/arXiv.2507.10499) — 21M fields from 1.5 m SPOT, and why field delineation fails without VHR. On [[Agriculture]].
+- [Global 30 m GPP](https://landcarbonlab.org/insights/global-productivity-data-ecosystem-health) — bi-monthly gross primary productivity, 2000–2024. On [[Climate_Change]].
 
 ## Topics
 

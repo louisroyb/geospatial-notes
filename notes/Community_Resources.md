@@ -5,6 +5,12 @@
 
 ---
 
+- [Geospatial conferences 2026 — crowdsourced list](https://github.com/Nowosad/conferences_2026): Jakub Nowosad ([Aug 2025](https://www.linkedin.com/posts/jakub-nowosad-r_gis-remotesensing-spatialdata-activity-7363933599991037952-Lisr)): *"Which geospatial conferences are you excited about in 2026?"* A GitHub list open to pull requests. *Keywords: conferences, 2026, events, GIScience, remote sensing, community list*
+  - See [[LinkedIn]].
+
+- [10 places to find pre-trained GeoAI models](https://www.linkedin.com/posts/arkadiuszszadkowski_repositories-every-geoai-explorer-should-activity-7357363077350047745-xkwd): Arkadiusz Szadkowski (Aug 2025): *"Still training models from scratch? Don't."* The list covers TF Hub, torchvision, Hugging Face, [Living Atlas DLPKs](https://livingatlas.arcgis.com), NVIDIA NGC, [Source Cooperative](https://source.coop/), [OpenGeoAI](https://opengeoai.org), Planetary Computer, [Earth Engine ML workflows](https://developers.google.com/earth-engine/guides/machine-learning#example-workflows) and [Roboflow Universe](https://universe.roboflow.com). *Keywords: pre-trained models, model hubs, Hugging Face, Living Atlas, Roboflow, transfer learning*
+  - See [[LinkedIn]]. Related: [[Foundation_Models]]
+
 - [Microsoft AI for Good Lab — open source database](https://microsoft.github.io/aiforgoodlab/): Launched by Juan M. Lavista Ferres ([12 Sep 2025](https://www.linkedin.com/posts/jlavista_today-were-excited-to-launch-the-ai-for-activity-7372318738987024384-SuN3)): *"This will be the home for all our AI for Good assets—from open datasets, to AI models, to research tools."* It is searchable by area: geospatial (Fields of the World, Heritage Watch SHIELD), conservation, food security, disaster response, health and more. *Keywords: Microsoft, AI for Good, open datasets, models, catalogue, Fields of the World*
   - Related: [[Data]], [[Agriculture]]
 

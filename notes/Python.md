@@ -5,6 +5,9 @@
 
 ---
 
+- [ArcGIS Online with Python, GeoPandas and Folium](https://youtu.be/UzbR-sQa3_4): Tek Kshetri ([Jul 2025](https://www.linkedin.com/posts/iamtekson_arcgis-python-geopandas-activity-7356488777168547841-SRKk)): *"I show how to integrate the ArcGIS API for Python with some of my favorite geospatial libraries – GeoPandas, Folium, and Matplotlib."* *Keywords: ArcGIS API for Python, ArcGIS Online, GeoPandas, Folium, automation, tutorial*
+  - See [[LinkedIn]]. Related: [[Geospatial_Platforms]]
+
 - [NASA PO.DAAC virtual datasets with Xarray](https://www.linkedin.com/posts/ban-hikmet-11120864_virtual-data-set-starter-notebook-activity-7369311839786156032-WFQ6): Ban Hikmet (Sep 2025) shares [Xarray in 45 minutes](https://tutorial.xarray.dev/overview/xarray-in-45-min.html), the PO.DAAC Cookbook chapter on [virtual datasets](https://podaac.github.io/tutorials/quarto_text/UsingVirtualDatasets) (virtualizarr/kerchunk references over SST, SMAP salinity, SWOT and ECCO) and a [starter notebook](https://podaac.github.io/tutorials/notebooks/Advanced_cloud/using_vds_starter.html): *"VDS's eliminate the need to open and work with individual files in this way."* *Keywords: Xarray, virtualizarr, kerchunk, PO.DAAC, ocean data, cloud-native*
   - See [[LinkedIn]]. Related: [[Data]]
 

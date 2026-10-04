@@ -560,3 +560,33 @@
     - `Careers_and_Research` (3): thesis repositories, research writing, 3DForEcoTech grants (closed).
   - **Repos:** 8 added; the tracker is now 188. Licensing watch is 48: the pysarflow and NDWI repos have no license, and s2cloudless uses CC-BY-SA.
   - **LinkedIn:** 30 posts recorded on `LinkedIn.md`.
+- 2026-10-04 — *WhatsApp chat export, batch 14 (queue items 651–700, shared 19 Jul – 22 Aug 2025)* — 50 items: 39 filed, 10 behind the login wall (651, 667, 671, 679, 685, 693, 694, 697, 698, 700), and 1 skipped (665, whose list was only in an attachment).
+  - **Merged into existing notes:**
+    - AlphaEarth: launch-day links from Wu, plus the 3D visualisation.
+    - Satellite Embedding tutorials: the Spatial Thoughts announcement.
+    - TESSERA: Lisaius's original introduction.
+    - Ahrari: June–July and land-cover lists.
+    - MapYourGrid: the project home.
+    - Sundaresan: an 8-playlist follow-up.
+    - geemap: an explainer.
+  - **Consolidated into single notes:**
+    - DINOv3 (Meta page and Brandt's GEO-Bench results).
+    - geeagri (launch, v0.1.0, v0.1.1).
+    - GeoPatch (post, repo, PyPI). The note flags that the announced v1.3 and shapefile labels don't match PyPI (1.2.9) or the README.
+    - Zeyoo (two posts).
+  - **New notes:**
+    - `Foundation_Models` (4): DINOv3, Google Earth AI, MMEarth, GeoFMs on AWS. The AWS blog was matched by title because the post had no link.
+    - `Forestry` (1): AI for restoration finance.
+    - `Agriculture` (4): geeagri, Mozambique smallholder field inventories, EO-NAM, FineCrop.
+    - `Climate_Change` (1): global 30 m GPP.
+    - `Deep_Learning` (4): GeoPatch, Zeyoo, LightlyTrain, ArcGIS nDSM pre-processing.
+    - `Remote_Sensing` (1): Yale HSI ecosystem.
+    - `Land_Cover` (1): an SVM land-use case study.
+    - `Community_Resources` (2): conferences 2026, 10 model repositories.
+    - `Learning_Resources` (3): IFRC GIS training, GenAI course list, 21 Ivy League courses.
+    - `Machine_Learning` (1): regression concepts.
+    - `Python` (1): ArcGIS Online with Python.
+    - `Urban_Planning` (1): JURSE 2025.
+    - MMEarth indexed on `Benchmark_Datasets.md`.
+  - **Repos:** 10 added; the tracker is now 198. Licensing watch is 54: FineCrop and conferences_2026 have no license, MMEarth-train and the IFRC platform are non-standard, lightly-train is AGPL, and MapYourGrid uses CC-BY for code.
+  - **LinkedIn:** 28 posts recorded on `LinkedIn.md`.

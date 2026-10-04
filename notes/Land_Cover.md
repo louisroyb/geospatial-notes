@@ -5,6 +5,9 @@
 
 ---
 
+- [Supervised land use classification with QGIS, GEE and SVM — a student case study](https://www.linkedin.com/posts/milan-janosov_case-study-ugcPost-7349178124216995840-oYr0): Shared by Milan Janosov (Jul 2025), *"Would you like to see something similar in Python?"* Navodi Jayaratne's [project](https://www.linkedin.com/posts/navodi-jayaratne-45450b275_land-use-mapping-using-remote-sensing-ml-activity-7332272059944787968-xbpd): 60 QField ground-truth points, Landsat 8 signatures from Earth Engine, and an SVM in Colab. The honest results (65% OA, kappa 0.55) make it a useful teaching example. *Keywords: land use classification, SVM, QField, Landsat 8, accuracy assessment, case study*
+  - See [[LinkedIn]]. Related: [[Machine_Learning]]
+
 - [Global short vegetation height, 2000–2024](https://landcarbonlab.org/insights/global-short-vegetation-height-outside-forest/): Land & Carbon Lab and the Global Pasture Watch consortium (OpenGeoHub, NASA, LAPIG) produced the first annual global maps of median height for grasslands, savannas, shrublands and tundra at 30 m. Machine learning links about 32M ICESat-2 samples to Landsat, MODIS and terrain. It is best for 1–7 m vegetation and weaker under 0.5 m. *"Median height, on the other hand, is well suited to open landscapes because it better reflects the typical stature of grasses and shrubs."* [Paper](https://www.nature.com/articles/s41597-025-05739-6); [GEE](https://developers.google.com/earth-engine/datasets/publisher/global-pasture-watch); [viewer](https://global-pasture-watch.projects.earthengine.app/view/gsvh-30m); [STAC](https://stac.openlandmap.org/gpw_gsvh-30m/collection.json). *Keywords: vegetation height, rangelands, ICESat-2, Global Pasture Watch, Landsat, 30 m*
   - Pairs with canopy height on [[Forestry]]. Related: [[Agriculture]], [[Remote_Sensing]]
 

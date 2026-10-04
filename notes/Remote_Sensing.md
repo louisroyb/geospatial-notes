@@ -5,6 +5,9 @@
 
 ---
 
+- [Hyperspectral Imaging Open Ecosystem — Yale](https://hsi.yale.edu/): An NSF-funded portal (PI Holly Rushmeier, with RIT, UMass and Wisconsin) for hyperspectral datasets, code, tools, [tutorials](https://hsi.yale.edu/tutorials) and a [dashboard](https://hsi.yale.edu/hsi-dashboard) of remote sensing scenes, with benchmark leaderboards: *"providing access to data, software, tutorials and case studies for using hyperspectral imaging across a wide range of applications."* *Keywords: hyperspectral, open data, benchmarks, NSF POSE, tutorials, spectral libraries*
+  - Related: [[Data]], [[Learning_Resources]]
+
 - [MultiClean — morphological cleaning for multiclass rasters](https://github.com/DPIRD-DMA/MultiClean): LinkedIn post by Nicholas Wright, 3 September 2025: *"Most morphological cleaning tools only handle binary masks."* It smooths edges without breaking class boundaries, removes small islands per class and fills gaps with the nearest valid class, for land cover, cloud masks and training labels. NumPy/OpenCV/SciPy, MIT. *Keywords: post-processing, land cover, morphology, raster cleaning, DPIRD, Python*
   - Source: [LinkedIn post](https://www.linkedin.com/posts/nicholas-wright-92205985_remotesensing-geospatial-machinelearning-activity-7368857517499555841-O7Gm); see [[LinkedIn]].
   - The same DPIRD team made OmniCloudMask (below), Smoothify ([[Python]]) and Building Regulariser ([[Urban_Planning]]). Related: [[Land_Cover]], [[Code_Repositories]]

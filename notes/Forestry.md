@@ -5,6 +5,9 @@
 
 ---
 
+- [Could AI unlock finance for nature restoration?](https://landcarbonlab.org/insights/ai-model-monitoring-restoration-finance/): Land & Carbon Lab (Stam, Brandt, Rao, Anderson; Aug 2025). DINOv3, calibrated with TerraFund field data, counts trees and measures canopy height from satellite, drone and phone imagery, detecting growth within 8 months of planting: *"Preliminary results are 80% as accurate as traditional forestry methods that measure trees in the field, at 3% of the cost."* It proposes finance structures for agroforestry, ecosystem restoration and restorative value chains. Shared via LinkedIn, with tracking stripped. *Keywords: restoration finance, tree monitoring, DINOv3, TerraFund, MRV, canopy height*
+  - See DINOv3 on [[Foundation_Models]]. Related: [[Climate_Change]]
+
 - [Drivers of deforestation alerts — natural or human?](https://globalnaturewatch.org/blog/data-and-tools/drivers-deforestation-alerts): LinkedIn post by Global Forest Watch, 21 October 2025: *"For the first time, we can identify whether alerts of #TreeCoverLoss stem from natural or human causes."* Built with Wageningen University: 11 driver classes at 10 m for the Amazon, Congo Basin and Southeast Asia (2022–2024, monthly updates planned from 2026). A deep learning model on post-disturbance Sentinel-1/2 is trained with Planet imagery, plus VIIRS fire and NBR. Accuracy is best in the Congo; agriculture vs mining and flood vs fire are the main confusions. On the [GFW map](https://www.globalforestwatch.org/map/). *Keywords: deforestation drivers, GFW, Wageningen, alerts, Sentinel-1, tropical forests*
   - Source: [LinkedIn post](https://www.linkedin.com/posts/globalforestwatch_new-drivers-of-deforestation-alerts-data-ugcPost-7386110989164818432-e7ob); see [[LinkedIn]].
   - Related: [[Deep_Learning]], [[Climate_Change]]

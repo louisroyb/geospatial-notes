@@ -5,6 +5,10 @@
 
 ---
 
+- [Global 30 m gross primary productivity, 2000–2024](https://landcarbonlab.org/insights/global-productivity-data-ecosystem-health): LinkedIn post by OpenGeoHub, 22 August 2025. Global Pasture Watch's first 30 m, bi-monthly GPP dataset, updated yearly and *"Validated using 500+ ground-based flux towers"*, with a focus on grasslands and rangelands. Paper: [Isik et al., *PeerJ* 2025](https://doi.org/10.7717/peerj.19774). CC-BY via GEE, STAC and WRI Data Explorer. *Keywords: GPP, light use efficiency, grasslands, Global Pasture Watch, carbon, 30 m*
+  - Source: [LinkedIn post](https://www.linkedin.com/posts/opengeohub_the-importance-of-annual-and-bi-monthly-gpp-ugcPost-7364574741212327936-xJAT); see [[LinkedIn]].
+  - Pairs with short vegetation height on [[Land_Cover]]. Related: [[Agriculture]]
+
 - [Geospatial data science for environmental risks — 10 papers](https://www.linkedin.com/posts/milan-janosov_geospatial-data-science-has-one-of-the-best-activity-7376888718076370944-ZAHW): Milan Janosov (25 Sep 2025): *"Geospatial data science has one of the best toolsets to tackle one of the greatest challenges of our time - environmental risks."* Papers include Nepal forest regeneration, blue whales vs shipping in Patagonia, Arctic thaw slumps, taxis as air-quality sensors, a [needleleaf fire index](https://www.nature.com/articles/s44304-025-00063-w), [tornadoes with GeoPandas](https://towardsdatascience.com/analyze-tornado-data-with-python-and-geopandas-591d5e559bb4/) and the North American fire deficit. *Keywords: environmental risk, reading list, wildfire, Arctic, air quality, conservation*
   - See [[LinkedIn]].
 
