@@ -5,6 +5,9 @@
 
 ---
 
+- [Microsoft AI for Good Lab — open source database](https://microsoft.github.io/aiforgoodlab/): Launched by Juan M. Lavista Ferres ([12 Sep 2025](https://www.linkedin.com/posts/jlavista_today-were-excited-to-launch-the-ai-for-activity-7372318738987024384-SuN3)): *"This will be the home for all our AI for Good assets—from open datasets, to AI models, to research tools."* It is searchable by area: geospatial (Fields of the World, Heritage Watch SHIELD), conservation, food security, disaster response, health and more. *Keywords: Microsoft, AI for Good, open datasets, models, catalogue, Fields of the World*
+  - Related: [[Data]], [[Agriculture]]
+
 - [IEEE GRSS events calendar](https://www.grss-ieee.org/events-calendar/list/?tribe_event_display=past): The Geoscience and Remote Sensing Society's listing of IGARSS, webinars, workshops and summer schools (e.g. IGARSS 2026 in Washington DC, a physics-informed ML workshop in Crete, a microwave radiometry school). The past-events view is useful for finding webinar recordings. *Keywords: IEEE GRSS, IGARSS, webinars, summer schools, conferences, remote sensing community*
   - Related: [[Learning_Resources]]
 
@@ -12,6 +15,7 @@
   - See [[LinkedIn]]. Google Earth's change detection for investigators is on [[Geospatial_Platforms]]. Related: [[Remote_Sensing]]
 
 - [GeoAI news roundup, December 2025 — Milan Janosov](https://www.linkedin.com/posts/milan-janosov_geoai-activity-7405524389661687808-qe9u): *"a series of the latest news related to the research and application geospatial data science + AI"*. Tools: OpenAI's open-weight [GPT-OSS](https://openai.com/index/introducing-gpt-oss/), Esri's pretrained DLPKs, AlphaEarth, an AI georeferencer, [Axion Planetary MCP](https://github.com/Dhenenjay/axion-planetary-mcp) (a "virtual satellite" MCP server, MIT) and [GeoGPT](https://geogpt.zero2x.org/), which he calls "a bit controversial". Reading: Springer's [GeoAI and Human Geography](https://link.springer.com/book/10.1007/978-3-031-87421-5) and TESSERA. It ends with a plug for his paid course. *Keywords: GeoAI news, roundup, MCP, GeoGPT, Esri models, reading list*
+  - **September 2025 edition** ([post](https://www.linkedin.com/posts/milan-janosov_geoai-activity-7376534189216620546-xk-P)): GPT-OSS, Esri's 50+ pretrained models, AlphaEarth, GEOAssist, an AI georeferencer, [Axion Planetary MCP](https://github.com/Dhenenjay/axion-planetary-mcp), [GeoGPT](https://geogpt.zero2x.org/), and the book [*GeoAI and Human Geography*](https://link.springer.com/book/10.1007/978-3-031-87421-5).
   - See [[LinkedIn]]. Related: [[Agentic_Coding]], [[Foundation_Models]]
 
 - [Qiusheng Wu's open-source 2025 in review](https://www.linkedin.com/posts/giswqs_opensource-gis-geoai-activity-7412139114910830592-a_6D): LinkedIn post, 31 December 2025. Five major projects (GeoAI, SamGeo, Leafmap, AnyMap, Geemap) with nearly 14,000 stars combined, 145 YouTube videos (57K subscribers, 2.7M views), 13 QGIS plugins, and two books, [Introduction to GIS Programming](https://gispro.gishub.org) and [Spatial Data Management with DuckDB](https://duckdb.gishub.org). His output runs through these notes (GeoLibre, geolibre-rust, GeoAgent, the QGIS plugins), and this is the index to all of it: [github.com/opengeos](https://github.com/opengeos), [qgis.gishub.org](https://qgis.gishub.org). *Keywords: Qiusheng Wu, opengeos, open source, GeoAI, Leafmap, geemap*

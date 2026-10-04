@@ -9,6 +9,7 @@
   - See [[LinkedIn]]. Related: [[Data]]
 
 - [Destination Earth's Earth Data Hub adds EO data](https://earthdatahub.destine.eu/): B-Open (18 Nov 2025): *"Our Earth Data Hub service gets a major catalogue update with the first Earth observation datasets,"* starting with a sample Sentinel-1 analysis-ready collection alongside the climate data. DestinE is run by ESA, ECMWF and EUMETSAT. *Keywords: Destination Earth, Earth Data Hub, Sentinel-1, analysis-ready data, ECMWF, ESA*
+  - **Why ERA5 is chunked for time series** ([Alessandro Amici, 24 Sep 2025](https://www.linkedin.com/posts/alexamici_github-bopenedh-learning-earth-data-hub-activity-7376538095606894594-kh5k)): each chunk is a 64×64 tile covering 4,320 hours, so 30 years over a small area is about 60 chunks (~800 MB per variable). In exchange, single-time global maps are more than 4,000× slower. *"One URL, a few lines of code, no global fields and no queuing."* Best-practice notebooks are in [bopen/edh-learning](https://github.com/bopen/edh-learning).
   - See [[LinkedIn]]. Related: [[Data]], [[Climate_Change]]
 
 - [EOPF Sentinel Zarr Explorer — software and services](https://explorer.eopf.copernicus.eu/software-services): ESA's catalogue of tools for the new cloud-native Sentinel Zarr/GeoZarr products:

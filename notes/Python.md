@@ -5,6 +5,9 @@
 
 ---
 
+- [Leafmap at NASA's OPERA stakeholder workshop](https://www.linkedin.com/posts/giswqs_leafmap-geospatial-nasa-activity-7371987237464600576-a0tU): Qiusheng Wu's [slides](https://docs.google.com/presentation/d/1iTvu8Ghm6HDH9XUSkjQJYBbj46Us4d4ohsCICf5cCyA/edit) (11 Sep 2025) from the [fifth OPERA workshop](https://www.jpl.nasa.gov/go/opera/opera-workshops/fifth-workshop) (Observational Products for End-Users from Remote Sensing Analysis). The post shares only the slides. *Keywords: Leafmap, NASA OPERA, slides, Jupyter, workshop, open source*
+  - See [[LinkedIn]]. Related: [[Remote_Sensing]], [[Data]]
+
 - [Ezprocess — geospatial data prep for ML](https://github.com/Jeffreyblay/ezprocess_library): LinkedIn post by Jeffrey Blay, 23 October 2025 (with Gazali Agboola). The library *"automates the heavy lifting: LiDAR processing, raster transformation and normalization, exploratory analysis, tiling, visualization, and ML/DL-ready data prep."* On [PyPI](https://pypi.org/project/ezprocess/) (v0.1.0), MIT. It is an early release: the post had no link, so the repo was found by name. *Keywords: preprocessing, LiDAR, tiling, raster normalisation, ML data prep, PyPI*
   - Source: [LinkedIn post](https://www.linkedin.com/posts/jeffrey-blay_ezprocess-a-lightweight-python-library-for-activity-7387238776324014080-N8kv); see [[LinkedIn]].
   - Related: [[Deep_Learning]], [[Code_Repositories]]

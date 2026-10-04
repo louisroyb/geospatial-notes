@@ -100,6 +100,13 @@
 
 - [JSPS Summer Program in Japan — DAAD short scholarships](https://www2.daad.de/ausland/studieren/stipendium/de/70-stipendien-finden-und-bewerben/?detail=10000362): About two months (mid-June to mid-August) at a Japanese host institution for advanced graduate students, PhD candidates and postdocs in any discipline. It covers airfare, a ¥534,000 stipend, insurance and up to ¥158,500 in research costs. The DAAD page is in German and the programme is run for applicants from Germany. **Open — deadline 31 October 2026.** *Keywords: JSPS, DAAD, Japan, summer program, postdoc, scholarship*
 
+- [AfriClimate AI — careers page](https://apply.workable.com/africlimate-ai/): A research collective founded in 2023 at the Deep Learning Indaba, building open AI weather and climate forecasting with African met agencies, including [Forecast4Africa](https://iafrica.com/africlimate-ai-launches-forecast4africa-to-transform-weather-prediction-across-africa/) (Google.org-funded, to 2027). **No open roles at last check**; worth watching. *Keywords: AfriClimate AI, weather forecasting, Africa, climate AI, research roles, Forecast4Africa*
+
+- [Programme Management Support Senior Analyst — Cities Alliance / UNOPS, Kampala](https://jobs.unops.org/Pages/ViewVacancy/VADetails.aspx?id=30711): ICS-9, delivering the EU-funded SUIDAC programme for displacement-affected communities in Uganda, DRC and Sudan. **Closed 30 September 2025.** *Keywords: Cities Alliance, UNOPS, urban displacement, programme management, Uganda, closed*
+
+- [30-day "Become a Data Analyst" study plan](https://www.linkedin.com/posts/averyjsmith_dear-all-tomorrow-is-october-heres-a-activity-7378755296128712705-USI8): Avery Smith (Oct 2025), one free link a day covering SQL, Tableau and Power BI projects, storytelling and job hunting: *"If you spend 20 minutes a day with this plan, you'll be AMAZED at how much you will learn."* Not geospatial. *Keywords: data analyst, study plan, SQL, Power BI, career change, free*
+  - See [[LinkedIn]].
+
 ## Elsewhere in these notes
 
 - A PhD vacancy on multi-decade forest canopy height (UZH, now taken down) is on [[Forestry]].

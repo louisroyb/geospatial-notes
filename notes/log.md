@@ -492,3 +492,35 @@
     - `Careers_and_Research` (1): JSPS Summer Program via DAAD, **open until 31 Oct 2026**.
   - **Repos:** 6 added; the tracker is now 170. Licensing watch is 43, after adding SpatioTemporalYield (no license).
   - **LinkedIn:** 30 posts recorded on `LinkedIn.md`.
+- 2026-10-04 — *WhatsApp chat export, batch 12 (queue items 551–600, shared 10 Sep – 3 Oct 2025)* — 50 items: 41 filed, 7 behind the login wall (569, 574, 576, 579, 580, 582, 598), and 2 skipped.
+  - **Skipped:**
+    - 553: a personal payment link, not recorded.
+    - 568: a live GEE embeddings workshop that is now over.
+  - **Merged into existing notes:**
+    - GeoAI package: a beginner video, the TNView workshop and the DINOv3 similarity preview.
+    - QGIS Deepness: pre-trained models.
+    - Sentinel-2 Grid Explorer: the author's launch post.
+    - Awesome Spectral Indices: IDB and the ENVI docs.
+    - Ahrari: his channel, GRACE, cloud masking and 15 ML tutorials.
+    - EEFA book: another recommendation.
+    - Wu's playlists: the Spanish list of 25.
+    - Ghamisi's Udemy course: the course page, with the coupon code stripped.
+    - TESSERA: the GeoTessera library launch.
+    - Earth Data Hub: ERA5 chunking.
+    - Trazo: the WRI webinar.
+    - GlobalBuildingAtlas: Litwintschik's walkthrough and Roy's first GEE announcement.
+    - Janosov roundup: the Sept 2025 edition.
+  - **New notes:**
+    - `Agriculture` (4): invariant crop-type features (CropGlobe), Helmets Labeling Crops, CNN-RNN red-edge crop mapping, oil palm from S1 RTC.
+    - `Remote_Sensing` (3): Opuntia invasion, LiDAR odometry, Land Viewer.
+    - `Deep_Learning` (1): MapAnything.
+    - `Urban_Planning` (3): Building Regulariser, global urbanization studies, Cities at War (past).
+    - `Data` (1): 13 free data sources.
+    - `Climate_Change` (1): environmental-risk papers.
+    - `Community_Resources` (1): Microsoft AI for Good Lab hub.
+    - `Learning_Resources` (3): Forrest's 11 GeoAI resources, DL-in-GIS resources, four free courses.
+    - `Python` (1): Leafmap at NASA OPERA.
+    - `Careers_and_Research` (3): AfriClimate AI (no open roles), Cities Alliance/UNOPS Kampala (closed), the data-analyst study plan.
+    - CropGlobe and the Kenya helmet dataset indexed on `Benchmark_Datasets.md`.
+  - **Repos:** 10 added; the tracker is now 180. Licensing watch is 45, adding GlobalBuildingAtlas (non-standard) and lidar_odometry_for_beginner (none).
+  - **LinkedIn:** 29 posts recorded on `LinkedIn.md`.

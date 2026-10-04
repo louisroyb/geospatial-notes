@@ -5,6 +5,9 @@
 
 ---
 
+- [Geospatial data science for environmental risks — 10 papers](https://www.linkedin.com/posts/milan-janosov_geospatial-data-science-has-one-of-the-best-activity-7376888718076370944-ZAHW): Milan Janosov (25 Sep 2025): *"Geospatial data science has one of the best toolsets to tackle one of the greatest challenges of our time - environmental risks."* Papers include Nepal forest regeneration, blue whales vs shipping in Patagonia, Arctic thaw slumps, taxis as air-quality sensors, a [needleleaf fire index](https://www.nature.com/articles/s44304-025-00063-w), [tornadoes with GeoPandas](https://towardsdatascience.com/analyze-tornado-data-with-python-and-geopandas-591d5e559bb4/) and the North American fire deficit. *Keywords: environmental risk, reading list, wildfire, Arctic, air quality, conservation*
+  - See [[LinkedIn]].
+
 - [Our Global FEWture: Cultivating Food-Energy-Water Solutions (Coursera)](https://www.coursera.org/learn/our-global-fewture-cultivating-food-energy-water-solutions/): A ~6-hour beginner course from the University of Maryland (Heidi Scott) on the food-energy-water nexus, *"an example of integrated systems thinking in science that can resolve resource gaps and help communities plan for the future."* It covers climate impacts on FEW systems, global case studies and solutions. Coursera Plus or financial aid. *Keywords: food-energy-water nexus, systems thinking, climate impacts, Coursera, UMD, beginner*
   - Related: [[Agriculture]], [[Learning_Resources]]
 

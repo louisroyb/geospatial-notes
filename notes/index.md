@@ -9,9 +9,9 @@
 
 The three most recent additions, each from a different topic page.
 
-- [Drivers of deforestation alerts](https://globalnaturewatch.org/blog/data-and-tools/drivers-deforestation-alerts) — GFW and Wageningen classify tree-loss alerts as natural or human-caused at 10 m. On [[Forestry]].
-- [TIF](https://github.com/GERSL/TIF) — 10 m Harmonized Landsat–Sentinel-2 time series through time-series fusion. On [[Remote_Sensing]].
-- [Earth Copilot](https://github.com/microsoft/Planetary-Explorer) — Microsoft and NASA's multi-agent natural-language assistant over Planetary Computer. On [[Agentic_Coding]].
+- [Invariant features for global crop type classification](https://arxiv.org/abs/2509.03497) — Sentinel-2 crop classifiers transfer across hemispheres after all. On [[Agriculture]].
+- [MapAnything](https://map-anything.github.io) — Meta's single feed-forward model for metric 3D reconstruction. On [[Deep_Learning]].
+- [Building Regulariser](https://github.com/DPIRD-DMA/Building-Regulariser) — a free Python alternative to ArcGIS's footprint regularisation. On [[Urban_Planning]].
 
 ## Topics
 

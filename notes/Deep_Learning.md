@@ -5,6 +5,9 @@
 
 ---
 
+- [MapAnything — universal feed-forward metric 3D reconstruction](https://map-anything.github.io): Meta Reality Labs and CMU (3DV 2026, [arXiv 2509.13414](https://arxiv.org/abs/2509.13414)). One transformer takes one or many images, plus optional intrinsics, poses or depth, and outputs metric 3D geometry and cameras, covering SfM, MVS, monocular depth and localisation. *"MapAnything leverages a factored representation of multi-view scene geometry, i.e., a collection of depth maps, local ray maps, camera poses, and a metric scale factor."* [facebookresearch/map-anything](https://github.com/facebookresearch/map-anything), Apache-2.0. *Keywords: 3D reconstruction, photogrammetry, multi-view stereo, depth, Meta, transformer*
+  - Related: [[Foundation_Models]], [[Code_Repositories]]
+
 - [Google DeepMind AI research foundations — Google Skills](https://www.skills.google/collections/deepmind): Three hands-on courses: build your own small language model, represent language data, and design and train neural networks. *"It is designed for university students and community learners who are proficient in python."* *Keywords: DeepMind, language models, neural networks, Google Skills, course, foundations*
   - Related: [[Learning_Resources]]
 
@@ -30,6 +33,7 @@
   - See [[LinkedIn]]. Related: [[Learning_Resources]], [[Code_Repositories]]
 
 - [Train custom deep learning models without code — QGIS Deepness workflow](https://youtu.be/HIsheKG-lE4): LinkedIn post by Hans van der Kwast, 5 April 2026, on a video tutorial: export training tiles with the QGIS Deepness plugin, annotate in Roboflow, train YOLO with Ultralytics, export to ONNX, and run inference back in Deepness. The example detects wind turbines in aerial photos. *"Personally, I still prefer training people over training models…"* *Keywords: YOLO, QGIS Deepness, Roboflow, ONNX, object detection, no-code*
+  - **Running pre-trained Deepness models** ([Geospatial School video, Feb 2024](https://youtu.be/UTiILsy0Mt8)): install the plugin, download models from its zoo and segment aerial or satellite images: *"This is one way you can apply Geo AI directly in QGIS."* Plugin: [PUTvision/qgis-plugin-deepness](https://github.com/PUTvision/qgis-plugin-deepness), Apache-2.0.
   - Source: [LinkedIn post](https://www.linkedin.com/posts/jvdkwast_train-custom-deep-learning-models-without-share-7446559794037014528-3gLS); see [[LinkedIn]].
   - Related: [[Learning_Resources]], [[Remote_Sensing]]
 
@@ -42,6 +46,10 @@
   - Related: [[Python]], [[Foundation_Models]], [[Benchmark_Datasets]]
 
 - [GeoAI plugin for QGIS](https://plugins.qgis.org/plugins/geoai/#plugin-about): GeoAI plugin for QGIS providing AI-powered geospatial analysis including tree segmentation (DeepForest), water segmentation (OmniWaterMask), Moondream vision-language model, Segment Anything (SAM1/SAM2/SAM3), semantic segmentation, and instance segmentation (Mask R-CNN). Created by Qiusheng Wu and maintained as giswqs, version 1.7.0 released July 2026, for QGIS 3.28 through 4.99. DeepForest covers tree crowns and also birds, livestock, nests and dead trees; SAM supports text, point and box prompts; semantic segmentation takes custom U-Net, DeepLabV3+ or FPN models. Needs the geoai-py package and PyTorch, with a built-in dependency installer that detects NVIDIA CUDA or Apple MPS. Repository: [opengeos/geoai](https://github.com/opengeos/geoai). *Keywords: QGIS plugin, DeepForest, Segment Anything, Moondream, Mask R-CNN, Qiusheng Wu*
+  - **More GeoAI package posts from Qiusheng Wu, Sept–Oct 2025**:
+    - A [beginner video](https://www.linkedin.com/posts/giswqs_geoai-pythonai-satelliteimagery-activity-7379860491571208192-Ftk0) on detecting buildings, trees, pools and solar panels: *"No deep learning background needed."*
+    - The [TNView 2025 workshop recording](https://www.linkedin.com/posts/giswqs_geospatial-geoai-ai-activity-7372325205249269761-wbAm) ([video](https://youtu.be/jdK-cleFUkc), [notebook](https://opengeoai.org/workshops/TNView_2025)), which covers segmentation from preprocessing to interactive results.
+    - A [sneak peek](https://www.linkedin.com/posts/giswqs_geospatial-dinov3-activity-7371216662483845120-z41S) of one-click DINOv3 similarity search.
   - **The Python package behind it** ([opengeoai.org](https://opengeoai.org/)):
     - [v0.16.0](https://www.linkedin.com/posts/giswqs_geoai-deeplearning-geospatialai-activity-7384710928220602368-MRq2) (16 Oct 2025) can *"Train image segmentation models and instantly visualize performance metrics with a single line of Python code"* ([example](https://opengeoai.org/examples/train_segmentation_model)).
     - A [video tutorial](https://www.linkedin.com/posts/giswqs_deeplearning-geoai-python-activity-7380959964237938689-ccO7) (6 Oct 2025) exports training chips with annotation overlays in one line, for one image or many.

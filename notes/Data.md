@@ -5,6 +5,9 @@
 
 ---
 
+- [Essential free GIS and remote sensing data sources](https://www.linkedin.com/posts/tewodros-taffese-assefa-phd-167546b8_gis-geospatial-datascience-activity-7375457397303156736-quM2): Tewodros Taffese Assefa (21 Sep 2025) lists 13 platforms: [Natural Earth](https://www.naturalearthdata.com/), [Geofabrik](https://download.geofabrik.de/), [EarthExplorer](https://earthexplorer.usgs.gov/), NASA Earthdata, [UNEP GeoData](https://geodata.grid.unep.ch/), [WorldClim](https://www.worldclim.org/), [Global Climate Monitor](https://www.globalclimatemonitor.org/), [FAO](https://data.apps.fao.org/), [OpenTopography](https://opentopography.org/), [OpenAerialMap](https://openaerialmap.org/) and [ArcGIS Hub](https://hub.arcgis.com/search). Its Copernicus SciHub link is retired; use the Copernicus Data Space Ecosystem. *Keywords: open data, data portals, DEM, climate data, boundaries, imagery*
+  - See [[LinkedIn]]. Related: [[Community_Resources]]
+
 - [GeoConverter — private in-browser format conversion](https://geoconverter.mikoding.com/): LinkedIn post by Jatmiko Herjati, 14 October 2025: *"GeoConverter is a privacy-first geospatial file converter that runs entirely in your browser. No uploads."* It uses WebAssembly to convert between GeoJSON, Shapefile, GeoPackage, KML, GPX, GML, FlatGeobuf, CSV, PMTiles and MBTiles, with reprojection, filters, simplification and make-valid. *Keywords: format conversion, WebAssembly, GDAL, privacy, PMTiles, browser*
   - Source: [LinkedIn post](https://www.linkedin.com/posts/jherjati_gis-geospatial-webmapping-ugcPost-7383755533318672385-FQTz); see [[LinkedIn]].
   - Related: [[Geospatial_Platforms]]
