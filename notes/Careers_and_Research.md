@@ -98,6 +98,8 @@
 - [How to apply for Erasmus programmes — webinar recording](https://www.youtube.com/watch?v=nqliM-axzaY): Shared by Thomas Burns Botchwey (9 Nov 2025), a recorded webinar on Erasmus Mundus applications. *Keywords: Erasmus Mundus, scholarships, application tips, webinar, study abroad, master's*
   - See [[LinkedIn]].
 
+- [JSPS Summer Program in Japan — DAAD short scholarships](https://www2.daad.de/ausland/studieren/stipendium/de/70-stipendien-finden-und-bewerben/?detail=10000362): About two months (mid-June to mid-August) at a Japanese host institution for advanced graduate students, PhD candidates and postdocs in any discipline. It covers airfare, a ¥534,000 stipend, insurance and up to ¥158,500 in research costs. The DAAD page is in German and the programme is run for applicants from Germany. **Open — deadline 31 October 2026.** *Keywords: JSPS, DAAD, Japan, summer program, postdoc, scholarship*
+
 ## Elsewhere in these notes
 
 - A PhD vacancy on multi-decade forest canopy height (UZH, now taken down) is on [[Forestry]].

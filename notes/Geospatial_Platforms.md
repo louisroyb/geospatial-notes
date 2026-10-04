@@ -5,6 +5,9 @@
 
 ---
 
+- [Scan My GIS File — MapHub](https://www.maphub.co/): A drag-and-drop browser previewer showing feature counts, attribute distributions and plots for Shapefile, GeoJSON or GeoPackage files ([demo](https://www.youtube.com/watch?v=q6UdIgenc00)). Matt Forrest [recommended it](https://www.linkedin.com/posts/mbforr_there-are-a-lot-of-ways-to-explore-spatial-activity-7384926782837293057-sEBB) (17 Oct 2025) instead of opening QGIS just to check a file: *"Because understanding your data shouldn't be the bottleneck."* **The original `scan-my-gis-file.maphub.co` address no longer resolves**; the feature seems to have moved into MapHub's paid plan. *Keywords: data preview, attribute profiling, MapHub, browser tool, Shapefile, GeoPackage*
+  - See [[LinkedIn]]. Related: [[Data]]
+
 - [Destination Earth's Earth Data Hub adds EO data](https://earthdatahub.destine.eu/): B-Open (18 Nov 2025): *"Our Earth Data Hub service gets a major catalogue update with the first Earth observation datasets,"* starting with a sample Sentinel-1 analysis-ready collection alongside the climate data. DestinE is run by ESA, ECMWF and EUMETSAT. *Keywords: Destination Earth, Earth Data Hub, Sentinel-1, analysis-ready data, ECMWF, ESA*
   - See [[LinkedIn]]. Related: [[Data]], [[Climate_Change]]
 

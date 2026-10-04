@@ -9,6 +9,36 @@ Posts shared as links from the mobile app arrive with `utm_*` and `rcm` tracking
 
 | Item | Author | Kind | Filed under |
 |---|---|---|---|
+| [10 free environmental courses](https://www.linkedin.com/posts/jawahir-khaleel-151736276_10-free-environmental-courses-with-certificates-activity-7387727886696235008-VTFW) | Jawahir Khaleel | Feed post, shared link | [[Learning_Resources]] |
+| [Digital tools for participatory planning](https://www.linkedin.com/posts/urban-living-lab-center_urbanmobility-participatoryplanning-digitaltools-activity-7386657642242277376-Au37) | Urban Living Lab Center | Feed post, shared link | [[Urban_Planning]] |
+| [Ezprocess](https://www.linkedin.com/posts/jeffrey-blay_ezprocess-a-lightweight-python-library-for-activity-7387238776324014080-N8kv) | Jeffrey Blay | Feed post, shared link | [[Python]] |
+| [FTW across CONUS in 30 minutes](https://www.linkedin.com/posts/junxeo_geoai-torchgeo-ftw-activity-7387496450735255552-o-7y) | Jun Xiong | Feed post, shared link | [[Agriculture]] |
+| [TerraMind any-to-any](https://www.linkedin.com/posts/hdcouture_earthobservation-remotesensing-aifoundationmodels-activity-7386717998822105088-ifmp) | Heather Couture | Feed post, shared link | [[Foundation_Models]] |
+| [Spatial ML with R series](https://www.linkedin.com/posts/jakub-nowosad-r_rstats-spatialml-machinelearning-activity-7386749657181392896-AGbV) | Jakub Nowosad | Feed post, shared link | [[Machine_Learning]] |
+| [Mundi SAM launch](https://www.linkedin.com/posts/michael-egan-4941a4145_segment-anything-for-geospatial-online-is-activity-7386577271576465408-bZwo) | Michael Egan | Feed post, shared link | [[Deep_Learning]] |
+| [Earth Copilot tutorial](https://www.linkedin.com/posts/jclopeznasa_github-microsoftearth-copilot-an-ai-powered-activity-7386080775479119872-naE2) | Juan Carlos López | Feed post, shared link | [[Agentic_Coding]] |
+| [Drivers of deforestation alerts](https://www.linkedin.com/posts/globalforestwatch_new-drivers-of-deforestation-alerts-data-ugcPost-7386110989164818432-e7ob) | Global Forest Watch | Feed post, shared link | [[Forestry]] |
+| [Scan My GIS File](https://www.linkedin.com/posts/mbforr_there-are-a-lot-of-ways-to-explore-spatial-activity-7384926782837293057-sEBB) | Matt Forrest | Feed post, shared link | [[Geospatial_Platforms]] |
+| [Free university courses (AI, data, env.)](https://www.linkedin.com/posts/africans-in-environmental-science_introduction-to-spatial-analysis-urban-activity-7385927185074921473-wsMj) | Africans in Environmental Science | Feed post, shared link | [[Learning_Resources]] |
+| [Spatio-temporal crop yield](https://www.linkedin.com/posts/xiaoxiang-zhu-90b473228_new-paper-alert-how-can-we-predict-crop-activity-7386022537211817985-fGh7) | Xiaoxiang Zhu | Feed post, shared link | [[Agriculture]] |
+| [Zero-code agents for Planetary Computer](https://www.linkedin.com/posts/giswqs_geospatial-geoai-opensource-activity-7386021483271135232-91A3) | Qiusheng Wu | Feed post, shared link | [[Agentic_Coding]] |
+| [GeoAI v0.16.0](https://www.linkedin.com/posts/giswqs_geoai-deeplearning-geospatialai-activity-7384710928220602368-MRq2) | Qiusheng Wu | Feed post, shared link | [[Deep_Learning]] |
+| [LiDAR biomass in QGIS](https://www.linkedin.com/posts/rubenduarte94_qgis-lidar-gis-activity-7385315383429279744-d0DQ) | Rúben Duarte | Feed post, shared link | [[Forestry]] |
+| [Geospatial in DataFusion](https://www.linkedin.com/posts/development-seed_geospatial-datafusion-talk-kyle-barron-activity-7381793710000308224-lEkM) | Development Seed | Feed post, shared link | [[Data]] |
+| [GeoConverter](https://www.linkedin.com/posts/jherjati_gis-geospatial-webmapping-ugcPost-7383755533318672385-FQTz) | Jatmiko Herjati | Feed post, shared link | [[Data]] |
+| [40 Python tutorials (Oct 2025)](https://www.linkedin.com/posts/milan-janosov_connectingthedots-gis-spatialanalytics-activity-7383052050437419008-fxvF) | Milan Janosov | Feed post, shared link | [[Python]] |
+| [Leafmap floating sidebar](https://www.linkedin.com/posts/giswqs_geospatial-leafmap-python-activity-7381703167006244864-k8kp) | Qiusheng Wu | Feed post, shared link | [[Python]] |
+| [105 free Python GIS tutorials](https://www.linkedin.com/posts/mashford-mahute-012487178_gis-geospatial-python-activity-7382428647011344384-L1Fg) | Mashford Mahute | Feed post, shared link | [[Python]] |
+| [ThinkingEarth hackathon](https://www.linkedin.com/posts/thinkingearth_ai-earthobservation-hackathon-activity-7382327551802712064-MJKl) | ThinkingEarth | Feed post, shared link | [[Foundation_Models]] |
+| [GEE lake tutorials](https://www.linkedin.com/posts/amirhosseinahrari_lake-remotesensing-geospatial-activity-7381747201473159168-r-V-) | Amirhossein Ahrari | Feed post, shared link | [[Google_Earth_Engine]] |
+| [GeoAI training data in seconds](https://www.linkedin.com/posts/giswqs_deeplearning-geoai-python-activity-7380959964237938689-ccO7) | Qiusheng Wu | Feed post, shared link | [[Deep_Learning]] |
+| [GlobalBuildingAtlas in GEE](https://www.linkedin.com/posts/samapriya_globalbuildingatlas-globalbuildingsatlas-activity-7376262106146361344-O8f7) | Samapriya Roy | Feed post, shared link | [[Urban_Planning]] |
+| [Free resources week 6: GeoAI](https://www.linkedin.com/posts/pgrsc_geoai-artificial-intelligence-for-geospatial-activity-7379006760184926208-IYui) | Pacific GIS & RS Council | Feed post, shared link | [[Deep_Learning]] |
+| [GEE embeddings in Python](https://www.linkedin.com/posts/milos-popovic-phd-89778117_python-the-secret-weapon-for-analyzing-google-activity-7380589377262997504-ooli) | Milos Popovic | Feed post, shared link | [[Embeddings]] |
+| [30 reasons spatial data rocks](https://www.linkedin.com/posts/milan-janosov_geospatial-data-activity-7379829344405385218-c-gT) | Milan Janosov | Feed post, shared link | [[Urban_Planning]] |
+| [Study Area Map Generator](https://www.linkedin.com/posts/cesar-ivan-alvarez-0847253a_gis-remotesensing-python-activity-7379983032323297281-AQci) | César Iván Alvarez | Feed post, shared link | [[Cartography]] |
+| [WorldCereal custom maps](https://www.linkedin.com/posts/zoltan-szantoi_worldcereal-earthobservation-esa-activity-7379853625000439808-CHnM) | Zoltan Szantoi | Feed post, shared link | [[Agriculture]] |
+| [TIF in RSE](https://www.linkedin.com/posts/kexin-song-98b196149_remotesensing-imagefusion-earthobservation-ugcPost-7380073300498030592-dZVF) | Kexin Song | Feed post, shared link | [[Remote_Sensing]] |
 | [QGIS Raster Value Extractor](https://www.linkedin.com/posts/filippo-casini-52606a1b0_github-filippocasini98qgis-raster-value-extractor-activity-7394435412036935680-HJzQ) | Filippo Casini | Feed post, shared link | [[Agriculture]] |
 | [ORBITaL-Net](https://www.linkedin.com/posts/milan-janosov_365papers-day313-activity-7393350420200411136-8C9-) | Milan Janosov | Feed post, shared link | [[Urban_Planning]] |
 | [Free RS courses with certificates](https://www.linkedin.com/posts/balkis-selmi_remotesensing-gis-geoai-activity-7393233209091706880-bA-4) | Balkis Selmi | Feed post, shared link | [[Learning_Resources]] |
@@ -420,6 +450,36 @@ Posts shared as links from the mobile app arrive with `utm_*` and `rcm` tracking
 
 ## Posts
 
+- **[10 free environmental courses](https://www.linkedin.com/posts/jawahir-khaleel-151736276_10-free-environmental-courses-with-certificates-activity-7387727886696235008-VTFW)** — Jawahir Khaleel: certificate courses from UN CC:Learn, WHO, Alison. Note on [[Learning_Resources]].
+- **[Digital tools for participatory planning](https://www.linkedin.com/posts/urban-living-lab-center_urbanmobility-participatoryplanning-digitaltools-activity-7386657642242277376-Au37)** — Urban Living Lab Center: a free self-paced e-course. Note on [[Urban_Planning]].
+- **[Ezprocess](https://www.linkedin.com/posts/jeffrey-blay_ezprocess-a-lightweight-python-library-for-activity-7387238776324014080-N8kv)** — Jeffrey Blay: a geospatial ML data-prep library. Note on [[Python]].
+- **[FTW across CONUS in 30 minutes](https://www.linkedin.com/posts/junxeo_geoai-torchgeo-ftw-activity-7387496450735255552-o-7y)** — Jun Xiong: TorchGeo meetup notes on cheap national inference. Note on [[Agriculture]].
+- **[TerraMind any-to-any](https://www.linkedin.com/posts/hdcouture_earthobservation-remotesensing-aifoundationmodels-activity-7386717998822105088-ifmp)** — Heather Couture: the only FM beating U-Nets on PANGAEA. Note on [[Foundation_Models]].
+- **[Spatial ML with R series](https://www.linkedin.com/posts/jakub-nowosad-r_rstats-spatialml-machinelearning-activity-7386749657181392896-AGbV)** — Jakub Nowosad: six posts on spatial ML packages. Note on [[Machine_Learning]].
+- **[Mundi SAM launch](https://www.linkedin.com/posts/michael-egan-4941a4145_segment-anything-for-geospatial-online-is-activity-7386577271576465408-bZwo)** — Michael Egan: raster to GeoJSON in three steps. Note on [[Deep_Learning]].
+- **[Earth Copilot tutorial](https://www.linkedin.com/posts/jclopeznasa_github-microsoftearth-copilot-an-ai-powered-activity-7386080775479119872-naE2)** — Juan Carlos López: a multi-agent EO assistant on Azure. Note on [[Agentic_Coding]].
+- **[Drivers of deforestation alerts](https://www.linkedin.com/posts/globalforestwatch_new-drivers-of-deforestation-alerts-data-ugcPost-7386110989164818432-e7ob)** — Global Forest Watch: natural vs human causes of tree loss. Note on [[Forestry]].
+- **[Scan My GIS File](https://www.linkedin.com/posts/mbforr_there-are-a-lot-of-ways-to-explore-spatial-activity-7384926782837293057-sEBB)** — Matt Forrest: previewing GIS files in seconds. Note on [[Geospatial_Platforms]].
+- **[Free university courses (AI, data, env.)](https://www.linkedin.com/posts/africans-in-environmental-science_introduction-to-spatial-analysis-urban-activity-7385927185074921473-wsMj)** — Africans in Environmental Science: MIT, Stanford and Harvard courses. Note on [[Learning_Resources]].
+- **[Spatio-temporal crop yield](https://www.linkedin.com/posts/xiaoxiang-zhu-90b473228_new-paper-alert-how-can-we-predict-crop-activity-7386022537211817985-fGh7)** — Xiaoxiang Zhu: time series alone predicts strongly. Note on [[Agriculture]].
+- **[Zero-code agents for Planetary Computer](https://www.linkedin.com/posts/giswqs_geospatial-geoai-opensource-activity-7386021483271135232-91A3)** — Qiusheng Wu: natural-language STAC search. Note on [[Agentic_Coding]].
+- **[GeoAI v0.16.0](https://www.linkedin.com/posts/giswqs_geoai-deeplearning-geospatialai-activity-7384710928220602368-MRq2)** — Qiusheng Wu: one-line segmentation training. Note on [[Deep_Learning]].
+- **[LiDAR biomass in QGIS](https://www.linkedin.com/posts/rubenduarte94_qgis-lidar-gis-activity-7385315383429279744-d0DQ)** — Rúben Duarte: tree-level AGB and carbon. Note on [[Forestry]].
+- **[Geospatial in DataFusion](https://www.linkedin.com/posts/development-seed_geospatial-datafusion-talk-kyle-barron-activity-7381793710000308224-lEkM)** — Development Seed: Kyle Barron's talk. Note on [[Data]].
+- **[GeoConverter](https://www.linkedin.com/posts/jherjati_gis-geospatial-webmapping-ugcPost-7383755533318672385-FQTz)** — Jatmiko Herjati: private in-browser format conversion. Note on [[Data]].
+- **[40 Python tutorials (Oct 2025)](https://www.linkedin.com/posts/milan-janosov_connectingthedots-gis-spatialanalytics-activity-7383052050437419008-fxvF)** — Milan Janosov: an earlier version of his list. Note on [[Python]].
+- **[Leafmap floating sidebar](https://www.linkedin.com/posts/giswqs_geospatial-leafmap-python-activity-7381703167006244864-k8kp)** — Qiusheng Wu: a MapLibre layer panel. Note on [[Python]].
+- **[105 free Python GIS tutorials](https://www.linkedin.com/posts/mashford-mahute-012487178_gis-geospatial-python-activity-7382428647011344384-L1Fg)** — Mashford Mahute: Popovic's list. Note on [[Python]].
+- **[ThinkingEarth hackathon](https://www.linkedin.com/posts/thinkingearth_ai-earthobservation-hackathon-activity-7382327551802712064-MJKl)** — ThinkingEarth: EO FM, weather and VLM tracks. Note on [[Foundation_Models]].
+- **[GEE lake tutorials](https://www.linkedin.com/posts/amirhosseinahrari_lake-remotesensing-geospatial-activity-7381747201473159168-r-V-)** — Amirhossein Ahrari: 10 water-resources tutorials. Note on [[Google_Earth_Engine]].
+- **[GeoAI training data in seconds](https://www.linkedin.com/posts/giswqs_deeplearning-geoai-python-activity-7380959964237938689-ccO7)** — Qiusheng Wu: one-line chip export. Note on [[Deep_Learning]].
+- **[GlobalBuildingAtlas in GEE](https://www.linkedin.com/posts/samapriya_globalbuildingatlas-globalbuildingsatlas-activity-7376262106146361344-O8f7)** — Samapriya Roy: 2.75B buildings in the community catalog. Note on [[Urban_Planning]].
+- **[Free resources week 6: GeoAI](https://www.linkedin.com/posts/pgrsc_geoai-artificial-intelligence-for-geospatial-activity-7379006760184926208-IYui)** — Pacific GIS & RS Council: the GeoAI package. Note on [[Deep_Learning]].
+- **[GEE embeddings in Python](https://www.linkedin.com/posts/milos-popovic-phd-89778117_python-the-secret-weapon-for-analyzing-google-activity-7380589377262997504-ooli)** — Milos Popovic: k-means on AlphaEarth. Note on [[Embeddings]].
+- **[30 reasons spatial data rocks](https://www.linkedin.com/posts/milan-janosov_geospatial-data-activity-7379829344405385218-c-gT)** — Milan Janosov: an urban science reading list. Note on [[Urban_Planning]].
+- **[Study Area Map Generator](https://www.linkedin.com/posts/cesar-ivan-alvarez-0847253a_gis-remotesensing-python-activity-7379983032323297281-AQci)** — César Iván Alvarez: a Shiny app for locator maps. Note on [[Cartography]].
+- **[WorldCereal custom maps](https://www.linkedin.com/posts/zoltan-szantoi_worldcereal-earthobservation-esa-activity-7379853625000439808-CHnM)** — Zoltan Szantoi: train your own crop models on CDSE. Note on [[Agriculture]].
+- **[TIF in RSE](https://www.linkedin.com/posts/kexin-song-98b196149_remotesensing-imagefusion-earthobservation-ugcPost-7380073300498030592-dZVF)** — Kexin Song: 10 m HLS through time-series fusion. Note on [[Remote_Sensing]].
 - **[QGIS Raster Value Extractor](https://www.linkedin.com/posts/filippo-casini-52606a1b0_github-filippocasini98qgis-raster-value-extractor-activity-7394435412036935680-HJzQ)** — Filippo Casini: clip, grid and sample rasters per field. Note on [[Agriculture]].
 - **[ORBITaL-Net](https://www.linkedin.com/posts/milan-janosov_365papers-day313-activity-7393350420200411136-8C9-)** — Milan Janosov: a global building-extraction training library. Note on [[Urban_Planning]].
 - **[Free RS courses with certificates](https://www.linkedin.com/posts/balkis-selmi_remotesensing-gis-geoai-activity-7393233209091706880-bA-4)** — Balkis Selmi: the first copy of the four-course list. Note on [[Learning_Resources]].

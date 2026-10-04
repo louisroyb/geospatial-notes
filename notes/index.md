@@ -9,9 +9,9 @@
 
 The three most recent additions, each from a different topic page.
 
-- [Open Building Map](https://tech.marksblogg.com/open-building-map.html) — 2.7 billion buildings merged from Google, OSM and Microsoft, with Mark Litwintschik's Parquet walkthrough. On [[Urban_Planning]].
-- [Delineate Anything](https://huggingface.co/datasets/MykolaL/FBIS-22M) — Resolution-agnostic field boundary instance segmentation and the FBIS-22M dataset. On [[Agriculture]].
-- [Chronos-2](https://huggingface.co/amazon/chronos-2) — Amazon's zero-shot time series foundation model, a candidate for EO time series. On [[Foundation_Models]].
+- [Drivers of deforestation alerts](https://globalnaturewatch.org/blog/data-and-tools/drivers-deforestation-alerts) — GFW and Wageningen classify tree-loss alerts as natural or human-caused at 10 m. On [[Forestry]].
+- [TIF](https://github.com/GERSL/TIF) — 10 m Harmonized Landsat–Sentinel-2 time series through time-series fusion. On [[Remote_Sensing]].
+- [Earth Copilot](https://github.com/microsoft/Planetary-Explorer) — Microsoft and NASA's multi-agent natural-language assistant over Planetary Computer. On [[Agentic_Coding]].
 
 ## Topics
 

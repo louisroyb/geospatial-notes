@@ -5,6 +5,13 @@
 
 ---
 
+- [Earth Copilot — deploy a natural-language EO assistant on Azure](https://github.com/microsoft/Planetary-Explorer): LinkedIn post by Juan Carlos López, 20 October 2025: *"Exploring satellite data just became as simple as having a conversation."* Earth Copilot was first built with NASA. In version 2.0, by Melisa Bardhi, it is a multi-agent system that finds catalogs, renders maps and explains results over Planetary Computer (e.g. HLS). The repo now lives at microsoft/Planetary-Explorer (MIT). *Keywords: Earth Copilot, Planetary Computer, multi-agent, Azure, NASA, natural language*
+  - Source: [LinkedIn post](https://www.linkedin.com/posts/jclopeznasa_github-microsoftearth-copilot-an-ai-powered-activity-7386080775479119872-naE2); see [[LinkedIn]].
+  - Related: [[Geospatial_Platforms]], [[Code_Repositories]]
+
+- [Zero-code AI agents for Planetary Computer](https://www.linkedin.com/posts/giswqs_geospatial-geoai-opensource-activity-7386021483271135232-91A3): Qiusheng Wu (20 Oct 2025) shows the GeoAI package's agents searching, filtering and mapping Sentinel-2, Landsat, NAIP and DEM data from plain-language requests in Jupyter: *"Unlock satellite data without writing a single line of code!"* *Keywords: AI agents, Planetary Computer, STAC, GeoAI, Leafmap, natural language*
+  - See [[LinkedIn]]. Related: [[Deep_Learning]]
+
 - [What is agentic GIS? — CARTO](https://carto.com/blog/what-is-agentic-gis): LinkedIn post by Javier de la Torre (CARTO), 26 November 2025: spatial problems are iterative, so the breakthrough is agents that choose tools and data, run multi-step workflows, and check and redo their own outputs. *"This is why Agentic AI is such a natural fit for GIS."* He argues it works now because open formats, cloud-native compute, spatial foundation models and MCP have arrived together. The blog frames three pillars: reach (agents), velocity (assistants) and depth (embeddings). *Keywords: agentic GIS, CARTO, AI agents, MCP, cloud-native, spatial reasoning*
   - Source: [LinkedIn post](https://www.linkedin.com/posts/jatorre_most-discussions-about-ai-focus-on-models-share-7399373230110818305-8xFc); see [[LinkedIn]].
   - Related: [[Geospatial_Platforms]]

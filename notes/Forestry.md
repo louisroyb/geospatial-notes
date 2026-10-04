@@ -5,6 +5,17 @@
 
 ---
 
+- [Drivers of deforestation alerts — natural or human?](https://globalnaturewatch.org/blog/data-and-tools/drivers-deforestation-alerts): LinkedIn post by Global Forest Watch, 21 October 2025: *"For the first time, we can identify whether alerts of #TreeCoverLoss stem from natural or human causes."* Built with Wageningen University: 11 driver classes at 10 m for the Amazon, Congo Basin and Southeast Asia (2022–2024, monthly updates planned from 2026). A deep learning model on post-disturbance Sentinel-1/2 is trained with Planet imagery, plus VIIRS fire and NBR. Accuracy is best in the Congo; agriculture vs mining and flood vs fire are the main confusions. On the [GFW map](https://www.globalforestwatch.org/map/). *Keywords: deforestation drivers, GFW, Wageningen, alerts, Sentinel-1, tropical forests*
+  - Source: [LinkedIn post](https://www.linkedin.com/posts/globalforestwatch_new-drivers-of-deforestation-alerts-data-ugcPost-7386110989164818432-e7ob); see [[LinkedIn]].
+  - Related: [[Deep_Learning]], [[Climate_Change]]
+
+- [GEOS-EUDR brief: which global forest maps work for EUDR?](https://zenodo.org/records/17287552): Thünen Institute technical and policy brief No. 1 (Freitas Beyer, Köthke, Lippe; Oct 2025; CC BY 4.0). It reviews 21 global forest and tree cover datasets against the EUDR (cutoff 31 Dec 2020). Only 8 meet the spatial, temporal and definitional criteria, and just 2 match all three forest-definition thresholds (≥10% canopy, ≥5 m height, ≥0.5 ha). *"dataset selection matters immensely for EUDR compliance."* It recommends multi-source, context-aware verification. [Project](https://www.thuenen.de/en/cross-institutional-projects/geos-eudr). *Keywords: EUDR, forest maps, reference data, compliance, Thünen, deforestation regulation*
+  - Pairs with Natural Forests of the World and JRC GFC2020 above. Related: [[Agriculture]], [[Data]]
+
+- [Tree-level biomass and carbon from LiDAR in QGIS](https://youtu.be/KmKqyqbaKAs): Rúben Duarte's video (Maps by RGD, Oct 2025) works through height from LiDAR, DBH from a Weibull equation, AGB with Chave (2014), and carbon via the IPCC factor: *"Converting biomass to carbon using the IPCC (47%) reference value."* *Keywords: LiDAR, above-ground biomass, carbon, QGIS, allometry, individual trees*
+  - Source: [LinkedIn post](https://www.linkedin.com/posts/rubenduarte94_qgis-lidar-gis-activity-7385315383429279744-d0DQ); see [[LinkedIn]].
+  - Related: [[Climate_Change]]
+
 - [WRI Tropical Tree Cover 2020 on Cecil](https://www.linkedin.com/posts/alex-logan-cecil_we-are-happy-to-announce-that-the-world-resources-activity-7389715706084323328-A3C_): Alex Logan (30 Oct 2025): WRI's Tropical Tree Cover datasets are now on the Cecil platform. *"One dataset estimates tree extent probability at 10 m spatial resolution, while the other aggregates this into fractional tree cover at 0.5 ha (~70 m)."* A free account is needed; the link was in the comments. *Keywords: tropical tree cover, WRI, Cecil, 10 m, fractional cover, trees outside forests*
   - See [[LinkedIn]]. Related: [[Data]]
 

@@ -454,3 +454,41 @@
     - FBIS-22M, ORBITaL-Net and OpenFACADES indexed on `Benchmark_Datasets.md`.
   - **Repos:** 9 added; the tracker is now 164. Licensing watch is 42: flowmapper and flowmapblue.R are non-standard, and Delineate-Anything is AGPL-3.0. Also fixed a stray "and" in that paragraph.
   - **LinkedIn:** 32 posts recorded on `LinkedIn.md`.
+- 2026-10-04 — *WhatsApp chat export, batch 11 (queue items 501–550, shared 23 Sep – 26 Oct 2025)* — 50 items: 40 filed, 1 private group post (505), 3 behind the login wall (511, 513, 528), 1 failed to fetch (548, an OpenReview page behind a CAPTCHA), and 5 skipped.
+  - **Skipped:**
+    - 502: generic SEO content.
+    - 538–541: four personal payment-transfer links, deliberately not recorded anywhere.
+  - **Merged into existing notes:**
+    - TerraMind: the base model, via Couture.
+    - FTW: CONUS inference in 30 minutes.
+    - Mundi SAM: the launch post.
+    - GeoAI plugin: the Python package's v0.16.0, its chip tutorial and the PGRSC feature.
+    - Leafmap: the floating sidebar.
+    - Janosov's 40 tutorials: the Oct 2025 version.
+    - Ahrari: lake tutorials.
+    - GlobalBuildingAtlas: now in GEE.
+    - Geocomputation with R: the book.
+    - MIT OCW list: a wider AIES list.
+    - Climate courses: Khaleel's 10-course list.
+  - **Consolidated into single notes:**
+    - Scan My GIS File (516 and 517). Its URL no longer resolves, and the note says so.
+    - TIF (549 and 550).
+  - **New notes:**
+    - `Forestry` (3): GFW drivers of deforestation alerts, the GEOS-EUDR brief, LiDAR biomass in QGIS.
+    - `Agriculture` (2): WorldCereal custom maps, spatio-temporal yield.
+    - `Remote_Sensing` (1): TIF.
+    - `Agentic_Coding` (2): Earth Copilot, zero-code Planetary Computer agents.
+    - `Data` (2): GeoConverter, DataFusion.
+    - `Geospatial_Platforms` (1): Scan My GIS File.
+    - `Python` (3): Ezprocess, Popovic's tutorial list, ArcPy display field.
+    - `Machine_Learning` (1): spatial ML with R.
+    - `Deep_Learning` (1): DeepMind on Google Skills.
+    - `Embeddings` (1): Popovic's AlphaEarth k-means.
+    - `Google_Earth_Engine` (1): the community-catalog changelog.
+    - `Urban_Planning` (2): participatory planning e-course, Janosov's 30 papers.
+    - `Cartography` (1): Study Area Map Generator.
+    - `Foundation_Models` (1): ThinkingEarth hackathon.
+    - `Learning_Resources` (2): Tommy's Codebase, Harita Hive (paid).
+    - `Careers_and_Research` (1): JSPS Summer Program via DAAD, **open until 31 Oct 2026**.
+  - **Repos:** 6 added; the tracker is now 170. Licensing watch is 43, after adding SpatioTemporalYield (no license).
+  - **LinkedIn:** 30 posts recorded on `LinkedIn.md`.

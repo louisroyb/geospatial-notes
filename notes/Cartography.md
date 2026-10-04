@@ -5,6 +5,9 @@
 
 ---
 
+- [Study Area Map Generator](https://cesarivanalvarez.shinyapps.io/country-map/): LinkedIn post by César Iván Alvarez, 3 October 2025: *"Do you need a study area map for your article or document but don't want to spend time creating this classic figure for your papers?"* A free Shiny app for country-level locator maps, described in [Alvarez et al. 2025, *ISPRS IJGI*](https://www.mdpi.com/2220-9964/14/10/387). *Keywords: study area map, locator map, Shiny, R, publication figures, cartography*
+  - Source: [LinkedIn post](https://www.linkedin.com/posts/cesar-ivan-alvarez-0847253a_gis-remotesensing-python-activity-7379983032323297281-AQci); see [[LinkedIn]].
+
 - [Open science with Quarto, GitHub and flow maps — EDSD workshop](https://www.ekotov.pro/2025-EDSD-open-science-quarto-github/): LinkedIn post by Egor Kotov, 24 October 2025, on teaching European Doctoral School of Demography students to publish reproducible work: *"This year, I made a significant change: I demoed everything in Positron."* Students mapped the [Scholarly Migration Database](https://www.scholarlymigration.org/) as flow maps with [flowmapblue](https://flowmapblue.github.io/flowmapblue.R/) and [flowmapper](https://github.com/JohMast/flowmapper), and published them via GitHub Pages. *Keywords: flow maps, Quarto, reproducibility, R, migration, GitHub Pages*
   - Source: [LinkedIn post](https://www.linkedin.com/posts/egorkotov_flowmapblue-flowmapper-ugcPost-7387508524765040640-zLP4); see [[LinkedIn]].
   - Related: [[Learning_Resources]]

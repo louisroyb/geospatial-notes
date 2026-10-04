@@ -5,6 +5,14 @@
 
 ---
 
+- [GeoConverter — private in-browser format conversion](https://geoconverter.mikoding.com/): LinkedIn post by Jatmiko Herjati, 14 October 2025: *"GeoConverter is a privacy-first geospatial file converter that runs entirely in your browser. No uploads."* It uses WebAssembly to convert between GeoJSON, Shapefile, GeoPackage, KML, GPX, GML, FlatGeobuf, CSV, PMTiles and MBTiles, with reprojection, filters, simplification and make-valid. *Keywords: format conversion, WebAssembly, GDAL, privacy, PMTiles, browser*
+  - Source: [LinkedIn post](https://www.linkedin.com/posts/jherjati_gis-geospatial-webmapping-ugcPost-7383755533318672385-FQTz); see [[LinkedIn]].
+  - Related: [[Geospatial_Platforms]]
+
+- [Geospatial in Apache DataFusion — Kyle Barron](https://www.youtube.com/watch?v=ElAiN_1fX_4): Shared by Development Seed (Oct 2025). At the NYC DataFusion meetup (talk at 45:40; [slides](https://docs.google.com/presentation/d/1367RElMQzZtCOiw7N4-YiL6MFPsOVtm-zkbAdDkQNMY/edit)), Barron *"showed how Apache DataFusion is evolving into a powerful engine for geospatial workloads"*: vector types through GeoArrow and GeoRust, with spatial joins and file formats still to come. *Keywords: DataFusion, GeoArrow, GeoRust, Rust, query engine, Development Seed*
+  - Source: [LinkedIn post](https://www.linkedin.com/posts/development-seed_geospatial-datafusion-talk-kyle-barron-activity-7381793710000308224-lEkM); see [[LinkedIn]].
+  - Related: [[SQL]]
+
 - [osmextract — OSM extraction powered by DuckDB](https://github.com/tobilg/osmextract): LinkedIn post by Tobias Müller, 20 November 2025. It *"can filter and extract local or remote OpenStreetMap PBF files, and save the features either to GeoParquet files, or DuckDB databases,"* ready for his duckdb-tileserver. Rust, Apache-2.0. *Keywords: OpenStreetMap, DuckDB, GeoParquet, PBF extraction, Rust, tile server*
   - Source: [LinkedIn post](https://www.linkedin.com/posts/tobiasmuellerlg_introducing-osmextract-high-performance-share-7397337467458105344-PY2f); see [[LinkedIn]].
   - Related: [[SQL]], [[Code_Repositories]]

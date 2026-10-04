@@ -5,6 +5,10 @@
 
 ---
 
+- [Clustering Google satellite embeddings in Python — Milos Popovic](https://youtu.be/WjoB7mou2n8): LinkedIn post, 5 October 2025: *"After years of teaching GIS in R, I'm finally opening the Python chapter."* The video loads AlphaEarth embeddings from Earth Engine, runs k-means and maps the clusters as land-cover classes. *Keywords: AlphaEarth, k-means, Earth Engine, Python, unsupervised, land cover*
+  - Source: [LinkedIn post](https://www.linkedin.com/posts/milos-popovic-phd-89778117_python-the-secret-weapon-for-analyzing-google-activity-7380589377262997504-ooli); see [[LinkedIn]].
+  - Related: [[Google_Earth_Engine]]
+
 - [Embedding calculus — a deforestation vector from AlphaEarth](https://medium.com/@guneetmutreja/beyond-pixels-a-new-era-of-geospatial-reasoning-with-alphaearths-embedding-calculus-6dcf073db057): LinkedIn post by Guneet Mutreja, 18 November 2025. His Medium piece treats embeddings like word vectors: using Hansen masks over the Amazon, *"Vector(Deforestation) = Mean(Cleared) - Mean(Pristine)"*. Projecting every pixel onto that vector gives a continuous forest degradation index, and similarity to the cleared signature finds hotspots. It is written in Earth Engine Python with geemap. *Keywords: embedding arithmetic, AlphaEarth, deforestation, degradation index, Hansen, Earth Engine*
   - Source: [LinkedIn post](https://www.linkedin.com/posts/guneet-mutreja-a3ab5aa4_beyond-pixels-a-new-era-of-geospatial-reasoning-activity-7396530250521923584-AIm5); see [[LinkedIn]].
   - Related: [[Forestry]], [[Google_Earth_Engine]]

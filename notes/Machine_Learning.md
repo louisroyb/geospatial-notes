@@ -5,6 +5,10 @@
 
 ---
 
+- [Spatial machine learning with R — six-part blog series](https://geocompx.org/post/2025/sml-bp1/): LinkedIn post by Jakub Nowosad, 22 October 2025. The series covers an overview, caret, tidymodels, mlr3, specialised packages (RandomForestsGLS, spatialRF, meteo) and spatial cross-validation (sperrorest, blockCV). *"Spatial machine learning is generally different from traditional machine learning, as variables located closer to each other are often more similar than those located further apart."* *Keywords: spatial ML, R, tidymodels, mlr3, spatial cross-validation, autocorrelation*
+  - Source: [LinkedIn post](https://www.linkedin.com/posts/jakub-nowosad-r_rstats-spatialml-machinelearning-activity-7386749657181392896-AGbV); see [[LinkedIn]].
+  - Related: [[Learning_Resources]]
+
 - [How trustworthy are your spatial predictions? — Jakub Nowosad](https://jakubnowosad.com/rome2025): LinkedIn post, 1 December 2025, on his Rome R Users Group talk: *"I showed practical ways to evaluate where spatial predictions are trustworthy, and where they aren't."* It compares IDW, ordinary and universal kriging, and ML on CAST's splotdata, then covers the fixes: the area of applicability ([Meyer & Pebesma 2021](https://doi.org/10.1111/2041-210X.13650)), dissimilarity maps, and kNNDM cross-validation that adapts to the prediction area ([Linnenbrink et al. 2024](https://doi.org/10.5194/gmd-17-5897-2024)). [Video](https://youtu.be/uZe7thh80MI). *Keywords: area of applicability, kNNDM, spatial validation, kriging, CAST, R*
   - Source: [LinkedIn post](https://www.linkedin.com/posts/jakub-nowosad-r_rspatial-rstats-gischat-share-7401258999137865728--HZy); see [[LinkedIn]].
   - The R counterpart to seapig on [[Deep_Learning]] and the spatial-CV bounds paper below. Related: [[Deep_Learning]], [[Learning_Resources]]

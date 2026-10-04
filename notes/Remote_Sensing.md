@@ -5,6 +5,10 @@
 
 ---
 
+- [TIF — 10 m Harmonized Landsat–Sentinel-2 time series](https://github.com/GERSL/TIF): LinkedIn post by Kexin Song, 4 October 2025, on the *Remote Sensing of Environment* paper ([DOI](https://doi.org/10.1016/j.rse.2025.115035)) with Zhe Zhu, Shi Qiu, Chris Neigh, Pontus Olofsson and others: *"Unlock the 10 m Harmonized Landsat and Sentinel-2 (HLS) imagery time series."* Time-series-based fusion puts 30 m Landsat onto 10 m Sentinel-2 grids without bandpass correction, copes with heterogeneity and land change, and scales across CPU cores with no GPU. MATLAB, BSD-3-Clause (GERSL, UConn). *Keywords: image fusion, HLS, Landsat, Sentinel-2, time series, 10 m*
+  - Source: [LinkedIn post](https://www.linkedin.com/posts/kexin-song-98b196149_remotesensing-imagefusion-earthobservation-ugcPost-7380073300498030592-dZVF); see [[LinkedIn]].
+  - Related: [[Data]], [[Code_Repositories]]
+
 - [Sentinel-2 Grid Explorer](https://dpird-dma.github.io/Sentinel-2-grid-explorer/): Shared by Matt Forrest (31 Oct 2025) from Nicholas Wright: *"an open source web tool that makes it easy to visualize all 57k+ grid tiles globally, select the ones you need, and share or export them effortlessly"*, instead of loading the MGRS shapefile into QGIS. [DPIRD-DMA/Sentinel-2-grid-explorer](https://github.com/DPIRD-DMA/Sentinel-2-grid-explorer), MIT. *Keywords: Sentinel-2, MGRS tiles, tiling grid, web map, tile selection, DPIRD*
   - Source: [LinkedIn post](https://www.linkedin.com/posts/mbforr_if-youve-ever-worked-with-sentinel-2-data-share-7390077845668118528-o2jb); see [[LinkedIn]].
   - From the DPIRD team behind Smoothify ([[Python]]) and OmniWaterMask ([[Deep_Learning]]). Related: [[Data]], [[Code_Repositories]]
