@@ -9,6 +9,9 @@ Posts shared as links from the mobile app arrive with `utm_*` and `rcm` tracking
 
 | Item | Author | Kind | Filed under |
 |---|---|---|---|
+| [Free SQL games](https://www.linkedin.com/posts/karina-samsonova_you-can-learn-sql-by-playing-a-game-i-am-share-7450153114856443904-iYVs) | Karina Samsonova | Feed post, text pasted | [[SQL]] |
+| [STAC Zap](https://www.linkedin.com/posts/daniel-wiesmann_jev-stac-earthobservation-share-7511116157735690240-WdT1) | Daniel Wiesmann | Feed post, shared link | [[Data]] |
+| [dClimate TESSERA inference](https://www.linkedin.com/posts/davidjphelan_learn-more-about-how-dclimate-was-able-to-share-7510397927140433920-HPQP) | David Phelan | Feed post, shared link | [[Embeddings]] |
 | [AlphaEarth crop-type transfer](https://www.linkedin.com/posts/esmaeel-adrah_how-well-do-crop-type-models-transfer-with-activity-7403650918333763584-5wLI) | Esmaeel Adrah | Feed post, shared link | [[Agriculture]] |
 | [IoU Calculator v1](https://www.linkedin.com/posts/reut-keller_qgis-gis-geospatial-activity-7414581969415561216-Kk3E) | Reut Keller Azulay | Feed post | [[Machine_Learning]] |
 | [Geo embeddings explained](https://www.linkedin.com/posts/aravindh-subramanian_geo-embeddings-explained-understanding-locations-activity-7411331109193654272-rS4N) | Aravindh S. S. | Feed post, shared link | [[Embeddings]] |
@@ -585,6 +588,9 @@ Posts shared as links from the mobile app arrive with `utm_*` and `rcm` tracking
 
 ## Posts
 
+- **[Free SQL games](https://www.linkedin.com/posts/karina-samsonova_you-can-learn-sql-by-playing-a-game-i-am-share-7450153114856443904-iYVs)** — Karina Samsonova: seven games that make SQL practice stick. Note on [[SQL]].
+- **[STAC Zap](https://www.linkedin.com/posts/daniel-wiesmann_jev-stac-earthobservation-share-7511116157735690240-WdT1)** — Daniel Wiesmann: one prompt becomes a valid STAC query via jev. Note on [[Data]].
+- **[dClimate TESSERA inference](https://www.linkedin.com/posts/davidjphelan_learn-more-about-how-dclimate-was-able-to-share-7510397927140433920-HPQP)** — David Phelan: the re-engineered pipeline cuts cost by 40%+; merged. Note on [[Embeddings]].
 - **[AlphaEarth crop-type transfer](https://www.linkedin.com/posts/esmaeel-adrah_how-well-do-crop-type-models-transfer-with-activity-7403650918333763584-5wLI)** — Esmaeel Adrah: temporal misalignment breaks geographic transfer for winter crops. Note on [[Agriculture]].
 - **[IoU Calculator v1](https://www.linkedin.com/posts/reut-keller_qgis-gis-geospatial-activity-7414581969415561216-Kk3E)** — Reut Keller Azulay: first release of the QGIS plugin. Note on [[Machine_Learning]].
 - **[Geo embeddings explained](https://www.linkedin.com/posts/aravindh-subramanian_geo-embeddings-explained-understanding-locations-activity-7411331109193654272-rS4N)** — Aravindh S. S.: a beginner's explainer from H3 to learned embeddings. Note on [[Embeddings]].

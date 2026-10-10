@@ -1,9 +1,19 @@
 # SQL
 
 **Summary**: Notes on SQL for spatial work — query engines, spatial joins, indexing, and the performance tradeoffs between them.
-**Last updated**: 2026-10-03
+**Last updated**: 2026-10-11
 
 ---
+
+- *Learn SQL by playing a game — seven free SQL games*: LinkedIn post by Karina Samsonova, 15 April 2026 (text pasted by hand; the post is behind the login wall). *"You can learn SQL by playing a game. I am not joking. Most people quit SQL tutorials because dry exercises on fake datasets feel pointless. These free games give you a reason to write queries. A murder to solve. An island to survive. A crime to crack. A fleet to command. Same SQL. Much harder to quit."* *Keywords: SQL, games, learn by playing, beginners, free, interview prep*
+  - [SQL Murder Mystery](https://mystery.knightlab.com): *"A murder has been committed in SQL City. Use queries to find the killer. Built by Northwestern University. Teaches joins better than most tutorials. The one that started the genre."*
+  - [SQL Squid Game](https://datalemur.com/sql-game): *"Answer business questions in SQL or face the consequences. You have been bait-and-switched into a data analyst role by a mysterious organisation. Genuinely funny, genuinely educational."*
+  - [SQL Island](https://sql-island.informatik.uni-kl.de): *"You crash-land on a desert island and need SQL to survive. Want food? Query the database. Need a job? ORDER BY gold. Best for absolute beginners — low pressure, clear progression. By default game is in German. Go the Menu options on top left → Click on "Sprache Wechseln" — Change language → Click on the language you need"*
+  - [Lost at SQL](https://lost-at-sql.therobinlord.com): *"A text-based game for analysts and marketers. Short, focused missions that teach specific SQL concepts without committing to a full course."*
+  - [SQL Noir](https://sqlnoir.com): *"Play as a detective solving crimes with SQL. Multiple cases, realistic databases, suspects and witness interviews. Newer than the others and well built."*
+  - [SQL Case Files](https://sqlcasefiles.com): *"Crime-solving challenges with a live SQLite database running in your browser. 100+ levels, completely free. Good for building from beginner to interview-ready."*
+  - [GalaXQL](https://sol.gfxile.net/galaxql.html): *"A 3D galaxy that responds to your SQL commands. Create, modify, and destroy stars using queries. Unusual, memorable, and surprisingly effective for learning."*
+  - Source: [LinkedIn post](https://www.linkedin.com/posts/karina-samsonova_you-can-learn-sql-by-playing-a-game-i-am-share-7450153114856443904-iYVs); see [[LinkedIn]]. Related: [[Learning_Resources]]
 
 - [Learn spatial databases with PostGIS and QGIS — GIS Schools](https://www.youtube.com/playlist?list=PLumZ7YQFbxIw5WJFXFgL-rCoDCE8O9mmw): A free 21-video playlist covering PostgreSQL/PostGIS installation, shapefile import and export, SQL basics through JOINs and CASE, SRIDs and geometry vs geography, spatial joins and indexes, and editing from QGIS. *Keywords: PostGIS, spatial SQL, QGIS DB Manager, indexes, spatial joins, YouTube*
   - Related: [[Learning_Resources]]

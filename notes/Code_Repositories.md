@@ -9,6 +9,7 @@
 
 | Repository                                                                                    | What it is                               | Filed under           | Language | License       | ★   | Last push  |
 | --------------------------------------------------------------------------------------------- | ---------------------------------------- | --------------------- | -------- | ------------- | --- | ---------- |
+| [developmentseed/stac-zap](https://github.com/developmentseed/stac-zap) | One-prompt STAC search with jev | [[Data]] | TypeScript | none | 9 | 2026-10-02 |
 | [giswqs/aws-open-data-blogpost](https://github.com/giswqs/aws-open-data-blogpost) | AWS Open Data visualisation notebook | [[Data]] | Jupyter | MIT | 1 | 2026-10-05 |
 | [Nibir088/IRRISIGHT](https://github.com/Nibir088/IRRISIGHT) | IRRISIGHT irrigation benchmark pipeline | [[Agriculture]] | Python | none | 12 | 2025-06-16 |
 | [danfenghong/IEEE_TGRS_SpectralFormer](https://github.com/danfenghong/IEEE_TGRS_SpectralFormer) | SpectralFormer hyperspectral transformer | [[Deep_Learning]] | Python | none | 339 | 2024-11-30 |
@@ -164,7 +165,7 @@
 | [nadiopt-cell/sentinel1_plugun](https://github.com/nadiopt-cell/sentinel1_plugun) | Sentinel-1 SAR QGIS plugin | [[Remote_Sensing]] | Python | custom (CC0 per author) | 1 | 2026-08-28 |
 | [ucam-eo/geotessera](https://github.com/ucam-eo/geotessera) | Python client for TESSERA embeddings | [[Embeddings]] | Python | MIT | 353 | 2026-10-01 |
 | [spatialnode/superstac](https://github.com/spatialnode/superstac) | Multi-catalog STAC search + GeoParquet inventory | [[Data]] | Rust | MIT | 3 | 2026-10-03 |
-| [dClimate/tessera-embeddings](https://github.com/dClimate/tessera-embeddings) | TESSERA embedding generation | [[Embeddings]] | Python | Apache-2.0 | 3 | 2026-10-03 |
+| [dClimate/tessera-embeddings](https://github.com/dClimate/tessera-embeddings) | TESSERA embedding generation | [[Embeddings]] | Python | Apache-2.0 | 4 | 2026-10-10 |
 | [waleedgeo/GFSM](https://github.com/waleedgeo/GFSM) | Global 30 m flood susceptibility map | [[Climate_Change]] | Jupyter | custom | 2 | 2026-10-03 |
 | [wateraccounting/WaPOR4Global](https://github.com/wateraccounting/WaPOR4Global) | WaPOR MOOC scripts | [[Agriculture]] | Jupyter | AGPL-3.0 | 3 | 2026-10-02 |
 | [Open-EO/openeo-community-examples](https://github.com/Open-EO/openeo-community-examples) | openEO notebooks incl. embedding UDFs | [[Embeddings]] | Jupyter | Apache-2.0 | 78 | 2026-09-28 |

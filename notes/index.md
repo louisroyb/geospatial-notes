@@ -9,9 +9,9 @@
 
 The three most recent additions, each from a different topic page.
 
+- [STAC Zap](https://developmentseed.org/stac-zap/) — type one request, get a valid STAC search. On [[Data]].
+- [Seven free SQL games](https://www.linkedin.com/posts/karina-samsonova_you-can-learn-sql-by-playing-a-game-i-am-share-7450153114856443904-iYVs) — murder mysteries and desert islands that teach queries. On [[SQL]].
 - [AlphaEarth crop-type transfer](https://esmaeeladrah.com/2025/09/14/generalizing-crop-types-with-embedding/) — embeddings generalise, but the calendar year splits winter wheat. On [[Agriculture]].
-- [All AlphaEarth embeddings in Major TOM format](https://www.linkedin.com/posts/mikolaj-czerkawski_%F0%9D%90%82%F0%9D%90%A8%F0%9D%90%A5%F0%9D%90%9A%F0%9D%90%9B-%F0%9D%90%8D%F0%9D%90%A8%F0%9D%90%AD%F0%9D%90%9E%F0%9D%90%9B%F0%9D%90%A8%F0%9D%90%A8%F0%9D%90%A4-%F0%9D%90%98%F0%9D%90%A8%F0%9D%90%AE-%F0%9D%90%9C%F0%9D%90%9A-activity-7396477011948535808-KxVd) — the full catalogue, free, in a community format. On [[Embeddings]].
-- [WSTS+ wildfire spread benchmark](https://arxiv.org/abs/2502.12003) — twice the fire years, and bigger models don't help. On [[Climate_Change]].
 
 ## Topics
 
