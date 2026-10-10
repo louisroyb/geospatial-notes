@@ -1,7 +1,7 @@
 # Learning Resources
 
 **Summary**: Courses, tutorials, lectures, and training material for Earth observation and geospatial work, grouped by format.
-**Last updated**: 2026-10-10
+**Last updated**: 2026-10-11
 
 ---
 
@@ -224,6 +224,9 @@ Providers and hubs that host many courses; browse them rather than take one cour
 ## Tutorials and hands-on guides
 
 Step-by-step guides, notebooks and workshop materials you can work through on your own.
+
+- [Supervised Classification with Satellite Embeddings](https://developers.google.com/earth-engine/tutorials/community/satellite-embedding-03-supervised-classification): Spatial Thoughts. The third Earth Engine community tutorial in the satellite embedding series maps mangroves on the Kenyan coast. About 10 training points per class (mangrove, water, other) feed a k-nearest-neighbours classifier on AlphaEarth embedding vectors: *"Satellite Embeddings can be used for standard remote sensing classification workflows."* *Keywords: AlphaEarth, supervised classification, kNN, mangroves, Earth Engine, few labels*
+  - Related: [[Embeddings]], [[Google_Earth_Engine]]
 
 - [EOPF 101 — cloud-native Sentinel data with Zarr and STAC](https://eopf-toolkit.github.io/eopf-101/): LinkedIn post by Development Seed, 16 July 2025: an open guide (ESA EOPF Toolkit, with thriveGEO and Sparkgeo) on *"modern, cloud-native workflows for accessing and analyzing Copernicus Sentinel-1, -2, and -3 data."* It covers Zarr structure, chunking, STAC discovery, Python/R/Julia/QGIS tools, and wildfire, coastal, flood and vegetation applications. Apache-2.0. *Keywords: EOPF, Zarr, STAC, Sentinel, cloud-native, tutorial*
   - Source: [LinkedIn post](https://www.linkedin.com/posts/development-seed_now-live-eopf-101-a-hands-on-open-guide-activity-7351324504817627137-b-ye); see [[LinkedIn]].

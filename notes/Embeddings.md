@@ -1,9 +1,17 @@
 # Embeddings
 
 **Summary**: Notes on vector embeddings, including Earth observation embedding products and their use in downstream tasks.
-**Last updated**: 2026-10-10
+**Last updated**: 2026-10-11
 
 ---
+
+- [Geo embeddings explained — locations as vectors](https://geoawesome.com/geo-embeddings-explained-understanding-locations-as-vectors/): Geoawesome article by Aravindh Subramanian (21 Dec 2025), shared on LinkedIn on 29 December 2025. It is a beginner's walkthrough of why raw latitude and longitude make poor ML features. It moves from Haversine distances and Uber's H3 to learned location embeddings such as Loc2Vec, then to Clay and SkyScript: *"Geo embeddings solve these problems by turning locations into vectors."* The author credits Konstantin Klemmer's paper. *Keywords: geo embeddings, location encoding, H3, Loc2Vec, beginner, explainer*
+  - Source: [LinkedIn post](https://www.linkedin.com/posts/aravindh-subramanian_geo-embeddings-explained-understanding-locations-activity-7411331109193654272-rS4N); see [[LinkedIn]].
+  - Related: [[Machine_Learning]], [[Learning_Resources]]
+
+- [All AlphaEarth embeddings in Major TOM format](https://www.linkedin.com/posts/mikolaj-czerkawski_%F0%9D%90%82%F0%9D%90%A8%F0%9D%90%A5%F0%9D%90%9A%F0%9D%90%9B-%F0%9D%90%8D%F0%9D%90%A8%F0%9D%90%AD%F0%9D%90%9E%F0%9D%90%9B%F0%9D%90%A8%F0%9D%90%A8%F0%9D%90%A4-%F0%9D%90%98%F0%9D%90%A8%F0%9D%90%AE-%F0%9D%90%9C%F0%9D%90%9A-activity-7396477011948535808-KxVd): LinkedIn post by Mikolaj Czerkawski, 18 November 2025: *"You can now access the entire catalogue of Google AlphaEarth embeddings in Major TOM format for free."* He announced it with a Colab notebook and thanked Jeff Albrecht (LGND), Jennifer Marcus (Taylor Geospatial Engine), Jed Sundwall (Radiant Earth) and the Cloud-Native Geospatial Forum. The notebook link was in the comments and was not recovered. The full AEF catalogue is also mirrored on [Source Cooperative](https://source.coop/tge-labs/aef/v1) by TGE Labs; this is probably the community copy, but the post doesn't confirm it. *Keywords: AlphaEarth, Major TOM, Source Cooperative, Colab, open access, CNG*
+  - Source: [LinkedIn post](https://www.linkedin.com/posts/mikolaj-czerkawski_%F0%9D%90%82%F0%9D%90%A8%F0%9D%90%A5%F0%9D%90%9A%F0%9D%90%9B-%F0%9D%90%8D%F0%9D%90%A8%F0%9D%90%AD%F0%9D%90%9E%F0%9D%90%9B%F0%9D%90%A8%F0%9D%90%A8%F0%9D%90%A4-%F0%9D%90%98%F0%9D%90%A8%F0%9D%90%AE-%F0%9D%90%9C%F0%9D%90%9A-activity-7396477011948535808-KxVd); see [[LinkedIn]].
+  - Related: [[Data]], [[Foundation_Models]]
 
 - [AlphaEarth embeddings for targeted rangeland restoration in Karamoja](https://www.sciencedirect.com/science/article/pii/S2352938526004362): Paper in *Remote Sensing Applications: Society and Environment* (Bile, Mureithi, Fiorentino, D'Urso, Belfiore; [DOI](https://doi.org/10.1016/j.rsase.2026.102303), online September 2026). In the Karamoja border region of Kenya and Uganda, the 64-dimensional AlphaEarth Foundations embeddings are grouped by similarity-based clustering and combined with Land Degradation Surveillance Framework (LDSF) field plots and gridded precipitation, temperature and evapotranspiration. Random forests, explained with SHAP, classify the clusters and predict soil erosion and herbaceous cover. The clusters matched eco-climatic groupings, which turns the embeddings into field-interpretable units. *Keywords: AlphaEarth, land degradation, rangelands, LDSF, random forest, SHAP*
   - Related: [[Climate_Change]], [[Machine_Learning]], [[Agriculture]]

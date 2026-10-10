@@ -1,7 +1,7 @@
 # LinkedIn
 
 **Summary**: Tracking page for everything in these notes that came from LinkedIn — posts, and articles found through the feed.
-**Last updated**: 2026-10-10
+**Last updated**: 2026-10-11
 
 ---
 
@@ -9,6 +9,27 @@ Posts shared as links from the mobile app arrive with `utm_*` and `rcm` tracking
 
 | Item | Author | Kind | Filed under |
 |---|---|---|---|
+| [AlphaEarth crop-type transfer](https://www.linkedin.com/posts/esmaeel-adrah_how-well-do-crop-type-models-transfer-with-activity-7403650918333763584-5wLI) | Esmaeel Adrah | Feed post, shared link | [[Agriculture]] |
+| [IoU Calculator v1](https://www.linkedin.com/posts/reut-keller_qgis-gis-geospatial-activity-7414581969415561216-Kk3E) | Reut Keller Azulay | Feed post | [[Machine_Learning]] |
+| [Geo embeddings explained](https://www.linkedin.com/posts/aravindh-subramanian_geo-embeddings-explained-understanding-locations-activity-7411331109193654272-rS4N) | Aravindh S. S. | Feed post, shared link | [[Embeddings]] |
+| [Synthetic data for PV detection](https://www.linkedin.com/posts/enes-hisam_impact-of-synthetic-data-on-deep-learning-activity-7402670381691641856-Voqo) | Enes Hisam | Feed post, shared link | [[Deep_Learning]] |
+| [Nano Banana Pro for informality](https://www.linkedin.com/posts/arielnoyman_nano-pro-feels-like-a-step-function-when-activity-7397661020128919553-lzBL) | Ariel Noyman | Feed post | [[Urban_Planning]] |
+| [AlphaEarth in Major TOM format](https://www.linkedin.com/posts/mikolaj-czerkawski_%F0%9D%90%82%F0%9D%90%A8%F0%9D%90%A5%F0%9D%90%9A%F0%9D%90%9B-%F0%9D%90%8D%F0%9D%90%A8%F0%9D%90%AD%F0%9D%90%9E%F0%9D%90%9B%F0%9D%90%A8%F0%9D%90%A8%F0%9D%90%A4-%F0%9D%90%98%F0%9D%90%A8%F0%9D%90%AE-%F0%9D%90%9C%F0%9D%90%9A-activity-7396477011948535808-KxVd) | Mikolaj Czerkawski | Feed post | [[Embeddings]] |
+| [WSTS+ wildfire benchmark](https://www.linkedin.com/posts/saadlahrichi_improved-wildfire-spread-prediction-with-activity-7394739506454839296-gvcp) | Saad Lahrichi | Feed post, shared link | [[Climate_Change]] |
+| [OBIA crop classification from UAVs](https://www.linkedin.com/posts/antsasarobidy_mlarticle-activity-7391804601336905728-pQIK) | Antsa Sarobidy Randrianantenaina | Feed post, shared link | [[Agriculture]] |
+| [Operational change detection review](https://www.linkedin.com/posts/nicolas-gonthier-242734a5_operational-change-detection-for-geographical-activity-7391169721980825600-6gA7) | Nicolas Gonthier | Feed post, shared link | [[Remote_Sensing]] |
+| [Agricultural plot assistant](https://www.linkedin.com/posts/juan-cc_can-agricultural-and-terrain-data-be-leveraged-activity-7384509826929958912-Muhx) | Juan Cañada Carril | Feed post, shared link | [[Agriculture]] |
+| [SpectralFormer](https://www.linkedin.com/posts/jocelyn-chanussot-31877030_artificialintelligence-hyperspectral-activity-7379435272867897345-6eaV) | Jocelyn Chanussot | Feed post, shared link | [[Deep_Learning]] |
+| [IRRISIGHT](https://www.linkedin.com/posts/oishee-hoque_neurips2025-remotesensing-geospatialml-activity-7374885750519255040-3J1G) | Oishee Bintey Hoque | Feed post, shared link | [[Agriculture]] |
+| [Data fusion review for precision ag](https://www.linkedin.com/posts/mahdi-saki_a-data-driven-review-of-remote-sensing-based-activity-7374712875644289025-VDkV) | Mahdi Saki | Feed post, shared link | [[Agriculture]] |
+| [CNN-RNN crop mapping](https://www.linkedin.com/posts/rahat-tufail-phd-9281a8102_deep-learning-applications-for-crop-mapping-activity-7374029137709195264-Rg7v) | Rahat Tufail | Feed post, shared link | [[Agriculture]] |
+| [CropNet transferability](https://www.linkedin.com/posts/ali-jamali-5a722452_cropnet-activity-7373789131681931264-5UtG) | Ali Jamali | Feed post | [[Agriculture]] |
+| [Multi-view crop classification](https://www.linkedin.com/posts/fmenat_in-the-search-for-optimal-multi-view-learning-activity-7371883299457359872-DWIy) | Francisco Mena Toro | Feed post, shared link | [[Agriculture]] |
+| [Silage storage with TESSERA](https://www.linkedin.com/posts/samuel-barrett-b86b85171_finding-silage-storage-with-tessera-embeddings-activity-7369734082567634945-Cm7P) | Samuel Barrett | Feed post | [[Agriculture]] |
+| [AWS Open Data visualisation](https://www.linkedin.com/posts/giswqs_geospatial-dataviz-opendata-activity-7369059450139148289-FGdR) | Qiusheng Wu | Feed post, shared link | [[Data]] |
+| [MCAE sub-meter annotation](https://www.linkedin.com/posts/tamer-saleh-a80a54143_im-delighted-to-share-our-latest-research-activity-7365801797652807682-ePda) | Tamer Saleh | Feed post, shared link | [[Land_Cover]] |
+| [Introducing Zeyoo](https://www.linkedin.com/posts/zeyuxu_introducing-zeyoo-image-annotation-tool-activity-7361406783770324992-3_27) | Zeyu Xu | Feed post, shared link | [[Deep_Learning]] |
+| [FloodPlanet and CSDA](https://www.linkedin.com/posts/bouchercaitlin_floodplanet-dataset-enhances-global-inundation-activity-7354214381573828609-XYcV) | Caitlin Ochoa-Llamas | Feed post, shared link | [[Climate_Change]] |
 | [VBGMM label-free crop mapping](https://www.linkedin.com/posts/minh-tri-le-62590792_vbgmm-planet-activity-7356643873391034368-3BYx) | Minh Tri Le | Feed post, shared link | [[Agriculture]] |
 | [Early-season field delineation](https://www.linkedin.com/posts/ghaith-amin_early-season-delineation-of-agricultural-activity-7354460299556495360-KPlE) | Ghaith Amin | Feed post, shared link | [[Agriculture]] |
 | [Atmospheric correction for LULC](https://www.linkedin.com/posts/centre-of-data-for-public-good-cdpg_an-atmospheric-correction-integrated-lulc-activity-7353442917350293509-j-DJ) | Centre of Data for Public Good, IISc | Feed post, shared link | [[Land_Cover]] |
@@ -564,6 +585,27 @@ Posts shared as links from the mobile app arrive with `utm_*` and `rcm` tracking
 
 ## Posts
 
+- **[AlphaEarth crop-type transfer](https://www.linkedin.com/posts/esmaeel-adrah_how-well-do-crop-type-models-transfer-with-activity-7403650918333763584-5wLI)** — Esmaeel Adrah: temporal misalignment breaks geographic transfer for winter crops. Note on [[Agriculture]].
+- **[IoU Calculator v1](https://www.linkedin.com/posts/reut-keller_qgis-gis-geospatial-activity-7414581969415561216-Kk3E)** — Reut Keller Azulay: first release of the QGIS plugin. Note on [[Machine_Learning]].
+- **[Geo embeddings explained](https://www.linkedin.com/posts/aravindh-subramanian_geo-embeddings-explained-understanding-locations-activity-7411331109193654272-rS4N)** — Aravindh S. S.: a beginner's explainer from H3 to learned embeddings. Note on [[Embeddings]].
+- **[Synthetic data for PV detection](https://www.linkedin.com/posts/enes-hisam_impact-of-synthetic-data-on-deep-learning-activity-7402670381691641856-Voqo)** — Enes Hisam: how to mix synthetic and real training data. Note on [[Deep_Learning]].
+- **[Nano Banana Pro for informality](https://www.linkedin.com/posts/arielnoyman_nano-pro-feels-like-a-step-function-when-activity-7397661020128919553-lzBL)** — Ariel Noyman: generative mapping of informal settlements in minutes. Note on [[Urban_Planning]].
+- **[AlphaEarth in Major TOM format](https://www.linkedin.com/posts/mikolaj-czerkawski_%F0%9D%90%82%F0%9D%90%A8%F0%9D%90%A5%F0%9D%90%9A%F0%9D%90%9B-%F0%9D%90%8D%F0%9D%90%A8%F0%9D%90%AD%F0%9D%90%9E%F0%9D%90%9B%F0%9D%90%A8%F0%9D%90%A8%F0%9D%90%A4-%F0%9D%90%98%F0%9D%90%A8%F0%9D%90%AE-%F0%9D%90%9C%F0%9D%90%9A-activity-7396477011948535808-KxVd)** — Mikolaj Czerkawski: the full AEF catalogue, free, with a Colab. Note on [[Embeddings]].
+- **[WSTS+ wildfire benchmark](https://www.linkedin.com/posts/saadlahrichi_improved-wildfire-spread-prediction-with-activity-7394739506454839296-gvcp)** — Saad Lahrichi: larger models do not help; covariate shift between years. Note on [[Climate_Change]].
+- **[OBIA crop classification from UAVs](https://www.linkedin.com/posts/antsasarobidy_mlarticle-activity-7391804601336905728-pQIK)** — Antsa Sarobidy Randrianantenaina: six ML classifiers compared on drone imagery. Note on [[Agriculture]].
+- **[Operational change detection review](https://www.linkedin.com/posts/nicolas-gonthier-242734a5_operational-change-detection-for-geographical-activity-7391169721980825600-6gA7)** — Nicolas Gonthier: change detection must become operational. Note on [[Remote_Sensing]].
+- **[Agricultural plot assistant](https://www.linkedin.com/posts/juan-cc_can-agricultural-and-terrain-data-be-leveraged-activity-7384509826929958912-Muhx)** — Juan Cañada Carril: an LLM assistant over open ag data. Note on [[Agriculture]].
+- **[SpectralFormer](https://www.linkedin.com/posts/jocelyn-chanussot-31877030_artificialintelligence-hyperspectral-activity-7379435272867897345-6eaV)** — Jocelyn Chanussot: groupwise spectral embeddings for hyperspectral. Note on [[Deep_Learning]].
+- **[IRRISIGHT](https://www.linkedin.com/posts/oishee-hoque_neurips2025-remotesensing-geospatialml-activity-7374885750519255040-3J1G)** — Oishee Bintey Hoque: a multimodal irrigation benchmark (NeurIPS 2025). Note on [[Agriculture]].
+- **[Data fusion review for precision ag](https://www.linkedin.com/posts/mahdi-saki_a-data-driven-review-of-remote-sensing-based-activity-7374712875644289025-VDkV)** — Mahdi Saki: transformers for multimodal ag fusion. Note on [[Agriculture]].
+- **[CNN-RNN crop mapping](https://www.linkedin.com/posts/rahat-tufail-phd-9281a8102_deep-learning-applications-for-crop-mapping-activity-7374029137709195264-Rg7v)** — Rahat Tufail: merged into the existing note. Note on [[Agriculture]].
+- **[CropNet transferability](https://www.linkedin.com/posts/ali-jamali-5a722452_cropnet-activity-7373789131681931264-5UtG)** — Ali Jamali: commentary on spectral-only transfer; merged. Note on [[Agriculture]].
+- **[Multi-view crop classification](https://www.linkedin.com/posts/fmenat_in-the-search-for-optimal-multi-view-learning-activity-7371883299457359872-DWIy)** — Francisco Mena Toro: two-step encoder-then-fusion search. Note on [[Agriculture]].
+- **[Silage storage with TESSERA](https://www.linkedin.com/posts/samuel-barrett-b86b85171_finding-silage-storage-with-tessera-embeddings-activity-7369734082567634945-Cm7P)** — Samuel Barrett: spectro-temporal embeddings find small ag structures. Note on [[Agriculture]].
+- **[AWS Open Data visualisation](https://www.linkedin.com/posts/giswqs_geospatial-dataviz-opendata-activity-7369059450139148289-FGdR)** — Qiusheng Wu: leafmap and Solara apps over AWS open data. Note on [[Data]].
+- **[MCAE sub-meter annotation](https://www.linkedin.com/posts/tamer-saleh-a80a54143_im-delighted-to-share-our-latest-research-activity-7365801797652807682-ePda)** — Tamer Saleh: annotation 10–100× faster via mask clustering. Note on [[Land_Cover]].
+- **[Introducing Zeyoo](https://www.linkedin.com/posts/zeyuxu_introducing-zeyoo-image-annotation-tool-activity-7361406783770324992-3_27)** — Zeyu Xu: launch of the annotation tool; merged. Note on [[Deep_Learning]].
+- **[FloodPlanet and CSDA](https://www.linkedin.com/posts/bouchercaitlin_floodplanet-dataset-enhances-global-inundation-activity-7354214381573828609-XYcV)** — Caitlin Ochoa-Llamas: a little commercial data lifts flood models; merged. Note on [[Climate_Change]].
 - **[VBGMM label-free crop mapping](https://www.linkedin.com/posts/minh-tri-le-62590792_vbgmm-planet-activity-7356643873391034368-3BYx)** — Minh Tri Le: unsupervised PlanetScope crop and LULC maps beat RF and CNN. Note on [[Agriculture]].
 - **[Early-season field delineation](https://www.linkedin.com/posts/ghaith-amin_early-season-delineation-of-agricultural-activity-7354460299556495360-KPlE)** — Ghaith Amin: multi-task network on Sentinel-2. Note on [[Agriculture]].
 - **[Atmospheric correction for LULC](https://www.linkedin.com/posts/centre-of-data-for-public-good-cdpg_an-atmospheric-correction-integrated-lulc-activity-7353442917350293509-j-DJ)** — CDPG, IISc: corrected CARTOSAT-3 improves segmentation. Note on [[Land_Cover]].

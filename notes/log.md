@@ -637,3 +637,19 @@
   - **Repos:** 1 added (GioCastiglioni/ShapingFT, no license); the tracker is now 206.
   - **LinkedIn:** 5 posts recorded on `LinkedIn.md`; `lnkd.in` links were resolved and the `utm`/`rcm` parameters stripped.
   - **Latest Finds:** Karamoja AlphaEarth (Embeddings), Shaping Fine-Tuning (Foundation_Models), VBGMM (Agriculture).
+
+- 2026-10-11 — *New_Notes.md (30 lines: 25 lnkd.in share links, 1 LinkedIn redirect wrapper, 4 direct URLs)* — The user worked through the WhatsApp login-wall list by re-sharing the original posts. Each `lnkd.in/p/` link resolved to the original post behind a walled reshare, in list order. 26 unique items: 14 new notes, 6 merges into existing notes, 2 duplicates, and 4 still behind the login wall.
+  - **New notes:**
+    - `Agriculture` (7): Adrah's AlphaEarth crop-type transfer blog (also shared as a direct URL), OBIA crop classification from UAVs, the agricultural-plot LLM assistant, IRRISIGHT, Saki's data-fusion review, Mena's multi-view search, and Barrett's silage-with-TESSERA test.
+    - `Deep_Learning` (2): synthetic data for PV detection, SpectralFormer.
+    - `Embeddings` (2): geo embeddings explainer, AlphaEarth in Major TOM format.
+    - `Land_Cover` (1): MCAE. `Data` (1): Wu's AWS Open Data apps. `Climate_Change` (1): WSTS+. `Remote_Sensing` (1): Gonthier's change detection review. `Urban_Planning` (1): Nano Banana Pro for informality. `Learning_Resources` (1): Earth Engine satellite embedding tutorial 03, supervised classification (direct URL; the LinkedIn safety-redirect wrapper pointed to the same page).
+  - **Merged:** Zeyoo launch post (`Deep_Learning`), FloodPlanet/CSDA post (`Climate_Change`), Tufail's post as source (`Agriculture`), Ali Jamali's CropNet commentary (`Agriculture`), IoU Calculator v1 release (`Machine_Learning`).
+  - **Duplicates:** the PyTorch TorchGeo blog (already on `Deep_Learning.md`) and lnkd.in/p/eDUTbRCr (listed twice).
+  - **Still walled:** the re-shares of paste-list items #13, #33, #204 and #368 resolve to the same walled URLs. They were unticked on `processed/WhatsApp_needs_text.md`.
+  - **Not recovered:** links that sat in post comments (Barrett's silage demo, Czerkawski's Colab, Noyman's prompt). The Major TOM note mentions the TGE Labs AEF mirror on Source Cooperative as probably related, not confirmed.
+  - **Sourcing:** post text came from the JSON-LD on each public post page; paper metadata from OpenAlex and Crossref (Mena via its Elsevier PII). The Adrah blog was fetched at esmaeeladrah.com after a 301 redirect.
+  - **Benchmark_Datasets:** MCAE, IRRISIGHT and WSTS+ indexed.
+  - **Repos:** 3 added (aws-open-data-blogpost MIT; IRRISIGHT and SpectralFormer with no license); the tracker is now 209.
+  - **LinkedIn:** 21 posts recorded on `LinkedIn.md`.
+  - **Latest Finds:** AlphaEarth crop-type transfer (Agriculture), AlphaEarth in Major TOM (Embeddings), WSTS+ (Climate_Change).

@@ -1,9 +1,13 @@
 # Land Cover
 
 **Summary**: Notes on land cover and land use mapping — classification schemes, segmentation methods, and the benchmarks that test them.
-**Last updated**: 2026-10-10
+**Last updated**: 2026-10-11
 
 ---
+
+- [MCAE — mask-clustering annotation engine for sub-meter land cover](https://doi.org/10.1109/TGRS.2025.3601164): LinkedIn post by Tamer Saleh, 25 August 2025, on an *IEEE TGRS* paper (Chen, Xu, Saleh, Hao, Xia). Following spatial autocorrelation, MCAE treats groups of semantically consistent masks as the unit of labelling, which annotates *"10–100 times faster than traditional methods."* With it the team labelled 14 billion+ pixels and released the first city-scale sub-meter LULC benchmark, five Chinese cities at >85% accuracy. *Keywords: annotation, sub-meter, LULC benchmark, mask clustering, spatial autocorrelation*
+  - Source: [LinkedIn post](https://www.linkedin.com/posts/tamer-saleh-a80a54143_im-delighted-to-share-our-latest-research-activity-7365801797652807682-ePda); see [[LinkedIn]].
+  - Related: [[Urban_Planning]], [[Benchmark_Datasets]]
 
 - [Atmospheric correction integrated LULC segmentation for CARTOSAT-3](https://doi.org/10.1109/InGARSS61818.2024.10984371): LinkedIn post by the Centre of Data for Public Good, IISc, 22 July 2025, on an IEEE InGARSS 2024 paper (Yash Dixit, Naman Srivastava, Joel D Joy and others). Look-up-table radiative transfer models correct CARTOSAT-3 multispectral imagery of several Indian cities to surface reflectance before segmentation: *"The corrected data significantly improves segmentation of features like buildings, roads, trees, and water bodies — even under limited labeled data conditions."* *Keywords: atmospheric correction, CARTOSAT-3, LULC segmentation, semi-supervised, India, urban*
   - Source: [LinkedIn post](https://www.linkedin.com/posts/centre-of-data-for-public-good-cdpg_an-atmospheric-correction-integrated-lulc-activity-7353442917350293509-j-DJ); see [[LinkedIn]].

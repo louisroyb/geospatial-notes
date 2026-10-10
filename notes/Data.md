@@ -1,9 +1,13 @@
 # Data
 
 **Summary**: Notes on datasets, data portals, data formats, labeling tools, pipelines, and storage and distribution practices.
-**Last updated**: 2026-10-03
+**Last updated**: 2026-10-11
 
 ---
+
+- [Interactive access to AWS Open Data geospatial datasets](https://aws.amazon.com/blogs/publicsector/interactive-access-and-visualization-of-geospatial-data-from-the-aws-open-data-program/): LinkedIn post by Qiusheng Wu, 3 September 2025, on his AWS Public Sector Blog post. It uses leafmap and Solara to browse the AWS Open Data, ASDI and Maxar Open Data programmes: *"Access to high-quality geospatial data is no longer limited to technical experts with large computing resources."* There are two web apps: the [ASDI Data Explorer](https://huggingface.co/spaces/giswqs/Amazon-ASDI), with space and time filters, and the [Maxar Open Data Explorer](https://huggingface.co/spaces/giswqs/solara-maxar) for before-and-after disaster imagery. Notebook: [giswqs/aws-open-data-blogpost](https://github.com/giswqs/aws-open-data-blogpost). *Keywords: AWS Open Data, ASDI, Maxar, leafmap, Solara, web apps*
+  - Source: [LinkedIn post](https://www.linkedin.com/posts/giswqs_geospatial-dataviz-opendata-activity-7369059450139148289-FGdR); see [[LinkedIn]].
+  - Related: [[Python]], [[Geospatial_Platforms]], [[Code_Repositories]]
 
 - [Essential free GIS and remote sensing data sources](https://www.linkedin.com/posts/tewodros-taffese-assefa-phd-167546b8_gis-geospatial-datascience-activity-7375457397303156736-quM2): Tewodros Taffese Assefa (21 Sep 2025) lists 13 platforms: [Natural Earth](https://www.naturalearthdata.com/), [Geofabrik](https://download.geofabrik.de/), [EarthExplorer](https://earthexplorer.usgs.gov/), NASA Earthdata, [UNEP GeoData](https://geodata.grid.unep.ch/), [WorldClim](https://www.worldclim.org/), [Global Climate Monitor](https://www.globalclimatemonitor.org/), [FAO](https://data.apps.fao.org/), [OpenTopography](https://opentopography.org/), [OpenAerialMap](https://openaerialmap.org/) and [ArcGIS Hub](https://hub.arcgis.com/search). Its Copernicus SciHub link is retired; use the Copernicus Data Space Ecosystem. *Keywords: open data, data portals, DEM, climate data, boundaries, imagery*
   - See [[LinkedIn]]. Related: [[Community_Resources]]

@@ -1,7 +1,7 @@
 # Benchmark Datasets
 
 **Summary**: Hub page for labeled datasets and benchmarks collected across the knowledge base, grouped by what they are built to test.
-**Last updated**: 2026-10-03
+**Last updated**: 2026-10-11
 
 ---
 
@@ -32,6 +32,7 @@ Datasets are filed on their subject pages; this page gathers the pointers.
 - RS4P-1M — 1M-image curated pretraining corpus behind S5. See [[Land_Cover]].
 
 **Object and boundary extraction**
+- MCAE sub-meter LULC — 14B+ annotated pixels over five Chinese cities, the first city-scale sub-meter benchmark. See [[Land_Cover]].
 - Trees outside forests (TOFMapper) — hedgerow, individual tree, grove and forest labels on German aerial imagery, CC-BY-4.0 on Zenodo. See [[Forestry]].
 - TreeScanPL10K — 10,417 trees segmented in terrestrial laser scans from 272 Polish plots, about 72% labelled across 30 species. See [[Forestry]].
 - Infra-Bench CLS — 18,756 Sentinel-1/2 chips, 13 critical-infrastructure classes on 7 continents; benchmarks seven EO foundation models. See [[Foundation_Models]].
@@ -51,6 +52,8 @@ Datasets are filed on their subject pages; this page gathers the pointers.
 - GlobalBuildingAtlas — 2.75B building polygons with heights and LoD1 3D models. See [[Urban_Planning]].
 
 **Multimodal and time series**
+- IRRISIGHT — 1.48M patches (293K labelled) over 20 US states: Sentinel-2, soil, climate and hydrology plus text prompts, for irrigation. See [[Agriculture]].
+- WSTS+ — the largest public time-series benchmark for next-day wildfire spread. See [[Climate_Change]].
 - UAVScenes — ~120,000 labeled image and LiDAR pairs with 6-DoF poses. See [[Remote_Sensing]].
 - MONITRS — 10,000+ FEMA disaster events pairing temporal imagery with news annotations. See [[Climate_Change]].
 - HydroPML — datasets and baselines for physics-aware ML in rainfall-runoff, flood and landslide forecasting. See [[Climate_Change]].

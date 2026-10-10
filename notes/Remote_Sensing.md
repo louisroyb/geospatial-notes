@@ -1,9 +1,13 @@
 # Remote Sensing
 
 **Summary**: Notes on Earth observation imagery, satellite data products, time series change detection, and the formats and models used to work with them. Courses and training material live on [[Learning_Resources]].
-**Last updated**: 2026-10-03
+**Last updated**: 2026-10-11
 
 ---
+
+- [Operational change detection for geographical information — review](https://doi.org/10.1016/j.jag.2026.105278): LinkedIn post by Nicolas Gonthier (IGN, LASTIG), 3 November 2025, on the new version of his review ([arXiv 2503.14109](https://arxiv.org/abs/2503.14109); now in *JAG*, 2026). It covers what it takes to scale change detection for the geodatabases kept by national mapping agencies. Methods fall into rule-based, statistical, machine learning and simulation families. Highlights: *"Change detection methods need to be operational rather than experimental"*, research should build "no-change" detectors, and *"the difficulty of defining change is the main challenge."* *Keywords: change detection, national mapping agencies, geodatabase updating, review, IGN*
+  - Source: [LinkedIn post](https://www.linkedin.com/posts/nicolas-gonthier-242734a5_operational-change-detection-for-geographical-activity-7391169721980825600-6gA7); see [[LinkedIn]].
+  - Related: [[Cartography]], [[Land_Cover]]
 
 - [Planet Tanager-1 hyperspectral open data](https://www.planet.com/pulse/unleash-the-power-of-hyperspectral-over-50-tanager-radiance-datasets-now-available-on-planet-s/): LinkedIn post by Planet, 18 July 2025: *"For the first time, explore over 50 basic radiance datasets from our Tanager-1 satellite on our Planet Labs - Open Data STAC."* About 5 nm resolution across 380–2500 nm, CC BY 4.0. *Keywords: hyperspectral, Tanager, Planet, open data, STAC, VSWIR*
   - Source: [LinkedIn post](https://www.linkedin.com/posts/planet-labs_hyperspectral-datasets-have-arrived-for-activity-7352086819313709057-MbJX); see [[LinkedIn]].

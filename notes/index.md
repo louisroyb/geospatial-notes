@@ -1,7 +1,7 @@
 # Index
 
 **Summary**: Table of contents for all topic pages in this knowledge base.
-**Last updated**: 2026-10-10
+**Last updated**: 2026-10-11
 
 ---
 
@@ -9,9 +9,9 @@
 
 The three most recent additions, each from a different topic page.
 
-- [AlphaEarth embeddings in Karamoja](https://doi.org/10.1016/j.rsase.2026.102303) — embedding clusters plus field plots to target rangeland restoration. On [[Embeddings]].
-- [Shaping fine-tuning of GFMs](https://proceedings.mlr.press/v292/castiglioni25a.html) — how label count and timesteps should change the fine-tuning recipe. On [[Foundation_Models]].
-- [Label-free crop mapping with VBGMM](https://doi.org/10.1016/j.srs.2025.100264) — unsupervised PlanetScope crop maps that beat RF and CNN. On [[Agriculture]].
+- [AlphaEarth crop-type transfer](https://esmaeeladrah.com/2025/09/14/generalizing-crop-types-with-embedding/) — embeddings generalise, but the calendar year splits winter wheat. On [[Agriculture]].
+- [All AlphaEarth embeddings in Major TOM format](https://www.linkedin.com/posts/mikolaj-czerkawski_%F0%9D%90%82%F0%9D%90%A8%F0%9D%90%A5%F0%9D%90%9A%F0%9D%90%9B-%F0%9D%90%8D%F0%9D%90%A8%F0%9D%90%AD%F0%9D%90%9E%F0%9D%90%9B%F0%9D%90%A8%F0%9D%90%A8%F0%9D%90%A4-%F0%9D%90%98%F0%9D%90%A8%F0%9D%90%AE-%F0%9D%90%9C%F0%9D%90%9A-activity-7396477011948535808-KxVd) — the full catalogue, free, in a community format. On [[Embeddings]].
+- [WSTS+ wildfire spread benchmark](https://arxiv.org/abs/2502.12003) — twice the fire years, and bigger models don't help. On [[Climate_Change]].
 
 ## Topics
 

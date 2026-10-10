@@ -1,9 +1,13 @@
 # Climate Change
 
 **Summary**: Notes on climate hazards, extreme events, and the datasets that record them.
-**Last updated**: 2026-10-03
+**Last updated**: 2026-10-11
 
 ---
+
+- [WSTS+ — a larger benchmark for next-day wildfire spread](https://arxiv.org/abs/2502.12003): LinkedIn post by Saad Lahrichi, 13 November 2025, on a WACV 2026 paper ([DOI](https://doi.org/10.1109/WACV61042.2026.00283)). Careful tuning of existing architectures beats the previous best on the WSTS benchmark by 37% (single day) and 28% (five-day series). WSTS+ doubles the historical fire years, with 66% more fires and 80% more images. *"Despite doubling the dataset size, larger models don't benefit as expected"*, because of strong covariate shift between years. [Dataset on Zenodo](https://zenodo.org/records/17584629). *Keywords: wildfire spread, benchmark, time series, WACV 2026, covariate shift*
+  - Source: [LinkedIn post](https://www.linkedin.com/posts/saadlahrichi_improved-wildfire-spread-prediction-with-activity-7394739506454839296-gvcp); see [[LinkedIn]].
+  - Related: [[Benchmark_Datasets]], [[Deep_Learning]]
 
 - [Global 30 m gross primary productivity, 2000–2024](https://landcarbonlab.org/insights/global-productivity-data-ecosystem-health): LinkedIn post by OpenGeoHub, 22 August 2025. Global Pasture Watch's first 30 m, bi-monthly GPP dataset, updated yearly and *"Validated using 500+ ground-based flux towers"*, with a focus on grasslands and rangelands. Paper: [Isik et al., *PeerJ* 2025](https://doi.org/10.7717/peerj.19774). CC-BY via GEE, STAC and WRI Data Explorer. *Keywords: GPP, light use efficiency, grasslands, Global Pasture Watch, carbon, 30 m*
   - Source: [LinkedIn post](https://www.linkedin.com/posts/opengeohub_the-importance-of-annual-and-bi-monthly-gpp-ugcPost-7364574741212327936-xJAT); see [[LinkedIn]].
@@ -81,6 +85,7 @@
   - Related: [[Benchmark_Datasets]], [[Remote_Sensing]]
 
 - [FloodPlanet Inundation Dataset](https://zenodo.org/records/15238572): FloodPlanet Inundation Dataset. Zhang, Melancon, Giezendanner, Tellman & Mukherjee, published 18 April 2025, CC BY 4.0. 366 manual 1024×1024 flood labels drawn on PlanetScope imagery across 19 flood events between 2017 and 2020, with temporally aligned Sentinel-1, Sentinel-2 and Landsat-8 scenes for each, 1.9 GB with a STAC catalog. The value is the cross-sensor alignment: high resolution labels that transfer to the coarser sensors people actually have global archives of. *Keywords: flood inundation, PlanetScope, manual labels, multi-sensor alignment, STAC, 19 flood events*
+  - Also: [Caitlin Ochoa-Llamas' post](https://www.linkedin.com/posts/bouchercaitlin_floodplanet-dataset-enhances-global-inundation-activity-7354214381573828609-XYcV) (24 July 2025) credits NASA's CSDA programme. Adding even a little commercial PlanetScope data to Sentinel lifts flood-model accuracy.
   - Related: [[Benchmark_Datasets]], [[Remote_Sensing]], [[Data]]
 
 - [MONITRS: Multimodal Observations of Natural Incidents Through Remote Sensing](https://arxiv.org/abs/2507.16228): MONITRS: Multimodal Observations of Natural Incidents Through Remote Sensing. Revankar, Mall, Phoo, Bala & Hariharan, arXiv 2507.16228, submitted 22 July 2025. Pairs temporal satellite imagery with news article annotations and geolocation for more than 10,000 FEMA disaster events, so models can track how a natural disaster develops over time and space; fine-tuning on it improves automated disaster monitoring. Pairs naturally with the Groundsource flood dataset below — both mine news text for hazard events, one for labels on imagery, the other as the record itself. *Keywords: disaster monitoring, FEMA events, multimodal, news annotations, temporal imagery, hazard tracking*

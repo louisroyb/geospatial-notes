@@ -1,9 +1,17 @@
 # Deep Learning
 
 **Summary**: Notes on neural network architectures and models, particularly for imagery and geospatial tasks.
-**Last updated**: 2026-10-03
+**Last updated**: 2026-10-11
 
 ---
+
+- [Synthetic data for EO deep learning — photovoltaic panel detection](https://doi.org/10.3390/ijgi14120481): LinkedIn post by Enes Hisam, 5 December 2025, on an *ISPRS IJGI* paper (Hisam, Gimeno, Miraut and others; GMV, ESA-funded). YOLOv8 is trained to find PV panels in VHR imagery from Jiangsu, mixing real data with Unity-simulated and AI-generated images. *"The optimal mix between real and synthetic data depends on the dataset"*. Synthetic images in the validation set risk overfitting, and pre-training on synthetic data then fine-tuning on real data speeds up learning. Both datasets are open: [AI-generated](https://zenodo.org/records/12579172), [physically simulated](https://zenodo.org/records/13118591). *Keywords: synthetic data, solar panels, YOLOv8, Unity, data scarcity, VHR*
+  - Source: [LinkedIn post](https://www.linkedin.com/posts/enes-hisam_impact-of-synthetic-data-on-deep-learning-activity-7402670381691641856-Voqo); see [[LinkedIn]].
+  - Related: [[Remote_Sensing]], [[Benchmark_Datasets]]
+
+- [SpectralFormer — hyperspectral classification with transformers](https://ieeexplore.ieee.org/document/9627165): LinkedIn post by Jocelyn Chanussot, 2 October 2025, when the 2021 *IEEE TGRS* paper (Hong and others) was featured on IEEE Xplore's front page. Rather than treat each band as a token, SpectralFormer learns *"groupwise spectral embeddings"* from neighbouring bands. Cross-layer skip connections carry information from shallow to deep layers, and it accepts pixel or patch inputs. Code: [danfenghong/IEEE_TGRS_SpectralFormer](https://github.com/danfenghong/IEEE_TGRS_SpectralFormer) (no license). *Keywords: hyperspectral, transformer, SpectralFormer, spectral embeddings, classification*
+  - Source: [LinkedIn post](https://www.linkedin.com/posts/jocelyn-chanussot-31877030_artificialintelligence-hyperspectral-activity-7379435272867897345-6eaV); see [[LinkedIn]].
+  - Related: [[Remote_Sensing]], [[Foundation_Models]], [[Code_Repositories]]
 
 - [Geo-SAM — one-click digitising in QGIS](https://youtu.be/na0un9DHxD8): An Open Source Options video (Jul 2025) on the [Geo-SAM plugin](https://geo-sam.readthedocs.io/en/latest/installation.html), which pre-encodes imagery with Segment Anything so features can be digitised in a few clicks: *"Install and use the QGIS Geo-SAM plugin to digitize features in just one click!"* [coolzhao/Geo-SAM](https://github.com/coolzhao/Geo-SAM), MIT. *Keywords: Geo-SAM, Segment Anything, QGIS, digitising, plugin, segmentation*
   - Related: [[Foundation_Models]], [[Code_Repositories]]
@@ -13,6 +21,7 @@
   - Related: [[Python]], [[Code_Repositories]]
 
 - [Zeyoo — free image annotation for remote sensing](https://ai.zeyuxu.com/#annotation): Two posts by Zeyu Xu (Aug 2025): a [getting-started video](https://www.linkedin.com/posts/zeyuxu_getting-started-with-the-zeyoo-image-annotation-activity-7362507040608382977-Bvk-) and an [update](https://www.linkedin.com/posts/zeyuxu_i-have-added-the-check-update-button-and-activity-7362045477132902400-njq3) adding update checks and tutorials. It supports boxes, oriented boxes, polygons and points on remote sensing imagery, with shapefile export. *Keywords: annotation, labelling, oriented bounding boxes, polygons, shapefile, free tool*
+  - Launch: [Introducing Zeyoo](https://www.linkedin.com/posts/zeyuxu_introducing-zeyoo-image-annotation-tool-activity-7361406783770324992-3_27) (13 Aug 2025): multi-band GeoTIFFs with coordinates preserved, sub-image extraction that keeps georeferencing, and export to YOLO, COCO, VOC, masks and shapefile.
   - See [[LinkedIn]]. Related: [[Remote_Sensing]]
 
 - [LightlyTrain — pretrain and fine-tune DINOv2 segmentation in one tool](https://docs.lightly.ai/train/stable/semantic_segmentation.html): Matthias Heller ([Aug 2025](https://www.linkedin.com/posts/matthiasheller_lightlytrain-now-supports-eomt-activity-7358903316535230465-dwNQ)): *"This makes LightlyTrain the first solution where you can pretrain and fine-tune DINOv2 models without having to change framework."* General computer vision; [lightly-ai/lightly-train](https://github.com/lightly-ai/lightly-train) is AGPL-3.0. *Keywords: self-supervised, DINOv2, semantic segmentation, EoMT, fine-tuning, LightlyTrain*

@@ -1,9 +1,12 @@
 # Urban Planning
 
 **Summary**: Notes on cities — urban data, urban heat, transport and housing analysis, and the methods planners use on them.
-**Last updated**: 2026-10-03
+**Last updated**: 2026-10-11
 
 ---
+
+- [Nano Banana Pro for mapping urban informality](https://www.linkedin.com/posts/arielnoyman_nano-pro-feels-like-a-step-function-when-activity-7397661020128919553-lzBL): LinkedIn post by Ariel Noyman, 21 November 2025: *"Nano 🍌 Pro feels like a step function when mapping urban informality. What used to take hours (days) of manual work can now be distilled into minutes, with results that are on par with domain specific models."* The prompt was adapted from Bilawal Sidhu and focuses on building footprints and divisions. The post does not share the prompt itself. *Keywords: informal settlements, Nano Banana Pro, generative AI, building footprints, prompting*
+  - See [[LinkedIn]]. Related: [[Remote_Sensing]], [[Vision_Language_Models]]
 
 - [Building Regulariser — free footprint regularisation in Python](https://github.com/DPIRD-DMA/Building-Regulariser): LinkedIn post by Nicholas Wright, 19 September 2025: *"an open source Python library that does what ArcGIS's Regularize Building Footprint tool does, but faster, better and free."* It aligns edges to principal directions and simplifies AI-extracted polygons, works with GeoPandas, and is bundled in GeoAI. `pip install buildingregulariser`. MIT. *Keywords: building footprints, regularisation, GeoPandas, vectorisation, DPIRD, ArcGIS alternative*
   - Source: [LinkedIn post](https://www.linkedin.com/posts/nicholas-wright-92205985_remotesensing-geospatial-opensource-ugcPost-7374682445335465984-854D); see [[LinkedIn]].

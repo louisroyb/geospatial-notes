@@ -1,14 +1,17 @@
 # Code Repositories
 
 **Summary**: Tracking page for every GitHub repository referenced in these notes, with activity and licensing at a glance.
-**Last updated**: 2026-10-10
+**Last updated**: 2026-10-11
 
 ---
 
-**Metadata checked**: 2026-08-24, with later additions checked on the day they were added (most recently 2026-10-10), via the GitHub API. Stars and dates go stale — re-check before relying on them.
+**Metadata checked**: 2026-08-24, with later additions checked on the day they were added (most recently 2026-10-11), via the GitHub API. Stars and dates go stale — re-check before relying on them.
 
 | Repository                                                                                    | What it is                               | Filed under           | Language | License       | ★   | Last push  |
 | --------------------------------------------------------------------------------------------- | ---------------------------------------- | --------------------- | -------- | ------------- | --- | ---------- |
+| [giswqs/aws-open-data-blogpost](https://github.com/giswqs/aws-open-data-blogpost) | AWS Open Data visualisation notebook | [[Data]] | Jupyter | MIT | 1 | 2026-10-05 |
+| [Nibir088/IRRISIGHT](https://github.com/Nibir088/IRRISIGHT) | IRRISIGHT irrigation benchmark pipeline | [[Agriculture]] | Python | none | 12 | 2025-06-16 |
+| [danfenghong/IEEE_TGRS_SpectralFormer](https://github.com/danfenghong/IEEE_TGRS_SpectralFormer) | SpectralFormer hyperspectral transformer | [[Deep_Learning]] | Python | none | 339 | 2024-11-30 |
 | [GioCastiglioni/ShapingFT](https://github.com/GioCastiglioni/ShapingFT) | GFM fine-tuning under label and timestep scarcity | [[Foundation_Models]] | Python | none | 1 | 2025-12-02 |
 | [giswqs/intro-gispro](https://github.com/giswqs/intro-gispro) | Introduction to GIS Programming code | [[Python]] | Jupyter | CC0-1.0 | 634 | 2026-08-16 |
 | [coolzhao/Geo-SAM](https://github.com/coolzhao/Geo-SAM) | SAM digitising plugin for QGIS | [[Deep_Learning]] | Python | MIT | 428 | 2026-07-07 |
