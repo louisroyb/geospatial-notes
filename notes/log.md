@@ -653,3 +653,9 @@
   - **Repos:** 3 added (aws-open-data-blogpost MIT; IRRISIGHT and SpectralFormer with no license); the tracker is now 209.
   - **LinkedIn:** 21 posts recorded on `LinkedIn.md`.
   - **Latest Finds:** AlphaEarth crop-type transfer (Agriculture), AlphaEarth in Major TOM (Embeddings), WSTS+ (Climate_Change).
+
+- 2026-10-11 — *New_Notes.md (pasted text and links for three walled LinkedIn posts)* — The user supplied what the login wall hid for WhatsApp paste-list items #13, #33 and #204. All three are now ticked; #368 is still open.
+  - **New notes:** `SQL` (1): Karina Samsonova's seven free SQL games (#204). The post text was pasted and is kept verbatim, with the LinkedIn safety-redirect and `lnkd.in` links resolved to the real game URLs. `Data` (1): STAC Zap, Development Seed's one-prompt STAC search using the jev decision model (#13, Daniel Wiesmann). The note is built from the app page and README, since the post itself is unread.
+  - **Merged:** dClimate's TESSERA inference blog (#33, David Phelan; written by Robert Banick) added to the TESSERA note on `Embeddings.md`.
+  - **Repos:** 1 added (developmentseed/stac-zap, no license); dClimate/tessera-embeddings refreshed (4 stars, pushed 2026-10-10). The tracker is now 210.
+  - **LinkedIn:** 3 posts recorded. **Latest Finds:** STAC Zap (Data), SQL games (SQL), AlphaEarth crop-type transfer (Agriculture).
