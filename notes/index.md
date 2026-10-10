@@ -1,7 +1,7 @@
 # Index
 
 **Summary**: Table of contents for all topic pages in this knowledge base.
-**Last updated**: 2026-10-03
+**Last updated**: 2026-10-10
 
 ---
 
@@ -9,9 +9,9 @@
 
 The three most recent additions, each from a different topic page.
 
-- [Amazon canopy height at ~5 m](https://registry.opendata.aws/ctrees-amazon-canopy-height/) — CTrees' NICFI-based height map for 2020–2024 on AWS. On [[Forestry]].
-- [SpectralEarth](https://geoservice.dlr.de/web/datasets/enmap_spectralearth) — the largest hyperspectral pretraining dataset, built from EnMAP. On [[Foundation_Models]].
-- [EOPF 101](https://eopf-toolkit.github.io/eopf-101/) — an open guide to cloud-native Sentinel data with Zarr and STAC. On [[Learning_Resources]].
+- [AlphaEarth embeddings in Karamoja](https://doi.org/10.1016/j.rsase.2026.102303) — embedding clusters plus field plots to target rangeland restoration. On [[Embeddings]].
+- [Shaping fine-tuning of GFMs](https://proceedings.mlr.press/v292/castiglioni25a.html) — how label count and timesteps should change the fine-tuning recipe. On [[Foundation_Models]].
+- [Label-free crop mapping with VBGMM](https://doi.org/10.1016/j.srs.2025.100264) — unsupervised PlanetScope crop maps that beat RF and CNN. On [[Agriculture]].
 
 ## Topics
 

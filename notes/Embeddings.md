@@ -1,9 +1,12 @@
 # Embeddings
 
 **Summary**: Notes on vector embeddings, including Earth observation embedding products and their use in downstream tasks.
-**Last updated**: 2026-10-03
+**Last updated**: 2026-10-10
 
 ---
+
+- [AlphaEarth embeddings for targeted rangeland restoration in Karamoja](https://www.sciencedirect.com/science/article/pii/S2352938526004362): Paper in *Remote Sensing Applications: Society and Environment* (Bile, Mureithi, Fiorentino, D'Urso, Belfiore; [DOI](https://doi.org/10.1016/j.rsase.2026.102303), online September 2026). In the Karamoja border region of Kenya and Uganda, the 64-dimensional AlphaEarth Foundations embeddings are grouped by similarity-based clustering and combined with Land Degradation Surveillance Framework (LDSF) field plots and gridded precipitation, temperature and evapotranspiration. Random forests, explained with SHAP, classify the clusters and predict soil erosion and herbaceous cover. The clusters matched eco-climatic groupings, which turns the embeddings into field-interpretable units. *Keywords: AlphaEarth, land degradation, rangelands, LDSF, random forest, SHAP*
+  - Related: [[Climate_Change]], [[Machine_Learning]], [[Agriculture]]
 
 - [Satellite Embedding Deep Dive — Spatial Thoughts workshop](https://courses.spatialthoughts.com/gee-satellite-embedding.html): LinkedIn post by Spatial Thoughts, 9 September 2025: a free 2-hour [workshop](https://youtu.be/vDWjfW7pylM) from Geo for Good 2025 on AlphaEarth embeddings in Earth Engine. It covers visualisation, crop type mapping with CDL, mangroves, similarity search with negative examples, unsupervised water and urban tree cover: *"This 2-hour hands-on workshop will help you cut through the hype and learn how to leverage some of the new capabilities offered by this dataset."* CC-BY-4.0 materials, MIT code. *Keywords: AlphaEarth, workshop, similarity search, Earth Engine, crop mapping, Spatial Thoughts*
   - Source: [LinkedIn post](https://www.linkedin.com/posts/spatial-thoughts_satellite-embedding-deep-dive-full-workshop-activity-7371100483412885504-CtiA); see [[LinkedIn]].

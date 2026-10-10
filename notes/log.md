@@ -622,3 +622,18 @@
 - 2026-10-05 — *New_Notes.md (4 links: Geospatial ML books)* — All 4 were already in the vault on `Learning_Resources.md`: First Principles of Geospatial Computer Vision (Corley), Geospatial Machine Learning (Robinson), GeoAI with Python (Wu) and the EEFA book. No pages changed; the raw file was archived to `processed/New_Notes_2026-10-05.md`.
 
 - 2026-10-05 — *Reorganisation of Learning_Resources.md* — Regrouped the 100 notes from one flat list into seven format sections, keeping the newest first within each: Books and textbooks (11), Courses (25), Training platforms and catalogues (20), Tutorials and hands-on guides (13), Video lectures and channels (7), Summer schools, workshops and events (2 upcoming, 5 past editions), and Curated lists and roundups (17). Added a jump-to line at the top. No note text was changed. CLAUDE.md now says which section new resources go in.
+
+- 2026-10-10 — *New_Notes.md (12 items: 5 direct links, 1 pasted paper title, 6 LinkedIn short links)* — 9 filed (8 new notes and 1 merge), 2 duplicates and 1 behind the login wall.
+  - **New notes:**
+    - `Agriculture` (3): label-free crop mapping with VBGMM on PlanetScope (Minh Tri Le), early-season field delineation (Ghaith Amin), oil palm condition with YOLOv8 (Big Earth Data).
+    - `Land_Cover` (1): atmospheric correction before CARTOSAT-3 LULC segmentation (CDPG, IISc).
+    - `Embeddings` (1): AlphaEarth embeddings with LDSF and random forests for rangeland restoration in Karamoja (RSASE, 2026).
+    - `Foundation_Models` (1): Shaping Fine-Tuning of GFMs (TerraBytes @ ICML 2025). This is WhatsApp paste-list item #548, which is now ticked off.
+    - `Learning_Resources` (2): the Mastering GeoAI eBook page under Books, and the ApplyNow roundup of 18 UNITAR courses under Curated lists.
+  - **Merged:** Jocelyn Chanussot's post announcing the SpectralEarth *JSTARS* paper was added to the existing SpectralEarth note.
+  - **Duplicates, not refiled:** the DeepMind AlphaEarth blog (already on `Embeddings.md` under its old `/discover/blog/` URL) and joaootavio007/Awesome_GeoAI (already on `Deep_Learning.md`).
+  - **Login wall:** lnkd.in/p/e-wYwUh9, a Navodita Mathur post (share 7357809640945905664). It is probably paste-list item #679, which is annotated.
+  - **Sourcing:** ScienceDirect returned 403, so the Karamoja abstract came from OpenAlex and the metadata from Crossref. The Mastering GeoAI Canva page renders by script, so only its title and subtitle were readable; the attribution to Firigato comes from web search and is marked unconfirmed on the note. The UNITAR course list comes from the ApplyNow article.
+  - **Repos:** 1 added (GioCastiglioni/ShapingFT, no license); the tracker is now 206.
+  - **LinkedIn:** 5 posts recorded on `LinkedIn.md`; `lnkd.in` links were resolved and the `utm`/`rcm` parameters stripped.
+  - **Latest Finds:** Karamoja AlphaEarth (Embeddings), Shaping Fine-Tuning (Foundation_Models), VBGMM (Agriculture).

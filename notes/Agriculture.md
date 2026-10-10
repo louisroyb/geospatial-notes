@@ -1,9 +1,21 @@
 # Agriculture
 
 **Summary**: Notes on agricultural mapping, field boundary delineation, crop monitoring, and the models and datasets behind them.
-**Last updated**: 2026-10-03
+**Last updated**: 2026-10-10
 
 ---
+
+- [Crop type and land use mapping without labels from PlanetScope (VBGMM)](https://doi.org/10.1016/j.srs.2025.100264): LinkedIn post by Minh Tri Le, 31 July 2025, on a *Science of Remote Sensing* paper (Le, Tran, Dao, El-Askary, Ha, Park; partly NASA-funded). A Variational Bayesian Gaussian Mixture Model clusters multi-temporal PlanetScope time series into crop types and land use classes with no ground truth: *"The statistical analyses showed that the VBGMM model outperformed the supervised learning methods (random forest and CNN) and also the unsupervised learning methods (K-Means and traditional GMM)."* The authors pitch it as a way to generate training labels at scale. *Keywords: unsupervised classification, VBGMM, PlanetScope, crop type, LULC, no labels*
+  - Source: [LinkedIn post](https://www.linkedin.com/posts/minh-tri-le-62590792_vbgmm-planet-activity-7356643873391034368-3BYx); see [[LinkedIn]].
+  - Related: [[Machine_Learning]], [[Land_Cover]]
+
+- [Early-season delineation of agricultural fields with a multi-task network](https://doi.org/10.1016/j.srs.2025.100256): LinkedIn post by Ghaith Amin, 25 July 2025, on a PhD paper in *Science of Remote Sensing* (Amin, Oberlin, Demarez): *"This work addresses the challenge of delineating agricultural fields early in the season, using Sentinel-2 satellite data and a multi-task deep learning architecture."* The PhD was supported by CESBIO, MEOSS, ANRT and ISAE-SUPAERO, with imagery from CNES. *Keywords: field delineation, early season, Sentinel-2, multi-task network, fully convolutional*
+  - Source: [LinkedIn post](https://www.linkedin.com/posts/ghaith-amin_early-season-delineation-of-agricultural-activity-7354460299556495360-KPlE); see [[LinkedIn]].
+  - Related: [[Deep_Learning]], [[Land_Cover]]
+
+- [Classifying oil palm tree conditions from UAV imagery with YOLOv8](https://doi.org/10.1080/20964471.2025.2491881): Big Earth Data post, 24 June 2025, on an open-access *Big Earth Data* paper by Thapa, Horanont, Neupane, Klaylee and Witayangkurn. YOLOv8 sorts palms into healthy, yellow, small and dead after labelling errors in a public dataset were corrected: *"The YOLOv8 model achieves up to 99.7% F1-score and 99.3% mAP across all classes of the corrected dataset."* On unseen scenes from a prototype web app, scores fell to 76.0% F1 and 77.9% mAP. *Keywords: oil palm, YOLOv8, UAV, object detection, tree health, precision agriculture*
+  - Source: [LinkedIn post](https://www.linkedin.com/posts/big-earth-data_yolo-oilpalmtree-deeplearning-activity-7343103589088641024-SGal); see [[LinkedIn]].
+  - Related: [[Deep_Learning]], [[Forestry]]
 
 - [geeagri — Earth Engine tools for agriculture](https://github.com/geonextgis/geeagri): Three LinkedIn posts by Krishnagopal Halder (ZALF), July–Aug 2025. The [launch](https://www.linkedin.com/posts/krishnagopal-halder_remotesensing-earthobservation-agriculture-ugcPost-7353733037710299137-0xqt) brought point and polygon time-series extraction and one-line harmonic regression, built on geemap: *"geeagri is designed to simplify and scale remote sensing workflows for crop monitoring, yield estimation, and agro-environmental assessments."* [v0.1.0](https://www.linkedin.com/posts/krishnagopal-halder_geeagri-googleearthengine-remotesensing-activity-7355952592360779776-uUFs) added scalers and PCA; [v0.1.1](https://www.linkedin.com/posts/krishnagopal-halder_geeagri-googleearthengine-remotesensing-ugcPost-7358974398671806464-JUP5) added an ImagePatchExtractor for CV training chips. [Docs](https://geonextgis.github.io/geeagri/); MIT. *Keywords: geeagri, Earth Engine, harmonic regression, phenology, patch extraction, ZALF*
   - Related: [[Google_Earth_Engine]], [[Python]], [[Code_Repositories]]

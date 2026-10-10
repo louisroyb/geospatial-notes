@@ -1,12 +1,16 @@
 # Foundation Models
 
 **Summary**: Notes on large pretrained models for Earth observation and agriculture — general-purpose backbones, domain-specific alternatives, and the self-supervised training behind them.
-**Last updated**: 2026-10-03
+**Last updated**: 2026-10-10
 
 ---
 
+- [Shaping Fine-Tuning of Geospatial Foundation Models: Effects of Label Availability and Temporal Resolution](https://openreview.net/forum?id=CLTEaA2mtC): Giovanni Castiglioni, Nicolás Gonzalo Isla Fernández, Cristian Buc Calderon, Javiera Castillo Navarro, Sébastien Lefèvre, Valentin Barriere. TerraBytes workshop at ICML 2025 ([PMLR 292](https://proceedings.mlr.press/v292/castiglioni25a.html), pp. 81–96). Two GFMs are fine-tuned for crop-type segmentation on PASTIS-HD Sentinel-2 time series with 1–100% of the labels and 1–35 timesteps, against a fully supervised U-TAE baseline. Finding: *"using a smaller learning rate for the pre-trained encoders improves performance in moderate and high data regimes (50%-100%)"*, while full fine-tuning wins with only 1–10% of labels. Code: [GioCastiglioni/ShapingFT](https://github.com/GioCastiglioni/ShapingFT) (no license). *Keywords: fine-tuning, label scarcity, satellite image time series, PASTIS-HD, crop mapping, U-TAE*
+  - Related: [[Agriculture]], [[Benchmark_Datasets]], [[Code_Repositories]]
+
 - [SpectralEarth — hyperspectral foundation models at scale](https://geoservice.dlr.de/web/datasets/enmap_spectralearth): LinkedIn post by Xiaoxiang Zhu, June 2025, on *"the largest and most comprehensive global hyperspectral dataset to date, designed to support training EO foundation models"*: 538,974 patches from 11,636 EnMAP scenes over 415,153 locations. MoCo-v2, DINO and MAE models with spectral adapters are tested on nine benchmarks ([*JSTARS*](https://doi.org/10.1109/JSTARS.2025.3581451)). Code: [AABNassim/spectral_earth](https://github.com/AABNassim/spectral_earth) (no license). *Keywords: hyperspectral, EnMAP, pretraining dataset, self-supervised, spectral adapters, DLR*
   - Source: [LinkedIn post](https://www.linkedin.com/posts/xiaoxiang-zhu-90b473228_spectralearth-ai4eo-remotesensing-ugcPost-7342179715513733120-5fK-); see [[LinkedIn]].
+  - Also: [Jocelyn Chanussot's post](https://www.linkedin.com/posts/jocelyn-chanussot-31877030_artificialintelligence-foundationmodels-activity-7342491424665255936-n7fc) (22 June 2025) announcing the open-access [*JSTARS* paper](https://ieeexplore.ieee.org/document/11045062) by Braham, Albrecht, Mairal, Chanussot, Wang and Zhu (TUM, Inria, DLR): *"The dataset, pretrained models, and code are publicly available !"*
   - Related: [[Remote_Sensing]], [[Benchmark_Datasets]]
 
 - [BioAnalyst — a foundation model for European biodiversity](https://arxiv.org/abs/2507.09080): LinkedIn post by Taimur Khan, 16 July 2025 (BioDT project): *"BioAnalyst introduces a first-of-a-kind multimodal foundation model tailored for biodiversity analysis and conservation planning in Europe at 0,25° spatial resolution."* It is pretrained on species occurrences, RS indicators and climate, beats Aurora in data-scarce settings, and is applied to SDMs, invasives and trends. Open [weights](https://huggingface.co/BioDT/bfm-pretrained), [code](https://github.com/BioDT/bfm-model) and [BioCube](https://huggingface.co/datasets/BioDT/BioCube). *Keywords: biodiversity, foundation model, species distribution, BioDT, Europe, Aurora*

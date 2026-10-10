@@ -1,14 +1,15 @@
 # Code Repositories
 
 **Summary**: Tracking page for every GitHub repository referenced in these notes, with activity and licensing at a glance.
-**Last updated**: 2026-10-03
+**Last updated**: 2026-10-10
 
 ---
 
-**Metadata checked**: 2026-08-24, with later additions checked on the day they were added (most recently 2026-10-02), via the GitHub API. Stars and dates go stale — re-check before relying on them.
+**Metadata checked**: 2026-08-24, with later additions checked on the day they were added (most recently 2026-10-10), via the GitHub API. Stars and dates go stale — re-check before relying on them.
 
 | Repository                                                                                    | What it is                               | Filed under           | Language | License       | ★   | Last push  |
 | --------------------------------------------------------------------------------------------- | ---------------------------------------- | --------------------- | -------- | ------------- | --- | ---------- |
+| [GioCastiglioni/ShapingFT](https://github.com/GioCastiglioni/ShapingFT) | GFM fine-tuning under label and timestep scarcity | [[Foundation_Models]] | Python | none | 1 | 2025-12-02 |
 | [giswqs/intro-gispro](https://github.com/giswqs/intro-gispro) | Introduction to GIS Programming code | [[Python]] | Jupyter | CC0-1.0 | 634 | 2026-08-16 |
 | [coolzhao/Geo-SAM](https://github.com/coolzhao/Geo-SAM) | SAM digitising plugin for QGIS | [[Deep_Learning]] | Python | MIT | 428 | 2026-07-07 |
 | [google-deepmind/forest_typology](https://github.com/google-deepmind/forest_typology) | Forest typology layers and benchmarks | [[Forestry]] | Jupyter | Apache-2.0 | 116 | 2025-12-29 |

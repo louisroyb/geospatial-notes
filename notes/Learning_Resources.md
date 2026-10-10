@@ -1,7 +1,7 @@
 # Learning Resources
 
 **Summary**: Courses, tutorials, lectures, and training material for Earth observation and geospatial work, grouped by format.
-**Last updated**: 2026-10-05
+**Last updated**: 2026-10-10
 
 ---
 
@@ -12,6 +12,8 @@ Each section lists the newest additions first.
 ## Books and textbooks
 
 Free and paid books, e-book collections and book platforms.
+
+- [Mastering GeoAI — Deep Learning and Computer Vision for Remote Sensing](https://mentoriaai4rs.my.canva.site/mastering-geoai): A Canva landing page for an eBook that web search attributes to João Otavio Firigato, author of the [Awesome_GeoAI](https://github.com/joaootavio007/Awesome_GeoAI) notebooks on [[Deep_Learning]]. The page loads its content by script, so only the title and subtitle could be read; its contents, price and format are unconfirmed. *Keywords: GeoAI, deep learning, computer vision, eBook, Firigato*
 
 - [NASA Science free e-books](https://science.nasa.gov/multimedia/science-e-books/): Free PDF books including *Earth at Night*, *Earth as Art* (75 Terra, Landsat and Aqua images), and two Landsat 50-year books: *"Earth at Night reveals how humans and natural phenomena light up the darkness."* *Keywords: NASA, e-books, Earth at Night, Landsat, Earth as Art, outreach*
   - Related: [[Remote_Sensing]]
@@ -355,6 +357,9 @@ Dated events. Past editions stay listed because most of them run every year.
 ## Curated lists and roundups
 
 Lists of courses or resources shared on LinkedIn; useful for discovery, but check each link.
+
+- [UNITAR free online courses (2026 roundup)](https://applynow.co.zw/2026/09/25/free-unitar-online-courses/): An ApplyNow roundup (25 September 2026) of 18 free, self-paced UNITAR courses on sustainability and the SDGs. The relevant ones are *Geospatial Information Technology in Fragile Contexts* (remote sensing and GIS, with a certificate), *Environmental SDG Indicators*, *Understanding Data and Statistics Better*, and climate courses on negotiations, adaptation, and women's leadership in climate action. Most 2026 SDG courses close for registration on 31 December 2026, and some partner platforms charge for certificates. Official catalogue: [unitar.org](https://www.unitar.org/free-and-open-courses). *Keywords: UNITAR, free courses, SDGs, geospatial, climate, certificates*
+  - Related: [[Careers_and_Research]], [[Climate_Change]]
 
 - [IHE Delft free GIS courses with certificates](https://www.linkedin.com/posts/samuel-akande-b1b66851_course-qgis-for-precision-agriculture-activity-7349289897167306752-ft73): Samuel Akande (Jul 2025): [QGIS for Precision Agriculture](https://courses.gisopencourseware.org/course/view.php?id=56), [Python for Geospatial Analyses with WaPOR](https://wateraccounting.un-ihe.org/en/mooc-python-geospatial-analyses-using-wapor-data), [Planning for Urban Climate Adaptation](https://courses.gisopencourseware.org/course/view.php?id=65), [Delta Planning](https://ocw.un-ihe.org/course/view.php?id=78) and [Irrigation Management](https://ocw.un-ihe.org/course/view.php?id=82). Self-paced. *Keywords: IHE Delft, QGIS, WaPOR, precision agriculture, water, free certificates*
   - See [[LinkedIn]]. Related: [[Agriculture]]

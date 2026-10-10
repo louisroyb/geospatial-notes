@@ -1,7 +1,7 @@
 # LinkedIn
 
 **Summary**: Tracking page for everything in these notes that came from LinkedIn — posts, and articles found through the feed.
-**Last updated**: 2026-10-03
+**Last updated**: 2026-10-10
 
 ---
 
@@ -9,6 +9,11 @@ Posts shared as links from the mobile app arrive with `utm_*` and `rcm` tracking
 
 | Item | Author | Kind | Filed under |
 |---|---|---|---|
+| [VBGMM label-free crop mapping](https://www.linkedin.com/posts/minh-tri-le-62590792_vbgmm-planet-activity-7356643873391034368-3BYx) | Minh Tri Le | Feed post, shared link | [[Agriculture]] |
+| [Early-season field delineation](https://www.linkedin.com/posts/ghaith-amin_early-season-delineation-of-agricultural-activity-7354460299556495360-KPlE) | Ghaith Amin | Feed post, shared link | [[Agriculture]] |
+| [Atmospheric correction for LULC](https://www.linkedin.com/posts/centre-of-data-for-public-good-cdpg_an-atmospheric-correction-integrated-lulc-activity-7353442917350293509-j-DJ) | Centre of Data for Public Good, IISc | Feed post, shared link | [[Land_Cover]] |
+| [Oil palm condition with YOLOv8](https://www.linkedin.com/posts/big-earth-data_yolo-oilpalmtree-deeplearning-activity-7343103589088641024-SGal) | Big Earth Data | Feed post, shared link | [[Agriculture]] |
+| [SpectralEarth in JSTARS](https://www.linkedin.com/posts/jocelyn-chanussot-31877030_artificialintelligence-foundationmodels-activity-7342491424665255936-n7fc) | Jocelyn Chanussot | Feed post, shared link | [[Foundation_Models]] |
 | [Tanager hyperspectral open data](https://www.linkedin.com/posts/planet-labs_hyperspectral-datasets-have-arrived-for-activity-7352086819313709057-MbJX) | Planet | Feed post, shared link | [[Remote_Sensing]] |
 | [Esri LULC 2024](https://www.linkedin.com/posts/desmond-lartey_esri-has-added-lulc-2024-to-the-sentinel-activity-7351900628656218114-3qO5) | Desmond Lartey | Feed post, shared link | [[Land_Cover]] |
 | [Remote social-impact jobs](https://www.linkedin.com/posts/nicholascmartin_whos-looking-for-remote-work-in-the-social-activity-7351249327731761153-Lvr8) | Nick Martin | Feed post, shared link | [[Careers_and_Research]] |
@@ -559,6 +564,11 @@ Posts shared as links from the mobile app arrive with `utm_*` and `rcm` tracking
 
 ## Posts
 
+- **[VBGMM label-free crop mapping](https://www.linkedin.com/posts/minh-tri-le-62590792_vbgmm-planet-activity-7356643873391034368-3BYx)** — Minh Tri Le: unsupervised PlanetScope crop and LULC maps beat RF and CNN. Note on [[Agriculture]].
+- **[Early-season field delineation](https://www.linkedin.com/posts/ghaith-amin_early-season-delineation-of-agricultural-activity-7354460299556495360-KPlE)** — Ghaith Amin: multi-task network on Sentinel-2. Note on [[Agriculture]].
+- **[Atmospheric correction for LULC](https://www.linkedin.com/posts/centre-of-data-for-public-good-cdpg_an-atmospheric-correction-integrated-lulc-activity-7353442917350293509-j-DJ)** — CDPG, IISc: corrected CARTOSAT-3 improves segmentation. Note on [[Land_Cover]].
+- **[Oil palm condition with YOLOv8](https://www.linkedin.com/posts/big-earth-data_yolo-oilpalmtree-deeplearning-activity-7343103589088641024-SGal)** — Big Earth Data: UAV palm health classes. Note on [[Agriculture]].
+- **[SpectralEarth in JSTARS](https://www.linkedin.com/posts/jocelyn-chanussot-31877030_artificialintelligence-foundationmodels-activity-7342491424665255936-n7fc)** — Jocelyn Chanussot: the published paper, merged into the SpectralEarth note on [[Foundation_Models]].
 - **[Tanager hyperspectral open data](https://www.linkedin.com/posts/planet-labs_hyperspectral-datasets-have-arrived-for-activity-7352086819313709057-MbJX)** — Planet: 50+ radiance datasets on STAC. Note on [[Remote_Sensing]].
 - **[Esri LULC 2024](https://www.linkedin.com/posts/desmond-lartey_esri-has-added-lulc-2024-to-the-sentinel-activity-7351900628656218114-3qO5)** — Desmond Lartey: the 10 m Sentinel-2 series extended. Note on [[Land_Cover]].
 - **[Remote social-impact jobs](https://www.linkedin.com/posts/nicholascmartin_whos-looking-for-remote-work-in-the-social-activity-7351249327731761153-Lvr8)** — Nick Martin: the Impact Source job board. Note on [[Careers_and_Research]].

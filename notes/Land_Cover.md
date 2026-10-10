@@ -1,9 +1,13 @@
 # Land Cover
 
 **Summary**: Notes on land cover and land use mapping — classification schemes, segmentation methods, and the benchmarks that test them.
-**Last updated**: 2026-10-03
+**Last updated**: 2026-10-10
 
 ---
+
+- [Atmospheric correction integrated LULC segmentation for CARTOSAT-3](https://doi.org/10.1109/InGARSS61818.2024.10984371): LinkedIn post by the Centre of Data for Public Good, IISc, 22 July 2025, on an IEEE InGARSS 2024 paper (Yash Dixit, Naman Srivastava, Joel D Joy and others). Look-up-table radiative transfer models correct CARTOSAT-3 multispectral imagery of several Indian cities to surface reflectance before segmentation: *"The corrected data significantly improves segmentation of features like buildings, roads, trees, and water bodies — even under limited labeled data conditions."* *Keywords: atmospheric correction, CARTOSAT-3, LULC segmentation, semi-supervised, India, urban*
+  - Source: [LinkedIn post](https://www.linkedin.com/posts/centre-of-data-for-public-good-cdpg_an-atmospheric-correction-integrated-lulc-activity-7353442917350293509-j-DJ); see [[LinkedIn]].
+  - Related: [[Urban_Planning]], [[Deep_Learning]], [[Remote_Sensing]]
 
 - [Esri 10 m Sentinel-2 land cover adds 2024](https://www.linkedin.com/posts/desmond-lartey_esri-has-added-lulc-2024-to-the-sentinel-activity-7351900628656218114-3qO5): Desmond Lartey (Jul 2025): the 2024 layer joins Esri's annual Sentinel-2 LULC series in ArcGIS (*"Esri has Added LULC 2024 to the sentinel 2-10m collection"*). The series is also in Earth Engine via the [sat-io community catalog](https://code.earthengine.google.com/?scriptPath=users/sat-io/awesome-gee-catalog-examples:global-landuse-landcover/ESRI-10M-LANDCOVER). *Keywords: Esri land cover, Sentinel-2, annual LULC, 10 m, Earth Engine, Living Atlas*
   - See [[LinkedIn]].
